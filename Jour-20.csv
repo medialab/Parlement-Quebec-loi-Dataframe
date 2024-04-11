@@ -1,0 +1,15 @@
+jour,debut,fin,nb_suspensions,votes_par_consentement,votes_par_mise_aux_voix,amendements_adoptes,amendements_rejetes,nb_intervenants,nb_interventions_secretaire,nb_interventions_fonctionnaire,nb_interventions_ministre,nb_interventions_gouvernement,nb_interventions_opposition,nb_interventions_presidence
+20,,9:30,0,0,0,0,0,0,0,0,0,0,0,0
+20,9:30,9:40,0,1,0,0,0,20,1,0,1,6,1,11
+20,9:40,9:50,0,0,0,0,0,16,0,0,0,6,8,2
+20,9:50,10:00,0,0,0,0,0,22,0,5,0,5,10,2
+20,10:00,10:05,1,0,0,0,0,25,0,4,3,5,10,3
+20,10:05,10:27,0,0,0,0,0,0,0,0,0,0,0,0
+20,10:27,10:30,0,1,0,0,0,15,0,0,0,6,2,7
+20,10:30,10:30,0,0,0,0,0,1,0,0,0,0,1,0
+20,10:30,10:40,0,0,0,2,0,41,0,2,0,12,16,11
+20,10:40,10:50,0,1,0,1,0,73,0,2,9,17,18,27
+20,10:50,11:00,0,0,0,1,0,47,0,3,2,16,11,15
+20,11:00,11:10,0,0,0,0,0,122,0,39,30,0,53,0
+20,11:10,11:20,0,0,0,1,0,58,0,5,17,1,25,10
+20,11:20,,0,0,0,0,0,2,0,0,1,0,0,1

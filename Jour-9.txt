@@ -1,0 +1,2877 @@
+Accueil > Travaux parlementaires > Travaux des commissions > Journal des débats
+de la Commission des institutions
+
+Journal des débats de la Commission des institutions
+Version préliminaire
+Retour à la liste des séances du Journal des débats
+
+42e législature, 1re session
+(27 novembre 2018 au 13 octobre 2021)
+Cette version du Journal des débats est une version préliminaire : elle peut donc
+contenir des erreurs. La version définitive du Journal, en texte continu avec table des
+matières, est publiée dans un délai moyen de 2 ans suivant la date de la séance.
+Pour en savoir plus sur le Journal des débats et ses différentes versions
+
+Le mercredi 31 mars 2021 - Vol. 45 N° 132
+Étude détaillée du projet de loi n° 64, Loi modernisant des
+dispositions législatives en matière de protection des
+renseignements personnels
+
+Aller directement au contenu du Journal des débats
+
+Heures
+
+• 14 h 30
+• 15 h
+• 15 h 30
+• 16 h
+• 17 h
+• 17 h 30
+• 18 h
+
+Intervenants par tranches d'heure
+
+• 14 h 30
+◦ Bachand, André
+◦ Caire, Éric
+◦ Tanguay, Marc
+◦ Lévesque, Mathieu
+◦ Nadeau-Dubois, Gabriel
+• 15 h
+◦ Nadeau-Dubois, Gabriel
+◦ Bachand, André
+◦ Caire, Éric
+◦ Tanguay, Marc
+◦ Lévesque, Mathieu
+• 15 h 30
+◦ Nadeau-Dubois, Gabriel
+◦ Caire, Éric
+• 16 h
+◦ Caire, Éric
+◦ Bachand, André
+◦ Nadeau-Dubois, Gabriel
+• 17 h
+◦ Bachand, André
+◦ Caire, Éric
+◦ Tanguay, Marc
+◦ Lévesque, Mathieu
+◦ Nadeau-Dubois, Gabriel
+
+• 17 h 30
+◦ Caire, Éric
+◦ Nadeau-Dubois, Gabriel
+◦ Bachand, André
+◦ Lévesque, Mathieu
+◦ Tanguay, Marc
+• 18 h
+◦ Caire, Éric
+◦ Tanguay, Marc
+◦ Bachand, André
+◦ Lévesque, Mathieu
+◦ Nadeau-Dubois, Gabriel
+
+Journal des débats
+14 h 30 (version révisée)
+(Quatorze heures trente-neuf minutes)
+Le Président (M. Bachand) :À l'ordre, s'il vous plaît! Bon après-midi. Ayant
+constaté le quorum, je déclare la séance de la Commission des institutions ouverte.
+Avant de débuter les travaux, je vous rappelle que le port du masque de procédure est
+obligatoire en tout temps, hormis au moment de prendre la parole dans le cadre de
+nos travaux.
+La commission est réunie afin de poursuivre l'étude détaillée du projet de loi n° 64,
+Loi modernisant les dispositions législatives en matière de protection des
+renseignements personnels.
+Avant de débuter, Mme la secrétaire, y a-t-il des remplacements?
+La Secrétaire : Oui, M. le Président. M. Zanetti (Jean-Lesage) est remplacé par M.
+Nadeau-Dubois (Gouin).
+
+Le Président (M. Bachand) : Merci beaucoup. Alors, je vous rappelle que les
+articles… il avait été convenu de suspendre les articles qui visent à introduire 12.1 et
+13.1, qui ont été présentés par le député de René-Lévesque. Nous avions également
+suspendu l'étude de l'article 27. Lors de l'ajournement de nos travaux, le mercredi 24
+mars, les discussions portaient sur l'article 23 tel qu'amendé. M. le ministre, s'il vous
+plaît.
+• (14 h 40) •
+M. Caire : Oui. Alors, M. le Président, j'ai un deuxième amendement, qui se lit
+comme suit, donc : Au premier alinéa de l'article 67.2.3 de la Loi sur l'accès aux
+documents des organismes publics et sur la protection des renseignements
+personnels, proposé par l'article 23 du projet de loi :
+1° remplacer, partout où ceci se trouve, «au protocole de recherche» par «à la
+présentation détaillée des activités de recherche»;
+2° remplacer, dans le texte anglais du paragraphe 3°, «cross-matched» par
+«matched».
+Et j'imagine que le député de LaFontaine voudra nous édifier sur la nécessité de
+présenter ces amendements-là.
+Donc, M. le Président, dans le cas du premier amendement, bien, ça fait évidemment
+écho à l'amendement que nous avons adopté, où on a dit que les protocoles de
+recherche, c'était trop restrictif, puis on parlait d'activités de recherche.
+Et le paragraphe 2°, c'est l'obligation d'adopter des amendements au texte anglais. Je
+rigolais parce que je sais que le député de LaFontaine nous a fait un commentaire
+éditorial là-dessus, que j'ai trouvé, par ailleurs, fort instructif, sans l'inviter à le
+reprendre, toutefois. Et donc c'est évidemment une question de cohérence dans…
+d'utiliser les bonnes expressions dans les textes anglais.
+Le Président (M. Bachand) : Merci. M. le député de LaFontaine.
+M. Tanguay : M. le Président, «cross-matched» et «matched», qu'est-ce que ça fait,
+ça?
+Non, je ne referai pas mon éditorial. Je l'ai toujours sous la main, là, l'éditorial que,
+d'habitude, je fais en six, sept minutes. Le ministre pourrait me faire grief de l'avoir
+fait mais pourrait me donner le crédit de l'avoir fait, à l'époque, en trois, quatre
+minutes.
+Je n'ai pas l'intention de le refaire, mais c'est toujours, pour moi, un malaise
+renouvelé que d'aller jouer dans la version anglophone, anglaise du texte et qui a
+force de loi, mais <on adopte…
+
+M. Tanguay : ... l'avoir fait mais pourrait me donner le crédit de l'avoir fait, à
+l'époque, en trois, quatre minutes.
+Je n'ai pas l'intention de le refaire, mais c'est toujours, pour moi, un malaise
+renouvelé que d'aller jouer dans la version anglophone, anglaise du texte et qui a
+force de loi, mais >on adopte et on travaille les textes exclusivement en français, sauf
+lorsque l'on arrive à des amendements comme ça, parce qu'évidemment l'Assemblée
+nationale… puis c'est bien correct, là, c'est prévu dans la Constitution canadienne,
+notamment l'article 133, qui nous permet, entre autres, de s'exprimer en français et en
+anglais. Et, nos cours de justice aussi, on peut s'exprimer... on l'a vu récemment à
+Longueuil, on peut s'exprimer en anglais et en français dans les cours de justice. Et
+nos lois sont adoptées en français et en anglais. Et, devant les tribunaux, a force de
+loi aussi forte que la version française, la version anglaise. Mais nous, comme
+législateurs, on ne travaille pas avec le texte. On sait l'importance des mots. Là, on
+vient jouer dans la version anglaise, puis ça me rend toujours très mal à l'aise. Je
+comprends, mais il y a possibilité de réfléchir à ça puis de voir ce qui est fait derrière.
+Je suis persuadé que les gens qui font la traduction sont des femmes et des hommes
+hautement compétents, mais on vient, donc, amender le texte de loi.
+Alors, pour quelqu'un qui avait dit qu'il n'allait pas faire mon éditorial, j'en ai fait un
+petit bout.
+M. Caire : Mais, si je peux me permettre…
+Le Président (M. Bachand) :M. le ministre, oui.
+M. Caire : ...la performance olympienne du député de LaFontaine sur son
+commentaire éditorial mérite quand même d'être soulignée.
+M. Tanguay : Olympienne dans le sens qu'elle était courte?
+M. Caire : Dans le sens que <c'était... >vous améliorez votre record à chaque fois.
+M. Tanguay : Oui, là, c'est en bas de trois minutes. Moi, je dirais deux minutes.
+M. Caire : Oui, absolument. Facile. Facile.
+M. Tanguay : Alors, on m'invite à faire ça, la prochaine fois, en bas d'une minute,
+M. le Président. Je m'y attellerai, surtout que c'est de la redite, parce que je l'avais
+déjà fait, je pense, dans un article du projet de loi n° 64.
+Mais, ceci dit, moi, je n'ai pas de commentaire sur l'amendement, parce
+qu'effectivement on fait écho. On nous dit que c'était... Ce n'est pas juste, M. le
+ministre, cosmétique, hein, «présentation détaillée des activités de recherche» plutôt
+que «protocole de recherche», c'est plus large, «activités de recherche».
+
+M. Caire : C'est-à-dire qu'«activités de recherche» est plus large, puis on vient quand
+même préciser qu'il y a force détails qui doivent être inclus là-dedans.
+M. Tanguay : Ça s'applique à tout. C'est bon. Sur l'amendement, je n'ai pas de
+commentaire autre.
+Le Président (M. Bachand) : Est-ce qu'il y a d'autres interventions sur
+l'amendement du ministre? Donc, s'il n'y a pas d'autre intervention, nous allons
+procéder à la mise aux voix. Mme la secrétaire, s'il vous plaît.
+La Secrétaire : Pour, contre, abstention. M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+M. Tanguay : Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+Le Président (M. Bachand) :Abstention, pardon. Donc, l'amendement à l'article 23
+est adopté. Merci beaucoup. Intervention? M. le député de LaFontaine.
+M. Tanguay : Juste revenir rapidement sur 67.2.1. Comme on sait, M. le Président,
+vous dirigez de main de maître nos travaux, on n'est pas forclos de revenir, puis
+surtout que je pense qu'on terminait sur 67.2.1 lors de notre dernière séance. Pour
+faire écho de ce que la FQM nous soulignait, dans son mémoire, quant à l'obligation
+à tout organisme public, à 67.2.1, évidemment y incluant les municipalités, les
+grandes comme les plus petites en nombre <de citoyens...
+M. Tanguay : ...pour faire écho de ce que la FQM nous soulignait, dans son
+mémoire, quant à l'obligation à tout organisme public, à 67.2.1, évidemment y
+incluant les municipalités, les grandes comme les plus petites en nombre >de
+citoyens, de faire ce qu'on appelle ici, à l'article, une étude... un organisme public...
+«La communication peut s'effectuer si une évaluation des facteurs relatifs à la vie
+privée conclut que… 1°, 2°, 3°, 4°, 5°.»
+
+Je cite la FQM à ce chapitre-là : «Le nouvel article 62...» Pardon. «Le nouvel article
+67.2.1 octroie désormais la responsabilité à l'ensemble des organismes publics
+d'encadrer la communication de renseignements personnels sans le consentement des
+citoyens concernés à une personne ou à un organisme, qui souhaite les utiliser à des
+fins d'étude, recherche, production de statistiques. Il s'agit d'une lourde
+responsabilité, dont la décision comporte de grandes conséquences si l'analyse n'est
+pas faite correctement. Toutefois, les municipalités ne possèdent pas toutes la même
+expertise pour évaluer les "facteurs relatifs à la vie privée".»
+Alors, j'aimerais savoir comment le ministre reçoit ça, ce commentaire-là de la FQM,
+et comment pouvons-nous... Quelle réponse on donne à la FQM et aux petites
+municipalités qui nous écoutent après-midi?
+M. Caire : Bien, je vais aller dans la continuité d'un échange qu'on a eu, le député de
+LaFontaine et moi. Je pense que la taille de l'organisation n'est pas ce qui conditionne
+la façon dont on va utiliser un renseignement personnel. Que le renseignement
+personnel soit mal utilisé, pour toutes sortes de bonnes et/ou de mauvaises raisons,
+par une petite, une grande ou une moyenne organisation n'aura aucun écho sur les
+conséquences pour la personne qui verra ses renseignements personnels être utilisés
+d'une façon qui est inappropriée.
+Ceci étant dit, et je sais que c'est la volonté des collègues parlementaires, je pense
+qu'il y a une volonté de la Commission d'accès à l'information de travailler en
+accompagnement, de travailler en collaboration, en prévention. Et éventuellement il
+y aura des propositions sur la table aussi pour aider la commission parlementaire
+dans ces... la Commission d'accès à l'information, pardon, dans ces prétentions-là,
+notamment par l'émission de directives, notamment par l'émission de guides. Et là
+loin de moi l'idée de dire à la Commission d'accès à l'information comment faire son
+travail, mais j'y vais avec des éléments, je pense, qui sont assez communs à tout le
+monde ou sur lesquels tout le monde va être d'accord. Donc, je pense que <les
+organismes vont... >les organismes publics vont avoir cette possibilité-là.
+Je fais aussi écho à une discussion qu'on a eue sur l'article 1, qui vient modifier
+l'article 8, M. le député s'en souviendra, où on disait que, notamment, le fameux
+comité de protection des renseignements personnels pouvait être un organisme
+<partagé par...
+M. Caire : ... à une discussion qu'on a eue sur l'article 1, qui vient modifier l'article 8,
+M. le député s'en souviendra, où on disait que, notamment, le fameux comité de
+protection des renseignements personnels pouvait être un organisme >partagé par
+différents organismes publics. Donc, on peut penser que les municipalités, dans ce
+cas-là, avec l'aide de leurs fédérations, pourront se développer des outils communs.
+Parce qu'il faut bien comprendre, là, qu'<une évaluation…> une fois que le principe
+de l'évaluation, je dirais, le cadre de référence de l'évaluation, une fois qu'il est
+élaboré, qu'il est fait, réaliser l'évaluation, moi, je pense que ça peut aller de soi.
+Travailler au niveau des MRC, notamment, pour avoir ce soutien-là, c'est des
+
+possibilités, là, que la loi n'interdit pas, au contraire, travailler avec la fédération.
+Donc, je pense qu'il y aura des moyens pour soutenir les plus petites organisations.
+Mais là on est dans un contexte où je vais plutôt aller du côté du député de Gouin, où
+on ne peut pas relâcher les exigences parce que l'entreprise ou, dans ce cas-ci,
+l'organisme public est de plus petite taille parce que les conséquences d'une mauvaise
+utilisation des renseignements personnels n'en seront pas moindres.
+Le Président (M. Bachand) : Merci. M. le député de LaFontaine.
+M. Tanguay : Qu'est-ce qu'on a dit déjà... Puis je ne veux pas <qu'on refasse....
+>qu'on redise ce qu'on a dit, mais on rembarque dans le bain, là. Ça va se faire
+comment, ça, «une évaluation des facteurs relatifs à la vie privée»? Il y a quand
+même un minimum. Ça peut être bien compliqué, ça peut être plus simple, il y a
+quand même un minimum, là. On s'attend à quoi?
+M. Caire : Bien, je vous dirais que ça sera éventuellement, notamment… Bien, je
+sais... Puis là, peut-être, Me Miville-Deschênes peut voler à mon secours. Je pense
+qu'il y a déjà des choses qui sont faites dans l'espace public, parce que je vais vous
+confesser, d'entrée de jeu, que je ne suis pas un spécialiste de la question, n'en ayant
+pas réalisé moi-même, mais il y a déjà des choses qui sont faites là-dessus. Peut-être,
+Me Miville-Deschênes peut compléter... bien, pas compléter, répondre, parce que je
+ne considère pas que j'ai répondu à votre question, là. Mais je vais laisser Me
+Miville-Deschênes voler à mon secours.
+Le Président (M. Bachand) :…
+Des voix : Consentement.
+Le Président (M. Bachand) : Consentement? Merci. Me Miville-Deschênes.
+• (14 h 50) •
+M. Miville-Deschênes (Jean-Philippe) : Oui. Bien, de façon générale, là,
+l'évaluation va consister en deux... Il y a deux grands volets. Le premier, c'est
+s'assurer de respecter la législation applicable, dans le fond, toutes les restrictions à la
+communication, à la collecte, le consentement de façon générale.
+Puis le deuxième aspect qui est important dans le cas de la recherche, c'est s'assurer
+d'identifier les risques, les risques qui découlent de la communication, qui peuvent
+être soit par rapport aux moyens de communication soit par rapport au nombre de
+renseignements qui sont communiqués. Donc, c'est d'identifier les risques d'atteinte à
+la vie privée puis les moyens d'atténuer ces risques-là. Donc, les risques, souvent, ils
+vont être catégorisés selon leur probabilité et leur importance pour la personne, puis
+suite à ça il va y avoir une évaluation, justement, des différents moyens qui peuvent
+être mis en place pour atténuer les risques qui ont été identifiés, là, lors de cette
+
+évaluation-là.
+Donc, c'est à peu près ça. Puis la commission a, <entre autres, là...
+M. Miville-Deschênes (Jean-Philippe) : ...d'atténuer ces risques-là. Donc, les
+risques, souvent, ils vont être catégorisés selon leur probabilité et leur importance
+pour la personne, puis suite à ça il va y avoir une évaluation, justement, des différents
+moyens qui peuvent être mis en place pour atténuer les risques qui ont été identifiés,
+là, lors de cette évaluation-là.
+Donc, c'est à peu près ça. Puis la commission a, >entre autres, là, déjà développé un
+guide, là, pour procéder à une telle évaluation, même si elle n'est pas actuellement
+obligatoire, là.
+M. Tanguay : <Il y a déjà... >À 67.2.2, il y a déjà une première plaidoirie écrite de la
+personne ou de l'organisme qui souhaite avoir l'accès, et, notamment, quant aux
+critères, 67.2.1, 1° à 5°, la personne ou l'organisme qui veut avoir accès doit plaider
+par écrit, là, faire sa demande par écrit, en quoi 67.2.1 va être respecté. Évidemment,
+une fois qu'elle a ça, la municipalité, dans le cas d'espèce, elle va analyser ça, puis
+elle va dire : O.K. Elle devra faire sa propre analyse, puis dire : Bien, 1°, 2°, 3°, 4°,
+j'achète, mais 5°, ça va me prendre plus de précision, puis revenir à la charge.
+Puis on voit qu'à 67.2.3 «l'organisme public qui communique des renseignements
+personnels conformément à 67.2.1 doit conclure avec la personne ou l'organisme à
+qui il les transmet une entente stipulant notamment que ces renseignements...» Ça,
+nécessairement, c'est la fameuse entente. C'est une entente écrite, une entente écrite.
+Et là on pourra, j'imagine, épauler avec la Commission d'accès à l'information, qui
+pourra rendre disponible ce qu'on appelle des projets, des ébauches d'entente type.
+J'imagine que ça, ça va être accessible aussi, là, pour répondre au...
+M. Caire : Tout à fait. Tout à fait, oui.
+M. Tanguay : O.K. Pour 67.2.1, pour moi, M. le Président, je pense, ça fait le tour.
+Le Président (M. Bachand) : Ça va? Alors, on continue. Est-ce qu'il y a des
+interventions sur 67.2.2? Mais, encore une fois, on peut revenir, hein? L'idée, c'est
+qu'il y ait une flexibilité, là. Alors donc, 67.2.2? Et on peut aller à 67.2.3 aussi.
+M. Tanguay : 67.2.3, le régime actuel prévoit-il une base de 67.2.3? Puis même
+67.2.2 et 67.2.1, là, le régime actuel, que prévoit-il? Parce que <c'est des... >ce sont
+de nouveaux articles. Ce sont de nouveaux articles.
+M. Miville-Deschênes (Jean-Philippe) : Effectivement. Bien, en fait, le régime
+actuel, là… Il y a deux autorisations actuellement qui doivent être obtenues pour
+obtenir des renseignements personnels. Puis une des autorisations, c'est l'organisme
+public qui les détient. Puis la deuxième, c'est la Commission d'accès à l'information.
+
+Puis présentement c'est l'article 125 qui encadre, là, ces communications-là. Puis,
+dans le fond, ça dit que l'autorisation de la commission est accordée pour une période
+et aux conditions qu'elle fixe. Puis, dans ces autorisations, qu'on peut trouver sur son
+site Internet parce qu'ils sont rendus publics, bien, il y a toutes ces conditions-là,
+qu'on a reprises, finalement, à 67.2.3, donc les conditions par rapport à la
+confidentialité, aux engagements de confidentialité, aux délais de conservation, etc.
+Donc, 67.2.3, globalement, reprend les conditions qui sont imposées par la
+commission, qui ne sont pas dans la loi mais <qui sont dans ces... >qui sont incluses
+dans ces autorisations-là.
+M. Tanguay : Est-ce que... Et on a vu un article aussi où, à demande, <la
+commission...
+M. Miville-Deschênes (Jean-Philippe) : ... conservation, etc. Donc, 67.2.3,
+globalement, reprend les conditions qui sont imposées par la commission, qui ne sont
+pas dans la loi mais qui sont dans ces... qui sont incluses dans ces autorisations-là.
+M. Tanguay : Est-ce que... Et on a vu un article aussi où, à demande, >la
+commission peut se faire donner l'entente écrite et les analyses, mais elle n'a pas
+systématiquement de registre, là.
+M. Caire : C'est-à-dire... Oui, c'est parce qu'avant ça elle autorisait…
+M. Tanguay : Elle les avait toutes.
+M. Caire : …elle devait autoriser. Maintenant, elle n'a plus à autoriser, mais, à
+demande, elle peut recevoir, effectivement, les ententes qui ont été...
+M. Miville-Deschênes (Jean-Philippe) : …67.2.3, elle les reçoit…
+M. Tanguay : Elle les reçoit automatiquement, ah oui?
+M. Miville-Deschênes (Jean-Philippe) : Elle est transmise. C'est le dernier alinéa, là
+: «L'entente est transmise à la commission et entre en vigueur 30 jours après sa
+réception...», lui laissant le temps, en cas de problème, là, de suspendre l'entente et de
+réagir.
+M. Tanguay : O.K.
+M. Caire : Mais là c'est l'approbation qu'elle n'a plus à faire systématiquement, là.
+M. Miville-Deschênes (Jean-Philippe) : C'est ça, elle est juste informée.
+M. Tanguay : Est-ce que l'organisme ou la personne qui se voit, donc, octroyer les
+renseignements, dans ce contexte-là… Lui, l'organisme ou la personne, elle, sont
+également sujets à des pénalités. On va voir les pénalités plus loin, mais ce n'est pas
+
+juste l'organisme public. Est-ce que la personne qui, finalement, ne respecte pas
+l'entente pourrait aussi, on va le voir plus loin mais… se faire imposer des pénalités?
+M. Miville-Deschênes (Jean-Philippe) : Oui. Bien, à l'article 158, le septième
+paragraphe, là, il y a une disposition pénale pour toute personne qui est en défaut de
+respecter les conditions prévues à l'entente.
+M. Tanguay : Et ça, ça va être à quel article du projet de loi?
+M. Miville-Deschênes (Jean-Philippe) : ...l'article du projet de loi, c'est le 64.
+M. Tanguay : Ah oui! 64. Et à quel paragraphe êtes-vous?
+M. Miville-Deschênes (Jean-Philippe) : C'est le dernier, le septième.
+M. Tanguay : O.K. 67.2.3. O.K. Et là c'est 159 qui nous donne les montants.
+M. Miville-Deschênes (Jean-Philippe) : C'est 158. En fait, il y a deux catégories
+d'amendes dans la loi, là.
+M. Tanguay : Ah! oui, oui, oui. O.K. On y reviendra à 158. On regardera les
+montants, parce que, là, on parle encore de 1 000 $, 10 000 $. On verra les montants,
+là, mais... C'est beau pour moi, M. le Président.
+Le Président (M. Bachand) : Merci. Est-ce qu'il y a d'autres interventions sur
+l'article 23 tel qu'amendé? Sinon, nous allons procéder à la mise aux voix. Mme la
+secrétaire, s'il vous plaît.
+La Secrétaire : Pour, contre, abstention. M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+M. Tanguay : Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+M. Nadeau-Dubois : Contre.
+
+La Secrétaire : M. Bachand (Richmond)?
+Le Président (M. Bachand) : Abstention. Donc, l'article 23, tel qu'amendé, est
+adopté. Merci. M. le ministre, s'il vous plaît.
+M. Caire : Oui. Merci, M. le Président. L'article 24 se lit comme suit :
+L'article 67.3 de cette loi est modifié par le remplacement, dans le premier alinéa, de
+«68 et 68.1» par «67.2.1 et 68».
+Donc, l'article 67.3 de la Loi sur l'accès aux documents des organismes publics et sur
+la protection des renseignements personnels...
+Le Président (M. Bachand) :Je m'excuse, M. le ministre, mais je crois que 24 a été
+adopté. Alors, désolé. Désolé.
+M. Caire : Ah oui! c'est vrai. Excusez-moi. Excusez-moi.
+Le Président (M. Bachand) : Non, c'est mon erreur. C'est mon erreur.
+M. Caire : Excusez-moi. Non, bien, c'est la mienne. Je...
+M. Nadeau-Dubois : ...
+Le Président (M. Bachand) : On peut y revenir, c'est ça?
+M. Caire : Je voulais juste être sûr... Non, mais je voulais voir si vous suiviez.
+M. Nadeau-Dubois : Pas d'objection. Consentement.
+M. Caire : Je voulais voir si vous suiviez, mais là j'étais rendu loin dans la lecture,
+là.
+Le Président (M. Bachand) : Ah! O.K.
+M. Caire : En tout cas. En tout cas.
+Le Président (M. Bachand) :O.K. Donc, 24 <est adopté. Donc, M. le ministre...
+Le Président (M. Bachand) : ...désolé. Désolé.
+M. Caire : Ah oui! c'est vrai. Excusez-moi. Excusez-moi.
+Le Président (M. Bachand) : Non, c'est mon erreur. C'est mon erreur.
+M. Caire : Excusez-moi. Non, bien, c'est la mienne. Je...
+
+M. Nadeau-Dubois : ...
+Le Président (M. Bachand) : On peut y revenir, c'est ça?
+M. Caire : Je voulais juste être sûr... Non, mais je voulais voir si vous suiviez.
+M. Nadeau-Dubois : Pas d'objection. Consentement.
+M. Caire : Je voulais voir si vous suiviez, mais là j'étais rendu loin dans la lecture,
+là.
+Le Président (M. Bachand) : Ah! O.K.
+M. Caire : En tout cas. En tout cas.
+Le Président (M. Bachand) : O.K. Donc, 24 >est adopté. Donc, M. le ministre, pour
+la suite des choses.
+M. Caire : Bon. Non, mais j'implore la clémence des collègues. Je pense que, moi
+aussi, des fois, se remettre dans le bain, ça prend un certain temps.
+Alors, l'article 25, donc, se lit comme suit : L'article 68 de cette loi est modifié :
+1° par l'insertion, après le premier alinéa, du suivant :
+«La communication peut s'effectuer si une évaluation des facteurs relatifs à la vie
+privée conclut que :
+«1° l'objectif visé ne peut être atteint que si le renseignement est communiqué sous
+une forme permettant d'identifier la personne concernée;
+«2° il est déraisonnable d'exiger l'obtention du consentement de la personne
+concernée;
+«3° l'objectif pour lequel la communication est requise l'emporte sur l'impact de la
+communication et de l'utilisation du renseignement sur la vie privée de la personne;
+«4° le renseignement personnel est utilisé de manière à en assurer la confidentialité.»;
+2° par l'ajout, à la fin, de l'alinéa suivant :
+«L'entente est transmise à la commission et entre en vigueur 30 jours après la
+réception de celle-ci.».
+Donc, M. le Président, cet article modifie l'article 68 de la Loi sur l'accès aux
+documents des organismes publics et la protection des renseignements personnels
+
+afin de prévoir qu'un organisme public peut, sans le consentement de la personne
+concernée, communiquer un renseignement personnel si une évaluation des facteurs
+relatifs à la vie privée en arrive à certaines conclusions.
+L'article 68 de cette loi est également modifié pour prévoir le délai dans lequel
+l'entente qu'il prévoit est transmise à la Commission d'accès à l'information.
+Le Président (M. Bachand) : Merci. J'aurais le député de Gouin, s'il vous plaît.
+M. Nadeau-Dubois : On retrouve, dans l'article 25, une formulation similaire à celle
+qu'on retrouvait à l'article 23, là, 67.2.1, c'est-à-dire <on parle…> au troisième
+paragraphe, on dit : «l'objectif pour lequel la communication est requise l'emporte sur
+l'impact de la communication et de l'utilisation du renseignement sur la vie privée de
+la personne concernée.»
+Le député de LaFontaine avait fait remarquer, je pense, de manière très pertinente,
+que «l'objectif l'emporte», ça pouvait porter à confusion, à savoir : Comment on
+évalue le poids de l'objectif par rapport au poids de l'autre facteur, là, c'est-à-dire
+l'impact de la communication et de l'utilisation du renseignement sur la vie privée?
+Puis le député de LaFontaine avait proposé un amendement pour faire une référence
+à la notion d'intérêt public, à l'article 23.
+• (15 heures) •
+Est-ce qu'il ne serait pas pertinent ici, d'une part, par cohérence puis, d'autre part,
+parce que c'était un excellent amendement, de venir faire réapparaître la notion
+d'intérêt public avec une formulation similaire? On pourrait lire, par exemple :
+«l'objectif pour lequel la communication est requise l'emporte, eu égard à l'intérêt
+public, sur l'impact de la...
+
+Haut de la page
+
+15 h (version révisée)
+M. Nadeau-Dubois : ...puis, d'autre part, parce que c'était un excellent amendement,
+de venir faire réapparaître la notion d'intérêt public avec une formulation similaire?
+On pourrait lire, par exemple : «l'objectif pour lequel la communication est requise
+l'emporte, eu égard à l'intérêt public, sur l'impact de la communication et de
+l'utilisation du renseignement».
+Le Président (M. Bachand) : M. le ministre.
+
+M. Caire : Oui, tout à fait.
+M. Nadeau-Dubois : ...M. le Président. Si le député de LaFontaine veut réamender,
+sinon je pourrai le faire...
+M. Tanguay : Vous pouvez le faire si vous voulez...
+M. Nadeau-Dubois : O.K. Je vais suspendre...
+M. Tanguay : ...si vous êtes prêt.
+M. Nadeau-Dubois : ...le temps qu'on vous fasse parvenir l'amendement, avec le
+consentement des collègues, bien sûr.
+Des voix : Consentement.
+Le Président (M. Bachand) :Ça va? On va suspendre quelques instants. Merci
+beaucoup.
+(Suspension de la séance à 15 h 1)
+(Reprise à 15 h 3)
+Le Président (M. Bachand) : À l'ordre, s'il vous plaît! La commission reprend ses
+travaux. M. le député de Gouin, <s'il vous plaît...
+(Reprise à 15 h 3)R
+Le Président (M. Bachand) : À l'ordre, s'il vous plaît. La commission reprend ses
+travaux. M. le député de Gouin, >s'il vous plaît.
+M. Nadeau-Dubois : Oui, mais c'est une reprise de l'amendement du collègue de
+LaFontaine à l'article 23, puisque les formulations sont très similaires, là, on dit :
+«l'objectif pour lequel la communication est requise l'emporte.» L'idée ici est de venir
+préciser qu'est-ce qui va nous permettre d'évaluer en quoi l'objectif l'emporte, puis on
+vient inscrire une référence à la notion d'intérêt public pour dire que cette évaluationlà doit être faite en fonction de l'intérêt public et non pas d'un autre facteur, par
+exemple, la commodité pour l'organisme public ou le fait que ça va permettre
+d'atteindre des objectifs de rendement. Bref, c'est l'intérêt public qui doit nous
+permettre d'évaluer ce que cherche à évaluer le paragraphe 3, là, c'est-à-dire est-ce
+que la communication des renseignements personnels peut être effectuée. Aussi
+simple que ça, M. le Président.
+Le Président (M. Bachand) : Merci beaucoup, M. le député. Interventions sur
+l'amendement? M. le ministre? Ça va? S'il n'y a pas d'autre intervention, nous allons
+procéder à sa mise aux voix. Mme la secrétaire.
+
+La Secrétaire : Pour, contre, abstention. M. Nadeau-Dubois (Gouin)?
+M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+M. Tanguay : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+Le Président (M. Bachand) : Abstention. Donc, l'amendement à l'article 25 est
+adopté. Merci beaucoup. M. le ministre, s'il vous plaît. On revient... Excusez-moi.
+Interventions? On revient à 25 tel qu'amendé. M. le député de LaFontaine.
+M. Tanguay : Oui, merci. Quand on continue notre comparaison avec 67.2.1, on voit
+qu'il y avait un cinquième critère, à moins que je l'aie manqué, là, je ne le vois pas.
+Autrement dit : «seuls les renseignements nécessaires sont communiqués.» Puis je
+vous avoue que celui-là, j'ai un intérêt particulier parce que, justement, dans l'autre
+amendement, là, qui est dans les airs, on ne veut pas qu'il y ait de zèle, puis qu'on
+fasse juste... puis admettons qu'on ait l'obligation de... Alors, je ne le retrouve pas, là,
+«seuls les renseignements nécessaires.» On m'indiquera : Non, non, il est là, il est là,
+là, mais je ne le vois pas.
+M. Caire : ...je vais laisser Me Miville-Deschênes.
+Le Président (M. Bachand) : Me Miville-Deschênes.
+M. Miville-Deschênes (Jean-Philippe) : Bien, en fait, le concept de nécessité, à
+67.2.1, il n'était pas là au début. Tu sais, on dit : «Un organisme public peut
+communiquer des renseignements...» Donc, on l'a rajouté pour dire : «seuls les
+renseignements nécessaires sont communiqués.» À 68, notamment au premier alinéa,
+il est déjà là, ce concept-là, on dit... il n'est pas modifié, là, 68, premier alinéa,
+premier paragraphe, on dit : «Un organisme public peut communiquer lorsque cette
+communication est nécessaire.» Donc, le concept de nécessité a été ajouté aux
+endroits, là, où c'était nécessaire, justement.
+
+M. Caire : Je le vois. C'est dans l'article initial, effectivement.
+M. Tanguay : Ça fait qu'on dit, mais que ce soit dit, dans le fond, sur les
+transcriptions, que le <«nécessaire»...
+M. Miville-Deschênes (Jean-Philippe)T : ... premier alinéa, premier paragraphe, on
+dit : «Un organisme public peut communiquer lorsque cette communication est
+nécessaire.» Donc, le concept de nécessité a été ajouté aux endroits, là, où c'était
+nécessaire, justement.
+M. Caire : Je le vois. C'est dans l'article initial, effectivement.
+M. Tanguay : Ça fait qu'on dit, mais que ce soit dit, dans le fond, sur les
+transcriptions, que le >«nécessaire» de 68 n'est pas moins important quant à l'impact
+réel qu'on veut qu'il ait. Autrement dit, c'est que ce soit lu, au premier paragraphe du
+premier alinéa :«Un organisme public ou un organisme d'un autre gouvernement
+lorsque cette communication est nécessaire à l'exercice...». On parle de deux choses.
+On parle de la communication qui est nécessaire, mais que l'on soit confiants et
+assurés et que ce soit dit que seuls les renseignements nécessaires seront
+communiqués, ce qui est une autre chose.
+Moi, je l'aurais mis, je l'aurais rajouté, trop fort ne casse pas, parce qu'on parle de
+deux nécessités. La communication, elle est-tu nécessaire? Pour ce qui est de 67.2.1,
+la communication n'est pas nécessaire. 67.2.1, on peut dire : Non, vous faites... Oui,
+bravo, merci. Vous faites une demande en vertu de 67.2.2, mais nous, dépositaires
+des renseignements personnels, on n'y donne pas suite. Ils pourraient très bien dire ça
+: La communication n'est pas nécessaire. Ici, on parle d'une communication qui est
+nécessaire. Mais, dans la communication qui est nécessaire, je pense qu'il serait de
+bon aloi de dire ce que vous allez communiquer, dans ce contexte de nécessité de
+communiquer, ça va être uniquement «seuls les renseignements nécessaires», parce
+qu'on parle d'une autre nécessité. Puis je l'ajouterais, trop fort ne casse pas.
+M. Miville-Deschênes (Jean-Philippe) : Puis-je?
+M. Caire : Oui, oui, je vous en prie-je.
+M. Miville-Deschênes (Jean-Philippe) : Ma préoccupation, c'est que le concept de
+nécessité est prévu à différents endroits dans la loi, pour différentes communications.
+Si je prends l'exemple de 59, là, on dit : Bon, on peut communiquer au procureur, si
+c'est nécessaire; un organisme public chargé de prévenir, détecter les crimes si c'est
+nécessaire. Puis ce concept de nécessité là vient avec une sorte de test jurisprudentiel
+dans lequel on doit s'assurer que l'atteinte à la vie privée est minimisée, et donc que
+c'est le minimum de renseignements qui sont communiqués.
+Donc, ça vient un peu avec ce terme «nécessaire» là. C'est pour ça que, là, si on
+l'ajoute, par exemple à 68... On l'a ajouté à 67.2.1 parce qu'il n'y avait pas du tout de
+
+concept de nécessité. Si on l'ajoute à 68, là, ça soulève la question : Est-ce qu'on doit
+l'ajouter à tous les autres endroits, incluant aux différents paragraphes de 59, où ce
+terme-là est utilisé?
+Puis, bien, comme je le disais, dans la jurisprudence, là, le terme «nécessaire» n'est
+qu'un mot, mais ça vient avec un test, quand même, qui s'inspire des critères de l'arrêt
+Oakes, qui est assez, je veux dire, exigeant, là, puis pour lequel il y a un aspect de
+dire : Il faut qu'on minimise l'atteinte, et donc le nombre de renseignements qui sont
+communiqués.
+M. Tanguay : O.K. Je comprends. Puis on pourrait me dire, mais que ce soit exprimé
+ici, que cette communication inclut... cette expression, «cette communication est
+nécessaire», cette communication inclut le fait de communiquer quelque chose, mais
+cette communication inclut aussi le fait de communiquer a, b, c, d. Cette
+communication, de communiquer a, b, c, d, doit être nécessaire. Autrement dit, si
+vous communiquez e, qui n'est pas nécessaire, vous pouvez vous faire taper sur les
+doigts, là.
+M. Miville-Deschênes (Jean-Philippe) : Chaque renseignement, dans le fond.
+M. Tanguay : C'est ça.
+M. Miville-Deschênes (Jean-Philippe) : Juste pour faire du pouce sur ce que vous
+dites, chaque communication, <chaque renseignement doit...
+M. Tanguay : ... inclut aussi le fait de communiquer a, b, c, d. Cette communication,
+de communiquer a, b, c, d, doit être nécessaire. Autrement dit, si vous communiquez
+e, qui n'est pas nécessaire, vous pouvez vous faire taper sur les doigts, là.
+M. Miville-Deschênes (Jean-Philippe)T : Chaque renseignement, dans le fond.
+M. Tanguay : C'est ça.
+M. Miville-Deschênes (Jean-Philippe)T : Juste pour faire du pouce sur ce que vous
+dites, chaque communication, >chaque renseignement doit être nécessaire aux fins
+qui sont visées par l'organisme public, effectivement.
+M. Tanguay : C'est ça.
+Le Président (M. Bachand) :J'aurais le député de Gouin, probablement sur la même
+question. M. le député de Gouin.
+M. Nadeau-Dubois : Non, mais je vais laisser le ministre... le collègue poursuivre.
+Je vais y aller après.
+Le Président (M. Bachand) : Parfait. O.K. Merci.
+
+M. Tanguay : C'était-tu sur le 30 jours?
+M. Nadeau-Dubois : Non.
+• (15 h 10) •
+M. Tanguay : O.K. Un commentaire qu'on fait là, mais que la Commission d'accès à
+l'information avait fait à l'article 25 pour 68, mais qu'elle aurait pu faire également à
+l'article 23, 67.2.3, lorsque l'on parle... Pour faire ça court, là, la Commission d'accès
+à l'information ne demanderait pas 30 jours, mais 60 jours. Qui ne dit mot consent,
+c'est ça, la façon dont c'est écrit. Autrement dit, «l'entente est transmise à la
+commission et entre en vigueur 30 jours après sa réception par celle-ci».
+Ce que dit la commission... On devra s'assurer, dans les 30 jours, qu'elle est conforme
+en vertu de la loi, que les protections ne seront pas théoriques, mais qu'en pratique ça
+va être justifié, protégé, que l'évaluation des facteurs relatifs à la vie privée devra être
+complète, évaluer tous les risques, moyens mis en place, et ainsi de suite. La
+commission, elle dit : Je ne voudrais pas manquer le coche, parce qu'après 30 jours,
+si je ne parle pas, le 31e jour, le lendemain, l'organisme public dit : Parfait, c'est
+entériné, j'envoie les informations. La Commission d'accès à l'information demandait
+60 jours avant l'entrée en vigueur des ententes de communication qui lui seront
+transmises en vertu du libellé de 68. C'est ce que vient nous dire la Commission
+d'accès à l'information.
+M. Caire : Bien, je ne sais pas ce que les collègues en pensent, là, mais 30 jours,
+c'est du stock, là. 30 jours, c'est long, hein? C'est long.
+M. Tanguay : Est-ce que la commission pourrait demander une prolongation? Est-ce
+qu'il y a un pouvoir qui permet à la commission de dire : O.K., veuillez, par la
+présente, être informé que le délai, 30 jours, va tomber vendredi, nous vous
+demandons de ne rien communiquer avant 14 jours de la présente?
+M. Caire : Bien, c'est-à-dire que, dans la forme actuelle de la loi, la commission doit
+le faire dans les 30 jours, mais, à ma connaissance, il n'y a pas de possibilité pour
+étendre ce délai-là. Je ne sais pas, Me Deschênes, si...
+M. Tanguay : ...
+Le Président (M. Bachand) : Me Miville-Deschênes, oui.
+M. Miville-Deschênes (Jean-Philippe) : Actuellement, dans le projet de loi, il y a...
+effectivement, là, il faut qu'elle réagisse dans les 30 jours.
+M. Tanguay : Sinon, l'entente est en vigueur en vertu de la loi. O.K. Bien, c'est le
+ministre duquel relève la Commission d'accès à l'information, qui, elle, vient nous
+dire et lui dire : Bien, 30 jours, ce n'est pas... C'est-tu 40 jours, c'est-tu 45 jours? Ils
+
+demandent 60 jours, bon. C'est-tu 40 jours, c'est-tu 45 jours? Est-ce qu'il y a, en vertu
+de la protection... Pour l'intérêt public de protéger, ça vaut-tu la peine d'avoir un délai
+qui, selon la Commission d'accès à l'information, serait un peu plus réaliste? Moi, je
+suis dans le réalisme de la chose, <parce que...
+M. Tanguay : ...dire : Bien, 30 jours, ce n'est pas... C'est-tu 40 jours, c'est-tu 45
+jours? Ils demandent 60 jours, bon. C'est-tu 40 jours, c'est-tu 45 jours? Est-ce qu'il y
+a, en vertu de la protection... Pour l' intérêt public de protéger, ça vaut-tu la peine
+d'avoir un délai qui, selon la Commission d'accès à l'information, serait un peu plus
+réaliste? Moi, je suis dans le réalisme de la chose, >parce que, si elle ne parle pas...
+de un, on vient de voir qu'elle ne peut pas le prolonger, puis si elle ne parle pas, c'est
+en vigueur, «too late», l'information est partie.
+M. Caire : Bien, moi... Puis, collègue, je vais vous le dire comme je le pense, là, puis
+oubliez le ministre, juste comme législateur, là, 30 jours, c'est pas mal les délais
+qu'on se donne dans à peu près tout ce qui est obligation de résultat. Même à
+l'Assemblée nationale, les collègues le savent maintenant, là, ils ont l'expérience, tu
+sais, dans les 30 jours, il faut déposer un rapport, dans les 30 jours, il faut donner des
+suites. 30 jours, c'est pas mal toujours le délai qu'on se donne.
+Bon, je comprends que, là, il y a peut-être un peu plus de matière, mais, en même
+temps, bon, la commission... Puis on va revoir, là, certains paramètres de la
+commission pour donner quand même plus de moyens. Je ne suis pas hostile à
+travailler cet aspect-là avec les collègues, puis je ne sais pas ce que vous en pensez,
+mais, moi, je pense quand même que la Commission d'accès à l'information doit
+avoir une obligation de résultat. Là, on parle du chien de garde de la société
+québécoise sur l'application d'une loi quasi constitutionnelle, puis, comme citoyen,
+s'il y a un reproche qu'on a fait à la commission, c'est les délais, c'est la difficulté à
+recevoir des réponses. Alors, comme législateur, là, je pense qu'il faut quand même
+faire écho à ça dans la population.
+Puis je prends l'exemple du fameux délai quand on fait une demande d'accès à
+l'information, les collègues le savent : 20 jours, puis il y a toujours moyen d'avoir un
+10 jours supplémentaire, c'est systématique. Ce n'est plus 20 jours. Le 20 jours, là, il
+est théorique. La vérité, là, c'est que c'est 30 jours, parce que le fameux délai, il est
+toujours demandé, tout le temps, tout le temps. Si on met un délai, ça va être ça, ça
+va être ça, la norme.
+Donc, moi, comme je vous dis, là, je ne suis pas hostile puis je veux entendre les
+collègues là-dessus, mais il me semble qu'un organisme aussi névralgique que la
+Commission d'accès à l'information doit avoir une obligation de résultat. Et qu'on
+module ça d'une façon ou d'une autre, moi, je suis ouvert aux suggestions, là, mais il
+faut rester dans le raisonnable parce que... Moi, là, j'amène ça à l'autre bout du
+spectre. Là, on parle d'une activité de recherche. Par exemple, on parle d'un
+organisme public qui a une entente, on est dans <une activité de...
+
+M. Caire : ... moi, je suis ouvert aux suggestions, là, mais il faut rester dans le
+raisonnable parce que... Moi, là, j'amène ça à l'autre bout du spectre. Là, on parle
+d'une activité de recherche. Par exemple, on parle d'un organisme public qui a une
+entente, on est dans >une activité de recherche, on a quelque chose. Prenons le
+contexte de la pandémie. Là, j'ai une activité de recherche, je veux faire tester des
+hypothèses ou je ne sais pas. Là, je dépose un protocole, puis là j'attends, j'attends,
+j'attends, 10 jours, 20 jours, 30 jours, 40 jours, 50 jours, 60 jours. Bon, je vais-tu
+l'avoir, ma réponse? Ça fait que, ça, moi, je ne sais pas, je ne sais pas ce que le
+collègue de LaFontaine en pense, là, mais 30 jours, là, c'est long, là.
+M. Tanguay : C'est dans les délais. Il faut voir que c'est une disposition qui vise à
+protéger l'intérêt public. Ce n'est pas une disposition de délai qui vise, par exemple, à
+ce que le commissaire aux soins dans une RPA rende sa décision dans les 45 jours
+après qu'une plainte a été portée. Là, on va dire : Le 45 jours, il faut qu'il baisse à 30,
+puis il faudrait peut-être... idéalement, dans certains cas, il peut le rendre à 15, parce
+qu'il y a une personne dans une RPA qui a porté plainte puis que ça ne marche pas,
+là, on ne va pas lui donner 45 jours. Mais je pense que, dans la loi, finalement, je ne
+referai pas ce débat-là, je pense que c'est 45 jours. Ça, c'est de protection du citoyen.
+Ça, c'est l'inverse, il faut le revirer de bord. C'est dans le doute que l'information reste
+protégée, puis votre chercheur, bien, qu'il attende. Parce que si on l'échappe, le
+chercheur va avoir des milliers de données personnelles. Première des choses.
+Deuxième des choses, peut-être, pour qu'on poursuive le débat, «l'entente est
+transmise à la commission et entre en vigueur 30 jours après sa réception». Mettons
+que la commission, là, elle dit : O.K. Aïe! ça va vite, 30 jours. O.K., elle fait une
+analyse sommaire, là, mais, bon, O.K., ça va être notre analyse. Mettons qu'elle a de
+quoi à redire, elle dit : Écoute, je ne suis pas sûre que votre analyse, 67.2.1, est
+complète, papi, papa. Elle va envoyer... Comment ça va fonctionner? Elle va envoyer
+une lettre à l'organisme, et là il va y avoir un «reset», comme dirait Marc Bergevin :
+Le «reset». Il va y avoir un «reset» du 30 jours? Ça marche comment? À 25 jours, la
+commission, elle dit : Bon, eh! câline, mon délai, là, qui ne dit mot... dans cinq jours,
+là, elle est en vigueur. Parfait. Je vais soulever des questions sur... Je ne suis pas en
+train de plaider la mauvaise foi de la commission, mais il arrive quoi? J'ai de quoi à
+redire, pas sûr de ça, ça, ça. Je donne ça à l'organisme après 25 jours. Y a-tu d'autres
+délais, là? Qu'est-ce qui s'enclenche après ça? Là, après ça, le 30 jours, il est rendu
+théorique, là, tu sais.
+M. Caire : Bien, en fait, il n'y a plus de 30 jours. C'est que, dans la mesure où la
+Commission d'accès à l'information constate que les conditions... Parce qu'il faut bien
+comprendre, là, que ce qui est élaboré là, ce sont des conditions qui doivent être
+rencontrées pour que l'entente soit avalisée par la Commission d'accès à
+l'information.
+<Donc, si la...
+M. Caire : ...jours. C'est que, dans la mesure où la Commission d'accès à
+
+l'informationT constate que les conditions... Parce qu'il faut bien comprendre, là, que
+ce qui est élaboré là, ce sont des conditions qui doivent être rencontrées pour que
+l'entente soit avalisée par la Commission d'accès à l'informationT.
+>Donc, si la commission juge que les conditions ne sont pas rencontrées, bien, de
+facto, l'entente n'est pas avalisée, et les gens qui présentent l'activité de recherche
+doivent trouver des mécanismes pour se conformer, redéposer l'entente, qui amène un
+autre délai de 30 jours. Mais sauf que, là, le délai de 30 jours, il n'est pas causé par la
+Commission d'accès à l'information. La Commission d'accès à l'information constate
+que l'évaluation des facteurs relatifs à la vie privée n'amène pas... ne rencontre pas les
+conditions prescrites. Elle dit : Vous ne rencontrez pas, donc je ne reconnais pas
+l'évaluation des facteurs relatifs à la vie privée comme étant conforme aux exigences
+de la loi. Refaites votre évaluation et revenez-moi quand vous aurez rencontré
+l'ensemble des conditions. Puis là, bien, elle aura un autre 30 jours pour...
+Mais 30 jours, là, M. le député, je continue à penser que c'est beaucoup de temps, là.
+C'est beaucoup de temps. On n'est pas en train de faire la revue diligente, là, de deux
+multinationales, là, tu sais. C'est une activité de recherche où je dis : Voici ce que je
+vais faire, puis voici comment je vais le faire, puis avec qui je vais le faire, puis
+comment je vais utiliser les données, puis... Ça fait que ce n'est pas...
+M. Tanguay : ...tout ce qu'on dit là, là, ce qu'on déduit de ces deux lignes-là, là, la
+commission doit... si elle ne parle pas dans les 30 jours, l'entente rentre en vigueur,
+tout ce qu'on déduit, que, ah! la commission, après 25 jours, elle dit : Ça, ça, ça, j'ai
+des doutes, revenez-moi, puis qu'on dit qu'il y a un «reset» puis qu'il y a un autre 30
+jours, alors il corrige le tir. La personne demanderesse, chercheur, chercheuse, donne
+ça à l'organisme public. L'organisme public : O.K., parfait. Deuxième tentative, un
+autre document, il y a un «reset», un autre 30 jours. Est-ce que c'est dit à quelque part
+où, de ces deux lignes-là, on déduit tout ça?
+M. Caire : Bien, à ma connaissance, ce n'est pas dit comme ça, là, mais, je veux
+dire...
+M. Tanguay : Est-ce qu'on est corrects de penser ça, que ça marche de même?
+Le Président (M. Bachand) : Me Miville-Deschênes.
+M. Miville-Deschênes (Jean-Philippe) : Bien, oui, c'est correct de penser ça, mais la
+commission a un pouvoir général d'ordonnance, et d'enquête, et de surveillance à
+129, là, qui est écrit, est exprimé de façon très large et qui peut être utilisé de
+différentes sortes, notamment, là, dans le contexte de 68. Mais c'est sûr que la
+communication doit se faire si les conditions sont remplies. Ça fait que, si la
+commission conclut que les conditions de 68 ne sont pas remplies, bien là,
+l'organisme, comme vous le disiez, va être obligé de resoumettre, là, une nouvelle
+entente.
+
+• (15 h 20) •
+M. Tanguay : O.K. Alors, c'est sûr que, dans ce contexte-là, ça vient diminuer
+l'impératif de dire : Ah! on va manquer le bateau, elle ne parlera pas dans 30 jours.
+Si, à un moment donné, on s'entend, là, elle voit que... manque de temps, puis tout ça,
+elle va soulever les questions sans que l'analyse même à la commission soit
+complétée, là. Je veux dire, on sait comment ça fonctionne, là. Puis elle va dire :
+Bien, on a des questionnements par rapport à ça, ça, ça. Il me semble que ça...
+Revenez-nous avec plus ample... plaidoirie écrite, en quelque sorte, puis elle va
+l'avoir, son «reset» de 30 jours, dans le fond.
+M. Caire : Et puis, sans compter, M. le député... si je peux me permettre, là, quand
+on fait l'évaluation, on arrive sur un premier élément <qui nous dit...
+M. Tanguay : ... je veux dire, on sait comment ça fonctionne, là. Puis elle va dire :
+Bien, on a des questionnements par rapport à ça, ça, ça. Il me semble que ça...
+Revenez-nous avec plus ample... plaidoirie écrite, en quelque sorte, puis elle va
+l'avoir, son «reset» de 30 jours, dans le fond.
+M. Caire : Et puis, sans compter, M. le député... si je peux me permettre, là, quand
+on fait l'évaluation, on arrive sur un premier élément >qui nous dit: De par cet
+élément-là, vous ne rencontrez pas les conditions. Tu sais, pas besoin de pousser
+l'analyse plus loin, tu sais. L'idéal serait ça, là, pour mettre l'ensemble...
+M. Tanguay : ...
+M. Caire : ...pour s'assurer d'avoir l'ensemble des éléments qui sont potentiellement
+conflictuels, de façon à ce que l'organisme puisse savoir effectivement comment
+réajuster. Mais à la limite, on pourrait dire : Bien, écoutez, j'ai trouvé tel élément, cet
+élément-là ne correspond pas aux conditions, donc l'entente ne peut pas être reconnue
+comme conforme à la loi, retournez faire vos devoirs.
+M. Tanguay : Oui, oui. Ça fait que, ça, ça lui donne... à la limite, on revire
+l'argument de bord complètement, là. Ça donne un quasi-délai illimité.
+M. Caire : Oui, mais, en même temps, je veux dire, il faut... puis je présume, la
+commission, ce sont des professionnels qui ne soulèveront pas des doutes juste pour
+dire : On va s'acheter du temps. Mais, moi, je continue à dire que 30 jours, là, c'est...
+Tu sais, allons-y, là, dans nos vies respectives, là, la quantité de travail qu'on abat en
+30 jours, là, je me dis... Tu sais, puis ce n'est pas... comme je le dis, là, ce n'est pas...
+je ne dis pas que c'est simple, là, comprenez-moi bien, mais, tu sais, une évaluation
+relative aux facteurs de la vie privée, là, ce n'est quand même pas si énorme que ça.
+Puis j'imagine aussi qu'on développe une habileté. À force d'en faire, d'en évaluer, on
+devient de plus en plus agile à le faire. Mais, moi, je continue à dire — puis ça, je
+sais que c'était un point qui était cher au député de La Pinière, puis je pense que le
+collègue de LaFontaine l'a entendu comme moi — il faut aussi que la Commission
+
+d'accès à l'information ait une obligation de résultat, là, parce que son rôle est
+tellement névralgique qu'il faut... nous, comme parlementaires, je pense qu'on envoie
+le message qu'on s'attend de la Commission d'accès à l'information qu'elle soit quand
+même capable de produire assez rapidement des réponses, là.
+M. Tanguay : C'est bon.
+Le Président (M. Bachand) : Merci. M. le député de Gouin, s'il vous plaît.
+M. Nadeau-Dubois : Merci, M. le Président. À l'article 25, on parle de la possibilité
+pour un organisme public, sans le consentement de la personne concernée, de
+communiquer un renseignement personnel à un organisme public ou à un organisme
+d'un autre gouvernement. Est-ce que ça peut s'appliquer à des... En fait, question.
+Moi, quand je lis «un autre gouvernement», je fais la déduction que ça peut être un
+gouvernement qui n'est pas sur le territoire du Québec.
+M. Caire : Bien, oui, considérant que le seul gouvernement sur le territoire du
+Québec est le gouvernement du Québec.
+M. Nadeau-Dubois : Bien, en fait, il y a le gouvernement fédéral qui a, comme,
+juridiction au Québec, là.
+M. Caire : Bien, dans ce que nous entendons de l'article, le gouvernement fédéral
+entre dans la... sans...
+Une voix : Le nationalisme.
+M. Caire : Non, le nationalisme est toujours là, mais sans amener le débat sur ce
+<terrain-là...
+M. Nadeau-Dubois : ...qui a, comme, juridiction au Québec, là.
+M. Caire : Bien, dans ce que nous entendons de l'article, le gouvernement fédéral
+entre dans la... sans...
+Une voix : Le nationalisme.
+M. Caire : Non, le nationalisme est toujours là, mais sans amener le débat sur ce
+>terrain-là...
+M. Tanguay : ...c'est ça, le débat qu'on ne veut pas aller.
+M. Caire : Est-ce qu'un autre... Est-ce que le gouvernement fédéral peut être
+considéré, au sens de cet article-là, comme un autre gouvernement? Au sens de cet
+article-là, oui.
+
+M. Nadeau-Dubois : Et est-ce que ça inclut aussi, donc, potentiellement des
+gouvernements étrangers?
+M. Caire : Oui.
+M. Nadeau-Dubois : Oui, O.K.
+M. Caire : Oui, dans le sens où ce n'est pas spécifié que ça ne peut... que ça ne
+l'exclut pas. Donc, ça peut l'inclure.
+M. Nadeau-Dubois : Parfait. C'était la conclusion à laquelle j'en arrivais, mais je
+voulais juste être certain. Si je lis bien... En fait, ma question est la suivante. À
+l'article 17, on établit des paramètres.
+M. Caire : Article 17 de la loi n° 64 ou de...
+M. Nadeau-Dubois : Du projet de loi.
+M. Caire : Du projet de loi, O.K.
+M. Nadeau-Dubois : À l'article 17 du projet de loi, on... Attendez, attendez. À moins
+que je me trompe, est-ce bien l'article 17? Donnez-moi un petit instant, M. le
+Président.
+M. Caire : Qui modifie l'article 65.
+M. Nadeau-Dubois : Oui. À l'article 17, on spécifie... Donnez-moi un petit instant,
+là. «Le cas échéant, la personne concernée est informée du nom du tiers qui recueille
+les renseignements au nom de l'organisme public...» En fait, ma question... On a
+étudié un article un peu plus tôt qui encadrait la transmission des renseignements
+personnels à des organismes publics, en fait, à des tiers qui sont à l'extérieur du
+territoire du Québec. Est-ce que, peut-être, un des collaborateurs du ministre peut me
+rappeler c'était à quel article?
+M. Miville-Deschênes (Jean-Philippe) : ...on l'a étudié...
+M. Nadeau-Dubois : C'est le 27. Ah! c'est pour ça que je suis confus.
+M. Miville-Deschênes (Jean-Philippe) : Oui, c'est ça, 27.
+M. Nadeau-Dubois : C'est parce qu'on a étudié le 27 avant le 25.
+M. Caire : Exact.
+M. Nadeau-Dubois : Je viens de comprendre pourquoi j'avais l'impression qu'on
+l'avait déjà étudié, mais je ne le trouvais pas...
+
+Le Président (M. Bachand) : Mais le 27 est suspendu, monsieur...
+M. Nadeau-Dubois : ...chronologiquement, dans le cahier.
+M. Caire : Qui amène 70.1.
+M. Nadeau-Dubois : Voilà. Mais donc l'article, il est suspendu, on en a déjà discuté.
+M. Caire : Mais il n'est pas adopté, 27, M. le député.
+M. Nadeau-Dubois : Il n'est pas adopté.
+M. Caire : Non.
+M. Nadeau-Dubois : Là, on a, à 25, un article qui balise... qui donne des balises
+pour la communication à des organismes ou à des gouvernements qui sont
+potentiellement à l'extérieur du Québec. Puis, à 27, on vient mettre des règles
+spécifiques relativement à la communication de renseignements personnels à
+l'extérieur du Québec.
+M. Caire : Voilà.
+M. Nadeau-Dubois : Quel article... Comment s'articule cette intersection-là entre les
+deux articles?
+M. Caire : Bien, en fait, ce que 70.1 vient faire, c'est d'établir un cadre juridique.
+Donc, dans le cas de 70.1, on reconnaît la validité d'une entente contractuelle <à
+défaut...
+M. Nadeau-Dubois : ... entre les deux articles?
+M. Caire : Bien, en fait, ce que 70.1 vient faire, c'est d'établir un cadre juridique.
+Donc, dans le cas de 70.1, on reconnaît la validité d'une entente contractuelle >à
+défaut d'un cadre juridique... C'était équivalent? Ce n'était pas équivalent, c'était
+adéquat. Adéquat. Je veux être sûr d'utiliser les bons termes parce que la dernière
+fois, j'avais... en stéréo, j'avais des ondes. Donc, ce que 70.1 vient faire, c'est de dire :
+Bon, bien, s'il n'y a pas un cadre juridique adéquat, à ce moment-là, par entente
+contractuelle, on peut pallier à ça. Ce que l'article 25 vient faire, c'est de dire : Bon,
+bien, voici... dans l'évaluation des facteurs relatifs à la vie privée que vous devez
+faire préalablement à la communication des renseignements, voici les éléments qui
+doivent être tenus en compte, qui sont en complément de 68. Parce que l'article 68
+existant mettait déjà des balises, et on rajoute ces balises-là qui sont introduites par le
+projet de loi n° 64, là.
+M. Miville-Deschênes (Jean-Philippe) : ...puis-je compléter?
+
+Le Président (M. Bachand) :Me Miville-Deschênes.
+M. Caire : Oui, vous puijez très certainement.
+M. Miville-Deschênes (Jean-Philippe) : Bien, tu sais, dans la Loi sur l'accès,
+actuellement, et dans la nouvelle mouture, là, que le projet de loi n° 64 propose, pour
+communiquer, tu dois avoir une autorisation de communiquer, que ce soit, là, 59 au
+procureur, etc. 68, c'est une autorisation de communiquer. Une fois que tu as
+l'autorisation de communiquer, si tu communiques à l'extérieur du Québec, 70
+s'ajoute. Donc, 70.1, ce n'est pas une autorisation de communiquer, c'est une
+exigence supplémentaire qui s'applique dans la mesure où tu as déjà une autorisation
+de communiquer. 68, c'est cette autorisation-là de communiquer dans certaines
+circonstances qui y sont prévues, là.
+M. Caire : C'est ça que j'ai dit.
+M. Miville-Deschênes (Jean-Philippe) : J'ai juste complété.
+M. Tanguay : Oui, mais c'est mieux dit.
+M. Nadeau-Dubois : C'était une simple... J'avais déjà tout compris ça de la réponse
+du ministre.
+M. Caire : Bon, bien...
+M. Nadeau-Dubois : Non, mais donc, c'était... Je pense que... C'est ça, ma... Puis
+moi-même, ma question n'était pas parfaitement formulée. Ce que je comprends, c'est
+que 68 s'applique dans...
+Des voix : ...
+M. Nadeau-Dubois : Je comprends que 70.1 vient s'ajouter comme... puis vous me
+pardonnerez la métaphore familière, mais par-dessus, de manière supplémentaire à
+68.
+M. Miville-Deschênes (Jean-Philippe) : Exact.
+M. Nadeau-Dubois : O.K. Donc, on va chercher une autorisation de communiquer
+avec 68. Et puis, <si en sus on>... et puis, si cette autorisation-là est obtenue puis
+qu'on souhaite communiquer à l'extérieur du Québec, dans les cas où ça s'applique,
+là, les balises, à 70.1, viennent s'ajouter. C'est comme des exigences supplémentaires.
+M. Miville-Deschênes (Jean-Philippe) : Exact.
+M. Nadeau-Dubois : Parfait. Des fois, juste le fait de le répéter, ça aide à la
+compréhension. Ce n'est pas toujours pour avoir une réponse.
+
+M. Caire : Je confirme.
+M. Nadeau-Dubois : Oui, le ministre est d'accord. Bien, voilà. C'était ce que je
+cherchais à éclaircir, là, vraiment, comment les deux articles s'articulaient l'un avec
+l'autre. Et puis la réponse me permet de mieux comprendre. Merci beaucoup.
+Le Président (M. Bachand) : Est-ce qu'il y a intervention? M. le député de
+LaFontaine.
+• (15 h 30) •
+M. Tanguay : Oui, oui. Puis j'en profite pour remercier Me Miville-Deschênes, là, du
+support, là. On badine avec lui, là. C'est parce qu'il est rendu qu'il fait partie de la
+famille parlementaire. Alors, on remercie beaucoup votre travail, vos efforts, puis
+tout ça. Puis c'étaient des farces qu'on faisait là. Surtout, ne quittez pas la salle. C'est
+ça, l'essentiel...
+
+Haut de la page
+
+15 h 30 (version révisée)
+M. Nadeau-Dubois : ...de mieux comprendre. Merci beaucoup.
+17 859 Le Président (M. Bachand) :Merci. Interventions? M. le député de
+LaFontaine.
+11 789 M. Tanguay: Oui, oui. Puis j'en profite pour remercier Me MivilleDeschênes, là, du support, là. On badine avec lui, là, c'est parce qu'il est rendu qu'il
+fait partie de la famille parlementaire. Alors, on vous remercie beaucoup pour votre
+travail, et vos efforts, puis tout ça. Puis c'étaient des farces qu'on faisait, là. Surtout,
+ne quittez pas la salle. C'est ça, c'est ça, l'essentiel du message. Bien, si c'est de
+même... Là, on se regarde. On va suspendre.
+Je comprends. Puis on a des cas d'application de 68 dans le projet de loi n° 84 pour
+l'IVAC. Parce que j'essayais... On essaie toujours de comprendre, O.K., mais 68 :
+«Un organisme public peut, sans le consentement de la personne concernée,
+communiquer un renseignement personnel :
+«1° à un organisme public ou à un organisme d'un autre gouvernement lorsque cette
+communication est nécessaire à l'exercice des attributions de l'organisme receveur ou
+à la mise en oeuvre d'un programme dont cet organisme a la gestion;»
+
+La deuxième partie, je la comprends. C'est juste la première. Avez-vous un exemple?
+Parce que là, «est nécessaire à l'exercice des attributions de l'organisme receveur»,
+ça, ce n'est forcément pas mon gouvernement, c'est un gouvernement étranger. Ça
+peut être le gouvernement de l'Ontario, tu sais bien. Je ne sais pas si vous avez un
+exemple de cela. Ça peut être tu... Ça peut-u, par exemple... Excusez-moi. Est-ce que
+ça pourrait, par exemple, si le Québec est signataire d'une entente internationale ou
+d'une entente interprovinciale contre l'évasion fiscale puis que, là, les administrations
+veulent se parler, j'imagine que c'est un exemple de ça? Parce que, là, c'est comme si
+l'organisme public sert le programme à l'extérieur du Québec. Moi, ce n'est pas mon
+citoyen, là. Mais je ne sais pas s'il y a d'autres exemples, puis si mon exemple est
+bon, puis s'il y en a d'autres.
+M. Caire : Bien, l'exemple est bon puis je peux vous en donner un autre. Par
+exemple, on a un protocole, mettons. Admettons que nous avons un protocole
+d'entente avec les organisations en cybersécurité du gouvernement fédéral, et on
+demande au gouvernement fédéral d'assurer une veille internationale des activités de
+cyberattaque, bien, c'est une attribution que l'on fait au gouvernement du Canada qui
+pourrait nécessiter, par ailleurs, dans un cas de menace, qu'on lui communique des
+renseignements relatifs à des individus au Québec sans le consentement de ces
+individus-là.
+11 789 M. Tanguay: Ça me fait réfléchir. Ça, «sans le consentement de la personne»,
+la personne pourrait ne pas être domiciliée, résidente du Québec, hein? La personne
+que l'on vise...
+M. Caire : Bien, c'est des renseignements qu'on détient sur les individus, donc les
+chances...
+11 789 M. Tanguay: ...être Québécois, là, au sens légal.
+M. Caire : Pourrait. Bien, oui, effectivement, pourrait ne pas être Québécois, mais...
+11 789 M. Tanguay: Je donne un exemple. Il y a des ententes interprovinciales. Si
+j'avais été en voyage au Nouveau-Brunswick, il est arrivé un petit pépin, je suis
+obligé de passer une radiographie. Bien, je suis rentré à l'hôpital au NouveauBrunswick, je ne m'en rappelle plus lequel. Ma carte soleil, ils ont fait un formulaire,
+ils m'ont donné ma copie rose, puis ça ne m'a coûté rien, mais les systèmes, ils se
+sont parlé. Alors, le Nouveau-Brunswick, je ne suis pas résident du <NouveauBrunswick...
+11 789 M. Tanguay : ... interprovinciales. Si j'avais été en voyage au NouveauBrunswick, il est arrivé un petit pépin, je suis obligé de passer une radiographie.
+Bien, je suis rentré à l'hôpital au Nouveau-Brunswick, je ne m'en rappelle plus
+lequel. Ma carte soleil, ils ont fait un formulaire, ils m'ont donné ma copie rose, puis
+ça ne m'a coûté rien, mais les systèmes, ils se sont parlé. Alors, le Nouveau-
+
+Brunswick, je ne suis pas résident du >Nouveau-Brunswick, a dit : Québec, bon,
+votre citoyen, la radiographie, ça coûte tant. Ils se parlent entre eux autres, puis ils se
+remboursent, et vice versa.
+M. Caire : ...la même chose en Ontario.
+11 789 M. Tanguay: Je trouvais ça bien, je veux dire, parce que, tu sais...
+M. Caire : Puis le député donne un excellent exemple.
+11 789 M. Tanguay: Exact. Puis tu te dis... C'est là que tu dis : Wow! Je suis content,
+les administrations, elles se parlent.
+M. Caire : Oui.
+11 789 M. Tanguay: Hein? Puis j'ai sorti ma carte soleil, puis ils ont dit : C'est
+correct. Parfait, monsieur, na, na, na. Puis j'ai gardé ma copie rose, je l'ai pliée en...
+M. Caire : Ce qui est nettement plus simple par ailleurs que de payer, de revenir,
+puis de se faire rembourser, là. Beaucoup plus simple.
+11 789 M. Tanguay: Voilà! Alors ça, j'imagine que, là, à l'inverse, au Québec, vient
+une personne du Nouveau-Brunswick, elle est obligée de passer une radiographie
+aussi. Québec va dire : Bien, M. Untel... Puis là c'est des renseignements personnels,
+là. Il a passé une radiographie pour ça, ça, ça. C'était un scan. Voici, na, na, na. Puis
+remboursez-nous tant. Il y a des ententes avec les...
+M. Caire : Tout à fait.
+11 789 M. Tanguay: Donc, O.K. Puis ça, on le voyait entre autres pour l'IVAC parce
+que l'IVAC, ce qu'on fait, c'est le 84, c'est ça, on a parlé de ça, hier, M. le Président, si
+vous êtes agressé en Ontario, vous allez faire votre demande en Ontario, puis tout ce
+que l'Ontario ne va pas vous donner par rapport au programme québécois qui est plus
+généreux, on va vous le donner au Québec. Mais le premier payeur, c'est l'Ontario qui
+a une obligation de sécurité sur son territoire. Vous vous faites agresser? Faites la
+demande là. Les systèmes vont se parler. Puis s'ils arrêtent à 5 000 $, puis, nous
+autres, on devrait se rende à 15 000 $, on va vous donner le 10 000 $, mais on va se
+parler, là. Alors, c'était un exemple qui... Ça me va.
+17 859 Le Président (M. Bachand) : D'autres interventions sur l'article 25 tel
+qu'amendé? Sinon, nous allons, nous allons procéder à sa mise aux voix. Mme la
+secrétaire, s'il vous plaît.
+La Secrétaire : Pour, contre, abstention, M. Caire (La Peltrie)?
+
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+17 851 M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+11 789 M. Tanguay: Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+16 827 M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+17 859 Le Président (M. Bachand) : Abstention. Donc, l'article 25, tel qu'amendé,
+est adopté. Merci. M. le ministre, s'il vous plaît.
+M. Caire : Oui, merci, M. le Président. L'article 26 se lit comme suit : Les articles
+68.1 et 70 de la loi sont abrogés.
+Donc, cet article abroge 68.1 de la Loi sur l'accès aux documents des organismes
+publics et sur la protection des renseignements personnels en raison du remplacement
+de l'article 67 de cette loi effectué par le projet de loi. Il abroge aussi l'article 70 de
+cette loi en raison de l'abrogation de l'article 68.1 et en raison des modifications à
+l'article 68 de la même loi effectuées par l'article précédent du projet de loi.
+17 859 Le Président (M. Bachand) : Merci. M. le député de LaFontaine.
+11 789 M. Tanguay: Juste un petit clin d'oeil au ministre. À 70, on l'a gardé, le 30
+jours. À 70, c'était 60 jours. Là, on vient d'y serrer les ouïes un petit peu, là. Plus, il y
+avait un 20 jours de prévus, là. C'est comme dans Astérix contre Cléopâtre, là, le
+film, là, quand elle dit : Vous devez me construire un palais. Il dit : O.K. c'est quoi, le
+délai?
+M. Caire : Trois mois.
+11 789 M. Tanguay: C'est trois mois. Puis il dit : O.K. puis c'est quoi, les délais de
+non-livraison? On peut se rendre jusqu'à quand? Non, non, tu sais, c'est un vrai trois
+mois.
+M. Caire : Alors, M. le Président, j'en conclus qu'il faut doter la CAI de potion
+
+magique.
+11 789 M. Tanguay: La potion, oui, ça va prendre ça. Ça va prendre ça. Puis il va
+falloir engager Astérix et Obélix.
+M. Caire : Mais ceci étant, je trouve <ça intéressant...
+11 789 M. Tanguay : ... puis c'est quoi les délais... les délais de non-livraison? On
+peut se rendre jusqu'à quand? Non, non, tu sais, c'est un vrai trois mois.
+M. Caire : Alors, M. le Président, j'en conclus qu'il faut doter la CAIV de potion
+magique.
+11 789 M. Tanguay : La potion, oui, ça, ça va prendre ça. Ça va prendre ça. Puis il
+va falloir engager Astérix et ObélixV.
+M. Caire : Mais ceci étant, je trouve >ça intéressant. Puis prenons quelques instants,
+si les collègues sont d'accord. Vous avez raison, c'est vrai qu'on réduit le délai, mais
+— puis j'ai compris que les collègues étaient d'accord avec l'idée — on va aussi
+donner les outils à la CAI. Je veux dire, on lui donne des nouveaux pouvoirs, on va
+lui donner des nouveaux outils, on va, si c'est toujours la volonté des collègues bien
+sûr, améliorer la composition de la CAI. Donc, en même temps, on n'est pas... Il ne
+faut pas non plus demander des miracles, là, n palais en trois mois, on comprend
+que... Mais bien, bien outillés, je pense que, de ramener les délais à 30 jours qu'on
+voit, puis les collègues ont de l'expérience aussi, là, en la matière, puis le 30 jours, on
+est pas mal dans des délais standards pour l'Assemblée nationale.
+11 789 M. Tanguay: Il y avait une procédure. L'entente en vigueur sur avis favorable
+de la commission, c'était à 70, troisième avant-dernier alinéa. Avant-dernier alinéa :
+«En cas d'avis défavorable de la commission, le gouvernement peut, sur demande,
+approuver cette entente et fixer les conditions...» Puis là il y avait une procédure, là,
+«le gouvernement publie à la Gazette officielle...» Puis finalement : «L'entente visée
+au cinquième alinéa ainsi que l'avis de la commission et l'approbation du
+gouvernement sont déposés à l'Assemblée nationale dans les 30 jours...» Là, on
+vient...
+M. Caire : Simplifier les choses.
+11 789 M. Tanguay: ...simplifier les choses.
+M. Caire : On vient responsabiliser les organismes.
+11 789 M. Tanguay: Oui. Est-ce que... On a-tu dit ça? Puis je sais que ça a été dit, là.
+Puis la loi, avec 64, ce qu'on fait là, on élargit aussi, hein? On élargit le nombre
+d'organismes.
+
+M. Caire : Oui.
+11 789 M. Tanguay: Alors, à l'heure actuelle, le régime actuel ne comprenait pas les
+municipalités?
+M. Caire : Non.
+11 789 M. Tanguay: Non. Ne comprenait pas les ordres professionnels non plus?
+Alors, d'où l'importance de dire : Bien, s'il y a des ententes, on va arrêter de... Tu sais,
+comme dans le temps, quand ça prenait une loi fédérale pour divorcer.
+M. Caire : Oui, oui.
+11 789 M. Tanguay: Tu sais, à un moment donné...
+M. Caire : Non, ça aurait fait un beau paquet d'ententes à valider. Je pense que Me
+Miville-Deschênes...
+11 789 M. Tanguay: Bien, il se mord les lèvres.
+M. Caire : ...a envie de s'exprimer. Puis je ne sais pas ce que le député de LaFontaine
+en pense.
+11 789 M. Tanguay: Oui. Je ne sais pas, là.
+M. Caire : Qu'est-ce qu'on fait?
+11 789 M. Tanguay: Ah! Envoie donc. Envoie donc.
+M. Caire : O.K., allez-y.
+17 859 Le Président (M. Bachand) : Me Miville-Deschênes, allez-y.
+M. Miville-Deschênes (Jean-Philippe) : Bien, je n'y tenais pas tant que ça. Je
+voulais juste clarifier que la loi s'applique au même nombre d'organismes publics,
+mais que certaines obligations qui étaient dans le règlement, qui... le règlement
+s'appliquait juste aux ministères. Certaines obligations ont été amenées dans la loi.
+Ça fait que ces nouvelles obligations-là s'appliquent aux municipalités, etc., mais la
+loi s'applique déjà aux municipalités et aux ordres professionnels. Mais eux autres,
+ils vont être visés par de nouvelles obligations.
+11 789 M. Tanguay: Ça fait que, ça, c'est la façon polie de dire qu'on a erré dans nos
+commentaires?
+Une voix : ...
+
+11 789 M. Tanguay: Oui, c'est ça.
+M. Miville-Deschênes (Jean-Philippe) : Bien, c'est ça, mais...
+11 789 M. Tanguay: Ça va prendre une secousse, M. le Président.
+M. Caire : Oui. Il vient de sauter deux tours, là.
+11 789 M. Tanguay: Bien, merci. C'est bon.
+17 859 Le Président (M. Bachand) : Autres interventions sur l'article 26? Non?
+Donc, nous allons procéder à sa mise aux voix. Mme la secrétaire, s'il vous plaît.
+La Secrétaire : Pour, contre, abstention. M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+17 851 M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+11 789 M. Tanguay: Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+16 827 M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+17 859 Le Président (M. Bachand) : Abstention. Donc, <l'article 26...
+17 859 Le Président (M. Bachand) :... Non? Donc, nous allons procéder à la mise
+aux voix. Mme la secrétaire, s'il vous plaît.
+La Secrétaire : Pour, contre, abstention. M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+
+17 851 M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+11 789 M. Tanguay : Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+16 827 M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+17 859 Le Président (M. Bachand) : Abstention. Donc, >l'article 26 est adopté.
+Merci.
+Alors, M. le ministre, je ne sais pas, est-ce que vous voulez...
+M. Caire : Bien, M. le Président, je vous demanderais une très courte suspension.
+J'aurais besoin de consulter les juristes très, très rapidement.
+17 859 Le Président (M. Bachand) : Parfait. Alors, on va suspendre quelques
+instants. Merci.
+(Suspension de la séance à 15 h 39)
+(Reprise à 15 h 47)
+17 859 Le Président (M. Bachand) :À l'ordre, s'il vous plaît! La commission
+reprend ses travaux. M. le ministre.
+M. Caire : Oui. Merci, M. le Président. Donc, à l'article 27, j'aurais un amendement.
+17 859 Le Président (M. Bachand) : Il faudrait d'abord avoir le consentement pour
+réouvrir 27 tel qu'amendé.
+M. Caire : Bien, en fait, on l'avait suspendu, M. le Président, on n'avait pas adopté.
+17 859 Le Président (M. Bachand) : Pardon?
+M. Caire : On avait suspendu l'étude de l'article 27.
+17 859 Le Président (M. Bachand) : Oui. Donc, ça prend le consentement pour y
+revenir.
+
+M. Caire : Ah!
+17 859 Le Président (M. Bachand) :C'est ça.
+11 789 M. Tanguay: ...
+M. Caire : O.K.
+17 859 Le Président (M. Bachand) : Bon. Bien, voilà, ce n'est pas plus compliqué
+que ça. Alors, à vous, M. le ministre.
+M. Caire : Donc, M. le Président : À l'article 27 du projet de loi, retirer la section
+II.1 du chapitre III de la Loi sur l'accès aux documents des organismes publics et sur
+la protection des renseignements personnels comprenant les articles 70.3 à 70,7.
+M. le <Président...
+17 859 Le Président (M. Bachand) :...ce n'est pas plus compliqué que ça. Alors, à
+vous, M. le ministre.
+M. Caire : Donc, M. le Président : À l'article 27 du projet de loi, retirer la section
+II.1 du chapitre III de la Loi sur l'accès aux documents des organismes publics et sur
+la protection des renseignements personnels, comprenant les articles 70.3 à 70,7.
+M. le >Président, ça fait écho à une discussion que j'ai eue avec les collègues
+mercredi dernier concernant des éléments qui sont à venir et qui viendront pallier au
+fait qu'il n'y a pas la nécessité de discuter de ce sujet-là maintenant. Je le dis comme
+ça. Je pense que les collègues comprennent de quoi on parle.
+17 859 Le Président (M. Bachand) : Interventions sur l'amendement? S'il n'y a pas
+d'intervention sur l'amendement, nous allons procéder à sa mise aux voix. Mme la
+secrétaire, s'il vous plaît.
+La Secrétaire : Pour, contre, abstention. M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+17 851 M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+
+11 789 M. Tanguay: Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+16 827 M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+17 859 Le Président (M. Bachand) : Abstention. Donc, l'amendement est adopté.
+Merci beaucoup. Donc, on revient à l'article 27 tel qu'amendé. Interventions? S'il n'y
+a pas d'autre intervention, nous allons procéder à sa mise aux voix. Mme la
+secrétaire, s'il vous plaît.
+La Secrétaire : Pour, contre, abstention. M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+17 851 M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+11 789 M. Tanguay: Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+16 827 M. Nadeau-Dubois : Contre.
+La Secrétaire : M. Bachand (Richmond)?
+17 859 Le Président (M. Bachand) : Abstention. Donc, l'article 27 tel qu'amendé est
+adopté. Merci beaucoup. M. le ministre, s'il vous plaît.
+M. Caire : Oui. Merci, M. le Président. L'article 28 se lit comme suit :
+73 de cette loi est modifié :
+
+L'article
+
+1° par l'insertion, après «détruire», de «ou l'anonymiser»;
+2° par l'ajout, à la fin, des alinéas suivants :
+«Pour l'application de la présente loi, un renseignement concernant une personne
+physique est anonymisé lorsqu'il ne permet plus, de façon irréversible, d'identifier
+
+directement ou indirectement cette personne.
+«Les renseignements anonymisés en vertu de la présente loi doivent l'être selon les
+meilleures pratiques généralement reconnues.»
+• (15 h 50) •
+M. le Président, l'article 73 de la Loi sur l'accès aux documents des organismes
+publics et sur la protection des renseignements personnels est modifié afin de prévoir
+que, lorsque les fins pour lesquelles un renseignement personnel a été recueilli ou
+utilisé sont accomplies, un organisme public puisse anonymiser ces renseignements
+au lieu de les détruire. Il est également modifié afin de prévoir que les
+renseignements anonymisés en vertu de cette loi doivent l'être selon les meilleures
+pratiques généralement reconnues.
+Et, M. le Président, j'ai un amendement, et cet amendement se lit comme suit :
+Insérer, dans le deuxième alinéa de l'article 73 de la Loi sur l'accès aux documents
+des organismes publics et sur la protection des renseignements personnels, proposé
+par l'article 28 du projet de loi et après «lorsqu'il», «est raisonnable de prévoir dans
+les circonstances qu'il».
+Alors, cet amendement modifie la définition d'un renseignement anonymisé, M. le
+Président.
+17 859 Le Président (M. Bachand) : Merci. Interventions sur l'amendement? M. le
+député de LaFontaine.
+11 789 M. Tanguay: Oui. Là, l'amendement, là, je... article... O.K., là, je n'ai pas le
+bon amendement. Excusez-moi, M. le Président. Amendement à venir. Là, <on est
+sur...
+M. Caire : ... Alors, cet amendement modifie la définition d'un renseignement
+anonymisé, M. le Président.
+17 859 Le Président (M. Bachand) : Merci. Interventions sur l'amendement? M. le
+député de LaFontaine.
+11 789 M. Tanguay : Oui. Là, l'amendement, là, je... article... O.K., là, je n'ai pas le
+bon amendement. Excusez-moi, M. le Président. Amendement à venir. Là, >on est
+sur le 28.73. C'est ça? Bon.
+M. Caire : ...avec l'amendement, le deuxième alinéa se lirait : «Pour l'application de
+la présente loi, un renseignement concernant une personne physique est anonymisé
+lorsqu'il est raisonnable de prévoir, dans les circonstances, qu'il ne permet plus de
+façon universelle d'identifier directement ou indirectement cette personne.»
+
+11 789 M. Tanguay: Ça et dans l'article 19, on a eu des échanges dans le contexte de
+l'article 19 du projet de loi par rapport à la dépersonnalisation. Est-ce qu'on avait
+porté un tel amendement? Là, je suis strictement sur l'amendement. Est-ce que l'on
+avait, à 19, déposé un amendement similaire «il est raisonnable de prévoir, dans les
+circonstances, qu'il»?
+M. Caire : On avait-tu...
+Une voix : Non.
+M. Caire : Non, hein? Il me semble que non. Non, non.
+(Consultation)
+17 859 Le Président (M. Bachand) :M. le ministre.
+M. Caire : M. le Président, je vais vous demander une très courte suspension, s'il
+vous plaît, parce que je vais voir à proposer un autre amendement aux collègues, en
+complément de ce qu'on vient de faire.
+17 859 Le Président (M. Bachand) : Merci. Alors, on suspend quelques instants.
+Merci beaucoup.
+(Suspension de la séance à 15 h 53)
+(Reprise à 15 h 54)
+17 859 Le Président (M. Bachand) :À l'ordre, s'il vous plaît! La commission
+reprend ses travaux. M. le ministre.
+M. Caire : Oui. Merci, M. le Président. Alors, je ne déposerai pas de nouvel
+amendement parce que, suite aux discussions avec les juristes, au fond... En fait,
+l'idée de départ, c'était que, dans cet article-là tel qu'il avait été rédigé en toute bonne
+foi, c'était la notion d'irréversibilité. Puis, je pense qu'on a discuté de ça avec les
+collègues abondamment, la loi exigeait quelque chose qui est... bon, qui n'est pas
+impossible, mais qui est quasi impossible. Et c'est la raison pour laquelle je voulais
+vraiment valider. Et la notion de quand on dit «lorsqu'il est raisonnable de prévoir
+dans les circonstances qu'il ne permet plus de façon irréversible», là, il y a la notion
+de raisonnabilité.
+Donc, si je prends vraiment tous les moyens pour le rendre irréversible, je serai
+conforme à la loi. Puis là ça vient pallier à une situation qui est... une discussion fort
+intéressante que j'ai eue d'ailleurs avec le député de Gouin, où je disais : Si on
+travaille dans un vase clos, un «sandbox», excusez, une boîte de sable — je n'aime
+pas l'expression française, là — si on crée un vase clos dans l'utilisation des données,
+
+qui n'est pas connecté sur aucun système externe, qui n'est qu'un réseau interne, on
+est capable d'anonymiser parce que, là, tous les protocoles que je pourrais mettre en
+place pour essayer de récupérer de l'information qui me permettrait de
+désanonymiser les données ne seront pas accessibles. Et là, dans ce contexte-là,
+l'anonymisation peut être irréversible, mais c'est un contexte qui est vraiment très,
+très, très particulier. Mais aussitôt que je travaille, mais que j'aie accès aux autres
+protocoles, aux autres sources d'information, anonymiser de façon irréversible
+devient pratiquement impossible. Et là la loi exige des choses qui sont impossibles.
+Donc, c'était le malaise que moi, j'avais, mais, selon l'avis des juristes, en qui j'ai une
+pleine confiance, en adoptant l'amendement, on vient couvrir ces situations-là, sur le
+fait qu'indépendamment du contexte, dans la mesure où je fais les efforts
+raisonnables pour anonymiser de façon irréversible, je serai dans le respect de la loi.
+Alors, voilà, M. le Président, l'explication de l'amendement est mon auto-explication.
+17 859 Le Président (M. Bachand) :Merci. Interventions sur l'amendement? M. le
+député de Gouin, s'il vous plaît.
+16 827 M. Nadeau-Dubois : Quand la mouture originale du projet de loi a été
+déposée et qu'on a fait des commissions parlementaires, plusieurs groupes sont venus
+témoigner leur inconfort à l'égard de <l'article 28...
+16 827 M. Nadeau-Dubois : ...Quand la mouture originale du projet de loi a été
+déposée et qu'on a fait des commissions parlementaires, plusieurs groupes sont venus
+témoigner leur inconfort à l'égard de >l'article 28, et pas les moindres : la CAI; la
+commission des droits de la personne et de la jeunesse du Québec; la Ligue des droits
+et libertés, ces gens-là sont venus dire : Un instant. La notion d'anonymisation, elle
+est éminemment contestable.
+Et, grosso modo, l'argument de ces gens-là, je résume dans mes mots, était de dire :
+Puisque l'anonymisation — et le ministre vient d'en convenir lui-même — est un
+processus faillible... et c'est même un euphémisme, là, certains intervenants ont
+même dit que c'était chimérique, c'est-à-dire irréaliste comme notion, là, ces groupeslà sont venus dire : Par conséquent, c'est une trop grande menace pour la vie privée
+que de permettre à des organismes publics de conserver indéfiniment, dans le fond,
+des renseignements personnels.
+Ça, c'était la version initiale du projet de loi. Avec son amendement, le ministre vient
+assouplir encore davantage en disant : Ça n'a même plus besoin d'être irréversible, il
+faut que ce soit raisonnablement... il faut qu'il soit raisonnable de prévoir dans les
+circonstances qu'il ne permet plus de façon irréversible d'identifier directement ou
+indirectement l'individu. Donc, la mouture initiale avait généré des malaises et des
+critiques, puis là le ministre l'assouplit encore davantage. Ça fait que, qu'est-ce que le
+ministre aurait à répondre aux acteurs qui trouvaient déjà le libellé initial un peu trop
+permissif?
+
+• (16 heures) •
+M. Caire : Bien, en fait, M. le Président, il faudrait qu'on me démontre que le fait de
+les conserver augmente la menace. C'est une logique que je ne comprends pas. C'està-dire que, suivons le raisonnement, je recueille les renseignements personnels pour
+des fins x, y, la menace est à un niveau x. J'utilise les renseignements personnels aux
+fins pour lesquelles je les ai collectées, la menace est toujours au niveau x. Les fins
+pour lesquelles j'ai collecté la donnée sont terminées, donc je peux effectivement
+détruire les données en question ou, dans certaines circonstances pour lesquelles je
+pourrais avoir des discussions avec le collègue...
+
+Haut de la page
+
+16 h (version révisée)
+M. Caire : ...je les ai collectées, la menace est toujours au niveau x. Les fins pour
+lesquelles j'ai collecté la donnée sont terminées, donc je peux effectivement détruire
+les données en question ou, dans certaines circonstances pour lesquelles je pourrais
+avoir des discussions avec le collègue, je décide de les garder, mais cette fois je les
+anonymise, et là la menace n'est plus x, elle est y. Pourquoi? Je ne comprends pas.
+Honnêtement, je ne comprends pas en quoi ça augmente la menace pour la vie privée
+que dans leur cycle de vie j'arrive à une étape où je rends la donnée moins utilisable.
+Puis je suis d'accord avec le collègue, puis je ne me dédie pas sur ce que j'ai dit, j'ai
+dit : Anonymiser des données de façon irréversible, à moins de les mettre dans le
+contexte que j'ai élaboré, c'est... de façon irréversible, pour moi, ce n'est pas possible.
+Ceci étant dit, de les anonymiser, ça les rend quand même moins utilisables et les
+personnes qui ont la capacité de désanonymiser les données ont des bons moyens
+techniques, là. On s'entend que ce n'est pas à la portée de n'importe qui. Et il y a des
+chances que ces gens-là, qui ont les moyens de faire ça, auront les moyens d'attaquer
+les systèmes puis d'aller chercher les données qui n'ont pas été anonymisées, là.
+Alors, pour moi, l'argument de... ou de la fluctuation de la menace par rapport à
+quelle étape la donnée, elle est rendue dans le cycle de vie, ce n'est pas argument...
+pour moi, c'est un argument qui n'est pas démontré, là. Je ne comprends pas pourquoi
+c'est une plus grande menace ou... Pour moi, il n'y a pas de logique là-dedans, là.
+Le Président (M. Bachand) : Merci. M. le député de Gouin.
+M. Nadeau-Dubois : Toute la philosophie du projet de loi, puis le ministre me
+corrigera, est la suivante : les citoyens, citoyennes du Québec donnent leur
+consentement pour fournir un renseignement personnel. Ce consentement-là est en
+
+lien avec une fin précise. Et on a même, sur ce plan-là, fait une avancée, c'est-à-dire
+que, là, même que les gens vont devoir consentir pour chacune des finalités
+d'utilisation de leurs renseignements. Ça, c'est comme la fondation du projet de loi.
+Ce que vient faire l'article 28, c'est faire une exception à cette règle-là en disant : Une
+fois que la finalité pour laquelle le consentement a été donné est accomplie... et là on
+pourrait donc faire l'argument que c'est précisément à ce moment-là que le
+consentement arrive à son échéance, puisque moi j'ai dit : Je consens à une fin x. Au
+moment où la fin x est accomplie, le consentement est échu puisqu'il a été donné en
+vue d'accomplir la fin x. Là, ce que l'article 28 vient faire c'est dire : Bien, en fait,
+<l'organisme public...
+M. Nadeau-Dubois : ...à une fin x. Au moment où la fin x est accomplie, le
+consentement est échu puisqu'il a été donné en vue d'accomplir la fin x. Là, ce que
+l'article 28 vient faire c'est dire : Bien, en fait, >l'organisme public va devoir... va
+pouvoir, dorénavant, le garder, ce qui est une nouveauté, à condition de l'anonymiser.
+Ça, ce principe-là, qui est le principe de l'article 28, je répète que la Ligue des droits
+et libertés, la Commission d'accès à l'information, la Commission des droits de la
+personne et de la jeunesse, ce n'est pas des acteurs marginaux, là, sont venus dire :
+Attention! Il y a un problème. Ça fait que moi, ma question pour le ministre, c'est
+pourquoi les organismes publics auraient-ils besoin de conserver un renseignement
+personnel si la raison pour laquelle le renseignement a été collecté, cette raison-là est
+accomplie, cet objectif-là a été accompli?
+M. Caire : Bien, c'est une excellente question. Et là je dois dire que, si l'argument de
+la menace à la vie privée, pour moi, ne trouvait pas d'écho, je suis partiellement
+d'accord avec le député de Gouin. Effectivement, on... je dirais, on élargit un peu le
+principe de l'utilisation du renseignement personnel dans cet article-là. Ceci étant,
+pourquoi? Bien, je vous dirais, c'est notamment une demande de la Commissaire à la
+santé de pouvoir conserver les données dans le cadre de son travail, notamment pour
+des fins d'enquête, pour des fins de vérification, pour des fins de comparaison
+statistique, de garder une espèce de mémoire institutionnelle et d'être capable d'avoir
+un étalon de mesure. Donc, pour toutes sortes de finalités, la Commissaire à la santé
+souhaite pouvoir conserver les données et ne pas avoir à les détruire lorsque la
+finalité pour laquelle les données ont été collectées se trouve complétée. Alors, voilà
+l'explication, M. le député.
+M. Nadeau-Dubois : ...un exemple, mais, là, c'est tous les organismes publics qui
+vont pouvoir...
+M. Caire : Je comprends.
+M. Nadeau-Dubois : ...se prévaloir de cette possibilité-là. Est-ce que le ministre peut
+me donner d'autres... Pourquoi tous les organismes publics auraient-ils besoin de
+cette nouvelle possibilité-là?
+
+M. Caire : Je vais laisser Me Miville-Deschênes compléter la réponse, M. le
+Président.
+Le Président (M. Bachand) : Me Miville-Deschênes.
+M. Miville-Deschênes (Jean-Philippe) : En fait, actuellement, là, une loi... un
+renseignement qui est anonyme n'est pas soumis à la Loi sur l'accès puis à la Loi sur
+la protection des renseignements personnels. Puis je vais même citer le RGPD qui le
+prévoit spécifiquement, là. Il dit : «Le présent règlement ne s'applique pas au
+traitement de telles informations <anonymes...
+M. Caire : ... M. le Président.
+Le Président (M. Bachand) : Me Miville-Deschênes.
+M. Miville-Deschênes (Jean-Philippe)T : En fait, actuellement, là, une loi... un
+renseignement qui est anonyme n'est pas soumis à la Loi sur l'accès puis à la Loi sur
+la protection des renseignements personnels. Puis je vais même citer le RGPDV qui
+le prévoit spécifiquement, là. Il dit : «Le présent règlement ne s'applique pas au
+traitement de telles informations >anonymes». Ça fait que c'est une notoriété, je
+dirais... Les entreprises qui veulent utiliser des renseignements à d'autres fins, bien,
+elles peuvent les anonymiser, et là être exclues de l'application de la loi et les utiliser
+à d'autres fins, parce que ce n'est plus des renseignements qui sont, au sens de la
+définition «renseignements personnels», qui sont identificatoires directement ou
+indirectement, etc.
+Ça fait que l'enjeu, c'est un peu de dire : Est-ce que... Puis là, la commission d'accès,
+dans son mémoire, nous dit, bon : Il y a une certaine confusion sur ce que constitue
+un renseignement personnel. Ça peut laisser croire que le seul fait de retirer les
+identifiants uniques, etc., ça fait en sorte qu'un renseignement est anonymisé. Ça fait
+que l'enjeu, c'est de dire : Est-ce qu'on reconnaît cette possibilité dans la loi de
+conserver les renseignements anonymisés et on en profite pour définir cette notion-là,
+ou on laisse la situation actuelle, où il y a... où c'est déjà reconnu implicitement qu'un
+renseignement anonyme n'est pas assujetti à la loi, mais sans la définir, là?
+M. Nadeau-Dubois : Et qu'est-ce que vient faire l'amendement?
+M. Miville-Deschênes (Jean-Philippe) : Ah! Bien là, l'amendement, c'est que
+l'aspect irréversible était un peu, selon les experts, utopique, là, de dire que ça va être
+irréversible pour toujours, l'anonymisation. Donc, l'amendement est venu un peu... de
+dire qu'il faut que l'entreprise, ça soit... je ne me souviens pas le texte précis, là, mais
+que, par des moyens raisonnables, là, qu'il soit raisonnable de... que le renseignement
+soit... qu'il ne soit pas possible d'identifier une personne de façon irréversible, parce
+que le critère d'irréversibilité seul semblait, pour plusieurs experts, là, impossible à
+atteindre.
+
+M. Nadeau-Dubois : Mais là, est-ce que je suis le seul à réaliser qu'il y a un article
+dans le projet de loi initial qui disait... en vertu exactement de ce que Me MivilleDeschênes vient de dire : Si vous anonymisez, vous pouvez les conserver
+indéfiniment, même si le consentement des gens est échu. C'est ça que l'article initial
+disait. Puis il y avait une définition exigeante de l'anonymisation. Là, moi, ce que je
+comprends de la réponse qu'on me donne, c'est que c'était trop exigeant. Ça fait qu'on
+va être moins exigeants dans notre définition de l'anonymisation, et donc on... C'est
+parce que c'est une exception au consentement qu'on vient faire ici, là, ce n'est pas
+une coquetterie, là. C'est une exception au consentement, puis là on... et déjà, cette
+exception-là était jugée périlleuse par beaucoup de groupes. Je vais vous lire la
+recommandation 15, là, de la Commission des droits de la personne et de la jeunesse
+du Québec : «La commission recommande que la notion d'anonymisation ne soit pas
+introduite au projet de loi n° 64.» Et ce n'est pas une recommandation complexe, là.
+Ils disaient : N'allez pas là, c'est dangereux. Et leur argument, c'était quoi? C'était :
+<C'est trop...
+M. Nadeau-Dubois : ... par beaucoup de groupes. Je vais vous lire la
+recommandation 15, là, de la Commission des droits de la personne et de la jeunesse
+du Québec : «La commission recommande que la notion d'anonymisation ne soit pas
+introduite au projet de loi n° 64.» Et ce n'est pas une recommandation complexe, là.
+Ils disaient : N'allez pas là, c'est dangereux. Et leur argument, c'était quoi? C'était :
+>C'est trop facile de désanonymiser. Je peux lire le mémoire au ministre, là.
+M. Caire : Juste apporter peut-être une nuance technique parce que...
+M. Nadeau-Dubois : Bien, je vais juste terminer puis je laisse le ministre y aller
+après, il n'y a pas de problème, là, mais...
+M. Caire : C'est la notion de trop facile. Moi, je reconnais...
+M. Nadeau-Dubois : Non, non, mais, M. le Président, je veux juste terminer puis je
+laisse le ministre y aller.
+Le Président (M. Bachand) : Juste... M. le député de Gouin, s'il vous plaît, oui.
+• (16 h 10) •
+M. Nadeau-Dubois : Et là, en fait, c'est intéressant, là, la commission se cite ellemême : «Au regard des travaux sur la question, la commission est d'avis qu'une
+anonymisation ou une déidentification parfaite sont difficiles à concevoir. Étant
+donné les risques de réidentification, les données devraient être considérées comme
+des renseignements personnels.» Recommandation 15 : «La Commission
+recommande que la notion d'anonymisation ne soit pas introduite au projet de loi n°
+64.»
+Le Président (M. Bachand) : M. le ministre.
+
+M. Caire : Bien, je vais apporter quelques nuances. Puis j'ai un infini respect pour la
+commission. Ceci étant dit, et je le dis, effectivement, moi, je dis : La notion
+d'anonymisation irréversible, j'ai expliqué dans quel contexte c'était possible. Parce
+qu'il y a des contextes pour lesquels c'est possible, il s'agit de couper évidemment les
+outils qui vont permettre de faire ça. Un.
+Deux. Dire que c'est facile, ça, ce n'est pas vrai. Ce n'est pas facile, ce n'est pas
+simple, ce n'est pas à la portée de n'importe qui. C'est comme ce que j'ai entendu pour
+dire d'intercepter des communications Bluetooth. Bien oui, ça se fait, mais ça prend
+des méchantes machines de guerre pour réussir à le faire, là. Ce n'est pas vrai, là, que
+n'importe qui dans son sous-sol est capable de faire ça.
+Mais la notion d'irréversibilité, sans l'amendement, là, la loi nous amène dans un
+univers qui n'est pas réaliste. Alors, je voulais apporter cette nuance-là sur ce pointlà.
+Ensuite, ce que je dis, c'est que, dans son cycle de vie, juste avant la destruction, la
+donnée n'est pas anonymisée. Et, à mon sens, la menace, si menace il y a, est bien
+plus grande à ce moment-là. Donc, on s'entend, elle n'est pas anonymisée, donc...
+Puis, quand je dis «la menace, si menace il y a», parce que, bon, il faut quand même
+passer les barrières de protection puis hacker un système, ça non plus, ce n'est pas à
+la portée de n'importe qui. Donc, c'est la notion que la menace... il y a une fluctuation
+de la menace parce que, dans son cycle de vie, la donnée est arrivée au cycle où on
+pourrait la détruire. Il n'y a pas de corollaire entre la menace puis à quelle étape dans
+son cycle de vie la donnée est. La menace n'est pas plus grande à la fin qu'au début,
+qu'au milieu. La menace, elle est constante. Elle est constante, il n'y a pas de
+fluctuation.
+Donc, de dire que, si vous les conservez <au-delà du cycle...
+M. Caire : ... puis à quelle étape dans son cycle de vie la donnée est. La menace n'est
+pas plus grande à la fin qu'au début, qu'au milieu. La menace, elle est constante. Elle
+est constante, il n'y a pas de fluctuation.
+Donc, de dire que, si vous les conservez >au-delà du cycle de vie... de l'étape du
+cycle de vie de destruction, ça va représenter une plus grande menace, ce n'est
+absolument pas démontré, là. C'est une affirmation, j'en conviens, mais qui n'est pas
+basée sur rien de démontrable.
+Bon, la question que le collègue pose, puis là, là-dessus, je le suis. Alors, pour quelle
+fin... alors qu'effectivement les données, elles ont été collectées pour une fin x, le
+consentement établi pour une fin x, pour quelle fin est-ce qu'on pourrait vouloir ne
+pas les détruire et les conserver?
+Bien, j'ai donné un exemple où un organisme public pourrait, dans l'exécution de son
+mandat, vouloir conserver les données préférablement que de les détruire. Mais tout
+
+ça, évidemment, doit servir l'intérêt public, on s'entend. Et l'idée de les
+désanonymiser, c'est justement d'accorder une protection supplémentaire du fait que
+les fins pour lesquelles la donnée a été collectée n'est plus la finalité pour laquelle on
+la conserve, c'est de rajouter cette couche de protection supplémentaire là.
+Donc, a contrario, je pense qu'il ne faut pas... Et puis il y a plein d'articles dans le
+projet de loi qui viennent dire justement qu'on peut, pour d'autres fins que celles pour
+lesquelles la donnée a été collectée, utiliser la collectée, et ce, même sans le
+consentement de la personne.
+Donc, ce n'est pas... L'article 28 ne se distingue pas nécessairement par ce qu'il fait.
+Évidemment, il faut qu'il y ait une motivation. Évidemment, il faut qu'il y ait un
+intérêt public à le faire. Moi, je suis d'accord là-dessus. Mais ne partons pas du
+principe que le niveau de danger est augmenté et qu'en aucun temps il faut faire ça.
+Bien non, tu sais, je veux dire, ça a été... tu sais, ça a été demandé. Il y a des
+organismes qui le demandent puis qui disent : On le souhaite. On le souhaite, en
+rajoutant une couche de protection, puis il y a une finalité d'intérêt public, M. le
+Président. Tu sais, c'est comme... Ça fait que, là-dessus, je ne peux pas être tout à fait
+d'accord avec la commission, M. le Président, là.
+Le Président (M. Bachand) : M. le député de Gouin.
+M. Nadeau-Dubois : On va rectifier quelque chose tout de suite, comme ça le
+ministre va pouvoir arrêter de répondre à cet argument-là, là. L'argument ici, ce n'est
+pas celui de la menace, là, technologique. Ce n'est pas ça, mon argument, ce n'est pas
+ça, l'argument de la Commission des droits de la personne et des droits de la
+jeunesse, ce n'est pas l'argument non plus de la Ligue des droits et libertés, ce n'est
+pas l'argument non plus de la Commission d'accès à l'information.Mon argument puis
+l'argument de ces trois intervenants-là, ce n'est pas l'argument de la menace, c'est
+l'argument de l'exception au consentement. Les gens donnent leur consentement pour
+une fin. C'est un des piliers du projet de loi. Et là on vient faire une exception à ce
+principe fondamental <au nom de...
+M. Nadeau-Dubois : ... ce n'est pas l'argument de la menace, c'est l'argument de
+l'exception au consentement. Les gens donnent leur consentement pour une fin. C'est
+un des piliers du projet de loi. Et là on vient faire une exception à ce principe
+fondamental >au nom de l'anonymisation, principe, le ministre le reconnaît luimême, qui est faillible, qui est même très faillible, là. Il y a des études depuis les
+années 90 qui démontrent que les opérations d'anonymisation des données sont, en
+règle générale, réversibles. Je ne veux pas dire que n'importe quel petit gars avec un
+bac en informatique est capable de le faire...
+M. Caire : Non, non, je comprends.
+M. Nadeau-Dubois : ...ou que n'importe quelle petite fille avec une maîtrise en
+informatique est capable de le faire. Ça veut dire que c'est faillible. En 2019, une
+
+étude de l'Université catholique de Louvain qui, je cite : «l'entièreté des techniques
+d'anonymisation qui sont utilisées jusqu'ici ne sont pas assez robustes.», l'entièreté.
+Puis la littérature scientifique est abondante sur le fait que l'anonymisation, c'est une
+belle idée.
+M. Caire : Je ne contredis pas le député là-dessus, là.
+M. Nadeau-Dubois : ...non, je n'ai pas terminé. C'est une belle idée, mais c'est un
+idéal qui n'a pas encore été atteint parce que, malheureusement, il y a des gens mal
+intentionnés qui font preuve de beaucoup de créativité puis qui sont capables de
+déjouer les protocoles d'anonymisation des données.
+Les gens sont venus en commission dire : Un instant, là, vous faites un principe...
+vous faites une exception à la notion de consentement en utilisant ce que le ministre
+appelait un niveau de protection supplémentaire, mais niveau de protection
+supplémentaire, puis le ministre en convient, qui est largement imparfait, largement
+imparfait. Les chercheurs nous disent, là, l'anonymisation, là, c'est une belle idée,
+mais ça n'assure pas une protection optimale de la vie privée des gens parce que c'est,
+dans l'écrasante majorité des cas, réversible avec un effort, bien sûr, qu'il faut fournir
+pour y arriver. Donc, même les meilleures pratiques d'anonymisation, là, les plus
+poussées n'assurent pas de garantie que les données ne pourront pas être
+réidentifiables, d'où l'inquiétude de tous ces gens-là en commission.
+Ma question, puis les juristes vont peut-être y répondre, si on adopte l'article, là, estce que les renseignements anonymisés vont toujours être traités comme des
+renseignements personnels par les organismes publics?
+Le Président (M. Bachand) : M. le ministre. Me Miville-Deschênes.
+M. Miville-Deschênes (Jean-Philippe) : Bien, actuellement, un renseignement
+anonymisé n'est pas traité comme un renseignement personnel. Puis, là, ce qu'on fait,
+c'est le reconnaître, en quelque sorte, qu'on peut conserver un renseignement
+anonymisé, comme plusieurs entreprises le font déjà, là.
+M. Nadeau-Dubois : Et, est-ce qu'au sein des organismes publics, ces
+renseignements anonymisés vont être traités comme des renseignements personnels?
+M. Miville-Deschênes (Jean-Philippe) : Non.
+M. Nadeau-Dubois : Voilà le problème. C'est que, si l'anonymisation est imparfaite,
+il faut en tenir compte dans la loi puis protéger ces renseignements-là. On ne peut pas
+dire : <On les anonymise...
+M. Nadeau-Dubois : ... voilà le problème. C'est que, si l'anonymisation est
+imparfaite, il faut en tenir compte dans la loi puis protéger ces renseignements-là. On
+ne peut pas dire : >On les anonymise, donc la protection est excellente, donc ils ne
+
+tombent pas sous le chapiteau des protections de la loi. C'est ce que dit la CAI, c'est
+ce que dit la Commission des droits de la personne, c'est que dit la Ligue des droits et
+libertés.
+Je cite la CAI : «La commission recommande de retirer la notion d'un renseignement
+anonymisé. Si le législateur souhaite malgré tout la conserver, elle l'invite à en revoir
+la définition et à préciser les règles applicables à ces renseignements.»
+Commission d'accès à l'information : «Étant donné les risques... Commission des
+droits de la personne : «Étant donné les risques de réidentification, les données
+devaient continuer à être considérées comme des renseignements personnels.»
+Est-ce qu'elles devraient être traitées selon exactement les mêmes règles que les
+renseignements non anonymisés ou normaux, mettons? Peut-être pas. Moi, je suis
+capable de convenir que, si elles sont mieux protégées parce qu'on applique un
+protocole d'anonymisation, peut-être qu'il pourrait y avoir certaines règles
+différentes. Mais de là à dire, comme on vient de me le confirmer, que ça tombe à
+côté complètement de la protection des renseignements personnels, ouf!, là, je trouve
+qu'il y a comme un pas, là, qui est franchi.
+• (16 h 20) •
+Il y a des pistes dans le mémoire de la CAI pour justement mieux encadrer la chose.
+La CAI dit : «Si le législateur souhaite conserver la notion de renseignement
+anonymisé, le critère qui y est prévu devrait être revu et les règles applicables à ces
+renseignements précisées.» Il me semble qu'on devrait aller dans ce sens-là parce
+qu'il me semble que, de faire le pari que, parce qu'elles sont anonymisées, elles n'ont
+plus besoin des protections que prévoit la loi, ça me semble un pari un peu
+audacieux, et je parle avec beaucoup de modération, je dirais même très audacieux,
+dans la mesure où le ministre reconnaît lui-même que la désanonymisation, c'est
+quelque chose de possible.
+Le Président (M. Bachand) : Merci. M. le ministre.
+M. Caire : Bien, moi, je ne suis pas du tout, du tout, du tout hostile à ce que le
+député de Gouin dit, au contraire. Ceci étant dit, il faut comprendre qu'il y a plusieurs
+organismes. En fait, de retirer la notion de l'anonymisation, ça, je ne serais pas
+d'accord, parce qu'il y a plusieurs organismes qui, pour des fins internes et d'intérêt
+public, souhaitent pouvoir conserver les données et les utiliser. Et j'ai donné un
+exemple tout à l'heure, il y en a d'autres. Par contre, je vous dirais, M. le député, que
+ce qu'on fait là, c'est quand même une bonification par rapport à ce qui se passe,
+parce que, très souvent, les données ne sont pas détruites, ne sont pas anonymisées,
+puis là on fait un peu...
+<Alors...
+
+M. Caire : ... les utiliser. Et j'ai donné un exemple tout à l'heure, il y en a d'autres.
+Par contre, je vous dirais, M. le député, que ce qu'on fait là, c'est quand même une
+bonification par rapport à ce qui se passe, parce que, très souvent, les données ne sont
+pas détruites, ne sont pas anonymisées, puis là on fait un peu...
+>Alors, non, je ne serais pas d'accord pour enlever la notion d'anonymisation, par
+contre, j'entends l'appel du député de Gouin. Je ne suis pas hostile... s'il a un
+amendement à nous proposer, je ne suis pas hostile au fait que, sans les traiter comme
+des renseignements personnels au strict sens de ce qu'on a amené comme définition,
+qu'on puisse établir des règles d'utilisation qui sont plus contraignantes que passer du
+tout à pantoute, moi, ça m'apparaît raisonnable. Je ne sais pas si le député a un
+amendement en tête ou s'il a une suggestion à faire là-dessus, mais je suis très, très
+ouvert à discuter de ça. Ça m'apparaît raisonnable. Le commentaire m'apparaît très
+raisonnable.
+Le Président (M. Bachand) : M. le député de Gouin.
+M. Nadeau-Dubois : Bien, c'est ça, tu sais, moi, il y a... Tu sais, moi, mon...
+comment dire, si c'était mon projet de loi, bien, la notion de renseignement
+anonymisé, je la trouve trop floue, tout ça, mais si le ministre est... Moi, depuis le
+début de notre étude détaillée, je cherche à trouver là où on peut se rencontrer puis là
+où on peut concilier les affaires. Moi, je pense que... puis la réponse de Me MivilleDeschênes m'a confirmé un peu ce que j'avais pressenti, c'est que là on est en... puis
+le ministre l'a dit lui-même, là, on passerait de full patch, full protection à si c'est
+anonymisé, et là on plus on vient assouplir la définition d'«anonymisation» à plus
+de... ce ne serait plus un renseignement personnel, alors que, si on convient du fait
+qu'il y a possibilité de réidentification, ça me semble pertinent de garder un certain
+nombre de règles, puis de balises, puis de mesures de protection.
+La CAI, pour répondre au ministre, propose des pistes pour, comme il disait, là, si le
+législateur souhaite conserver la notion de renseignement anonymisé, c'est ce que
+j'entends de la part du législateur en question, le critère qui est prévu devrait être revu
+et les règles applicables à ces règlements précisés. Une piste pour clarifier ce que
+constitue un renseignement anonymisé pourrait être élaborée par les autorités de
+contrôle européennes. L'individualisation, la corrélation puis l'inférence, c'est les
+trois principes que propose la CAI. Et ce que la CAI dit, puis ça, c'est intéressant,
+c'est : Il pourrait être pertinent aussi de préciser que si ces critères ne sont plus
+respectés, les renseignements visés redeviennent des renseignements personnels, et là
+il y a peut-être une piste potentielle. Plutôt que d'inventer tout un nouveau cadre
+juridique comme ça, là, ce serait de dire... si on venait préciser la notion
+d'anonymisation puis qu'on venait dire : Si ces critères-là ne sont plus remplis, bien
+là, <le renseignement...
+M. Nadeau-Dubois : ... et là il y a peut-être une piste potentielle. Plutôt que
+d'inventer tout un nouveau cadre juridique comme ça, là, ce serait de dire... si on
+venait préciser la notion d'anonymisation puis qu'on venait dire : Si ces critères-là ne
+
+sont plus remplis, bien là, >le renseignement rebascule dans la catégorie des
+renseignements personnels. Je ne sais pas si le ministre comprend ce que je veux
+dire, puis voilà. Donc, si le ministre me donne un petit instant, je vais suspendre
+puis...
+M. Caire : Bien, j'allais le proposer, M. le Président.
+Le Président (M. Bachand) : On va suspendre quelques instants. Merci.
+(Suspension de la séance à 16 h 25)
+
+Haut de la page
+
+17 h (version révisée)
+(Reprise à 17 heures)
+Le Président (M. Bachand) :À l'ordre, s'il vous plaît! La commission reprend ses
+travaux. M. le ministre, s'il vous plaît.
+M. Caire : Oui. Merci, M. le Président. Donc, nous avons convenu avec les
+collègues de suspendre mon amendement et de suspendre l'article 28 pour passer à
+l'article 29.
+Le Président (M. Bachand) : Consentement?
+M. Tanguay : Consentement.
+Le Président (M. Bachand) : Consentement. Merci beaucoup. M. le ministre, s'il
+vous plaît.
+M. Caire : M. le Président, l'article 29 se lit comme suit :
+L'article 79 de cette loi est modifié :
+1 par le remplacement, dans le premier alinéa, de «63.1 à 66» par «63.1 à 63.4, 63.4 à
+63.6»;
+2 par le remplacement, dans le deuxième alinéa, de «63.1 à 66, 67.3 et 67.4 et les
+articles 71 à 76» par «63.1 à 63.4, 64 à 66, 67.3 à 67.4 et 71 à 76».
+Donc, M. le Président, vous aurez compris que l'article 79 de la Loi sur l'accès aux
+
+documents des organismes publics et sur la protection des renseignements personnels
+est modifié en raison de l'insertion des nouveaux articles 63.7 à 63.10 de cette loi
+concernant les incidents de confidentialité. Donc, il s'agit de la concordance, M. le
+Président.
+Le Président (M. Bachand) : Merci. Interventions? Pas d'intervention sur l'article
+29. Donc, nous allons procéder à sa mise aux voix. Mme la secrétaire, s'il vous plaît.
+La Secrétaire : Pour, contre, abstention. M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+M. Tanguay : Abstention.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+Le Président (M. Bachand) : Abstention. Donc, l'article 29 est adopté. Merci
+beaucoup. M. le ministre, s'il vous plaît.
+M. Caire : Oui. M. le Président, l'article 30 :
+L'article 84 de cette loi est modifié par l'insertion, après le deuxième alinéa, du
+suivant :
+«À moins que cela ne soulève des difficultés pratiques sérieuses, un renseignement
+personnel informatisé recueilli auprès du requérant lui est, à sa demande,
+communiqué dans un format technologique structuré et couramment utilisé. Ce
+renseignement est aussi communiqué à sa demande à toute personne ou tout
+organisme autorisé par la loi à recueillir un tel renseignement.»
+M. le Président, l'article 84 de la Loi sur l'accès aux documents des organismes
+publics et sur la protection des renseignements personnels est modifié afin de prévoir,
+qu'à moins que cela ne soulève des difficultés sérieuses, un renseignement personnel
+informatisé recueilli auprès du requérant lui est, à sa demande, communiqué dans un
+
+format technologique structuré et couramment utilisé.
+Il est également modifié afin de prévoir que ce renseignement est communiqué à la
+demande du requérant à toute personne ou organisme autorisé par la loi à recueillir
+un tel <renseignement...
+M. Caire : ... afin de prévoir, qu'à moins que cela ne soulève des difficultés sérieuses,
+un renseignement personnel informatisé recueilli auprès du requérant lui est, à sa
+demande, communiqué dans un format technologique structuré et couramment
+utilisé.
+Il est également modifié afin de prévoir que ce renseignement est communiqué à la
+demande du requérant à toute personne ou organisme autorisé par la loi à recueillir
+un tel >renseignement.
+Le Président (M. Bachand) : Merci beaucoup. Interventions? M. le député de
+LaFontaine, s'il vous plaît.
+M. Tanguay : Quand on dit «requérant» ici, est-ce qu'on inclut, dans l'article qu'on a
+vu précédemment, les gouvernements étrangers quand ils se parlent entre eux autres?
+M. Caire : Je ne pense pas.
+M. Tanguay : Non, requérant, c'est...
+M. Caire : Requérant, à mon avis, c'est le propriétaire du renseignement en question,
+là.
+M. Tanguay : C'est la personne, c'est la personne physique.
+M. Caire : Oui. Parce qu'on parle ici... l'organisme public donne communication d'un
+renseignement personnel à la personne qui a le droit de le recevoir, en lui permettant
+de prendre connaissance du renseignement sur place pendant les heures habituelles
+de travail ou, à distance, d'en obtenir une copie. Vous comprendrez, là, M. le député,
+qu'on n'est pas dans le modernisme. Donc, on vient ici s'assurer que, quand on parle
+d'un renseignement en format numérique, bien là, on n'ira pas sur place pour le
+consulter, là. On peut trouver des méthodes peut-être un peu plus adaptées que le
+pigeon voyageur, là.
+M. Tanguay : Quand on dit «difficultés pratiques sérieuses», est-ce que, le cas
+échéant, le coût de ce qui est demandé, le coût élevé de ce qui est demandé pourrait
+être une difficulté pratique sérieuse?
+M. Caire : Bien, en termes de coûts, j'en doute, parce que, quand on parle d'un
+format électronique, vous comprendrez, là, que l'envoi d'un... j'essaie de voir s'il y a
+un cas de figure où un fichier serait à ce point lourd que j'aurais à passer par un
+
+service quelconque.
+M. Tanguay : Mais s'il y avait... s'ils nous demandaient sous un format d'un nouveau
+logiciel qui existe, ils demandent ça sur le format, puis vous dites : Bien non, il
+faudrait acheter le nouveau logiciel, ça coûterait 25 000 $, est-ce que... puis ce n'est
+pas une difficulté pratique...
+M. Caire : Mettons que vous appelez l'hôpital, ils vous demandent votre numéro de
+fax, vous dites : As-tu un courriel? Vous dites : Non, ça, c'est vraiment un enjeu
+sérieux, là.
+M. Tanguay : Mais ça, ce n'est que théorique, là, tout le monde sait que des fax, ça
+n'existe plus
+M. Caire : Non, non, on est dans l'hypothèse, là, absolument.
+M. Tanguay : C'est ça, parce qu'il y a eu le pigeon tantôt puis il y a le fax après.
+«Difficultés pratiques sérieuses», est-ce que... parce que, souvent aussi, on le met
+dans ce type de clause là, dans d'autres lois, que ce soit difficile ou coûteux, il y a
+toujours l'aspect du coût également. Est-ce que... je vois que Me Miville-Deschênes
+qui dit «difficultés pratiques», ça veut dire d'un coup, là.
+M. Caire : Allez-y, Me Miville-Deschênes.
+M. Miville-Deschênes (Jean-Philippe) : On envisageait, oui, effectivement, un coût
+important ou un manque d'expertise technique ou justement de logiciel. Même si le
+coût... si l'organisme public n'a pas la technologie, il n'aura pas non plus l'obligation
+de l'acquérir, là, de par cet article-là.
+M. Tanguay : Ça fait que c'est comme quand je demandais à ma conjointe : Est-ce
+qu'on va en Europe, il y a deux ans, puis qu'elle disait, il y a une difficulté pratique
+sérieuse, elle faisait référence au coût, là.
+M. Caire : Absolument, absolument. Mais je vous dirais que c'est une disposition de
+sécurité, là, parce qu'il faut envisager l'inenvisageable, mais je vous dirais que dans...
+<En fait...
+M. Tanguay : ...en Europe, il y a deux ans, puis qu'elle disait, il y a une difficulté
+pratique sérieuse, elle faisait référence au coût, là.
+M. Caire : Absolument, absolument. Mais je vous dirais que c'est une disposition de
+sécurité, là, parce qu'il faut envisager l'inenvisageable, mais je vous dirais que dans...
+>En fait, l'idée, c'est ça, c'est quand on regarde l'article au complet, on comprend que,
+tu sais, aujourd'hui, au XXIe siècle, là, la communication numérique devrait être
+prévue par la loi.
+
+M. Tanguay : Tu sais, s'il demandait, par exemple, qu'on lui donne ça sur disquette
+trois et demi ou cinq et quart.
+M. Caire : «Floppy disk».
+M. Tanguay : Oui. Disquette, quand vous la rentriez, là, elle pliait, là.
+M. Caire : On dirait : Désolé, on a juste des fax.
+M. Tanguay : C'est ça. Arrive en ville, on a juste des fax.
+M. Caire : Oui. Eh!
+M. Tanguay : C'est bon.
+Le Président (M. Bachand) : Est-ce qu'il y a d'autres interventions sur l'article 30?
+Donc, nous allons procéder à sa mise aux voix. Mme la secrétaire, s'il vous plaît.
+La Secrétaire : Pour, contre, abstention. M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+M. Tanguay : Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+Le Président (M. Bachand) : Abstention. Donc, l'article 30 est adopté. Merci
+beaucoup. M. le ministre.
+M. Caire : M. le Président, article 31 : Cette loi est modifiée par l'insertion, après
+l'article 88, du suivant, donc:
+«88.0.1. Un organisme public peut communiquer au conjoint ou à un proche parent
+d'une personne décédée un renseignement personnel qu'il détient concernant cette
+
+personne, si la connaissance de ce renseignement est susceptible d'aider le requérant
+dans son processus de deuil et que la personne décédée n'a pas consigné par écrit son
+refus d'accorder ce droit d'accès.»
+Donc, M. le Président, cet article introduit l'article 88.0.1 à la Loi sur l'accès aux
+documents des organismes publics et sur la protection des renseignements personnels
+afin de prévoir qu'un organisme public peut communiquer au conjoint ou au proche
+parent d'une personne décédée un renseignement personnel qu'il détient concernant
+cette personne, si la connaissance de ce renseignement est susceptible d'aider le
+requérant dans son processus de deuil et que la personne décédée n'a pas consigné
+par écrit son refus d'accorder ce droit d'accès.
+Le Président (M. Bachand) : Merci. M. le député de LaFontaine.
+M. Tanguay : Est-ce que... Ici, la raison qui justifierait, évidemment, c'est que la
+personne décédée n'ait pas, par ailleurs, refusée. Donc, prenant pour acquis que qui
+ne dit mot consent, mais c'est uniquement dans un contexte de processus de deuil,
+favoriser le requérant, «aider le requérant dans son processus de deuil». Est-ce qu'on
+ne pourrait pas ici... Vous le savez, sous l'ancien gouvernement, le gouvernement
+précédent, le ministre de la Justice avait — je pense que c'est le projet de loi n° 113
+— fait en sorte que l'on puisse plus facilement... sans dire que c'est facile, mais plus
+libéralement permis à une personne adoptée de retrouver ses parents, et ainsi de suite.
+Alors, est-ce que ça pourrait s'appliquer dans ce contexte-là? Mais, si on dit : Oui, ça
+pourrait, et c'est nécessaire pour compléter 113, mais ce ne serait pas, à ce momentlà, susceptible, là, d'aider dans le processus de deuil.
+M. Caire : ...je vais laisser Me Miville-Deschênes répondre. À mon avis, je ne vois
+pas parce que... Bien, je ne sais pas. Tu sais, quand on dit : «ou à un proche parent»,
+mais, tu sais, la personne <qui est adoptée...
+M. Tanguay : ... mais ce ne serait pas, à ce moment-là, susceptible, là, d'aider dans le
+processus de deuil.
+M. Caire : ...je vais laisser Me Miville-Deschênes répondre. À mon avis, je ne vois
+pas parce que... Bien, je ne sais pas. Tu sais, quand on dit : «ou à un proche parent»,
+mais, tu sais, la personne >qui est adoptée, qui veut retrouver...
+M. Tanguay : ...son père ou sa mère biologique.
+M. Caire : ...son père ou sa mère biologique, est-ce qu'ils sont considérés comme des
+proches parents par la loi, là, je... ou alors, du fait qu'ils sont adoptés, on efface le lien
+de parenté? Ma connaissance juridique à ce niveau-là, là, ne me permet pas de vous
+donner une réponse.
+M. Tanguay : O.K. Autrement dit, je sors, là, je sors du projet de loi n° 64, là, je suis
+hors d'ordre en vertu de 211 du règlement. Ce que m'inspire 88.0.1, puis ça découle
+
+de : Ah! c'est dans quel contexte, un processus de deuil? Moi, j'ai eu des appels, puis
+je sais que des collègues des autres partis, certains autres collègues de d'autres partis,
+critiques en justice, on eu des appels de, justement, de femmes et d'hommes qui ont
+été adoptés, dans un processus de retrouver leurs parents biologiques, et qu'il y avait
+des difficultés et qu'il y avait, à un moment donné, une réflexion, lorsque la personne
+décédait, et ainsi de suite. Est-ce qu'on... Je sais que, je pense, le projet de loi n° 113,
+à l'époque, avec Stéphanie Vallée, avait fait avancer la société, mais semble-t-il, il y a
+encore d'autres écueils.
+• (17 h 10) •
+Mon point : là, on a la loi devant nous puis on semble aller jouer dans ces zones-là,
+carrément, là. Il n'y aurait pas, puis je ne sais pas si on peut faire des vérifications
+autour du ministre puis peut-être à la Justice ou à l'état civil, il n'y aurait pas lieu
+aussi de permettre une facilitation? Parce que, bien souvent, les gens se cognent le
+nez parce que c'est de renseignements personnels, là. Je ne sais pas si ça, ça a été
+évalué dans ce qu'on fait là.
+M. Caire : Bien, dans ce qu'on fait là, puis je regarde les yeux de Me MivilleDeschênes, là, puis je pense que je peux vous répondre, ça n'a pas été évalué, là.
+M. Tanguay : Mais est-ce que, mon point... Je vais revirer ma question de bord. Estce que c'est une belle occasion de faire avancer le Québec? Parce que là, on est
+carrément dans des éléments...
+M. Caire : J'aimerais ça que le député de LaFontaine m'explique son point, là. Je ne
+suis pas...
+M. Tanguay : Bien, mon point, c'est le suivant, c'est que...
+M. Caire : Je plaide, M. le Président, qu'on rentre dans les portions de la loi où, moi,
+je suis peut-être moins d'assise, là.
+M. Tanguay : Bien, si on peut... Ça ne nous empêchera pas d'adopter 98.0.1, mais
+mon point : posons-nous la question, tant que le livre est ouvert, qu'on rédige. Le cas
+est le suivant, c'est que la loi de Stéphanie Vallée que l'Assemblée nationale avait
+adoptée, donc ça devient la loi du Québec, faisait en sorte qu'il y avait une facilité
+accrue pour une personne qui cherche ses parents biologiques de se faire dire : Oui,
+ton père, ta mère, c'est M.. Mme Untel, Untelle quand ils sont vivants, puis M., Mme
+Untelle, Untel quand ils sont décédés.
+Et moi, j'ai eu des appels, de dire : M. Tanguay... bien, M. le député, sur le terrain,
+c'est extrêmement difficile et ardu, puis peut-être que votre loi 113 n'a peut-être pas,
+telle qu'appliqué, rencontré tous les espoirs qu'ils ont fait naître. Alors, c'est mon
+réflexe de dire : Ah! Quand j'ai vu ça, j'ai dit : Ah! est-ce qu'il y a un aspect de
+renseignements personnels, sûrement, qui est une des barrières principales qui fait en
+
+sorte que la personne qui dit : Bien, moi, je pense puis j'ai monté une preuve prima
+facie, à l'effet que monsieur serait mon... <ou qu'on dépose...
+M. Tanguay : ...tous les espoirs qu'ils ont fait naître. Alors, c'est mon réflexe de dire
+: Ah! Quand j'ai vu ça, j'ai dit : Ah! est-ce qu'il y a un aspect de renseignements
+personnels, sûrement, qui est une des barrières principales qui fait en sorte que la
+personne qui dit : Bien, moi, je pense puis j'ai monté une preuve prima facie, à l'effet
+que monsieur serait mon... >ou qu'on dépose la demande à l'État civil, parce qu'à un
+moment donné il y a toujours des registres dans le système de santé, registre des états
+civils, qu'on s'adresse... parce qu'on ne sait pas c'est qui, on est 8,5 millions de
+Québécois, mais qu'on fasse une demande puis que le système santé ici... état civil
+puisse faire sauter la barrière, de dire : Bien, ça, c'est des renseignements personnels,
+vous n'avez pas le droit à ça.
+M. Caire : Mais là on parle bien dans le cas...
+M. Tanguay : Recherche de parents biologiques.
+M. Caire : Mais qui seraient décédés. Parce que, là, on parle dans le cas d'un décès.
+M. Tanguay : Qui seraient décédés, oui. Puis mon point, c'est qu'il me semble que
+c'est un écueil.
+M. Caire : Bien, à ce moment-là... puis votre avis vaut le mien, là, peut-être même
+un peu plus parce que, comme je dis, moi, je ne me livrerai pas à l'exercice illégal du
+droit, mais, quand on parle d'un proche parent, est-ce que le lien biologique, là, qui
+n'est pas nécessairement un lien légal parce qu'on parle ici d'un cas d'adoption, est-ce
+que le lien biologique concerne le statut de proche parent? Et, à partir de là, j'imagine
+que de retrouver le parent en question pourrait présider à la facilité du deuil. Ça, je
+pense que ça pourrait se plaider. Mais là la question, c'est : Est-ce que le lien...
+M. Tanguay : Mais je sors de là, puis je suis hors d'ordre, là, je suis hors ordre, c'est
+juste que ça, ça m'inspire ça. Puis je vais juste... Me Miville-Deschênes, avec vos
+amis juristes, là, en l'état, là, vous êtes dans le «chat room»...
+M. Caire : Oui, quand vous n'avez rien à faire, là.
+M. Miville-Deschênes (Jean-Philippe) : Bien, je voulais juste...
+M. Tanguay : Mais peut-être que ce n'est pas un problème aussi. C'est juste mon
+réflexe.
+M. Miville-Deschênes (Jean-Philippe) : Bien, il y a peut-être un problème, là. Je
+me souviens du projet de loi, mais je ne me souviens pas de toutes les modalités qui
+permettent la communication aux enfants adoptifs, etc., adoptés. Mais la Loi sur
+l'accès ne s'applique pas à ces dossiers-là. Ça fait qu'on ne pourra pas agir à même la
+
+Loi sur l'accès. C'est l'article 2.1 qui le prévoit, là, que l'accès aux documents
+contenus dans le dossier d'adoption est régi par le Code civil.
+Donc, si on voulait vraiment agir sur la confidentialité, ou diminuer la confidentialité,
+ou permettre la communication de documents qui sont dans un dossier d'adoption, il
+faudrait agir directement dans le Code civil, tandis que les dispositions 84 et autres
+ne s'appliquent pas au dossier d'adoption.
+Donc, il y a peut-être effectivement un problème à régler, je ne le sais pas, on peut
+vérifier, mais ça ne serait pas dans cette loi-là qu'il faudrait le régler, là, dans la Loi
+sur l'accès, là, ça serait davantage au sein du Code civil.
+M. Tanguay : Moi, je m'engage à vérifier ça de mon bord, mais si vous pouviez,
+avec vos amis juristes, vérifier ça, entre autres au ministère de la Justice... je sais, je
+plaide, là, ma turpitude, je suis hors d'ordre, mais il y a peut-être de quoi, là, parce
+que... quand on jasait avec les gens, ils n'avaient pas accès à l'information, entre
+autres, parce que c'étaient des renseignements personnels, puis on ne peut pas vous le
+dire c'est qui, votre père ou votre mère biologique, même décédé. Puis il y avait un
+drapeau rouge. Je parle peut-être à travers mon chapeau puis je m'exprime peut-être
+mal sur le défi, mais il y a un défi puis il y a quelque chose à faire là. Ça fait que
+posons-nous peut-être... Puis merci à l'avance, Me Miville-Deschênes, si vous
+pouvez faire... Y a-tu un écueil? Parce que 113 a dit : Parfait, <vous allez pouvoir...
+M. Tanguay : ... puis il y avait un drapeau rouge. Je parle peut-être à travers mon
+chapeau puis je m'exprime peut-être mal sur le défi, mais il y a un défi puis il y a
+quelque chose à faire là. Ça fait que posons-nous peut-être... Puis merci à l'avance,
+Me Miville-Deschênes, si vous pouvez faire... Y a-tu un écueil? Parce que 113 a dit :
+Parfait, >vous allez pouvoir retrouver, dans un contexte particulier, pour des
+justifications précises, vos parents biologiques. Mais là, de la manière dont vit 113,
+ils se cognent encore le nez sur des choses, là. Puis je pense qu'il y a des aspects, puis
+je termine là-dessus, de protection de renseignements personnels, puis que ce soit là
+ou dans le Code civil, il y a peut-être de quoi à faire qu'on pourrait faire là, là, tu sais.
+Merci beaucoup à l'avance.
+Le Président (M. Bachand) :Merci beaucoup, M. le député. D'autres interventions
+sur l'article 31? Donc, on va procéder à la mise aux voix. Mme la secrétaire...
+M. Tanguay : M. le Président...
+Le Président (M. Bachand) :Oui, M. le député.
+M. Tanguay : ...un commentaire du Jeune Barreau, cette obligation à 88.01... cette
+obligation introduit un nouveau concept, soit : «La condition de la connaissance de
+ce renseignement est susceptible d'aider le requérant dans son processus de deuil.»
+Le Jeune Barreau dit : «Il serait important de préciser les situations visées par ces
+dispositions, sans restreindre leur généralité, en proposant des exemples.» Bon, sans
+
+le dire dans la loi, on veut régler quel problème ici, là?
+M. Miville-Deschênes (Jean-Philippe) : Bien, je vais donner un exemple, là. Il y a...
+suite à un décès, le père ou la mère, vous ne pouvez pas avoir accès aux photos,
+photos de l'accident, photos... aux différents... Il y a un exemple où, finalement, il a
+fallu passer par l'article 68 qu'on a vu tantôt, avec une...
+Une voix : …
+M. Miville-Deschênes (Jean-Philippe) : Bien, c'était... là, c'était la ville de Québec
+qui avait des photos de l'enfant qui était décédé, puis les parents voulaient avoir ces
+photos-là. Il n'y avait aucune possibilité. Il a fallu avoir une entente de la commission
+approuvée en vertu de 68, là. Ils ont pris chemin détourné pour réussir à
+communiquer. Donc, la Commission d'accès à l'information a dit : Il devrait y avoir
+une disposition, là, qui permet... qui autorise vraiment l'organisme public à
+communiquer dans ces situations-là. Et on en trouve, entre autres, là, en Ontario, là,
+où il y a des assouplissements ou des permissions de communiquer dans des
+situations similaires, là.
+M. Tanguay : O.K. Merci. Le Protecteur du citoyen, à 88.01, dit : «Je salue cette
+avancée. Toutefois, je constate que 88.01 n'est pas applicable aux informations
+contenues au dossier médical de l'usager puisque la Loi sur les services de santé et
+les services sociaux contient des dispositions qui sont propres à l'égard de l'accès à
+l'information. Ainsi, afin de donner son plein effet à la volonté du législateur d'aider
+les citoyens pour leur processus de deuil, je propose — c'est le Protecteur du citoyen
+qui parle — d'intégrer une disposition similaire à la LSSS.»
+M. Caire : J'en parlerais à mon collègue de la Santé. Mais là vous comprendrez que
+ce n'est pas...
+Une voix : ...
+M. Tanguay : J'ai oublié un s, c'est parce que je ne veux pas que vous modifiiez la
+mauvaise loi... LSSS, c'est la LSSSS.
+M. Caire : Ah, bien, la Loi sur les services de santé et les services sociaux, j'étais
+parlable, mais la loi sur la santé des services sociaux, là, je ne peux rien faire.
+M. Tanguay : Il y a un s de trop, là, on décroche. Oubliez ce que j'ai dit. Mais, ceci
+dit, on pourrait aussi le faire ici, là.
+M. Caire : Vous me permettrez de réserver mes commentaires là-dessus, là. Je sais
+que <mon collègue...
+M. Caire : ... des services sociaux, là, je ne peux rien faire.
+
+M. Tanguay : Il y a un s de trop, là, on décroche. Oubliez ce que j'ai dit. Mais, ceci
+dit, on pourrait aussi le faire ici, là.
+M. Caire : Vous me permettrez de réserver mes commentaires là-dessus, là. Je sais
+que >mon collègue est dans une... comment dirais-je, une appropriation des
+différentes lois qui régissent la santé et les services sociaux. Ça sera... puis ça pourra
+être ajouté à sa réflexion.
+M. Tanguay : O.K., mais le ministre n'a pas eu de conversation ou les ministères, les
+cabinets ne se sont pas parlé suite aux commentaires, là, du Protecteur du citoyen par
+rapport à ça, de l'opportunité de modifier... en tout cas, ce qui est souligné. Merci, en
+tout cas, pour la première préoccupation également, là, sur le suivi des personnes
+adoptées qui cherchent leurs parents biologiques.
+Le Président (M. Bachand) : Merci. M. le député de Gouin, s'il vous plaît.
+M. Nadeau-Dubois : Question un peu candide, j'aime le reconnaître quand je les
+pose...
+M. Caire : ...
+M. Nadeau-Dubois : C'est sûr, je n'en doute pas une seconde. On dit qu'un
+organisme public va pouvoir communiquer un renseignement personnel lorsque c'est
+susceptible d'aider le requérant dans son processus de deuil. Je ne veux pas imputer
+de motifs malveillants à personne qui aurait eu un décès dans son entourage, mais qui
+va être juge de si c'est susceptible d'aider le requérant dans son processus de deuil?
+M. Caire : Bien, au premier chef, c'est l'organisme public qui est détenteur du
+renseignement en question. Et à partir de là, on peut penser que son comité... en fait,
+la personne qui va être responsable de la protection des renseignements personnels
+serait saisie de ce dossier-là.
+M. Nadeau-Dubois : O.K., parce que, tu sais, on pourrait prévoir des conflits, tu
+sais, par exemple, sur ces questions-là devant les tribunaux. Ça fait que, tu sais, je me
+demandais... Il me semble, tu sais, c'est que ça va placer les gens dans les organismes
+publics dans une position compliquée, là.
+• (17 h 20) •
+M. Caire : Bien, en fait...
+M. Nadeau-Dubois : C'est parce qu'il y a peut-être déjà de la jurisprudence là-dessus
+aussi. D'ailleurs, là, ce n'est pas...
+M. Caire : À l'inverse, M. le député, je dirais, ça va peut-être, justement, leur
+permettre d'avoir une balise de plus pour transmettre un renseignement personnel, ce
+
+qui pourrait actuellement être plus difficile, parce que... puis pas nonobstant, mais à
+moins d'avoir des dispositions claires, j'imagine qu'on est devant une situation où ils
+doivent refuser sans le consentement de la personne. Mais comme la personne est
+décédée, le consentement est compliqué à aller chercher, là. Donc là, on amène un
+critère où il pourrait passer outre l'absence de consentement, à moins qu'il y ait des
+dispositions très claires de la personne, à dire : Non, je ne veux pas que, là.
+M. Nadeau-Dubois : O.K., donc... Non, mais je ne veux pas... comme je disais, là, je
+ne veux pas voir des scénarios catastrophes, là, là où il <n'y en a pas, mais...
+M. Caire : ... passer outre l'absence de consentement, à moins qu'il y ait des
+dispositions très claires de la personne, à dire : Non, je ne veux pas que, là.
+M. Nadeau-Dubois : O.K., donc... Non, mais je ne veux pas... comme je disais, là, je
+ne veux pas voir des scénarios catastrophes, là, là où il >n'y en a pas, mais le
+ministre, c'est ça, il est assez confiant qu'il n'y aura pas de conflit d'interprétation sur
+exactement qu'est-ce qui aide une personne dans son... Tu sais, je peux imaginer
+quelqu'un qui veut avoir les données fiscales, par exemple, de quelqu'un qui vient de
+décéder. Cette personne-là peut-être super bien intentionnée, moins bien
+intentionnée. Quelqu'un qui allègue que c'est pour aider son processus de deuil
+d'avoir les données fiscales d'un proche décédé. Ça va placer les organismes publics
+dans ma position de devoir arbitrer cette demande-là, qui est extrêmement sensible.
+Est-ce que le ministre voit peut-être des possibilités de conflit sur ces questions-là?
+M. Caire : Non, je ne pense pas. En fait, je pense que c'est plus... puis Me MivilleDeschênes donnait un bon exemple où la municipalité devait refuser l'accès à des
+photos qui étaient considérées comme des renseignements personnels pour lesquelles
+il n'avait pas le choix, il n'y avait pas cette disposition-là. Je pense que c'est pour ça
+qu'on voit que le Protecteur du citoyen salue l'avancée, là. Ça fait qu'effectivement je
+pense qu'il y a plus d'avantages que de désavantages.
+Le Président (M. Bachand) : D'autres interventions? Donc, nous allons procéder à
+la mise aux voix de l'article 31.
+La Secrétaire : Pour, contre, abstention. M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+
+M. Tanguay : Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+Le Président (M. Bachand) : Abstention. Donc, l'article 31 est adopté. Merci
+beaucoup. M. le ministre, s'il vous plaît.
+M. Caire : Oui, merci, M. le Président. L'article 32 se lit comme suit : L'article 88.1
+de cette loi est modifié par l'insertion, au début, de «Sous réserve de l'article 88.0.1,».
+Vous comprendrez, M. le Président, qu'il s'agit d'un article de concordance en lien
+avec l'article que nous venons d'adopter.
+Le Président (M. Bachand) : Interventions sur l'article 32? S'il n'y a pas
+d'intervention, nous allons procéder à la mise aux voix. Mme la secrétaire, s'il vous
+plaît.
+La Secrétaire : Pour, contre, abstention. M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+M. Tanguay : Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+Le Président (M. Bachand) : Abstention. Donc, l'article 32 est adopté. Merci
+beaucoup. M. le ministre, s'il vous plaît.
+M. Caire : Article 33 : L'article 94 de cette loi est modifié :
+
+1°par le remplacement, dans le premier alinéa, de «ou à titre de titulaire de l'autorité
+parentale même si l'enfant mineur est décédé» par «, à titre de titulaire de l'autorité
+parentale même si l'enfant mineur est décédé ou à titre de conjoint ou de proche
+parent d'une personne décédée suivant l'article 88.0.1»;
+2°par le remplacement, dans le troisième alinéa, de «qu'elle a désigné» par «à qui
+cette fonction est déléguée».
+Donc, M. le Président, l'article 94 de la Loi sur l'accès <aux documents des...
+M. Caire : ... à titre de conjoint ou de proche parent d'une personne décédée suivant
+l'article 88.0.1»;
+2°par le remplacement, dans le troisième alinéa, de «qu'elle a désigné» par «à qui
+cette fonction est déléguée».
+Donc, M. le Président, l'article 94 de la Loi sur l'accès >aux documents des
+organismes publics et sur la protection des renseignements personnels est modifié
+afin de s'assurer que le nouvel article 88.0.1 de cette loi introduit par le projet de loi
+puisse trouver application.
+Il est également modifié en raison des modifications apportées à l'article 8 de ce
+même projet de... par cette même loi par le projet de loi.
+Le Président (M. Bachand) : Merci. Interventions? M. le député de LaFontaine.
+M. Tanguay : ...M. le Président. Là, on est à l'article 33?
+Le Président (M. Bachand) : 33, oui.
+M. Tanguay : O.K. Puis on ajoute, à 94, à la fin du premier alinéa, «à titre de
+titulaire de l'autorité parentale», c'est ça?
+M. Caire : En fait, on remplace...
+M. Tanguay : On remplace, pardon, oui.
+M. Caire : ...«à titre de titulaire de l'autorité parentale même si l'enfant mineur est
+décédé» par...
+M. Tanguay : «à titre de titulaire...»
+M. Caire : On dirait, bon : «à titre de bénéficiaire de l'assurance vie ou d'indemnité
+de décès, à titre de...». Donc, on rajoute dans l'énumération : «à titre de titulaire de
+l'autorité parentale même si l'enfant mineur est décédé...», ce qui reprend un peu, là,
+ce qu'on vient de biffer, «...ou à titre de conjoint ou de proche parent d'une personne
+
+décédée suivant l'article 88.0.1». Donc, on reprend le principe de ce qu'on a amené à
+88.0.1.
+M. Tanguay : O.K. Donc, 88.0.1, c'est conjoint ou proche. Conjoint ou proche, on
+l'ajoute puis on garde la même...
+M. Caire : Dans la notion de deuil.
+M. Tanguay : Oui, oui, c'est ça, suivant, et «à titre de titulaire de l'autorité parentale
+même si l'enfant mineur est décédé... même si l'enfant mineur est décédé ou à titre...»
+Donc, une demande de communication ou de rectification... Quand on dit : «Une
+demande de communication ou de rectification ne peut être considérée...», ça, c'est
+dans... «...est considérée que si elle est faite par écrit par une personne physique
+justifiant de son identité... à titre de représentant...» C'est dans le dossier de
+l'organisme public, on veut faire une correction tout simplement. O.K. Puis il n'y
+avait pas d'autre... O.K. Puis, plus bas «Si la demande est adressée à la personne
+ayant la plus haute autorité... cette personne doit la transmettre avec diligence au
+responsable à qui cette fonction a été déléguée».
+M. Caire : C'est parce que là, de ce qu'on a discuté à l'article 8, la plus haute autorité
+versus le responsable de la protection des renseignements personnels, responsable de
+l'accès à l'information.
+M. Tanguay : Même si elle n'est pas adressée à la personne ayant la plus haute
+autorité, pouvons-nous prendre pour acquis qu'elle sera traitée de façon diligente?
+M. Caire : Oui.
+M. Tanguay : Là, disons, on ne parle pas de la même affaire, là...
+M. Caire : Oui, oui, oui.
+M. Tanguay : ...on parle de la transmettre avec diligence, mais ça inclut qu'elle va
+être traitée avec diligence?
+M. Caire : Oui.
+M. Tanguay : «cette personne doit la transmettre avec diligence au responsable...»
+Ça, c'est la transmission qui est avec diligence. C'est dans le cas actuel. O.K., c'est
+bon.
+Le Président (M. Bachand) :Interventions sur l'article 33? M. le député de Gouin.
+M. Nadeau-Dubois : M. le Président, j'ai une question pour le ministre ou peut-être
+pour ses juristes. <La Loi sur...
+
+M. Tanguay : ...personne doit la transmettre avec diligence au responsable...» Ça,
+c'est la transmission qui est avec diligence. C'est dans le cas actuel. O.K., c'est bon.
+Le Président (M. Bachand) : Interventions sur l'article 33? M. le député de Gouin.
+M. Nadeau-Dubois : M. le Président, j'ai une question pour le ministre ou peut-être
+pour ses juristes. >La Loi sur les services de santé et services sociaux permet à un
+mineur de plus de 14 ans de refuser l'accès de ses parents à son dossier médical. Estce qu'il serait pertinent de venir ajouter cette précision-là dans la loi d'accès à
+l'information?
+M. Caire : À l'article 94?
+M. Nadeau-Dubois : À l'article 33 : «permet la communication des renseignements
+personnels au titulaire de l'autorité parentale». La loi sur la santé et les services
+sociaux, quant à elle, précise qu'un mineur de 14 ans et plus peut refuser que ses
+parents aient accès à son dossier médical.
+M. Caire : Dans le fond, il est décédé, on s'entend, là.
+M. Nadeau-Dubois : Même si l'enfant mineur est décédé. Mais, donc, c'est même si,
+donc c'est s'il est vivant ou s'il est décédé.
+M. Miville-Deschênes (Jean-Philippe) : Bien, effectivement...
+Le Président (M. Bachand) : Me Miville-Deschênes, oui.
+M. Miville-Deschênes (Jean-Philippe) : Excusez. Dans la loi sur l'accès, le titulaire
+de l'autorité parentale a accès aux renseignements du mineur.
+M. Nadeau-Dubois : Pardon?
+M. Miville-Deschênes (Jean-Philippe) : Bien, effectivement, le titulaire de l'autorité
+parentale, en vertu de la loi sur l'accès, a accès aux renseignements du mineur jusqu'à
+17 ans et 364 jours.
+M. Nadeau-Dubois : O.K. Mais, par contre, dans une autre loi, celle sur la santé et
+services sociaux, on dit que, si l'enfant refuse... Il y a deux conditions, là. Si l'enfant
+refuse et si l'établissement détermine que la consultation du dossier du parent
+pourrait causer un préjudice à la santé du mineur, bien, cette loi-là permet... bloque,
+dans le fond, la communication des renseignements médicaux vers les parents.
+M. Caire : Oui. Bien...
+M. Nadeau-Dubois : Est-ce qu'il y a une possibilité ici qu'il y ait une tension entre
+les deux ou une contradiction?
+
+• (17 h 30) •
+M. Caire : Bien, je vais relire l'article tout haut, puis je vais expliquer mon point, là.
+On parle d'une «demande de communication ou de rectification ne peut être
+considérée que si elle est faite par écrit par une personne physique justifiant de son
+identité à titre de personne concernée, à titre de représentant, d'héritier et de
+successeur de cette dernière, à titre de liquidateur de la succession, à titre de
+bénéficiaire d'assurance vie ou d'indemnité de décès, à titre de titulaire de l'autorité
+parentale même si l'enfant mineur est décédé ou à titre de conjoint». Ce que je
+comprends, c'est qu'on est dans un autre contexte. En fait, ce que la Loi sur les
+services de santé et les services sociaux vient faire, c'est s'assurer, puis disons les
+choses ouvertement...
+
+Haut de la page
+
+17 h 30 (version révisée)
+M. Caire : ...même si l'enfant mineur est décédé ou à titre de conjoint. Ce que je
+comprends, c'est qu'on est dans un autre contexte. En fait, ce que la Loi sur les
+services de santé et les services sociaux vient faire, c'est s'assurer... puis disons les
+choses ouvertement, qu'une jeune fille qui voudrait avoir recours à l'avortement, dans
+un contexte d'une famille dont les convictions religieuses pourraient aller à l'encontre
+de ça...
+M. Nadeau-Dubois : Bien, pour une transfusion de sang, tu sais, il y a plein d'autres
+contextes. C'est les mineurs...
+M. Caire : Ça pourrait être pour une transfusion de sang. Tout à fait.
+M. Nadeau-Dubois : ...c'est le concept de mineurs matures.
+M. Caire : Je pense que M. le député et moi, on comprend dans quel contexte tout ça
+est fait. Ici, on n'est pas dans le même contexte, à savoir, tu sais, on parle de
+succession, on parle de liquidation de succession, on est dans un autre contexte où je
+ne vois pas vraiment... Puis là je vous fais part... tu sais, c'est très personnel ce que je
+vais vous dire, M. le député. Je comprends qu'il y a des circonstances où les parents...
+puis je vais peser mes mots, mais où il est peut-être justifié de dépouiller le parent de
+son autorité parentale par rapport à l'enfant, parce que ça va au bénéfice de l'enfant.
+Mais je pense qu'il faut toujours être... puis là, moi, je vous parle à titre de parent, là,
+de quatre enfants puis une qui est rendue très grande, d'autres qui sont encore... Puis
+je ne dis pas qu'il ne faut pas le faire, il y a des situations, puis on vient d'en parler
+
+vous et moi, où c'est justifié de le faire, mais il faut le faire avec beaucoup, beaucoup,
+beaucoup de précautions, parce qu'il n'en demeure pas moins que les parents... puis
+quand je parle de parents, là, je devrais dire le titulaire de l'autorité parentale sera
+toujours la personne la plus concernée par le bien-être de ses enfants.
+M. Nadeau-Dubois : Mais ma question est d'ordre vraiment technique, là, il y a une
+loi qui dit... la loi à l'accès à l'information dit : La communication est possible vers un
+titulaire de l'autorité parentale. Puis il y a une loi sur la santé et les services sociaux
+qui dit : Non, quand l'établissement détermine que la consultation du dossier par le
+parent pourrait causer un préjudice à la santé du mineur puis quand l'enfant lui-même
+exprime un refus, il y a blocage des communications, il y a refus. Ma question, c'est
+juste : Y a-tu une possibilité ici de contradiction ou si la loi spécifique sur la santé et
+les services sociaux...
+M. Caire : Bien, je vais laisser…
+M. Nadeau-Dubois : ...l'emporte sur la loi générale d'accès à l'information?
+M. Miville-Deschênes (Jean-Philippe) : Bien, en fait, l'article 28 de la Loi sur la
+santé et les services sociaux dit que les articles 17 à 27.3, incluant... s'applique
+malgré la loi sur l'accès. Donc, la loi sur la santé et les services sociaux, pour ce
+volet-là, a préséance.
+M. Nadeau-Dubois : Donc, s'il y a des acteurs dans la société qui sont inquiets de
+cette question-là, ils peuvent être rassurés, la loi qui actuellement permet le refus de
+cette communication-là a préséance sur la loi sur l'accès. Ce droit-là est préservé pour
+les mineurs de plus de 14 ans, de refuser l'accès à leur <dossier médical...
+M. Nadeau-Dubois : ... s'il y a des acteurs dans la société qui sont inquiets de cette
+question-là, ils peuvent être rassurés, la loi qui actuellement permet le refus de cette
+communication-là a préséance sur la loi sur l'accès. Ce droit-là est préservé pour les
+mineurs de plus de 14 ans, de refuser l'accès à leur >dossier médical.
+Des voix : ...
+M. Nadeau-Dubois : Bien, je voulais juste qu'on soit... Bien, c'était... Là, on a une
+réponse claire, nette, précise. Parce qu'on a été sollicités par des acteurs dans la
+société civile qui voulaient s'assurer qu'en adoptant un article comme celui-là on ne
+venait pas détricoter ce droit-là qui était garanti dans la loi sur la santé et les services
+sociaux. J'avais intuition que non puis que la loi spécifique avait préséance. Je
+voulais qu'on le confirme «on the record», comme on dit en bon français. Ça a été
+fait. Alors, les gens en question sont rassurés, moi aussi. J'ai terminé mes
+commentaires, M. le Président.
+Le Président (M. Bachand) : Merci beaucoup. D'autres interventions sur l'article
+33? S'il n'y a pas d'autre intervention, nous allons procéder à la mise aux voix.
+
+La Secrétaire : Pour, contre, abstention. M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+M. Tanguay : Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+Le Président (M. Bachand) : Abstention. Donc, l'article 33 est adopté, merci
+beaucoup. M. le ministre, s'il vous plaît.
+M. Caire : Oui, M. le Président. L'article 34 se lit comme suit : L'article 98 de cette
+loi est modifié par le remplacement, dans le deuxième alinéa, de «courrier» par
+«écrit».
+Alors, M. le Président, vous comprendrez qu'on est dans la même logique de dire que
+peut-être qu'on pourrait slaquer un peu sur le pigeon voyageur puis penser XXIe
+siècle un petit peu.
+Le Président (M. Bachand) : Merci. Interventions sur 34? S'il n'y a pas
+d'intervention sur 34, nous allons procéder à sa mise aux voix. Mme la secrétaire, s'il
+vous plaît.
+La Secrétaire : La Secrétaire : Pour, contre, abstention. M. Caire (La Peltrie)?
+M. Caire : Pour, excusez.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+
+M. Tanguay : Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+Le Président (M. Bachand) : Abstention. L'article 34 est adopté. Merci beaucoup.
+M. le ministre.
+M. Caire : Oui, M. le Président. L'article 35 : L'article 100 de cette loi est modifié
+par l'ajout, à la fin, de la phrase suivante : «Il doit également prêter assistance au
+requérant qui le demande pour l'aider à comprendre la décision.»
+M. le Président, l'article 100 de la Loi sur l'accès aux documents des organismes
+publics et sur la protection des renseignements personnels est modifié afin de prévoir
+que le responsable de la protection des renseignements personnels doit prêter
+assistance au requérant qui le demande pour l'aider à comprendre la décision de
+refuser d'accéder à une demande de communication ou de rectification d'un
+renseignement personnel.
+M. le Président, j'ai un amendement à déposer, qui se lirait comme suit...
+Le Président (M. Bachand) :...parce que ça va être un nouvel article, votre
+amendement.
+M. Caire : Ah oui! C'est un nouvel article, excusez-moi.
+Le Président (M. Bachand) : Oui, c'est ça.
+M. Caire : Excusez, excusez, excusez. Bien oui, c'est article point un. Excusez, je
+me suis mêlé dans mes souliers...
+Le Président (M. Bachand) :Il n'y a aucun souci.
+M. Caire : ...dans mon enthousiasme d'avancer.
+Le Président (M. Bachand) : Merci. Interventions sur 35? M. le député de
+LaFontaine.
+M. Tanguay : <Est-ce que le ministre ou...
+M. Caire : ...qui se lirait comme suit...
+Le Président (M. Bachand) : ...parce que ça va être un nouvel article, votre
+
+amendement.
+M. Caire : Ah oui! C'est un nouvel article, excusez-moi.
+Le Président (M. Bachand) : Oui, c'est ça.
+M. Caire : Excusez, excusez, excusez. Bien oui, c'est article point un. Excusez, je
+me suis mêlé dans mes souliers...
+Le Président (M. Bachand) : Il n'y a aucun souci.
+M. Caire : ...dans mon enthousiasme d'avancer.
+Le Président (M. Bachand) : Merci. Interventions sur 35? M. le député de
+LaFontaine.
+M. Tanguay : >Est-ce que le ministre ou Me Miville-Deschênes peut nous identifier
+à quel autre article précédemment...
+Une voix : ...
+M. Tanguay : Pardon? On avait déjà ajouté ça à quel article précédemment? À quel
+article déjà?
+M. Caire : Oui. Mon Dieu! C'était dans les premiers, là, où on disait qu'il devait
+prêter assistance, puis on avait...
+Une voix : ...
+M. Tanguay : Oui, non, c'est ça.
+M. Caire : ...discuté de la notion de raisonnabilité, à quel moment on arrêtait.
+M. Tanguay : L'article 6? Puis à l'article 6, je sais qu'on avait déposé un
+amendement. J'avais déposé un amendement pour que ce soit au regard — là, je
+paraphrase — en regard de la personne raisonnable. Puis ça, l'amendement, il n'avait
+pas été adopté. Je pense ce serait la même décision que la commission prendrait si
+d'aventure je déposais le même amendement. Mais, ma question, est-ce qu'on n'avait
+pas amendé ça, cette affaire-là, aussi, par ailleurs?
+M. Caire : Oui. 6, on avait amendé. On n'avait pas rajouté, là? Non? Ah! Peut-être
+que non. Peut-être que...
+M. Tanguay : 6, parce qu'on avait jasé longtemps là-dessus.
+M. Caire : Bien, oui, peut-être que je confonds discussion et amendement, M. le
+
+député.
+M. Tanguay : Bien, là, je vous ai convaincu, autrement dit, dans notre beau Greffier,
+si on a à l'article 6...
+M. Caire : Oui. Bien, c'est ça, ce que je vais faire, je vais aller dans...
+M. Tanguay : C'est parce que, si on pouvait avoir dans Greffier... puis je salue le
+travail du secrétariat, M. le Président, des personnes qui sont dédiées, compétentes et
+qui nous aident beaucoup, pour... De façon plus générale, si l'informatique pouvait
+nous permettre dans Amendements adoptés, rejetés et retirés, si on pouvait les avoir
+en sous-catégories dans... ça pourrait nous aider à voir ce qui a été adopté. Parce que
+l'autre fois je cherchais puis je me disais : Ah non! Il n'a pas été adopté...
+M. Caire : Oui. Y a-tu été adopté? Y a-tu été rejeté?
+M. Tanguay : Puis, je veux dire, c'est: processus d'amélioration continue, là. Mais je
+vois qu'il y a un seul article... il y a un seul amendement à l'article 6, de ce que je
+peux voir, puis c'est le mien. Puis je pense qu'il aura été rejeté.
+M. Miville-Deschênes (Jean-Philippe) : ...
+M. Tanguay : Il est... Vous le voyez où qu'il est rejeté? Ça va peut-être m'instruire.
+M. Miville-Deschênes (Jean-Philippe) : Bien, je suis allé dans Amendements tout
+court, pas dans Amendements et motions en cours, mais dans Amendements, puis il y
+a une catégorie Non adoptés. Puis il y a une catégorie Adoptés.
+M. Tanguay : Ah! Dans Amendements...
+Le Président (M. Bachand) : Parce qu'on avait...
+M. Tanguay : Ah oui! Allez-y, M. le Président. Instruisez-moi.
+Le Président (M. Bachand) : L'information est en bas de page, les onglets pour ça,
+catégories Adoptés et Non adoptés.
+Une voix : En PDF.
+Le Président (M. Bachand) : Oui, en PDF. Oui.
+M. Tanguay : Ah! O.K. On va dans Amendements, Non adoptés. O.K.
+Le Président (M. Bachand) : Catégories Adoptés, Non adoptés. Puis, en format
+PDF, vous allez avoir l'information.
+
+Une voix : ...
+M. Tanguay : Oui, plus haut, ils sont en liasse, mais plus bas, ils sont... Ah! O.K.
+Oui, c'est ça. Rendu dans cette fenêtre-là, ils sont tous un à la <queue leu leu, là...
+M. Tanguay : ... oui, plus haut, ils sont en liasse, mais plus bas, ils sont... Ah! O.K.
+Oui, c'est ça. Rendu dans cette fenêtre-là, ils sont tous un à la >queue leu leu, là...
+O.K. Alors, tout ça pour dire qu'on va reprendre la même rédaction, autrement dit,
+que ce qu'on avait ajouté à l'époque à l'article 6 : «Il doit également prêter assistance
+au requérant qui le demande...»
+Il y avait, à 35, les mêmes commentaires que la FQM proposait dans le contexte de
+l'article 6 : «...est d'avis que le projet de loi manque de précisions quant à l'ampleur,
+la portée et la durée de cette obligation.» Ça, j'imagine que... je ne pense pas que ça
+puisse faire l'objet d'une directive. J'imagine que oui, peut-être que la CAI va aider
+les municipalités à se gouverner.
+M. Caire : Elle pourrait. Elle pourrait.
+M. Tanguay : Puis, hein, M. le Président, vous allez pouvoir témoigner. J'ai eu de
+l'air intelligent hier, on prend tout ce qui passe. On a fait adopter, dans le contexte du
+84, l'IVAC, les décisions sur les demandes d'indemnisation, que soit prêté assistance
+au requérant qui le demande pour l'aider à comprendre la décision. Ça fait que j'ai eu
+de l'air intelligent, j'ai volé cette phrase-là, je l'ai déposée. Le ministre a dit : Hein,
+c'est bien bon, ça. J'ai dit : Merci. Adopté. Mais j'ai mentionné le projet de loi n° 64,
+le président confirme.
+M. Caire : Puis ça a été adopté pareil?
+M. Tanguay : Ça a été adopté pareil.
+M. Caire : Ah bien! câline! Bien, coudon!
+Le Président (M. Bachand) : Est-ce qu'il y a d'autres interventions sur 35? Donc,
+nous allons procéder à sa mise aux voix. Mme la secrétaire, s'il vous plaît.
+• (17 h 40) •
+La Secrétaire : Pour, contre, abstention. M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+
+M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+M. Tanguay : Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+Le Président (M. Bachand) : Abstention. Donc, l'article 35 est adopté. Merci
+beaucoup. M. le ministre.
+M. Caire : Oui, M. le Président. Alors, article 35.1.
+Le Président (M. Bachand) :Qui est un amendement.
+M. Caire : Qui est un amendement, qui se lit comme suit : Insérer, après l'article 35
+du projet de loi, l'article suivant :
+«35.1. L'article 104 de cette loi est modifié :
+1° par le remplacement, dans le premier alinéa, de «cinq» par «six» et de «un viceprésident» par «deux vice-présidents»;
+2° par l'insertion, après le premier alinéa, de l'alinéa suivant :
+«Un des vice-présidents est responsable de la section de surveillance et doit posséder
+une expertise relative au domaine des technologies de l'information. Le viceprésident peut désigner un autre... Le président — pardon — peut désigner un autre
+vice-président comme responsable de la section juridictionnelle.»;
+3° par le remplacement, dans le deuxième alinéa, de «le vice-président» par «les
+vice-présidents».
+En fait, M. le Président, c'est une proposition que j'ai faite aux collègues. Je mets la
+<balle en jeu...
+M. Caire : ...comme responsable de la section juridictionnelle.»;
+3° par le remplacement, dans le deuxième alinéa, de «le vice-président» par «les
+vice-présidents».
+
+En fait, M. le Président, c'est une proposition que j'ai faite aux collègues. Je mets la
+>balle en jeu. J'ai déjà signifié mon intérêt à faire en sorte que la Commission d'accès
+à l'information, à l'instar de d'autres organismes similaires dans le monde, se dote, à
+travers le volet de surveillance qui était déjà là, mais se dote d'une expertise
+technologique propre, évidemment, au contexte du XXIe siècle, où la
+communication, le... en fait, toute l'utilisation des renseignements se passe de plus en
+plus, et potentiellement, à terme, exclusivement dans un univers numérique.
+La CAI, et j'ai eu l'occasion d'en discuter avec sa présidente, a un volet juridictionnel
+qui, à mon avis, est très performant, très compétent, fait un excellent travail. Par
+contre, du côté technologique, puis je le dis avec tous les égards dus à la Commission
+d'accès à l'information, et surtout avec une volonté qui est très ferme et très affirmée
+de sa présidente d'apporter des modifications, et qui comprend parfaitement que,
+surtout avec le projet de loi n° 64, le rôle de la CAI vient de se transformer, à l'instar
+de la société, que ce volet-là, d'expertise numérique n'est plus une option, c'est une
+absolue nécessité, et la CAI ne serait pas en mesure, à mon avis, d'accomplir
+pleinement le mandat que la commission... en fait, que l'Assemblée nationale va lui
+confier s'il n'y avait pas cet élément-là très, très important.
+Parce qu'il faut comprendre, M. le Président, que le numérique, l'univers numérique
+n'est plus qu'un support à l'activité humaine, ça devient de plus en plus très intégré,
+très inhérent, très... En fait, c'est un univers en soi dans lequel on navigue, on gravite,
+on évolue. Et sa connaissance et sa maîtrise par un organisme aussi névralgique que
+la Commission d'accès à l'information, pour moi, c'est au-delà de la discussion, à
+savoir est-ce que c'est pertinent de le faire. Puis je ne dis pas que ne veux pas avoir
+des discussions, là, soyons bien clairs. J'espère que ce n'est pas comme ça que c'est
+interprété. Mais pour moi, c'est une évidence. J'aurais dû le dire comme ça, ça aurait
+été mieux formulé.
+Ceci étant, je sais que les collègues ont aussi des propositions à faire, là, qu'ils ont
+des réflexions, puis je vais être extrêmement intéressé de les entendre puis de
+partager cette volonté commune que nous avons, de faire de la Commission d'accès à
+l'information l'outil de surveillance qu'il peut et qu'il doit devenir.
+Le Président (M. Bachand) : Merci. Interventions? M. le député de Gouin.
+M. Nadeau-Dubois : Une chose est sûre, je partage l'objectif du ministre de faire de
+la CAI une institution <beaucoup plus...
+Le Président (M. Bachand) :...Merci. Interventions? M. le député de Gouin.
+M. Nadeau-Dubois : Une chose est sûre, je partage l'objectif du ministre de faire de
+la CAI une institution >beaucoup plus forte sur le plan technologique, notamment
+parce que, quand vient le temps d'examiner les pratiques dans le secteur privé, il y a
+un décalage d'expertise qui n'est pas à l'avantage de la société québécoise. Peut-être
+qu'un jour un tel décalage existera avec les organismes publics, mais, en tout cas, en
+
+ce moment, c'est beaucoup avec le secteur privé qu'il y a comme un énorme, énorme,
+énorme déséquilibre des forces, là, puis on ne peut pas réglementer les entreprises si
+les organes publics qu'on se donne n'ont pas l'expertise pour surveiller.
+Donc, le fait de nommer une vice-présidence spécifiquement pour ça, ça m'apparaît
+super important, mais je me permets d'inviter le ministre à aller peut-être encore un
+peu plus loin dans sa réflexion puis à nous partager ses intentions. Au-delà du fait
+qu'il y ait une vice-présidence, en dessous de cette personne, il va devoir y avoir des
+gens, des ressources, des experts, certains diraient des «geeks» pour faire le travail.
+Est-ce que la commission a cette expertise-là en ce moment? Est-ce que c'est dans
+l'intention du ministre de lui donner cette expertise-là? Parce que, là, on nomme une
+vice-présidence, c'est bien, mais ce n'est pas cette personne-là qui, personnellement,
+va aller faire le tour des organismes publics ou des entreprises. Donc, c'est quoi, l'état
+des ressources, en ce moment, à la commission? Puis pour que cet amendement-là
+soit effectif, il va falloir qu'il y ait du monde pour faire le travail. C'est quoi, le plan
+du ministre à ce niveau-là?
+M. Caire : Bien, en fait, l'idée de la vice-présidence, puis il faut... moi, j'essaie
+toujours, puis peut-être trop, là, les collègues pourront... on peut avoir cette
+discussion-là, j'essaie, comme ministre responsable de l'accès à l'information et de la
+protection des renseignements personnels, de m'assurer de l'indépendance de la CAI
+autant qu'il est possible. Moi, je crois beaucoup, beaucoup, beaucoup au fait que, si
+on veut que la CAI fasse pleinement son travail, elle doit être à l'abri de toute
+ingérence. Donc, je vous dirais, M. le député, que c'est beaucoup plus le plan de la
+présidente qui doit prévaloir et, dans ce sens-là, les discussions que j'ai eues avec elle
+allaient dans le sens que cette vice-présidence-là était un signal que l'Assemblée
+nationale envoyait à la Commission d'accès à l'information de se doter d'un tel poste,
+et qu'à partir de là l'expertise... <Puis la réponse à...
+M. Caire : ... dans ce sens-là, les discussions que j'ai eues avec elle allaient dans le
+sens que cette vice-présidence-là était un signal que l'Assemblée nationale envoyait à
+la Commission d'accès à l'informationT de se doter d'un tel poste, et qu'à partir de là
+l'expertise... >Puis la réponse à votre question, M. le député, c'est non, la CAI n'a pas
+cette expertise technologique là. La présidente a une intention très ferme de s'en
+doter. L'idée de rajouter cette vice-présidence-là était... Parce que le nombre des
+commissaires peut... ça, ça peut être déterminé par l'Assemblée nationale. Donc, il y
+a un minimum qui est prévu par la loi, mais il n'y a pas de maximum. Puis ça, c'est le
+BAN, c'est le Bureau de l'Assemblée nationale qui peut intervenir là-dessus. Par
+contre, la vice-présidence... puis ça, c'était une modification législative qui était
+nécessaire. Donc, c'est pour ça qu'on fait ça.
+Après ça, bien, c'est des ressources. Là, je vous avoue que n'ai pas vu, après le
+budget... je sais que la présidente a fait des demandes de ressources qui étaient
+conséquentes, mais je ne sais pas qu'est-ce qui a été... Honnêtement, puis je vous le
+dis en tout respect, là, je me ferai un plaisir de répondre à cette question-là en termes
+de ressources... de moyens financiers, ce qui aura été octroyé à la Commission
+
+d'accès à l'information. Je ne fais pas de cachette que la commission souhaiterait que
+son budget vienne de l'Assemblée nationale. Ce n'est pas le seul organisme qui... ce
+n'est pas le seul organisme qui le réclame. Éventuellement, ça tombe sur le coup de la
+présidente du Conseil du trésor de faire cette réflexion-là et de proposer ces
+aménagements-là.
+• (17 h 50) •
+Est-ce que ça donnerait des budgets supplémentaires? Ça, les circonstances étant ce
+qu'elles sont, je n'en suis pas sûr. Je ne peux pas me prononcer là-dessus, M. le
+député, vous comprendrez, mais on est pas mal dans ces éléments-là. Puis j'invite
+évidemment la commission à faire part au député de sa vision, parce qu'elle a
+vraiment un plan qui est incroyable, qui est structuré, qui est vraiment de faire rentrer
+la CAI dans la modernité. Puis notre modeste contribution, puis je suis très réaliste
+quand je parle de modeste contribution, puis l'équilibre entre s'ingérer et donner à la
+CAI les outils dont elle a besoin se reflète dans la proposition que je vous fais
+aujourd'hui.
+Mais encore une fois, M. le Président, là, je n'ai pas le monopole de la vérité. Si les
+collègues ont des suggestions à faire, très, très, très intéressé. N'oublions pas que la
+CAI ne relève pas... je veux dire, je suis ministre responsable de la loi et tout ça, mais
+c'est un officier de l'Assemblée nationale.
+Le Président (M. Bachand) : Merci. M. le député de Gouin.
+M. Nadeau-Dubois : ...ça répond à ma question, puis je pense que la question des
+ressources va être essentielle, là, parce que les entreprises développent des
+technologies à une <vitesse incroyable...
+M. Caire : ... la loi et tout ça, mais c'est un officier de l'Assemblée nationale.
+Le Président (M. Bachand) : Merci. M. le député de Gouin.
+M. Nadeau-Dubois : ...ça répond à ma question, puis je pense que la question des
+ressources va être essentielle, là, parce que les entreprises développent des
+technologies à une >vitesse incroyable.
+M. Caire : Si je peux me permettre là-dessus, puis pour la réflexion du collègue,
+parce que je suis d'accord avec lui, mais le décalage avec l'entreprise privée, c'est
+clair qu'il est beaucoup trop large, mais il y a un décalage avec les entreprises
+publiques. Et moi, j'ai eu l'occasion de dire à la Commission d'accès à l'information
+qu'elle avait aussi, à mon sens, un rôle par rapport aux organismes publics. Puis je
+donne un exemple très candidement, qu'on laisse tomber des systèmes en désuétude,
+pour moi, ça fait aussi partie de dire : Un instant, là, parce que ce faisant, il y a... ça
+amène un risque qui est inhérent aux informations qui sont traitées par ces systèmeslà. Donc, que le décalage se fasse vers le haut ou vers le bas, ce n'est jamais au
+
+bénéfice du citoyen, et je pense qu'il y a... puis je le dis très, très, très candidement,
+là, au fil des ans, il y a quelques organismes publics qui auraient pu être rappelés à
+l'ordre.
+Le Président (M. Bachand) : Député de Gouin, ça va?
+M. Nadeau-Dubois : Ah! bien, j'en conviens sans problème. C'est une institution, tu
+sais, qui est appelée à jouer un rôle de plus en plus grand dans la société québécoise,
+dans la mesure où l'enjeu de la protection des données personnelles, tu sais, il est
+apparu dans les dernières années... en fait, bon, il a toujours existé. Même quand
+c'était sur papier, ça existait, c'est un enjeu qui existait. Mais, disons, son
+importance...
+M. Caire : Oui, oui.
+M. Nadeau-Dubois : ...tu sais, les fuites de données n'avaient pas la même ampleur
+il y a de cela quelques années à peine, puis ça ne va aller qu'en augmentant. Tu sais,
+ça ne peut que devenir une préoccupation de plus en plus importante pour toutes les
+démocraties. Donc, d'avoir des institutions comme celle-là, fortes avec des dents,
+avec des pouvoirs de surveillance, puis de l'expertise pour que ces pouvoirs-là soient
+effectifs, puis que ça ne soit pas juste des belles paroles puis une volonté qui n'est
+plus juste... qui n'est pas effective, ça m'apparaît essentiel. Puis là-dessus, le ministre
+peut compter sur mon appui. Je pense que, malgré les différends qu'on a sur d'autres
+aspects de ce dossier-là, ça, c'est... ça nous unit parce que c'est les droits et libertés
+des citoyens et citoyennes dont il est question ici, puis on a besoin d'un chien de
+garde qui soit fort. Ça fait que, ça, le ministre pourra compter sur ma collaboration
+sur cette question-là.
+M. Caire : Et réciproquement.
+Le Président (M. Bachand) : Merci beaucoup. Interventions? M. le député de
+LaFontaine.
+M. Tanguay : Bien, je salue la proposition que met sur la table le ministre. Merci, je
+salue.
+Avant d'aller dans la technique, là, de la nomination aux deux tiers, à 103, on dit... il
+y a deux sections, la section surveillance, la section juridictionnelle. Section
+surveillance, ça, ça ne changera pas. Il va y avoir deux pans. Surveillance, ça, ce
+sera... Que va faire la surveillance? Est-ce qu'on va ajouter plus loin, dans les
+articles? Parce que j'imagine que, là, on entre dans un chapitre <où, là, on va...
+M. Tanguay : ...à 103, on dit... il y a deux sections, la section surveillance, la section
+juridictionnelle. Section surveillance, ça, ça ne changera pas. Il va y avoir deux pans.
+Surveillance, ça, ce sera... Que va faire la surveillance? Est-ce qu'on va ajouter plus
+loin, dans les articles? Parce que j'imagine que, là, on entre dans un chapitre >où, là,
+
+on va resserrer des boulons puis on va rajouter des pièces à la machine, j'imagine.
+Est-ce que, surveillance, on va... Ça réfère à quoi, surveillance, et ça réfère à quoi,
+juridictionnel?
+M. Caire : Le juridictionnel, c'est tout le volet traitement d'une demande d'accès à
+l'information, refus d'une demande, démarche pour en appeler d'un refus qui va
+jusqu'au tribunal d'accès à l'information. Donc, c'est tout le volet application,
+interprétation de la loi.
+Le volet surveillance, c'est tout le volet enquête, audit, etc. Et c'est là où, compte tenu
+du fait que, de plus en plus... de plus en plus, et même dans une proportion presque
+exclusive maintenant, l'information est traitée numériquement, bien, il devient
+incontournable que la Commission d'accès à l'information, dans son mandat de
+surveillance, dans le sens de ce que je viens de dire, se dote de cette expertise-là
+parce qu'il faut être en mesure d'évaluer la protection inhérente aux renseignements
+personnels dans une perspective de système informatique. Si vous n'avez pas un
+minimum de connaissance du numérique, ça va être un peu compliqué d'assumer
+pleinement ce volet-là.
+Puis je vais aller plus loin. Tout le volet directives va aussi nécessiter cette
+connaissance-là, cette expertise-là parce que les directives doivent être applicables,
+doivent être réalistes, mais, en même temps, elles doivent être assez sévères pour ne
+pas qu'un manque d'expertise nous amène dans un contexte de laxisme qui ne serait
+pas souhaitable ou, a contrario, dans un contexte d'exigences irréalistes.
+Donc, c'est tout ce volet-là qu'il faut couvrir, M. le député, par cette expertise-là. Et,
+comme je l'ai dit, l'information, le traitement de l'information au sens très large, et
+donc des renseignements personnels, est complètement inhérent et intégré à l'univers
+numérique, et une connaissance de l'univers, une bonne... puis je dirais même une
+expertise du numérique, à mon avis, devient incontournable dans les mandats que
+nous confions avec le projet de loi n° 64 à la Commission d'accès à l'information.
+M. Tanguay : Donc, dans l'aspect surveillance, il y a enquête, il y a audit, il y a
+rédaction et communication des bulletins de directives, d'information, puis tout ça.
+Enquête fait en sorte que la personne, à un moment donné, elle va aller voir les
+organismes publics. Ah! il y aurait peut-être eu... Bon, il y a une dénonciation, il y a
+enquête, oui, on monte le dossier. <Et, une fois que le...
+M. Tanguay : ... enquête, il y a audit, il y a rédaction et communication des bulletins
+de directives, d'information, puis tout ça. Enquête fait en sorte que la personne, à un
+moment donné, elle va aller voir les organismes publics. Ah! il y aurait peut-être eu...
+Bon, il y a une dénonciation, il y a enquête, oui, on monte le dossier. >Et, une fois
+que le dossier est complet puis on dit : O.K., on va sanctionner, est-ce que c'est la
+Commission d'accès à l'information qui va imposer les amendes ou il faut qu'elle
+passe par le TAQ pour imposer des amendes?
+
+M. Caire : Non, c'est la Commission d'accès à l'information qui va... dans le cas des
+sanctions administratives, c'est le membre qui va... c'est la personne qui va être
+désignée par la commission. Dans le cas des sanctions pénales, là, c'est-u le TAQ qui
+fait ça, les pénales? Les pénales, ça va être le tribunal administratif?
+M. Miville-Deschênes (Jean-Philippe) : Le pénal, la commission peut être
+poursuivant.
+M. Caire : Oui, c'est ça, c'est le criminel...
+M. Miville-Deschênes (Jean-Philippe) : Dans le public, la commission peut être
+poursuivant ou elle peut demander...
+M. Caire : ...administratives, c'est la commission elle-même à travers la personne
+qui va être mandataire.
+M. Tanguay : Puis elle s'en va-tu... Elle s'en va en Cour du Québec, à ce moment-là,
+à titre de poursuivant ou au TAQ?
+M. Miville-Deschênes (Jean-Philippe) : Elle ne va pas au TAQ à titre de
+poursuivant, je crois que c'est la Cour du Québec.
+M. Tanguay : Cour du Québec, section pénale, là... O.K.
+Lorsque c'est des sanctions administratives, est-ce que la section surveillance va
+transférer le dossier à la section juridictionnelle, puis c'est la juridictionnelle qui va
+imposer les sanctions administratives?
+M. Caire : En fait, c'est une personne qui est désignée par la CAI qui va faire le
+travail et qui va avoir le pouvoir d'imposer la sanction pécuniaire administrative.
+Ceci étant dit, la CAI devra quand même établir une grille pour que ça ne soit pas
+totalement arbitraire, là. Donc, elle aura à évaluer et émettre une grille de ce qui
+pourront être des sanctions pécuniaires administratives imposables en fonction de
+quelle infraction.
+M. Tanguay : Et, une fois qu'on reçoit l'avis d'infraction, puis là on m'impose une
+amende de 10 000 $, moi, évidemment, j'ai toujours loisir, puis ça sera informé, de
+contester cette amende-là. Et là je la conteste devant le TAQ ou la Cour du Québec?
+M. Caire : La sanction pécuniaire administrative, elle n'est pas contestable.
+M. Tanguay : Oui.
+M. Caire : Elle est-u contestable?
+
+M. Miville-Deschênes (Jean-Philippe) : ...par contre, c'est devant la Cour du
+Québec...
+M. Tanguay : O.K. Et la section juridictionnelle, application de la loi... Autrement
+dit, avec ce qu'on veut faire, là, parce qu'avoir beaucoup d'attributs... On n'a pas
+besoin d'ajouter d'autres sections que surveillance et juridictionnelle. Avec tout ce
+qu'on a à faire, on peut décliner toutes les nouvelles responsabilités...
+M. Caire : Oui. Puis, en fait... puis je vous dirais qu'il est de l'intention de la
+commission d'organiser administrativement ces deux sections-là, donc de couvrir...
+Puis ça, je pense que ça relève de l'autorité de la commission à travers les deux
+grands mandats qu'on lui donne d'organiser administrativement ses effectifs pour être
+capable de remplir ces deux mandats-là, là.
+• (18 heures) •
+Donc, les mandats sont quand même... donnent deux volets assez larges, mais à partir
+de là peuvent découler différents groupes d'opération qui seront établis de façon...
+
+Haut de la page
+
+18 h (version révisée)
+M. Caire : ...mandat qu'on lui donne d'organiser administrativement ses effectifs
+pour être capable de remplir ces deux mandats-là, là. Donc, les mandats sont quand
+même... donnent deux volets assez larges, mais à partir de là peuvent découler
+différents groupes d'opération qui seront établis de façon administrative par la
+présidence de la CAI.
+M. Tanguay : Dans le projet de loi n° 1, je ne dis pas qu'il faut aller là, mais on
+pourrait peut-être bonifier un peu le... Dans le projet de loi n° 1, entre autres, on
+nomme l'UPAC, DPCP et directeur général de la Sûreté du Québec. Je ne suis pas en
+train de dire qu'il faut aller là, mais c'est quand même des nominations aux deux tiers.
+Tous les membres de la Commission d'accès à l'information, c'est des nominations
+aux deux tiers, là.
+M. Caire : La CAI aussi.
+M. Tanguay : Non, de la CAI, c'est ça, l'accès à l'information. Donc, ce sont des
+nominations aux deux tiers.
+
+M. Caire : Oui.
+M. Tanguay : Alors, on pourrait dire : Oui, mais là il y a peut-être une lourdeur. Pour
+ce qui est du directeur général de la Sûreté du Québec, on dit qu'il y a un comité de
+sélection. Puis on dit : Le comité de sélection est formé... Dans l'année qui précède
+l'expiration, le ministre publie... Le comité de sélection est composé du sous-ministre
+de la Sécurité publique, ancien directeur de police recommandé par l'Association des
+directeurs de police, une personne recommandée par un organisme représentant le
+milieu municipal, une autre personne choisie par le ministre parmi les personnes
+oeuvrant dans un organisme de milieu communautaire et, le cinquième, D.G.,
+directeur général de l'École nationale de police. Ça, c'est le comité de sélection qui va
+recevoir, après appel de candidatures, les candidatures. Et ils vont, sur les 30, les 20,
+les six qu'ils auront reçus, ils vont déclarer la liste, il peut en avoir un, deux ou il n'y
+a pas de limite, ils vont déclarer ceux qui sont aptes. Et là la ministre ou le ministre
+de la Sécurité publique va dire : Bon, bien, là-dedans, moi, je choisis et je
+recommande celle-là au premier ministre.
+Je ne suis pas en train de dire qu'il faut ça, comme on l'a fait, projet de loi n° 1, pour
+la Sûreté du Québec, mais je pense qu'il y aurait lieu de se claquer sur ce qui se fait
+avec la Commission des droits de la personne et des droits de la jeunesse. Il y a deux
+sections, commission des droits de la personne droits de la jeunesse, il y a la section
+jeunesse et la section charte. Vous avez un président, qui est Me Tessier, président de
+la commission d'accès à la jeunesse, on l'a voté aux deux tiers président de la
+commission d'accès à la jeunesse. Quand il a... Et lui-même était vice-président, je
+pense qu'il était vice-président charte. Et là on a nommé aux deux tiers la viceprésidence charte. Et, quand il y a un poste de libre, exemple à l'autre viceprésidence, on nomme la personne à titre de vice-président jeunesse, donc ils sont
+nommés. Et, après ça, les autres membres sont nommés à titre de membres du conseil
+d'administration de la Commission d'accès à l'information du côté soit jeunesse ou du
+côté charte.
+Mon point : Est-ce qu'on pourrait, parce qu'il s'agit de vote aux deux tiers, juste sousamender ce que le ministre propose, puis j'y adhère, mais pour s'assurer que les élus
+de l'Assemblée nationale nomment la présidence à la CAI, nomme la vice-présidence
+section surveillance et la vice-présidence section juridictionnelle à ce titre-là <plutôt
+que...
+M. Tanguay : ... ce que le ministre propose, puis j'y adhère, mais pour s'assurer que
+les élus de l'Assemblée nationale nomment la présidence à la CAI, nomme la viceprésidence section surveillance et la vice-présidence section juridictionnelle à ce
+titre-là >plutôt que de laisser ça... Donc, il y aura une analyse qui va être faite à
+travers les caucus, comme on fait toujours, là. On va recevoir... De la manière dont ça
+fonctionne, c'est que, du cabinet du premier ministre, on reçoit ça, nous, dans
+l'opposition officielle par rapport à la vice-présidence jeunesse, Commission des
+droits de la personne. On propose telle candidature, on regarde ça, O.K., parfait. O.K.
+Vice-présidence jeunesse, O.K., elle a une expérience pertinente, c'est parfait. On
+
+vous informe, ça se fait tout à l'interne, ce n'est pas public, on vous informe qu'on va
+voter pour. Puis là ils comptent, on compte les votes, puis tout ça, puis ça se fait à
+l'unanimité. J'aimerais ça qu'on puisse faire la même chose, que ce ne soit pas donné
+au président de la Commission d'accès à l'information, entre autres pour la section
+juridictionnelle, de nommer quelqu'un. Que ça revienne à nous, les élus, de dire :
+Bien, pour la vice-présidence, là, arrivez-nous avec une bonne candidature puis on va
+l'avaliser. Je ne veux même pas la lourdeur de dire un comité en amont, là, peut-être
+qu'un jour on va être rendu là aussi, ceci dit, là, mais je le ferais en ce sens-là.
+M. Caire : Je comprends que le député voudrait qu'on nomme, dans le fond, les deux
+vice-présidents à leur fonction juridictionnelle et/ou surveillance, qu'ils soient
+nommés aux deux tiers. Dans le cas de la présidence, ce que la loi prévoit, c'est que
+c'est sous proposition du premier ministre. Est-ce qu'il voit la même chose pour les
+deux vice-présidents ou que...
+M. Tanguay : Tous les membres sont nommés sous proposition du premier ministre
+à l'heure actuelle.
+M. Caire : Bien, j'ai une question puis je nous invite à réfléchir... ou est-ce que les
+vice-présidents nommés aux deux tiers, mais sous proposition de la présidence?
+M. Tanguay : Non, non, parce que la présidence ne peut pas faire techniquement... le
+règlement de l'Assemblée nationale... La présidence ne peut pas faire de motion à
+l'Assemblée nationale. C'est vraiment le premier ministre qui fait une motion à
+l'Assemblée nationale et... parce qu'on a travaillé beaucoup sur le projet de loi n° 1. Il
+y a différents modes de nomination aux deux tiers, là, soit dit en passant, là, mais,
+dans ce cas-là, c'est une motion du premier ministre. Pour ce qui est de la
+Commissaire à l'éthique, juste, j'ouvre une petite parenthèse qui est «cute», la
+Commissaire à l'éthique, elle, elle est nommée sous proposition conjointe du premier
+ministre et du chef de l'opposition officielle. Des fois, il y a des petits «tweaks». Je
+referme la parenthèse. C'est le premier ministre qui, dans tous les cas d'espèce,
+propose les nominations aux deux tiers de tous les membres, les cinq, dont la
+présidence, Commission d'accès à l'information. Là, le premier ministre... on sait que
+nous devons pourvoir aux deux tiers une présidence, deux vice-présidences puis
+quatre postes de membre du conseil de la commission.
+Alors, moi, je le ferais comme ça et à ce titre-là. Et, nous, comme élus, là, ça nous
+permettrait de se dire : O.K., là, on parle... Puis, je suis d'accord avec le ministre, là,
+là, c'est un autre «ball game», on parle de la section surveillance. Comprenez-vous
+que là, on pourrait dire : Oui. Bien là, pour la section surveillance, O.K., c'est une
+personne qui a une belle candidature. Et, même pour la section juridictionnelle, je ne
+laisserais pas ça <au président...
+M. Tanguay : ... et, nous, comme élus, là, ça nous permettrait de se dire : O.K., là,
+on parle... Puis, je suis d'accord avec le ministre, là, là, c'est un autre «ball game», on
+parle de la section surveillance. Comprenez-vous que là, on pourrait dire : Oui. Bien
+
+là, pour la section surveillance, O.K., c'est une personne qui a une belle candidature.
+Et, même pour la section juridictionnelle, je ne laisserais pas ça >au président.
+M. Caire : Je vais demander une courte suspension, M. le Président. Je vais aller
+demander des conseils avisés à mon conseil des sages.
+Le Président (M. Bachand) : Parfait, merci. Alors, on va suspendre quelques
+instants. Merci beaucoup.
+(Suspension de la séance à 18 h 7)
+(Reprise à 18 h 28)
+Le Président (M. Bachand) :À l'ordre, s'il vous plaît! La commission reprend ses
+travaux. M. le député de LaFontaine, s'il vous plaît.
+M. Tanguay : Alors, oui, M. le Président, je propose le sous-amendement suivant,
+article 35.1 :
+L'amendement introduisant l'article 35.1 du projet de loi est modifié dans le
+deuxième paragraphe par :
+1° le remplacement des mots «. Le président peut désigner» par «,» et le
+remplacement du mot «comme» par «est»;
+2° le remplacement du 3e paragraphe par le suivant :
+3° par la suppression, dans le deuxième alinéa, des mots «et le vice-président».
+Voilà, M. le Président, c'est conforme à ce qu'on a discuté.
+Le Président (M. Bachand) : Merci. Est-ce qu'il y a intervention? S'il n'y a pas
+d'intervention, nous allons procéder à la mise aux voix. Mme la secrétaire, s'il vous
+plaît.
+La Secrétaire : Pour, contre, abstention. Pour les membres de l'opposition officielle,
+M. Tanguay (LaFontaine)?
+M. Tanguay : Pour.
+La Secrétaire : M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+
+M. Lévesque (Chapleau) : Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+Le Président (M. Bachand) : Abstention. Donc, le sous-amendement à l'article 35.1
+est adopté. Merci beaucoup. Donc, on revient à l'amendement qui vient d'être
+amendé. Est-ce qu'il y a des interventions? S'il n'y a pas d'intervention, nous allons
+procéder à sa mise aux voix. Mme la secrétaire, s'il vous plaît.
+La Secrétaire : Pour, contre, abstention. M. Caire (La Peltrie)?
+M. Caire : Pour.
+La Secrétaire : Pour les membres du groupe parlementaire formant le
+gouvernement, M. Lévesque (Chapleau)?
+M. Lévesque (Chapleau) : Pour.
+La Secrétaire : Pour les membres de l'opposition officielle, M. Tanguay
+(LaFontaine)?
+M. Tanguay : Pour.
+La Secrétaire : M. Nadeau-Dubois (Gouin)?
+M. Nadeau-Dubois : Pour.
+La Secrétaire : M. Bachand (Richmond)?
+Le Président (M. Bachand) : Abstention. Donc, le nouvel article 35.1, tel
+qu'amendé, est adopté. Merci beaucoup.
+Et compte tenu de l'heure, la commission ajourne ses travaux, sine die. Merci.
+(Fin de la séance à 18 h 30)
+
+Haut de la page
+
+Document(s) associé(s) à la séance
+
+• Vidéo/Audio
+
