@@ -1,0 +1,372 @@
+Jour,Phrase,Position,Score
+18,J'en profite pour vous dire que je suis très heureux de vous voir tout le monde ensemble.,POSITIVE,0.9645966291427612
+18,Je pense que ça va faire du bien.,POSITIVE,0.964765727519989
+18,Heureux de vous retrouver aussi.,POSITIVE,0.900390625
+18,"Et certains diraient même excité, mais il est peut-être un peu trop tôt pour en juger.",NEGATIVE,0.9219387173652649
+18,"Heureux de vous retrouver, les collègues également autour de la table, les gens qui accompagnent le ministre et les gens qui accompagnent le président.",POSITIVE,0.942308247089386
+18,Ceci étant dit que nous sommes avec lui.,POSITIVE,0.9158768057823181
+18,"Il n'y a pas un rayon de soleil qui passe entre nos deux ni une feuille de papier, M. le Président.",NEGATIVE,0.9258697032928467
+18,Tout à fait.,POSITIVE,0.9654862284660339
+18,Elle est partie.,NEGATIVE,0.9241070747375488
+18,Elle est partie.,NEGATIVE,0.9241070747375488
+18,Ah bon!,NEGATIVE,0.9885798096656799
+18,"Bien, moi aussi, moi aussi.",POSITIVE,0.9274168610572815
+18,Mais là je ne saurais pas vous dire.,NEGATIVE,0.9726794958114624
+18,"Puis consentement ouvert pour la journée, là, on est rendus... O.K.",NEGATIVE,0.9867159128189087
+18,"Dans le fond, ça existait déjà.",NEGATIVE,0.9202911853790283
+18,"On parle ici de demandes, donc, abusives par le nombre, caractère répétitif, systématique.",NEGATIVE,0.9858027696609497
+18,"Ça, c'est bien.",POSITIVE,0.9035224914550781
+18,Mais je ne vois rien dans la loi qui oblige la commission à le faire.,NEGATIVE,0.9524129033088684
+18,Ils ne le sont pas.,NEGATIVE,0.9509565234184265
+18,"Consentement, M. le Président, qu'ils soient rendus publics, absolument.",POSITIVE,0.90285724401474
+18,"Lorsque la demande est faite, je peux comprendre, mais lorsque le délai est, effectivement, prolongé… Lorsque… bien, lorsque le délai… lorsque la demande est accordée, il n'y a pas de notification qui est faite au requérant.",NEGATIVE,0.9693788290023804
+18,"Il n'y a pas de notification qui est faite, alors qu'est-ce que… Non.",NEGATIVE,0.9820597171783447
+18,Il s'agirait juste d'ajouter ça.,NEGATIVE,0.9197130799293518
+18,"Histoire de se… Parfait, merci.",POSITIVE,0.9212291836738586
+18,C'est beau.,POSITIVE,0.9617891907691956
+18,"Non, non, non, O.K.",NEGATIVE,0.9623235464096069
+18,"Outre les plexiglas, là, c'est presque normal, là.",NEGATIVE,0.9609781503677368
+18,"Ça, ça existe déjà dans les tribunaux civils, là, on parlait du plaideur quérulent, là.",NEGATIVE,0.9126182198524475
+18,"Non, non, non.",NEGATIVE,0.9973886609077454
+18,Les autres...,NEGATIVE,0.9233664870262146
+18,On va à la vitesse du plus lent.,NEGATIVE,0.9744491577148438
+18,"Si des efforts raisonnables ont été faits pour rejoindre les parties, là, à un moment donné, là, je ne sais pas, y a-tu une obligation, là?",NEGATIVE,0.9165096282958984
+18,Mais là ça va... Vous ne ferez pas l'économie d'un autre débat pour dire : O.K.,NEGATIVE,0.9072778820991516
+18,"Moi, j'ai l'impression, là...",NEGATIVE,0.947737991809845
+18,… Pardon?,NEGATIVE,0.9406732320785522
+18,"Non, les parties.",NEGATIVE,0.9122918248176575
+18,"boy, ça, c'est ma grande force, la mémoire.",POSITIVE,0.9399012923240662
+18,"Sur le fond, là, les… C'est ça.",NEGATIVE,0.9374953508377075
+18,"Non, mais le droit administratif, c'est complexe en... c'est aride, extra sec.",NEGATIVE,0.9214277267456055
+18,"Mais je n'ai rien contre, mais, si on le dit, ça va être plaidé puis ça va être final.",NEGATIVE,0.9733253121376038
+18,"Pour la surveillance, là.",NEGATIVE,0.9311538934707642
+18,On suspend jusqu'à demain.,NEGATIVE,0.9221382737159729
+18,Puis on ne va pas ouvrir...,NEGATIVE,0.9441689848899841
+18,Puis c'est correct.,NEGATIVE,0.9331516623497009
+18,"Moi, je vis bien avec ça.",POSITIVE,0.9319301247596741
+18,C'est du papier à musique.,NEGATIVE,0.9650323987007141
+18,"Puis quand elle dit tout autre moyen comme tantôt, alors, ce n'est pas...",NEGATIVE,0.9478752613067627
+18,On n'a pas dit notification à 58.,NEGATIVE,0.9298413991928101
+18,"On aurait pu, mais on ne l'a pas fait.",NEGATIVE,0.9980077147483826
+18,"Alors, je vais vivre très bien avec ça parce que c'est...",POSITIVE,0.9499155282974243
+18,"Je ne vois pas bien, là, en quoi… Une ordonnance de la Commission d'accès à l'information te dit de faire quelque chose.",NEGATIVE,0.982415497303009
+18,"Préjudice sérieux et irréparable, ça, c'est correct.",NEGATIVE,0.921987771987915
+18,"Mais le motif… c'est comme si tu m'avais dit, là : Motif météorologique.",NEGATIVE,0.90488600730896
+18,"ça ne me tente pas, je ne veux pas, regarde, je m'en vais en appel.",NEGATIVE,0.9975916147232056
+18,Ça fait que le motif d'urgence visait à permettre que l'ordonnance soit appliquée avant le délai de 30 jours.,NEGATIVE,0.9446475505828857
+18,Puis là c'est 30 jours avant qu'elle soit exécutoire... O.K.,NEGATIVE,0.991575300693512
+18,"bien là, j'ai gagné, mais 10 jours, c'est épouvantable.",NEGATIVE,0.99702388048172
+18,Je ne suis pas sûr qu'on veuille allez là.,NEGATIVE,0.9579362869262695
+18,Je ne suis pas sûr qu'on veuille allez là.,NEGATIVE,0.9579362869262695
+18,"Bien, la juridiction va se limiter à modifier le délai d'exécution du jugement, de l'ordonnance.",NEGATIVE,0.9103507399559021
+18,Il peut juste agir sur vraiment le délai d'exécution.,NEGATIVE,0.9225286245346069
+18,"Mais si le but, c'est de le prolonger, il suffit de déposer un appel, puis ça va être… …va être suspendu.",NEGATIVE,0.9496567845344543
+18,"Je ne pense pas, à moins que vous me détrompiez, là.",NEGATIVE,0.9173220992088318
+18,"…c'est… sur le délai, là.",NEGATIVE,0.9717317223548889
+18,"Là, je comprends pourquoi «urgence» a une pertinence, mais ça veut donc dire qu'il peut réduire les délais.",NEGATIVE,0.9049060940742493
+18,"...que de dire : Là, on vient de boucler la boucle.",NEGATIVE,0.9149622321128845
+18,Ça me fait du bien.,POSITIVE,0.9852064251899719
+18,"Adopté, merci.",POSITIVE,0.9803613424301147
+18,"Adopté, merci.",POSITIVE,0.9803613424301147
+18,"Non, non, ça a été assez discret.",NEGATIVE,0.9488368630409241
+18,En fait...,NEGATIVE,0.9061141610145569
+18,Elles font un travail remarquable.,POSITIVE,0.9599997997283936
+18,On ne refera pas le débat ici.,NEGATIVE,0.9621525406837463
+18,C'est correct.,NEGATIVE,0.9439950585365295
+18,"Pas à ma connaissance, pas à ma connaissance.",NEGATIVE,0.9948535561561584
+18,"Ils n'ont pas été jouer là, O.K.",NEGATIVE,0.9332104325294495
+18,"Pas à ma connaissance, pas à ma connaissance.",NEGATIVE,0.9948535561561584
+18,Ils sont… Ils n'ont pas été jouer là.,NEGATIVE,0.972775399684906
+18,"En fait, selon les modalités de la demande d'inscription, c'est assez administratif, là.",NEGATIVE,0.9410224556922913
+18,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+18,Je vais juste aller voir plus loin.,NEGATIVE,0.9487504959106445
+18,"Je lance déjà la question, mais on ne le fera pas là, on le fera à 151.",NEGATIVE,0.928570568561554
+18,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+18,"Ou c'est comme un dépanneur : Moi, ce matin, je décide de vendre de la gomme balloune, il n'y a pas personne qui va me donner une autorisation, là.",NEGATIVE,0.9477595090866089
+18,… Juste pour ma simple gouverne.,NEGATIVE,0.9410155415534973
+18,"Câline, c'est le loup dans la bergerie, ou le renard dans le poulailler, là, je n'ai plus d'autre exemple, là.",NEGATIVE,0.9064172506332397
+18,"Il m'en vient, mais rien qui se dit au micro.",NEGATIVE,0.9617419838905334
+18,"Hein, la CAI va laisser le renard dans le poulailler?",NEGATIVE,0.9351931810379028
+18,Non… Non?,NEGATIVE,0.9814035892486572
+18,"Une entreprise qui aurait été… ...l'AMP aussi, mais là on est plus dans l'octroi des contrats publics, là.",NEGATIVE,0.9512033462524414
+18,"Donc, son carré de sable, il se limite à ça.",NEGATIVE,0.982909083366394
+18,"Mais elle ne pourrait pas rien faire, par contre, ceci dit.",NEGATIVE,0.9327121376991272
+18,"Mais elle se limite à l'application de la loi, effectivement.",NEGATIVE,0.9260846376419067
+18,"Donc, le délai de sept ans devenait une hypothèque pour les enquêteurs.",NEGATIVE,0.951407790184021
+18,"Oin a peut-être des exemples en tête, mais...",NEGATIVE,0.9970217347145081
+18,"En fait, je me demande si un dossier de fraude réglé en six mois, ça existe.",NEGATIVE,0.970598042011261
+18,Fausse alerte.,NEGATIVE,0.9937571287155151
+18,Je vais arrêter.,NEGATIVE,0.996882438659668
+18,"À 78, «Un agent de renseignements personnels doit établir et appliquer au sein de son entreprise des règles de conduite ayant pour objet de permettre à toute personne concernée par un renseignement personnel qu'il détient d'y avoir accès selon des modalités propres à assurer la protection d'un tel renseignement et de le faire rectifier.» Et de la faire selon des modalités permettant de le faire rectifier, la dernière partie, je n'ai pas de problème, mais «selon des modalités propres à assurer la protection d'un tel renseignement», on vise quoi ici?",NEGATIVE,0.9190352559089661
+18,"La dernière partie, je n'ai pas de problème.",NEGATIVE,0.9499075412750244
+18,"Mais «selon des modalités propres à assurer la protection d'un tel renseignement», on vise quoi ici?",NEGATIVE,0.9560667276382446
+18,"C'est important, ce qu'on dit là, parce que c'est... il faut que l'entreprise qui détient l'information, justement, s'assure qu'elle peut donner tout ce qu'elle donne à cette personne-là, qu'elle a les autorisations, qu'il s'agit de la bonne personne, parce qu'il peut y avoir des fraudes en la matière.",POSITIVE,0.939608633518219
+18,"On dit... 79, l'objectif, c'est quoi?",NEGATIVE,0.9360660314559937
+18,C'est bête de même.,NEGATIVE,0.929033637046814
+18,"Non, sérieusement, c'est... Bien, je pensais que c'était correct à cinq ans.",NEGATIVE,0.9301307201385498
+18,Mais il y a-tu d'autres sept ans qui tournent autour de cette... Non.,NEGATIVE,0.9281758069992065
+18,"Bien, pas à ma connaissance.",NEGATIVE,0.9940149188041687
+18,"Non, non, non.",NEGATIVE,0.9973886609077454
+18,"Bon, là, sur la formulation... sur la finalité, ça revient au même.",NEGATIVE,0.9905608296394348
+18,"C'est ça, mais on ne parle jamais pour ne rien dire, puis une réalité différente va s'exprimer nécessairement par des mots différents, mais là ça ne semble pas être une réalité différente, parce que, dans le cycle de la vie, vous vous rappelez l'arbre, là, le cercle de la vie, tout ça, j'ai la chanson en tête...",POSITIVE,0.9483262896537781
+18,"Non, j'ai passé proche, mais non.",NEGATIVE,0.9126001596450806
+18,Ça ne vous tente pas?,NEGATIVE,0.9830958843231201
+18,"«Ne plus conserver», ça ne veut juste dire mettre ça sur une clé USB puis mettre ça à côté, ne plus... Non, non, non.",NEGATIVE,0.9701085090637207
+18,"En fait, ça, c'est double non parce que, d'une part, ça serait une façon détournée de les conserver, d'une part.",NEGATIVE,0.9381607174873352
+18,"Je ne le conserve plus, je donne ça à un tiers.",NEGATIVE,0.9040493369102478
+18,"Une compagnie spécialisée en… En fait, ça, c'est double non, parce que, d'une part, il y aurait… ça serait une façon détournée de les conserver, d'une part.",NEGATIVE,0.9559469223022461
+18,"Donc, vous les avez indirectement conservées, à la limite on pourrait plaider ça… Non.",NEGATIVE,0.9881460666656494
+18,"Bien, non.",NEGATIVE,0.9864458441734314
+18,"… On utilise «détruire», là?",NEGATIVE,0.9448887705802917
+18,Mais c'est correct.,NEGATIVE,0.9579201340675354
+18,"Moi, je ne suis pas… «Format Drive C», là.",NEGATIVE,0.9259644150733948
+18,Ce qui est une forme de destruction.,NEGATIVE,0.9008959531784058
+18,"Ou bien quelqu'un aura fait : «Format Drive C», puis ça détruit tout, là.",NEGATIVE,0.9922864437103271
+18,"Oui, ça fait du bien.",POSITIVE,0.9757882952690125
+18,Je ne peux pas dire que ça brille par...,NEGATIVE,0.9710168838500977
+18,"Adopté, merci.",POSITIVE,0.9803613424301147
+18,"Adopté, merci.",POSITIVE,0.9803613424301147
+18,"Adopté, merci.",POSITIVE,0.9803613424301147
+18,Je n'ai pas entendu.,NEGATIVE,0.9620731472969055
+18,"Oui, c'est ça, parce que le questionnement...",POSITIVE,0.911855161190033
+18,"Puis il aurait peut-être été mieux que je le fasse anonymement, mais je ne l'ai pas fait anonymement.",NEGATIVE,0.9817283749580383
+18,"Bien, ton contrat de location, là, j'y mets fin de façon... de mauvaise foi.",NEGATIVE,0.9133831858634949
+18,"Mais à partir de là, ça devient compliqué en petit péché.",NEGATIVE,0.9852338433265686
+18,"Sur un fallacieux prétexte… Mais… oui, oui, mais sauf que là, dans le contrat de service, ça veut dire qu'il faut que je mette fin à mon contrat.",NEGATIVE,0.9447821378707886
+18,"Ça devient, je pense, plus hasardeux comme... puis à la limite, on pourrait dire : Bon, bien, O.K., mais à la fin du contrat, je ne le renouvellerai pas, là.",NEGATIVE,0.9082756638526917
+18,"Ça devient, je pense, plus hasardeux comme… tu sais, à la limite, on pourrait dire : Bon, bien, O.K., mais à la fin du contrat je ne le renouvellerai pas, là.",NEGATIVE,0.9199990034103394
+18,"Bon… mais… Un peu dans le même ordre d'idée, là, je n'ai, moi non plus, aucune réponse à offrir, mais je veux juste voir s'il y a une jurisprudence.",NEGATIVE,0.9007952213287354
+18,"C'est quoi, le délai?",NEGATIVE,0.988654375076294
+18,"Elle a utilisé les recours… ...lieu de mettre dans un texte... c'est quoi, les recours, là?",NEGATIVE,0.9727646708488464
+18,"C'était une sonneuse d'alerte en bonne et due forme, puis elle a fini à la porte, là.",NEGATIVE,0.9636198878288269
+18,"Elle a utilisé le recours, ça n'a pas marché.",NEGATIVE,0.9947981834411621
+18,"Oui, bien, c'est sûr qu'il y a un fardeau de la preuve, c'est sûr qu'il faut démontrer qu'il y a eu représailles... ... Bien, en fait... bien, là-dessus je ne serais pas d'accord parce que, justement, s'il y a un lien temporel, on dit... mettons, on donne une prescription après un an, ça, ça veut dire : C'est correct, pendant un an, je vais me tenir tranquille, mais après ça...",NEGATIVE,0.9035691022872925
+18,"Oui, tout à fait.",POSITIVE,0.9223586916923523
+18,"La réponse, c'est non.",NEGATIVE,0.9265337586402893
+18,"La réponse, c'est non.",NEGATIVE,0.9265337586402893
+18,"Mais aujourd'hui, c'est un bon principe, mais on n'a pas de grille.",NEGATIVE,0.9619518518447876
+18,"Bien oui, mais ça ne changera rien.",NEGATIVE,0.991351842880249
+18,"Mais ça, ce sont des… si c'est noyé dans une restructuration, là, ça va passer, puis la personne… Pas...",NEGATIVE,0.9784222841262817
+18,"À moins que la personne puisse démontrer qu'il s'est dit 94 fois, devant l'imprimante et à la salle à café, que : Aïe!",NEGATIVE,0.9238280653953552
+18,"Bizarrement, on abolit ton poste dans une restructuration un mois après que tu aies une plainte.",NEGATIVE,0.9012576341629028
+18,"Donc, moi, je... puis c'est parce que je ne pense pas qu'on puisse être plus précis ou plus détaillé.",NEGATIVE,0.9052066802978516
+18,"Puis ça, c'est contestable en appel, puis tout, là, puis on est partis.",NEGATIVE,0.9053777456283569
+18,Ce n'est pas comme ça que ça marche.,NEGATIVE,0.9678887128829956
+18,"Il dit : Oui, oui, mais je l'ai mis à la porte pareil… O.K.",NEGATIVE,0.9521247148513794
+18,Tu vas y penser à deux fois la prochaine fois.,NEGATIVE,0.9168276190757751
+18,…puis dire : Congédiement injustifié.,NEGATIVE,0.9504224061965942
+18,"Puis sans compter qu'il y a une décision favorable de la CAI, là, c'est...",NEGATIVE,0.9860679507255554
+18,Le temps file.,NEGATIVE,0.962417721748352
+18,Le temps file.,NEGATIVE,0.962417721748352
+18,Mais pour se rendre là… Ah!,NEGATIVE,0.9429939389228821
+18,"c'est une représaille, ça ne tient pas la route.",NEGATIVE,0.9991886019706726
+18,Mais pour se rendre là : Ah!,NEGATIVE,0.9157674908638
+18,"Alors, mon point, c'est que la non-représaille, y aurait-il lieu de ne pas uniquement le faire dans un contexte d'emploi, mais le faire ici, dans le contexte, on va même dans les services de garde, ici, dans la responsabilité civile.",POSITIVE,0.9033491015434265
+18,"Déjà là, on a deux exemples.",NEGATIVE,0.9453722834587097
+18,Ça aurait pu être une place en CHSLD.,NEGATIVE,0.9671592116355896
+18,Je vous avoue que je n'ai pas de solution à proposer.,NEGATIVE,0.9936673045158386
+18,...suspendre deux minutes?,NEGATIVE,0.9789555072784424
+18,Ça fait qu'on va suspendre quelques instants.,NEGATIVE,0.9498932361602783
+18,"Là, j'ai un petit décalage.",NEGATIVE,0.9231325387954712
+18,"Je vous le dis, là, il y a un petit décalage.",NEGATIVE,0.9354696273803711
+18,Il manquait un 1.,NEGATIVE,0.9316116571426392
+18,On ne va pas s'ostiner pour un 1.,NEGATIVE,0.931486189365387
+18,"Moi, je l'ai répété, M. le député, vous l'avez fait aussi, les collègues l'ont fait, on souhaite une CAI qui n'est pas dans la répression mais qui est dans l'accompagnement, et donc qui va guider les entreprises plutôt que de les punir.",POSITIVE,0.9674168825149536
+18,"Donc, on punira les récalcitrants, oui, évidemment, mais je pense que la première volonté du législateur, c'est de s'assurer d'avoir une Commission d'accès à l'information qui est dans l'accompagnement, qui est dans l'explication, qui est dans la prévention, qui est dans l'interaction avec les entreprises, à tous les niveaux, hein.",POSITIVE,0.9398573040962219
+18,"L'article 144 amène de nouvelles dispositions qui font partie de ce nouveau contexte-là, puis je pense que la CAI, dans ce domaine-là comme dans les autres, devra faire preuve d'un certain leadership pour aider nos entreprises à s'adapter.",POSITIVE,0.9271883964538574
+18,"Oui, merci.",POSITIVE,0.9251750111579895
+18,"Donc, sur l'amendement, on voit qu'avant l'amendement l'article prévoyait déjà le point 1°, autrement dit, qu'on rajoutait : «Les enquêtes de la commission sont faites selon un mode non contradictoire», là, ça, il n'y a pas de nouveau sous le soleil.",NEGATIVE,0.9084655046463013
+18,"Dans le fond, l'amendement, c'est le 2° et la suppression du deuxième alinéa, là.",NEGATIVE,0.9071252346038818
+18,"Le délai, c'est bon, on… je comprends.",NEGATIVE,0.9337182641029358
+18,C'est beau.,POSITIVE,0.9617891907691956
+18,"Là, puis pourquoi on fait ça?",NEGATIVE,0.9847127199172974
+18,"Corrigez-moi, j'essaie une explication, mais je ne prétends pas que c'est la bonne, puis j'aimerais ça être corrigé si ce n'est pas le cas, là.",NEGATIVE,0.930439829826355
+18,"Là, on parle des enquêtes, on ne parle pas de l'audition.",NEGATIVE,0.9208613038063049
+18,"Corrigez-moi, j'essaie une explication, mais je ne prétends pas que c'est la bonne puis j'aimerais ça être corrigé si ce n'est pas le cas, là.",NEGATIVE,0.9345611929893494
+18,"Mais ce n'est rien de nouveau sous le soleil, c'était... Non, non, non.",NEGATIVE,0.9969214200973511
+18,"Là, c'est juste parce que c'est comme trop évident, trop facile, là, à neuf...",NEGATIVE,0.9294124245643616
+18,"Je ne veux pas être «picky», mais c'est juste que «sur l'application», là, ce serait «pour l'application».",NEGATIVE,0.923197865486145
+18,"Là, ce serait «pour l'application».",NEGATIVE,0.9622766375541687
+18,"Par logique interne, je changerais le «sur» pour «pour», mais...",NEGATIVE,0.934689462184906
+18,"On va suspendre... Non, mais je peux le faire, mais on va suspendre pareil... Ou on va...",NEGATIVE,0.9498715400695801
+18,"Dans tous les cas de figure, on va suspendre.",NEGATIVE,0.9613086581230164
+18,"Non, non, mais on va l'écrire.",NEGATIVE,0.9233303070068359
+18,"Donc, il n'y a pas d'intervention.",NEGATIVE,0.9654072523117065
+18,"Ce qui veut dire que le cinq ans va être un cinq mois et deux, trois.",NEGATIVE,0.9013890027999878
+18,Je ne me souviens pas.,NEGATIVE,0.9190018177032471
+18,"Là, on vient dire que le gouvernement, dans le fond, va préciser… «le gouvernement, après avoir pris avis de la commission, peut, par règlement».",NEGATIVE,0.9283772706985474
+18,"Parce que dans la première mouture, il n'était pas question de ça.",NEGATIVE,0.9055079221725464
+18,"Donc, il y a une sanction puis les frais de...",NEGATIVE,0.9195933938026428
+18,"Bien, c'est les frais qui sont nécessaires pour recouvrer le montant, là… ...frais de recouvrement.",NEGATIVE,0.913730800151825
+18,"Donc, il y a une sanction puis les frais de...",NEGATIVE,0.9195933938026428
+18,"Je me suis fait taper sur les doigts puis, en plus, il va falloir que je paie les frais de l'enquête?",NEGATIVE,0.9816694855690002
+18,"Non, non, non.",NEGATIVE,0.9973886609077454
+18,"Donc, c'est des frais...",NEGATIVE,0.9011082053184509
+18,C'est beau.,POSITIVE,0.9617891907691956
+18,"Sur dépôt du certificat de recouvrement au greffe du tribunal compétent, accompagné d'une copie de la décision définitive qui établit la dette, la décision devient exécutoire comme s'il s'agissait d'un jugement définitif et sans appel de ce tribunal et en a tous les effets.",POSITIVE,0.9153519868850708
+18,"Parce que si vous voulez en faire les lectures, ça ne me dérange pas, mais... O.K.",NEGATIVE,0.9949475526809692
+18,"Versus, avant : il a réellement fraudé, il y a réellement quelque chose de pas correct, là, j'ai pénalité.",NEGATIVE,0.9778459668159485
+18,C'était juste un oubli?,NEGATIVE,0.9914265871047974
+18,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+18,"Sinon, ce que l'on souhaite, c'est que la commission offre cette possibilité-là en priorité, parce que, comme j'ai dit, l'idée de la commission, c'est oui, je pense qu'il faut sanctionner les entrepreneurs qui sont délinquants, mais il faut aussi qu'on prenne conscience que c'est plusieurs marches qu'on monte à la fois avec l'adoption, si l'Assemblée décide d'adopter la loi, on fait quand même un bond en avant qui est important.",POSITIVE,0.9257970452308655
+18,"L'entreprise qui serait sanctionnée, vous me dites?",NEGATIVE,0.9167991876602173
+18,... ...mais pas de registre.,NEGATIVE,0.9248350262641907
+18,"Parce que... et ça, ça participe de la définition d'une décision.",POSITIVE,0.9139172434806824
+18,"Bien, c'est… vous avez raison, dans le sens où, effectivement, au fil des décisions et des contestations, tout ça va s'affiner, là.",POSITIVE,0.9422607421875
+18,"Là, ça va être justifié pourquoi, là?",NEGATIVE,0.9380514621734619
+18,"Non, non, non.",NEGATIVE,0.9973886609077454
+18,"Je suis la compagnie, la CAI me dit : Tu as mal fait pour un, deux, trois.",NEGATIVE,0.9170506596565247
+18,"Je suis la compagnie, la CAI me dit : Tu as mal fait pour un, deux, trois.",NEGATIVE,0.9170506596565247
+18,"Puis finalement, pour x raisons, bonnes ou pas bonnes, je suis capable d'en remplir deux.",NEGATIVE,0.9799531698226929
+18,"L'autre, je ne suis pas capable.",NEGATIVE,0.9910953044891357
+18,"Tel que rédigé, c'est comme si la CAI pourrait me revenir en arrière puis dire : Bien, je te charge quand même une amende pour un, deux, trois parce que tu n'as pas fait l'entièreté.",NEGATIVE,0.9105125069618225
+18,"Il y a trois choses que je vais corriger, parce que je me suis fait prendre sur trois choses.",NEGATIVE,0.9419272541999817
+18,"La troisième, je ne la corrige pas.",NEGATIVE,0.9749070405960083
+18,"…alors, si j'ai corrigé 1, 2, puis le 3, ça ne m'intéresse pas, à la limite, je suis quasiment de mauvaise foi, le 3, ça ne m'intéresse pas, je ne le fais pas, mais je fais 1, 2.",NEGATIVE,0.965043306350708
+18,"Donc, l'idée de ça...",NEGATIVE,0.9066153168678284
+18,"Puis honnêtement je pense que, de la façon dont c'est rédigé, ça s'entend bien... ...on dit la même chose, là...",NEGATIVE,0.9177566766738892
+18,"Ça fait que cet alinéa-là, dans le fond, ne te dit pas... ne dit pas à la pièce ce que tu dois faire.",NEGATIVE,0.9107199907302856
+18,"Tu ne respectes pas l'entente, là, je vais te taper sur les doigts.",NEGATIVE,0.9256678819656372
+18,"Non, non.",NEGATIVE,0.9974422454833984
+18,"on fait une entente pour 15 points, puis si tu fais une seule coche mal taillée, tout tombe pour les 15 points.",NEGATIVE,0.9740589261054993
+18,"Non, non, non, c'est non.",NEGATIVE,0.9952006340026855
+18,Mais ce n'est pas la situation.,NEGATIVE,0.9274965524673462
+18,"Non, non.",NEGATIVE,0.9974422454833984
+18,Puis ils peuvent-u faire ça?,NEGATIVE,0.9124100804328918
+18,C'est juste que je ne vois pas pourquoi préciser.,NEGATIVE,0.9628200531005859
+18,"Non, ce n'est pas eux qui prennent le dossier.",NEGATIVE,0.9273711442947388
+18,Ce que je n'ai pas fait.,NEGATIVE,0.9946028590202332
+18,"Et, M. le Président, j'ai effectivement un amendement… …90.2, ce que je n'ai pas fait.",NEGATIVE,0.9219629168510437
+18,"Bien, on en avait, mais on ne sait plus où on les a mis.",NEGATIVE,0.944976270198822
+18,"Maintenant, il faut décider ça vaut combien, ce manquement-là.",NEGATIVE,0.9415459036827087
+18,"Autrement dit je passe les amendements, puis on jase, là, je pense que c'était plus clair sans l'amendement parce que, dans l'amendement, mettons, moi, je vais rajouter à la main, là, choquez-vous pas, je vais rajouter ma virgule, là.",NEGATIVE,0.9079854488372803
+18,"Là, avec l'amendement, c'est comme si les critères a, b, c, d et etc., étaient pertinents et utilisables, de un, pour déterminer... ...personne désignée, dans la décision d'imposer une sanction lorsqu'un manquement est constaté, notamment... puis là...",NEGATIVE,0.9669607877731323
+18,"Là, avec l'amendement, c'est comme si les critères a, b, c, d, et, etc. étaient pertinents et utilisables de, un, pour déterminer le montant, mais, de deux, pour déterminer s'il y a un manquement.",NEGATIVE,0.9843629002571106
+18,"On vient de créer deux choses, alors qu'on...",NEGATIVE,0.9301894903182983
+18,"Autrement dit, les critères ne sont pas là pour me dire s'il y a un manquement.",NEGATIVE,0.9076600670814514
+18,Les critères sont là pour me dire combien je vais charger.,NEGATIVE,0.9154243469238281
+18,"On dit la même affaire, là.",NEGATIVE,0.9885770082473755
+18,"Donc, la commission pourrait très bien dire : Il y a manquement, le, la personne désignée, mais il n'y aura pas de...",NEGATIVE,0.9088090062141418
+18,"O.K., parfait.",POSITIVE,0.9079214930534363
+18,"Donc, en ayant ce cadre-là, ça atténue de beaucoup la possibilité.",NEGATIVE,0.9901946187019348
+18,"Mais si j'ai manqué mon délai, je ne pourrai pas rectifier le tir.",NEGATIVE,0.973893940448761
+18,"Non, non, non.",NEGATIVE,0.9973886609077454
+18,"Et, je vous l'ai déjà dit, dans un autre contexte, dans la vie, il faut des… souvent, là, je pense qu'il faut… on fait bien de renoncer à changer le passé.",POSITIVE,0.9234352707862854
+18,Tu as mal fait telle affaire.,NEGATIVE,0.9723801612854004
+18,"Elle va dire : Non, non, non, je t'ai mis un avis de défaut.",NEGATIVE,0.9339617490768433
+18,"Non, non, vous n'êtes pas conforme parce que vous ne protégez pas suffisamment les données de vos clients, point.",NEGATIVE,0.9185129404067993
+18,mais on n'est même pas là.,NEGATIVE,0.9978625178337097
+18,Mais on n'est même pas à l'étape de la sanction administrative pécuniaire.,NEGATIVE,0.9871261715888977
+18,"Elle ne fera pas de partie de pêche, là.",NEGATIVE,0.9736778736114502
+18,Ah non!,NEGATIVE,0.9661368727684021
+18,"mais ça, elle ne peut pas.",NEGATIVE,0.9765550494194031
+18,"Effectivement, elle ne peut pas.",NEGATIVE,0.9160845279693604
+18,"Elle ne fera pas ça, il ne faut pas qu'elle fasse ça, là.",NEGATIVE,0.9294141530990601
+18,"Donc, «si la décision en réexamen n'est pas rendue dans les 30 jours de la réception de la demande ou, le cas», ça veut dire que rendu dans les 30 jours de la réception de la demande, ça veut dire que ça va se faire en vite, vite, vite, là.",NEGATIVE,0.9139580726623535
+18,Tu ne peux plus charger d'intérêt.,NEGATIVE,0.9966287016868591
+18,Parce qu'elle pourrait s'asseoir là- dessus pendant un an techniquement.,NEGATIVE,0.9419488310813904
+18,"Mais, en même temps, pendant ce temps-là, le… ...plus charger de l'intérêt.",NEGATIVE,0.9727417826652527
+18,Parce qu'elle pourrait s'asseoir là- dessus pendant un an techniquement.,NEGATIVE,0.9419488310813904
+18,"Non, non.",NEGATIVE,0.9974422454833984
+18,"Ça fait qu'elle n'est pas exigible, puis il n'y a pas d'intérêt.",NEGATIVE,0.9988346695899963
+18,"Ça, ça n'arrivera pas.",NEGATIVE,0.9126636981964111
+18,Je regarde pour le faire à la fin.,NEGATIVE,0.9515812993049622
+18,"C'était dans quoi, déjà?",NEGATIVE,0.9094844460487366
+18,Ce n'est pas tellement sur le délai de deux ans.,NEGATIVE,0.9256033301353455
+18,Je ne peux rien faire.,NEGATIVE,0.9956315755844116
+18,C'est ça qui est important.,POSITIVE,0.9538150429725647
+18,"Parce que sinon, vous passez dans le beurre.",NEGATIVE,0.9693707823753357
+18,"Mon point, ce n'est pas...",NEGATIVE,0.934144139289856
+18,"Ce n'est pas qu'on va voter contre, mais 10 millions ou 2 % du chiffre d'affaires mondial, ça vient d'où, ça?",NEGATIVE,0.9313885569572449
+18,"Bon, tu veux lui taper sur les doigts, c'est énorme, là, 2 %.",NEGATIVE,0.9056363701820374
+18,"Là, on est... Parce que pour avoir déjà adopté d'autres lois dans d'autres contextes, on parlait de pénalités et tout ça, là, on la sort du stade, là.",NEGATIVE,0.9346798062324524
+18,Il y en a qui vont perdre leur job.,NEGATIVE,0.9778802394866943
+18,Vous me mettez en faillite.,NEGATIVE,0.9103427529335022
+18,"Est-ce qu'on n'aurait pas pu mettre... …vous me tuez, vous me mettez en faillite.",NEGATIVE,0.9589641690254211
+18,Mais je ne dirais pas la grosseur de l'entreprise.,NEGATIVE,0.9665587544441223
+18,Mais la grosseur d'entreprise… Mais… Je trouverais une façon...,NEGATIVE,0.914802610874176
+18,"Là, je vois, O.K., là je vois bien, on a fait un copié-collé.",NEGATIVE,0.9646314978599548
+18,On a fait un copié-collé.,NEGATIVE,0.9819337725639343
+18,Peut-être là où on aurait pu faire une règle de trois puis... ...c'est 15 millions de dollars canadiens.,NEGATIVE,0.9793013334274292
+18,"Oui, mais ce n'est pas ça, là, mon point.",NEGATIVE,0.947224497795105
+18,"Mon point, c'est que c'est 2 % du chiffre d'affaires.",NEGATIVE,0.9207043051719666
+18,"Mais une entreprise québécoise qui fait affaire ailleurs dans le monde, 10 millions de dollars, peut-être la fin du monde.",NEGATIVE,0.9291307926177979
+18,"Mais, dans les deux cas, ça va être 2 %, 10 millions d'euros ou dollars.",NEGATIVE,0.9168864488601685
+18,"Mais dans les deux cas, ça va être 2 %, 10 millions d'euros ou dollars.",NEGATIVE,0.9229030013084412
+18,"On jase, là, mais j'aurais jazzé quelque chose qui aurait tenu compte de ça.",NEGATIVE,0.9886682629585266
+18,"Donc, là où je vous suis, c'est qu'il y a plus, évidemment, de petites entreprises au Québec, pour lesquelles une sanction administrative pécuniaire de 10 millions, c'est complètement absurde.",NEGATIVE,0.9125637412071228
+18,C'est une déclaration lourde.,NEGATIVE,0.9456063508987427
+18,"Je pense que, depuis qu'on discute de ce projet de loi là, j'ai tenu sensiblement le même discours.",NEGATIVE,0.9115398526191711
+18,"On réalise aujourd'hui, avec l'univers numérique, que nos renseignements personnels ont une valeur à la hausse, constamment.",POSITIVE,0.9034501910209656
+18,"Donc, la prise de conscience que nous faisons comme société, c'est de dire que ça a une très grande valeur, les renseignements personnels.",POSITIVE,0.9192461371421814
+18,"L'information en général et les renseignements personnels en particulier ont une très grande valeur, et donc il faut les traiter en conséquence, ce que la loi que nous modifions ne faisait pas, ce que la loi telle que nous la modifions va faire.",POSITIVE,0.929997980594635
+18,"Pour que c'est faire qu'il faut que je passe un examen d'entrée, là?",NEGATIVE,0.9124622941017151
+18,"Puis moi, quand on me dit : Bien, c'est parce que mon système pour la facturation... Non, non.",NEGATIVE,0.9506797790527344
+18,"Non, non.",NEGATIVE,0.9974422454833984
+18,"Ceci étant dit, nous sommes encore au Canada, et donc… Vous en êtes heureux, ça, je crois déceler que vous en êtes heureux et que vous… Moi, oui, oui, je vis bien avec ça.",POSITIVE,0.9431664347648621
+18,Je… absolument.,POSITIVE,0.9694662094116211
+18,"En fait, ce que je vous propose, c'est de finir les différents articles… On fait… O.K., oui.",NEGATIVE,0.9756016135215759
+18,"Oui, c'est bon.",POSITIVE,0.9049567580223083
+18,Ce n'était pas convaincant.,NEGATIVE,0.9991402626037598
+18,Mais le fait d'avoir une entente de paiement ne peut pas être tenu en compte comme étant une reconnaissance des faits de la poursuite pénale.,NEGATIVE,0.9195395708084106
+18,...il fait deux choses.,NEGATIVE,0.9457838535308838
+18,"Revenu Québec, c'est... niaise pas avec la puck.",NEGATIVE,0.992102324962616
+18,Le gouvernement a le bras long.,NEGATIVE,0.9362096786499023
+18,C'est correct.,NEGATIVE,0.9439950585365295
+18,"Non, non.",NEGATIVE,0.9974422454833984
+18,"Le certificat de recouvrement, une fois qu'il est émis, dans le fond, ça permet deux choses.",NEGATIVE,0.957676887512207
+18,"Finalement, on ne l'amende pas.",NEGATIVE,0.9722105860710144
+18,"Je vais le dire, ce n'est pas...",NEGATIVE,0.958489179611206
+18,"On va faire… Autrement dit, entre rien… Un petit quelque chose au moins.",NEGATIVE,0.989331841468811
+18,"Exactement, s'il vous plaît.",POSITIVE,0.9049063920974731
+18,"Là, je parle avant de le sortir.",NEGATIVE,0.9380265474319458
+18,"Rendu là, ça ne fait pas grand-chose, là.",NEGATIVE,0.9990590214729309
+18,"Tomber du 37e étage ou tomber du 40e étage... …83 du règlement européen, où c'était copier-coller, 2 %, 10 millions d'euros.",NEGATIVE,0.9052925109863281
+18,"Oui, mais mon point, c'est que c'est arbitraire, là, rendu là.",NEGATIVE,0.9494972825050354
+18,"On est sûr qu'on a tout mis dans le panier, là.",NEGATIVE,0.9731130599975586
+18,"Attendez, je vais retrouver mes choses.",NEGATIVE,0.9009101986885071
+18,"Donc, il pourrait y avoir un constat de la CAI que ça n'a pas été fait, mais...",NEGATIVE,0.9602799415588379
+18,"Mais, en fait, la loi le dit déjà qu'on doit le faire, ça fait que l'ordonnance viendrait juste répéter ce que la loi dit déjà.",NEGATIVE,0.9515060782432556
+18,"Oui, absolument.",POSITIVE,0.981696367263794
+18,"Oui, absolument, bien oui, je comprends donc.",POSITIVE,0.9152162671089172
+18,"Là, on est à 92.2, où là l'amendement se lit comme suit : Ajouter, après l'article 92.2 de la Loi sur la protection des renseignements personnels dans le secteur privé, proposé par l'article… Non.",NEGATIVE,0.9743672013282776
+18,Je ne lis pas le bon amendement.,NEGATIVE,0.9652302861213684
+18,"Là, je vais le dire, là, «on record», c'est correct, on va voter pour l'amendement parce que ça allonge le bras puis la possibilité de sanctionner.",NEGATIVE,0.901663064956665
+18,"C'est correct, on passe de trois ans à cinq ans.",NEGATIVE,0.928508996963501
+18,"Deuxième des choses, puis c'est là qui est important, puis je le dis en lettres de feu, ce qui importe pour moi, puis je le dis clairement, ce n'est pas la date de la perpétration, ça, ça pourrait être ultimement un plafond de sept ans, peut-être, comme dans le cas du commissaire au lobbyisme, mais c'est la connaissance du régulateur qui devrait être le début de la prescription.",POSITIVE,0.9216009378433228
+18,"Si d'aventure, à 150, on fait taille d'entreprise, je ne sais pas si on pourra y aller, là.",NEGATIVE,0.9690031409263611
+18,"Ça fait que là, c'est… …amendé.",NEGATIVE,0.9572842121124268
+18,"Si d'aventure, à 150, on fait taille d'entreprise, je ne sais pas si on pourra y aller, là.",NEGATIVE,0.9690031409263611
+18,"Donc, j'ai l'impression que, là, en rajouter là, ce serait en mettre peut- être trop.",NEGATIVE,0.9668378233909607
+18,"De deux, on vient enlever la notion de la personne qui exploite une entreprise.",NEGATIVE,0.9737200736999512
+18,"On était en avion, on a sauté en bas de l'avion.",NEGATIVE,0.9548733234405518
+18,"Puis là on vient de... le parachute vient de percer, puis là on tombe à 1 000 $.",NEGATIVE,0.966718852519989
+18,On est mort.,NEGATIVE,0.9723677635192871
+18,"Aïe, 1 000 $.",NEGATIVE,0.9898598790168762
+18,"Honnêtement, c'est... là.",NEGATIVE,0.9895060658454895
+18,Je pense qu'on fait là...,NEGATIVE,0.9280391335487366
+18,Mais je pense que les montants étaient moindres que ça.,NEGATIVE,0.9006320238113403
+18,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+18,"Alors... Non, non, je ne sais pas de quoi vous parlez.",NEGATIVE,0.9809808731079102
+18,"Non, je n'ai aucune idée.",NEGATIVE,0.960063099861145
+18,On se croirait dans une émission de Roger Baulu.,NEGATIVE,0.9274574518203735
+18,"Non, je n'ai aucune idée.",NEGATIVE,0.960063099861145
+18,On se croirait dans une émission de Roger Baulu.,NEGATIVE,0.9274574518203735
+18,"Je comprends votre point, mais ça reste...",NEGATIVE,0.971224844455719
+18,"Donc, le juge pourrait décider que c'est plus que ça, mais c'est le minimum.",NEGATIVE,0.9407695531845093
+18,Au lieu de fixer un plafond...,NEGATIVE,0.9534927606582642
+18,Sauf que là c'est un minimum.,NEGATIVE,0.9926431775093079
+18,"Le contracteur, oui, je sympathise, il travaille fort, mais il a fait une atteinte intentionnelle, faute lourde.",NEGATIVE,0.9882780909538269
+18,"Non, je comprends... Et, je réitère, c'est le minimum.",NEGATIVE,0.9645431041717529
+18,"Oui, mais on part à 200 $, là.",NEGATIVE,0.9118300676345825
+18,"Ça fait que je te ramasse personnellement, puis on peut penser que le montant va être en conséquence.",NEGATIVE,0.9232351779937744
+18,"Si je disais d'au maximum, 1 000 $, cette conversation-là aurait lieu d'être.",NEGATIVE,0.9363638162612915
+18,"Mais là je vous dis, ça ne peut pas être en bas de ça.",NEGATIVE,0.9614389538764954
+18,"C'était… Non, c'est ça.",NEGATIVE,0.9372838735580444
+18,"Non, non, on a changé.",NEGATIVE,0.970367431640625
+18,"Je l'avais zappé, je ne vous ai pas entendu.",NEGATIVE,0.9792642593383789
+18,"Le député de LaFontaine ne m'écoute pas, on est rendus un vieux couple.",NEGATIVE,0.917384922504425
+18,"Elle ne se peut plus, là.",NEGATIVE,0.9718953967094421
+18,C'est exactement la même… ...adopté?,NEGATIVE,0.918096661567688
+18,"Oui, absolument, M. le Président.",POSITIVE,0.9801216125488281
+18,Passez une superbe soirée.,POSITIVE,0.9784860610961914

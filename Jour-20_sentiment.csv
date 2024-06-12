@@ -1,0 +1,91 @@
+Jour,Phrase,Position,Score
+20,"O.K., parfait.",POSITIVE,0.9079214930534363
+20,"Désolé, excusez.",NEGATIVE,0.9739162921905518
+20,"Bien, vous saluer, saluer le ministre, saluer le collègue de Chapleau, les autres collègues également autour de la table, saluer particulièrement, donc, le collègue de Chapleau, qui, ce matin, comme adjoint parlementaire, met en pratique ce qui devrait être vu plus souvent dans notre Parlement, notre Assemblée nationale, savoir plus de rôles actifs de l'adjoint parlementaire, on le souhaite.",POSITIVE,0.972886323928833
+20,"Alors, bravo, je pense que c'est important.",POSITIVE,0.9551272988319397
+20,"En tout cas, je referme la parenthèse.",NEGATIVE,0.9828559756278992
+20,"Tout à fait, c'est exactement ça.",POSITIVE,0.9473294615745544
+20,"C'est bien correct, c'est ça qu'on veut, mais il faut juste donner des balises pour dire : Le terrain, il s'arrête là.",NEGATIVE,0.9167581796646118
+20,"On va l'occuper, après le 36, il y a le 37, puis... dans le secteur.",NEGATIVE,0.9072889089584351
+20,"Il y a aussi toute la notion de consentement implicite dans cet appel, et donc la personne qui répond donne, en fait, son consentement.",POSITIVE,0.9246066212654114
+20,"Là, on a ajouté l'exclusion des articles... Non, là, je reviens à mon 23.",NEGATIVE,0.9626575112342834
+20,"Donc, article 23 ne s'applique pas.",NEGATIVE,0.985161542892456
+20,"Donc, je n'en suis pas certain, je ne pourrais pas vous le garantir.",NEGATIVE,0.9025572538375854
+20,C'est important.,POSITIVE,0.9556128978729248
+20,"Il y a un flou ici, là.",NEGATIVE,0.919331967830658
+20,"Donc, je peux bien garder en vie l'article 1, qui dit plein, plein de choses fondamentales, mais, dans le… le particulier bat toujours le général.",NEGATIVE,0.9794425368309021
+20,… Pardon?,NEGATIVE,0.9406732320785522
+20,"Ça, on les exclut.",NEGATIVE,0.9758034944534302
+20,"Jusqu'à la fin, donc.",NEGATIVE,0.946930468082428
+20,"Bien, ça pourrait être une option, parce qu'en fait, en excluant le droit d'accès au complet, bien, évidemment on perd le recours, parce qu'on n'a pas le droit d'accès.",NEGATIVE,0.9413297176361084
+20,"Puis, si l'association de comté de LaFontaine fait une coche mal taillée, ça relève… Là, qu'est-ce qu'on veut dire ici?",NEGATIVE,0.9954054355621338
+20,"Pour l'instant, non, mais on pourra peut-être y revenir.",NEGATIVE,0.9710221886634827
+20,"Ici, dans le fond, l'intention du législateur est clairement de ne pas… du jour au lendemain de la mise en vigueur de la loi, de ne pas dire à un parti politique : Bien, tu organisais une université d'été, tu organisais un congrès, tu organisais des colloques de réflexion, par interprétation de la loi, du jour au lendemain, tu ne peux plus faire ça.",NEGATIVE,0.9362808465957642
+20,Tout à fait.,POSITIVE,0.9654862284660339
+20,Tout à fait.,POSITIVE,0.9654862284660339
+20,"Adopté, donc.",POSITIVE,0.9532533884048462
+20,Je regarde mes notes...,NEGATIVE,0.9116970300674438
+20,C'est correct.,NEGATIVE,0.9439950585365295
+20,C'est vraiment de la concordance.,POSITIVE,0.9294447898864746
+20,"Est-ce que le fameux article, j'oublie le numéro, là, où on disait… on a fait un amendement pour la capacité de payer de l'entreprise, là, j'imagine… … Pardon?",NEGATIVE,0.9062581062316895
+20,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+20,On a abrogé quoi?,NEGATIVE,0.9682620763778687
+20,Attendez un petit peu.,NEGATIVE,0.9031364917755127
+20,"Ça fait que, grosso modo, c'est un changement d'emplacement, là.",NEGATIVE,0.9375015497207642
+20,Ce qu'on vient de faire tantôt.,NEGATIVE,0.9158483147621155
+20,Mais qu'est-ce qu'on vient faire à l'article 93?,NEGATIVE,0.9649372696876526
+20,Il était suspendu.,NEGATIVE,0.9396018981933594
+20,"Oui, avec plaisir, pour le bénéfice de tous.",POSITIVE,0.9383020401000977
+20,"On pourrait peut-être juste prendre quelques minutes, puis ce qu'on pourrait faire, on pourrait peut-être juste passer rapidement puis dire : Ça, c'est quoi?",NEGATIVE,0.9899712800979614
+20,"Ça, c'est quoi?",NEGATIVE,0.9764081835746765
+20,"Alors... Bien, ça me va, ça me va parfaitement.",POSITIVE,0.9082202315330505
+20,"Même moi, je le lisais puis je n'étais pas...",NEGATIVE,0.9472633600234985
+20,"Tout ça, là.",NEGATIVE,0.965856671333313
+20,"Et là le premier paragraphe, lui, c'est à la sanction.",NEGATIVE,0.9550569653511047
+20,"De toute façon, ça va être sur le décret du ministère des Finances.",NEGATIVE,0.911414384841919
+20,"C'était quoi, ça?",NEGATIVE,0.9476016163825989
+20,Les deux vice-présidences aux deux tiers puis c'est ça...,NEGATIVE,0.902172863483429
+20,"Ça ne change rien, ça?",NEGATIVE,0.9740378856658936
+20,"Non, non.",NEGATIVE,0.9974422454833984
+20,"Là, c'est juste la nouvelle mouture qu'on leur donne un an pour se revirer de bord autrement dit.",NEGATIVE,0.9746413826942444
+20,"...la sensibilisation, demandes péremptoires, plaideurs quérulents.",NEGATIVE,0.9884059429168701
+20,C'était quoi déjà?,NEGATIVE,0.9557449817657471
+20,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+20,"Excusez-moi, je reviens là-dessus.",NEGATIVE,0.9599024057388306
+20,"Dans le fond, il y en a juste deux qui rentreraient en vigueur...",NEGATIVE,0.9199567437171936
+20,"Dans le fond, il y aurait la... ...les SAP, ça rentre en vigueur... Non, il y en a juste deux.",NEGATIVE,0.9399614334106445
+20,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+20,Ça serait plus urgent.,NEGATIVE,0.9396286606788635
+20,"En fait, là, j'ai commis une erreur.",NEGATIVE,0.9573202729225159
+20,C'est correct.,NEGATIVE,0.9439950585365295
+20,"Puis, là, on fait juste un petit saut, parce que, là...",NEGATIVE,0.9416313767433167
+20,"À partir de ça, c'est pour ça qu'il y a un an de plus.",NEGATIVE,0.941245436668396
+20,"C'est quoi, ça, «portabilité»?",NEGATIVE,0.9386489391326904
+20,"L'article 27, qui entre en vigueur dans la mesure où il édicte... Ça, c'est celui qu'on a reporté.",NEGATIVE,0.9098413586616516
+20,"Puis, tu sais, ça veut dire aussi être capable de faire le recensement de tout ce que je possède, donc de s'organiser et d'organiser les systèmes, d'être capable de faire la trace de tout ce que j'ai.",POSITIVE,0.9105984568595886
+20,"moi, je ne veux plus répondre de ça, ça, ça.",NEGATIVE,0.962945818901062
+20,On ne peut pas...,NEGATIVE,0.9463180303573608
+20,"Adopté, merci beaucoup.",POSITIVE,0.9875774383544922
+20,"Mais, chose certaine, je pense que foncièrement c'est un pas, un très grand pas dans la bonne direction.",POSITIVE,0.9437685012817383
+20,"Heureux d'avoir pu, à plusieurs occasions, voir l'ouverture du ministre à des idées, des suggestions.",POSITIVE,0.9162781238555908
+20,"bien là, il y a du temps qui est perdu.",NEGATIVE,0.9966191053390503
+20,"Je ne pense pas qu'on pourrait dire : Il y a une seule minute de ces dizaines et dizaines d'heures là qui a été perdue en pure perte, sauf peut-être pour les farces, mais, M. le Président, à un moment donné, on peut travailler puis avoir un peu d'humour, puis des fois ça aide à nous calmer puis à revenir à des propos plus constructifs.",NEGATIVE,0.9690635800361633
+20,"Je tiens à saluer donc l'ouverture du ministre, à remercier, évidemment, le collègue de Chapleau avec lequel on a fait le dernier pan, là, partis politiques, remercier les collègues, également, autour de la table, qui ont été là en présentiel, en virtuel et en présentiel, et à remercier les collègues de la deuxième et troisième opposition, vous remercier, M. le Président, le secrétariat.",POSITIVE,0.9092320203781128
+20,"Et je tiens évidemment à remercier, encore une fois, Sophie Chateauvert et Oscar Lescarbeau, Sophie qui nous a suivis jusqu'à la mi-juin, qui a quitté pour d'autres fonctions, on lui souhaite tout le meilleur, et Oscar Lescarbeau, qui nous a aidés à la fin.",POSITIVE,0.9444543719291687
+20,"Alors, lui souligner, M. le Président, et souligner à la commission toute la valeur que j'accorde au travail qu'il a fait.",POSITIVE,0.9416760802268982
+20,"Merci beaucoup, on vous en doit une fière chandelle.",POSITIVE,0.9470599293708801
+20,Et je pense que c'est important de le souligner.,POSITIVE,0.9201372861862183
+20,"Puis remercier nos directions générales des différents partis, là, qui ont également mis la main à la pâte, puis évidemment les légistes de l'État, Me Miville-Deschênes, également l'ensemble de l'équipe au cabinet du ministre.",POSITIVE,0.910648763179779
+20,Je crois que c'est un excellent projet de loi qui va dans la bonne direction de la protection des renseignements personnels.,POSITIVE,0.9888609051704407
+20,Je veux remercier la secrétaire de la commission pour l'excellent travail et tous les membres de la commission pour l'excellent travail que vous faites toujours et le support que vous nous donnez pour ces travaux parlementaires qui sont importants.,POSITIVE,0.9921364784240723
+20,"Je veux aussi remercier les juristes de l'État qui nous ont accompagnés tout au long de cette aventure, ceux qui ne sont pas ici et ceux qui sont ici, avec un remerciement particulier pour Me Miville-Deschênes, moi aussi, puis que j'ai vu grandir à travers cette expérience parlementaire.",POSITIVE,0.9772237539291382
+20,"Je voulais juste avoir des mots particuliers pour lui parce que, compte tenu du travail qu'on a fait et de l'accompagnement, du début à la fin, lui dire que ça a été très agréable de travailler avec lui.",POSITIVE,0.9750133156776428
+20,J'apprécie énormément le travail de fond qui a été fait.,POSITIVE,0.9488815069198608
+20,"Moi, je pense qu'au niveau des médias on aurait intérêt à regarder un peu plus ce qui se passe ici puis peut-être un peu moins, en tout cas, ce qui se passe au salon bleu parce que c'est la preuve que, oui, il y a un travail partisan qui se fait à l'Assemblée nationale, puis c'est normal, on fait tous partie de familles politiques puis on a ça... il y a ce volet-là qui est indissociable dans notre travail, mais il y a aussi un chapeau de législateur qu'on porte.",POSITIVE,0.9436302781105042
+20,Ça a été extrêmement agréable de travailler en sa compagnie.,POSITIVE,0.9685797691345215
+20,"Et, oui, il y a eu des moments d'humour, puis je pense que ça fait partie du fait qu'ici, bien, à un moment donné, il faut qu'on ait ces petits moments d'écart là.",POSITIVE,0.9713629484176636
+20,"Il me remercie pour la confiance, mais de retour je veux le remercier de l'excellent travail qui a été fait parce qu'on a vu une partie ici de ce qui a été fait sur les partis politiques, mais c'est des longues heures de discussion, d'être capable de fédérer l'ensemble des partis politiques autour d'une idée qui était le fait qu'on doit aussi resserrer les règles autour de comment nous traitons les informations, les renseignements personnels des Québécois, mais aussi de concilier l'apport social des partis politiques parce qu'effectivement les partis politiques, pour moi, sont un... sont des mouvements qui sont extrêmement importants qui représentent des courants de pensée, des courants de la société.",POSITIVE,0.9742843508720398
+20,"Et ces véhicules-là doivent aussi être capables de faire ce travail-là, qui est très particulier, qui ne peut pas être associé à une entreprise, qui ne peut pas être associé à un organisme public.",POSITIVE,0.9327148795127869
+20,"Donc, je le remercie infiniment.",POSITIVE,0.9007502794265747
+20,"J'espère qu'il a apprécié l'expérience, mais moi, je peux lui dire que je suis extrêmement fier du travail qu'il a accompli aujourd'hui, vraiment très fier de ce qui a été fait.",POSITIVE,0.9899223446846008
+20,"Sur ce, la commission, ayant accompli son mandat, ajourne ses travaux sine die.",NEGATIVE,0.907796323299408

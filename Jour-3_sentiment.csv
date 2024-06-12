@@ -1,0 +1,237 @@
+Jour,Phrase,Position,Score
+3,"Parfait, merci, Mme la secrétaire.",POSITIVE,0.9740381240844727
+3,"En fait, je vous demande de m'excuser parce que je ne peux pas faire ça moi-même.",NEGATIVE,0.9453615546226501
+3,"Parfait, merci.",POSITIVE,0.995118260383606
+3,"Alors, oui, on pourrait dire : Oui, mais il en découle que...",NEGATIVE,0.9137529134750366
+3,"Alors, écoutez, tu sais, je veux dire, les mots ont une vie au-delà du texte de loi, ont une compréhension.",POSITIVE,0.9593791365623474
+3,"Puis ce qu'on écrit, ça doit être compris par tous les citoyens et citoyennes, doit être interprété.",POSITIVE,0.9385776519775391
+3,"Ça apparaît à l'article 8 de la loi déjà existante d'accès aux documents, mais c'est une affirmation de principe très forte.",POSITIVE,0.9730004072189331
+3,"Alors, si jamais il pouvait y avoir un moindre soupçon de doute sur le fait que, l'imputabilité, elle était souhaitée par le législateur, je veux, ici et maintenant, affirmer que c'est très clairement notre intention que, le plus haut responsable, il en est imputable.",POSITIVE,0.9102990627288818
+3,"Effectivement, ce principe-là est très fort puis il est défini par la jurisprudence comme on a pu le constater et le voir.",POSITIVE,0.9343023300170898
+3,Je n'ai rien à ajouter.,NEGATIVE,0.9087390303611755
+3,"On va revirer ça de bord, parce que, des fois, on fait un «potluck», mais les recettes qu'on amène ne sont jamais aimées.",NEGATIVE,0.9461477994918823
+3,C'est correct.,NEGATIVE,0.9439950585365295
+3,"C'est tellement important de le dire que, dans certains cas, je crois que, si la loi que nous écrivons, réécrivons ensemble était bafouée, ça pourrait être un motif de destitution.",POSITIVE,0.9557408094406128
+3,"Tu sais, je veux dire, il y a beaucoup de... mais ça fait que, là-dessus, je ne m'embarquerai pas sur ça.",NEGATIVE,0.9669598937034607
+3,Le désavantage...,NEGATIVE,0.920548141002655
+3,"C'est très clair, puis, sans présumer, M. le Président, je suis convaincu que, pour nos collègues de la deuxième et de la troisième opposition, cette volonté-là serait tout aussi claire, tout aussi claire.",POSITIVE,0.9589067101478577
+3,Est-ce qu'on ne pourrait pas imaginer en rajouter une couche?,NEGATIVE,0.903509795665741
+3,"C'est ça, le principe de cette annonce-là, de cette idée-là, qui est un concept quand même relativement nouveau, qui nous amène dans l'univers politique démocratique du XXIe siècle, qui découle... puis là je ne voyais absolument aucune allusion, là, aucune, mais qui découle de l'expérience collective que nous avons et de notre souhait, collectivement, d'assainir nos moeurs politiques.",POSITIVE,0.9189937710762024
+3,"Donc, l'amendement est rejeté.",NEGATIVE,0.9292745590209961
+3,"Non, on continue, parce qu'on a suspendu… Non?",NEGATIVE,0.9639662504196167
+3,"O.K., parfait.",POSITIVE,0.9079214930534363
+3,C'est beau.,POSITIVE,0.9617891907691956
+3,"Là, je suis sur le temps de l'article 1?",NEGATIVE,0.9210110306739807
+3,… 14 minutes?,NEGATIVE,0.9339500069618225
+3,"Je vous avoue que, pour moi, ça a été une lecture aride et extra sec.",NEGATIVE,0.9873061180114746
+3,"Moi, je crois beaucoup à ça.",POSITIVE,0.9732562899589539
+3,"Si je crois fondamentalement à l'autonomie du Québec puis à la capacité du Québec à prendre ses décisions, ça ne veut pas dire qu'on ne participe pas de ce qui se passe sur la planète, là, je veux dire, bon, et donc il y a cette volonté-là de s'arrimer.",POSITIVE,0.9522464871406555
+3,Je ne sais pas dans quelle mesure puis je ne sais pas selon quel échéancier le gouvernement fédéral va faire avancer sa loi.,NEGATIVE,0.9118702411651611
+3,Je ne peux pas présumer de quand est-ce que ça va atterrir.,NEGATIVE,0.9004855155944824
+3,"Donc, oui, on est sensibles et en collaboration.",POSITIVE,0.9021150469779968
+3,"Ils nous ont carrément dit : Attendez même avant la mise en vigueur, puis ça serait peut-être ça, l'opportunité de la loi québécoise, de voir… Là, on a un «buffer», si vous permettez l'expression.",NEGATIVE,0.9226477146148682
+3,Puis je pense qu'on vient d'avoir une discussion extrêmement rafraîchissante sur l'imputabilité qui venait avec la responsabilité.,POSITIVE,0.9705495238304138
+3,"Moi, je ne suis pas à l'aise avec ça.",NEGATIVE,0.9924922585487366
+3,Je ne suis pas à l'aise avec cette notion-là.,NEGATIVE,0.9900197982788086
+3,...que le ministre n'a pas dormi de la nuit puisque la nuit ne lui a pas porté conseil.,NEGATIVE,0.958153486251831
+3,"Bon, ça ne sera pas le cas et c'est malheureux.",NEGATIVE,0.9574224352836609
+3,"Alors, je vais laisser le ministre pouvoir dormir confortablement ce soir.",NEGATIVE,0.9354182481765747
+3,"Donc, le sous-amendement est rejeté.",NEGATIVE,0.9435011148452759
+3,"Donc, l'amendement est rejeté.",NEGATIVE,0.9292745590209961
+3,"Il n'a pas l'intention, jusqu'à preuve du contraire, d'en faire un.",NEGATIVE,0.9208815097808838
+3,"Exact, je réitère que c'est une porte de sortie que nous laissons aux gouvernements présent et futurs de corriger ce qui pourrait découler d'une inégalité non prévisible ou non prévue par le législateur.",POSITIVE,0.9298987984657288
+3,"D'accord, parfait.",POSITIVE,0.9331891536712646
+3,"Moi, je ne vois pas comment...",NEGATIVE,0.980991542339325
+3,Je ne vois pas comment...,NEGATIVE,0.9770599603652954
+3,Puis là j'ai deux points.,NEGATIVE,0.9005433320999146
+3,Les moins...,NEGATIVE,0.9097242951393127
+3,Ça va être difficile de rédiger un tel règlement.,NEGATIVE,0.9265637397766113
+3,"Ça fait qu'on n'a pas de précédent, «uncharted sea», premier élément.",NEGATIVE,0.9207728505134583
+3,Je comprends que le critère de la taille de l'organisation et de son nombre d'employés peut être un critère séduisant de prime abord.,NEGATIVE,0.9542662501335144
+3,"Moi, je pense que non.",NEGATIVE,0.9941906929016113
+3,"Donc, pour moi, cette disposition-là eu égard à 172, eu égard à 8.1, cette disposition-là, c'est l'espèce de petite soupape de sécurité qui nous garantit que, si, un jour, nous sommes face à cette situation-là, bien, on sera capables d'empêcher la loi d'être injuste.",POSITIVE,0.9263554215431213
+3,Pourquoi il fait ça?,NEGATIVE,0.9596997499465942
+3,"Puis là je ne veux pas que le trou dans le bateau grossit, grossit, grossit.",NEGATIVE,0.9615152478218079
+3,"Il ne faut pas avoir d'échappatoire, mais on vit dans le vrai monde, d'où l'importance...",POSITIVE,0.969037652015686
+3,"Puis le chien de garde… Non, non, ça ne tient pas debout ça, là, cette sous-délégation-là.",NEGATIVE,0.9954172372817993
+3,"Alors, ça, c'est... Et le ministre joue déjà dans ce film-là de l'impartition.",NEGATIVE,0.9295478463172913
+3,"Dans le fond, c'est de dire : Le comité, tu l'as déjà.",NEGATIVE,0.9156695604324341
+3,Je ne suis pas du tout...,NEGATIVE,0.9949331879615784
+3,Je ne suis pas...,NEGATIVE,0.953069806098938
+3,"Oui, oui, tout à fait.",POSITIVE,0.9180862307548523
+3,"J'essaie juste de comprendre, puis là on change rapidement d'article.",NEGATIVE,0.9961175918579102
+3,"Je comprends, mais pourquoi ajouter : «À une personne»?",NEGATIVE,0.9564758539199829
+3,"Ça fait que mon exemple n'était pas trop, trop dénaturé.",NEGATIVE,0.9038688540458679
+3,"Il faut vraiment que cette personne-là occupe une fonction qui lui donne ces pouvoirs habilitants là de par sa fonction, de par la nature de sa fonction.",POSITIVE,0.9426119327545166
+3,"Bien, demain matin, je ne peux pas répondre à cette description-là.",NEGATIVE,0.939021110534668
+3,"Je veux juste fermer la dernière porte, parce qu'il y a de l'interprétation, puis ce qu'on dit est important.",POSITIVE,0.9019568562507629
+3,"O.K., parfait.",POSITIVE,0.9079214930534363
+3,"On est rendus à l'article 3, excusez, juste pour... Oui, l'article 3.",NEGATIVE,0.9066190719604492
+3,"Non, vous avez dit l'article... Vous avez commencé l'énumération de l'article.",NEGATIVE,0.9662737250328064
+3,"On manque de bande passante, c'est peut-être ça.",NEGATIVE,0.9306023716926575
+3,"On va suspendre 30 secondes, M. le Président.",NEGATIVE,0.9279858469963074
+3,"Parfait, c'est très bien noté.",POSITIVE,0.9953115582466125
+3,"Alors, on a un petit délai technique.",NEGATIVE,0.9159851670265198
+3,"Et, sur la base de l'amendement du collègue de René-Lévesque… Moi, je salue cet amendement-là, et donc je m'y montre tout à fait favorable.",POSITIVE,0.931037187576294
+3,"«Le responsable doit, avec diligence et au plus tard dans les 20 jours qui suivent la date de réception d'une demande — bon, le septième cas d'espèce — informer le requérant que le tiers concerné par la demande sera avisé par avis public.» C'est quoi, les exemples?",NEGATIVE,0.9135141968727112
+3,Puis je ne sais pas si le ministre a un exemple de ça.,NEGATIVE,0.9442487955093384
+3,"Quand on parle d'avis public, en 2021, nouvelles technologies puis tout ça, là, c'est quoi, là?",NEGATIVE,0.9778305888175964
+3,On n'a pas été capables de signifier le défendeur.,NEGATIVE,0.9691486954689026
+3,"Là, par contre, je ne saurais le dire.",NEGATIVE,0.968028724193573
+3,"Ça prenait cinq minutes, le village était au courant.",NEGATIVE,0.9450960159301758
+3,(Interruption) Ce n'est pas pour nous.,NEGATIVE,0.9612088203430176
+3,"Non, ce n'est pas ça.",NEGATIVE,0.9420575499534607
+3,"Ça peut être, malheureusement, un fax.",NEGATIVE,0.9386628866195679
+3,"Je referme la parenthèse, là.",NEGATIVE,0.9324260354042053
+3,"On ne se fiait pas réellement, par référence, à elle.",NEGATIVE,0.9388934373855591
+3,"Support technologique, avis technologique… Il n'y a pas... Bien, c'est parce que je n'ai pas l'amendement, là, je ne l'ai pas eu.",NEGATIVE,0.9723958373069763
+3,"Non, il n'y a pas d'amendement... Bien, c'est-à-dire que c'est l'article qui vient modifier l'autre article, mais il n'y a pas...",NEGATIVE,0.9304676651954651
+3,"Là, dans l'amendement du député de René-Lévesque, on faisait cette référence-là, mais ici, là, ce n'est pas de ça qu'il est question.",NEGATIVE,0.9147742390632629
+3,"Non, je comprends, là, mais juste sur le plan...",NEGATIVE,0.9213448166847229
+3,"C'est parce que je ne l'ai pas, là.",NEGATIVE,0.9496606588363647
+3,"Non, non, O.K., c'est correct.",NEGATIVE,0.927987813949585
+3,"Bien, juste pour dire que, M. le ministre, là, un avis… En tout cas, bref, oubliez ça.",NEGATIVE,0.9454742670059204
+3,"Un avis technologique, là, ça veut dire quoi, là?",NEGATIVE,0.9623271822929382
+3,Pas dans mon souvenir.,NEGATIVE,0.9906031489372253
+3,On n'a pas l'information.,NEGATIVE,0.9327214956283569
+3,Puis effectivement je suis le premier surpris de dire : Il n'y a rien.,NEGATIVE,0.9799367189407349
+3,Vous n'avez pas le droit de faire ça.,NEGATIVE,0.9464484453201294
+3,"Mais ça, c'est correct.",NEGATIVE,0.9635260105133057
+3,"Ce qui ne serait pas correct, c'est que, dans son organisation, la loi ne soit pas appliquée ou ne soit pas respectée.",NEGATIVE,0.9133485555648804
+3,"Je n'y ai pas pensé, là.",NEGATIVE,0.9548386335372925
+3,"Moi, je ne vois pas de distinction.",NEGATIVE,0.9880140423774719
+3,"Oui, c'est sûr qu'il y a un chien de garde qui est la CAI, mais, dans ce qu'on dit là… C'est extrêmement important, ce qu'on dit là.",POSITIVE,0.9721722602844238
+3,J'ai l'impression qu'on est comme dans une zone que je croyais plus claire que ça.,NEGATIVE,0.9327635765075684
+3,"Non, non, je comprends, mais la...",NEGATIVE,0.9282298684120178
+3,"Puis c'est suite à votre commentaire… bien raison… Non, mais ce que je veux dire, c'est que, là, il n'y en a pas.",NEGATIVE,0.9122917056083679
+3,"Puis là on revient à la notion de nos petits organismes, là, O.K., là.",NEGATIVE,0.9206106662750244
+3,"Non, non, c'est fictif.",NEGATIVE,0.9636046290397644
+3,"On m'informe, puis on jase, là, pas là pour mettre personne en boîte, de toute façon, j'en serais incapable, totalement… On m'indique qu'à l'époque...",NEGATIVE,0.9483931064605713
+3,Ça va très bien.,POSITIVE,0.9682526588439941
+3,Je pense qu'il est au coeur de ce qu'on fait.,POSITIVE,0.9716761112213135
+3,Qu'est-ce que je fais avec ça?,NEGATIVE,0.9332699179649353
+3,"Bien, sur cet exemple-là, c'est là où l'amendement que nous avons adopté, qui a été déposé par le député de Gouin, à mon avis, prend tout son sens, parce que, là, on a spécifié que cette personne-là à qui la fonction a été déléguée doit agir avec autonomie.",POSITIVE,0.914413571357727
+3,"Puis aucun préjudice dans ce que je dis, mais ce débat-là, je pense qu'on l'a fait.",NEGATIVE,0.99250328540802
+3,"Alors, la commission, puis on reviendra sur les devoirs et les responsabilités de la Commission d'accès à l'information, devra émettre et souligner à grands traits que la haute autorité devra donner suite, de façon non équivoque et sans aucune exception, à l'exercice de cette autonomie-là.",POSITIVE,0.9146282076835632
+3,Puis quitte...,NEGATIVE,0.973173201084137
+3,"C'est une formation de deux heures, puis on va vous montrer... ou d'une heure.",NEGATIVE,0.9171169400215149
+3,"Par exemple, n'inclure que le numéro d'article de la loi sur l'accès invoqué ne serait pas suffisant.",NEGATIVE,0.9156313538551331
+3,"Bien, en fait, c'est une excellente question que le député de LaFontaine pose.",POSITIVE,0.9233248233795166
+3,"Donc, quelle est la limite de ça?",NEGATIVE,0.9125351309776306
+3,"Ceci étant dit, une fois que cette situation-là se présente, donc, que la personne est face à une décision qu'elle ne comprend pas, assurons-nous que nous avons mis en place de façon très claire tout ce qui est raisonnable de faire pour s'assurer que la personne va comprendre la décision, et non seulement va comprendre la décision, mais va bien comprendre quels sont les mécanismes qui s'offrent à elle, le cas échéant, pour faire réviser cette décision-là.",POSITIVE,0.9344111680984497
+3,"Donc, c'est plus dans l'interaction avec le citoyen qu'on pense que la solution se trouve, que dans la rédaction d'un texte où... parce que ça devient un peu...",NEGATIVE,0.9662703275680542
+3,Comment je dirais ça?,NEGATIVE,0.9479891657829285
+3,Ça devient arbitraire.,NEGATIVE,0.9727869033813477
+3,"Puis, même si je rajoute un autre paragraphe qui dit ça d'une autre façon, il ne comprend pas plus.",NEGATIVE,0.9277635812759399
+3,"Alors, ce qu'il faut faire, c'est de s'assurer que nous, on est capables, comme organisation, de lui donner l'assistance dont il a besoin dans son cheminement, un, pour comprendre, deux, pour savoir quels sont les mécanismes qui vont l'aider à aller au bout de ses droits.",POSITIVE,0.9687219262123108
+3,"Tu as descendu la pente de ski, elle était mal déneigée, tu es tombé, tu t'es brisé la jambe, tu peux poursuivre.",NEGATIVE,0.9183570146560669
+3,"Ça fait que, juge, cassez-vous la tête à dire : Bon, personne normalement prudente et diligente, aurait-elle mis des pierres en plein milieu de la pente de ski?",NEGATIVE,0.9094075560569763
+3,"Bon, alors, faute.",NEGATIVE,0.9782143831253052
+3,"Oui, parce que ce que la... Bon, aujourd'hui, c'est juste l'article… Vous ne vous qualifiez pas en vertu de l'article 37, je dis n'importe quoi, bye-bye.",NEGATIVE,0.9026236534118652
+3,"Tel article, c'est non, bye-bye.",NEGATIVE,0.9607695937156677
+3,"On ajoute la motivation, à moins qu'elle était là, la motivation?",NEGATIVE,0.9044256806373596
+3,"Dans le fond, à 50, on n'ajoute que la dernière phrase.",NEGATIVE,0.9813264608383179
+3,"Motiver, mais là, O.K., je vais revirer ça de bord.",NEGATIVE,0.9746675491333008
+3,"Des fois, une page et quart quand ils se laissent aller.",NEGATIVE,0.9131212830543518
+3,"Puis c'est ça qui est fascinant dans notre société de droit, là.",POSITIVE,0.9735414981842041
+3,Mais là on n'est pas à ce niveau-là avec 50.,NEGATIVE,0.984127938747406
+3,"Quand même, là, vous lui avez parlé, là, la preuve est faite, 46 secondes au téléphone, je vous donne une tape sur les doigts.",NEGATIVE,0.9699921011924744
+3,C'est un peu court.,NEGATIVE,0.9358981847763062
+3,"Non, non, je comprends.",NEGATIVE,0.9365923404693604
+3,"Et en fait, à la question de mon collègue, la question n'est pas de savoir si la réponse est satisfaisante pour moi ou non.",NEGATIVE,0.9326472282409668
+3,"L'exemple que le collègue amène, c'est un exemple où c'est terminé.",NEGATIVE,0.9647207856178284
+3,C'est fini.,NEGATIVE,0.9958292841911316
+3,"Ce que moi, je dis, c'est : Je pense que non.",NEGATIVE,0.9457494020462036
+3,"Tout le monde est très, très satisfait.",POSITIVE,0.9845287203788757
+3,"Puis je vais laisser Me Miville- Deschênes répondre à ce volet-là, parce que, là, on commence à être dans le plus macro.",NEGATIVE,0.9273843765258789
+3,Je ne sais pas si on va jusqu'à ce niveau de précision là.,NEGATIVE,0.9429569244384766
+3,Il n'y a pas...,NEGATIVE,0.9517214298248291
+3,"Moi, je préfère qu'on... quitte à abuser un peu en ce sens-là.",NEGATIVE,0.9089707136154175
+3,"Oui, je partage le point de vue de mon collègue de Gouin et je suis convaincu que les responsables, dans une façon très large, auront le jugement pour accepter peut-être ce téléphone ou cet échange de plus qui nous fait un peu des fois grincer des dents, mais qui peut peut-être amener le citoyen au niveau de satisfaction qui est souhaité plutôt que l'inverse.",POSITIVE,0.9389156103134155
+3,"Bien, merci.",POSITIVE,0.9127448201179504
+3,Je trouve ça bien intéressant puis ça m'apparaît une avancée intéressante en matière de transparence.,POSITIVE,0.9818271994590759
+3,"Alors, on l'a envoyé dans les dernières minutes, là.",NEGATIVE,0.962675154209137
+3,"Pour les gens, là, c'est article 6.",NEGATIVE,0.911345899105072
+3,Il y a une petite erreur de...,NEGATIVE,0.9139096140861511
+3,"Si, in concreto, monsieur X, madame Y ne la comprend pas, la clause, puis elle dit : Elle est incompréhensible puis elle est nulle, ça ne passera pas la rampe.",NEGATIVE,0.95253986120224
+3,"Ce ne sera pas ça, l'analyse du juge, pas du tout.",NEGATIVE,0.9660699963569641
+3,"Dans chaque article de loi, on va toujours naviguer entre protéger les renseignements personnels, puis là on coule ça dans le béton armé, et s'assurer que les organismes, les organismes publics en l'espèce, et les décideurs puissent avoir une latitude puis puissent faire en sorte que la loi, sur le terrain, puisse  bien se vivre, qu'elle ne soit pas des enfarges à tout bout de champ, puis que l'organisme ne remplisse même pas sa fonction à cause de ça, l'application déraisonnable de la loi.",NEGATIVE,0.905670166015625
+3,"Après ça, je suis désolé, mais là s'arrête notre conversation, là s'arrête mon obligation.",NEGATIVE,0.9690050482749939
+3,"Sous les précieux conseils de mes juristes, je ne vais pas donner suite à l'amendement.",NEGATIVE,0.9677122831344604
+3,"La personne raisonnable, elle aurait compris après une demi-heure, après une heure.",NEGATIVE,0.9926422238349915
+3,"Là, ça fait deux heures, elle a compris.",NEGATIVE,0.9890835881233215
+3,"Vous l'avez aidé, mais vous ne l'avez pas bien, bien aidé.",NEGATIVE,0.9507717490196228
+3,"Là, à ce moment-là, avec… Ça marche aussi dans l'autre extrême : «D'une façon suffisante et compréhensible pour une personne raisonnable.» C'est insuffisant.",NEGATIVE,0.9736310243606567
+3,"Si on ne met pas ça, même à l'autre extrémité du spectre, ça pourrait être insuffisant que l'interprétation pourrait aider à comprendre… Ça peut être très peu, ça peut être beaucoup pour aider, mais, aussitôt que j'ai aidé pour aider, «check the box», c'est fait.",NEGATIVE,0.9471275210380554
+3,"Ce n'est pas ça, le principe.",NEGATIVE,0.980281412601471
+3,"Bien, la notion d'assistance, elle se retrouve ailleurs puis elle n'a jamais été paramétrée.",NEGATIVE,0.9397495985031128
+3,"Il n'y a jamais eu de… On n'a jamais quantifié c'était quoi, le niveau d'assistance qu'on devait donner.",NEGATIVE,0.9080023765563965
+3,"Il est atteint, cet objectif-là, parce qu'un responsable d'accès à l'information ou de la protection des renseignements personnels va comprendre qu'il faut qu'il prête assistance puis qu'il faut qu'il aide le citoyen à comprendre.",POSITIVE,0.9470833539962769
+3,"Alors, on amène un libellé qui n'existe nulle part pour régler un problème qui est déjà réglé dans la pratique.",NEGATIVE,0.9558862447738647
+3,"Vous aussi, il y a... Des fois, il y a des citoyens avec lesquels on a des approches différentes, puis avec lesquels c'est plus long que d'autres, puis avec lesquels c'est récurrent, puis ça sera toujours récurrent, puis c'est notre job, puis on sera là.",POSITIVE,0.9545174837112427
+3,"Donc, l'amendement est rejeté.",NEGATIVE,0.9292745590209961
+3,"Bien, pour moi, la réponse à la question, c'est non, là- dessus, c'est non, parce que ça veut dire qu'il faudrait que je lui fournisse… Dépendamment de la demande, il faudrait que je lui fournisse, par exemple, un ingénieur civil, un avocat, un urbaniste, là, c'est infini… réponse à ça, c'est non.",NEGATIVE,0.9082620143890381
+3,Ça ne marche pas.,NEGATIVE,0.9982594847679138
+3,Il m'en manque un.,NEGATIVE,0.9052718281745911
+3,"Le journaliste, lui, des motifs économiques, là : Aïe!",NEGATIVE,0.9916766881942749
+3,"Mais là je ne le ferai pas rencontrer un fiscaliste, un planificateur financier.",NEGATIVE,0.9551905989646912
+3,"Parfait, O.K., merci.",POSITIVE,0.9735118746757507
+3,"Non, je n'ai pas compris.",NEGATIVE,0.9241547584533691
+3,"O.K., attends un peu, je vais essayer d'autre chose.",NEGATIVE,0.9527217149734497
+3,"Dans la mesure où c'est raisonnable, dans la mesure où il y a de la bonne foi, ça pourrait se passer comme ça, mais...",NEGATIVE,0.9935703277587891
+3,Je ne suis pas en...,NEGATIVE,0.9092651009559631
+3,J'oublie tout l'amont.,NEGATIVE,0.9759332537651062
+3,"Puis le ministre ne m'a pas dit : Le critère n'est pas bon, il est trop...",NEGATIVE,0.9843534827232361
+3,"Excusez-moi, j'ai peut-être manqué le début de l'intervention.",NEGATIVE,0.9014517664909363
+3,"Non, non, on y allait, là.",NEGATIVE,0.9851363897323608
+3,"Non, non, c'était solide, là, c'était à coup de barre de fer, 200 $, là.",NEGATIVE,0.9540830254554749
+3,"On vient couper ça en deux, là, avec l'amendement.",NEGATIVE,0.9073991775512695
+3,"Non, non, on le double.",NEGATIVE,0.9155166149139404
+3,"Nounou, il arrive en retard... Pierre Lambert.",NEGATIVE,0.9476125240325928
+3,Je referme la parenthèse.,NEGATIVE,0.9402777552604675
+3,De bons souvenirs.,POSITIVE,0.9665160179138184
+3,"Alors, je ferme la parenthèse.",NEGATIVE,0.9839486479759216
+3,On fait juste changer les amendes.,NEGATIVE,0.9487981200218201
+3,"Non, non, non, pas du tout, parce que, là, lui, il est responsable...",NEGATIVE,0.9443580508232117
+3,"Là, on fait un...",NEGATIVE,0.9701968431472778
+3,"Quand on parlait d'imputabilité puis qu'on disait : On va définir plus loin dans les articles de quoi il est imputable, de toute cette notion d'imputabilité là, bien, ça, ça vient cadrer clairement l'imputabilité.",POSITIVE,0.9545535445213318
+3,"Personnellement contre le haut dirigeant, ça, je ne suis pas convaincu, au niveau des poursuites.",NEGATIVE,0.9469034075737
+3,Faute lourde.,NEGATIVE,0.9936229586601257
+3,"Parfait, une chance qu'elle est là.",POSITIVE,0.9625887870788574
+3,"Si vous faites une faute lourde, que vous partez à rire… je suis en haut dans les marches, vous partez à rire, moi, c'était dans le cadre de mes fonctions, puis vous me sacrez en bas des marches, c'est une faute lourde, je vais dire : Ah!",NEGATIVE,0.9479191899299622
+3,"Non, non, on va lever un voile puis on va lever d'autre chose.",NEGATIVE,0.9618728160858154
+3,"Alors, je ferme la parenthèse.",NEGATIVE,0.9839486479759216
+3,"Alors, l'article 8 est suspendu.",NEGATIVE,0.9007409811019897
+3,"Pour les autres régimes de protection, là… Je sais que ça ne répond pas à la question.",NEGATIVE,0.9519050717353821
+3,"Donc, on prend pour acquis que ça les couvre.",NEGATIVE,0.9127201437950134
+3,"On pourrait vérifier, mais... Donc, le tuteur aux biens...",NEGATIVE,0.9112404584884644
+3,Puis là il y a deux niveaux de langage… Je vais prendre...,NEGATIVE,0.9339887499809265
+3,On ne vient pas...,NEGATIVE,0.9840250611305237
+3,"Oui, oui, absolument, absolument, je comprends ce que...",POSITIVE,0.9112288355827332
+3,"Donc, la situation où il aurait un renseignement qui n'est pas nécessaire à sa tutelle, puis il pourrait consentir à la communication, bon, rapidement, je ne la vois pas, là.",NEGATIVE,0.9447614550590515
+3,"Ou plus simplement… C'est très théorique, ça.",NEGATIVE,0.9374338388442993
+3,"Je ne pense pas que je vais me casser le bicycle bien longtemps, dire : Êtes- vous tuteur à moitié ou plein tuteur?",NEGATIVE,0.951785147190094
+3,Les ressources sont limitées.,NEGATIVE,0.9229997992515564
+3,"Non, non, c'est ça, j'ai enterré cet espoir-là, moi.",NEGATIVE,0.9832337498664856
+3,"Ils vont se renseigner, puis, s'il n'y a rien à faire, il n'y a rien à faire.",NEGATIVE,0.9432010054588318
+3,"Puis, si nous en arrivons à la conviction que le libellé couvre tous les angles, bien... Correct.",NEGATIVE,0.944258987903595
+3,"C'était 200 $, parce que moi, je vais radoter rendu là.",NEGATIVE,0.9764891266822815
+3,"Oui, bien oui… non, bien non.",NEGATIVE,0.9825482368469238
+3,Vous allez dire : C'est déjà commencé.,NEGATIVE,0.9137415289878845
+3,"Bien, pas moi, jamais.",NEGATIVE,0.9927806258201599
+3,Tout à fait.,POSITIVE,0.9654862284660339
+3,"Est-ce qu'il y aurait lieu… Je ne sais pas, je ne connais pas la réponse.",NEGATIVE,0.9481803774833679
+3,"Le curateur, là, il n'y a pas de son, pas d'image.",NEGATIVE,0.9908990859985352
+3,"Mais, ceci étant, je ne dis pas que vos points ne sont pas bons puis ne méritent pas réflexion.",NEGATIVE,0.9232921600341797
+3,"non, non, non, tout à fait.",NEGATIVE,0.9798367619514465
+3,Ça fait que c'est bon.,POSITIVE,0.9532811045646667
+3,"Je l'avais dit dans ma tête, le début de ma phrase, mais c'est juste la fin qui a sorti.",NEGATIVE,0.9274390935897827
+3,"Puis là c'est important de toujours dire... parce que ce qu'on fait là, des fois, ça nous donne des éclairages différents.",POSITIVE,0.9764212965965271
+3,"J'aimerais ça savoir quelle est la réflexion pour dire : Nous, on veut que ça soit manifeste, libre, éclairé.",POSITIVE,0.9567936658859253
+3,"Ça existe ailleurs, ça, et quelle a été un peu la logique derrière ça?",NEGATIVE,0.9041497111320496
+3,Ce n'est probablement pas trop.,NEGATIVE,0.9345166087150574
+3,"Là, on ajoute «manifeste».",NEGATIVE,0.9620870351791382
+3,Pourquoi on le met là?,NEGATIVE,0.9579089879989624
+3,Tu ne peux pas.,NEGATIVE,0.9662914276123047
+3,C'est «game over».,NEGATIVE,0.9785664081573486
+3,"Compte tenu de l'heure, la commission ajourne ses travaux sine  die.",NEGATIVE,0.9061170816421509

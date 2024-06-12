@@ -1,0 +1,226 @@
+Jour,Phrase,Position,Score
+8,"Avec grand plaisir, M. le Président.",POSITIVE,0.9026180505752563
+8,"C'est quoi, l'intention du ministre en termes de contenu?",NEGATIVE,0.9791399240493774
+8,"On pourrait ouvrir ce débat-là sur est-ce que c'est souhaitable ou pas qu'il y ait des partenariats de recherche entre des universités publiques puis l'entreprise privée, mais ouvrons-le pas, là.",NEGATIVE,0.9924634695053101
+8,"Dans le cas qui nous préoccupe, c'est la même chose, au sens où ce qui va faire qu'on va accepter l'utilisation de renseignements personnels ou non ne sera pas conditionné par le statut de ceux qui sont dans l'activité de recherche, mais bien par l'activité de recherche elle-même et des mesures de protection qui devront être prises et qui devront être respectées par tous, indifféremment qu'ils soient d'un organisme public, d'une université, d'un OBNL ou d'une entreprise privée.",POSITIVE,0.9270090460777283
+8,Le ministre publie à la une liste d'États dont le régime juridique encadrant les renseignements personnels équivaut aux principes de protection des renseignements personnels applicable au Québec.» M. le Président : «Section II.1»... Donc... Ah non!,NEGATIVE,0.90060955286026
+8,"Excusez, là, on n'est plus à l'article 27.",NEGATIVE,0.9055429697036743
+8,"Oui, parfait.",POSITIVE,0.9659690856933594
+8,"Parce que suspendre une portion d'un article... Oui, je comprends.",NEGATIVE,0.900178849697113
+8,"Le problème avec l'article initial tel que libellé, c'est que, pour des entreprises du Québec qui font affaire avec des entreprises de l'Ontario, des États-Unis ou d'autres pays, cet article-là venait hypothéquer lourdement leur capacité à honorer les contrats et à faire de ce genre d'ententes là.",NEGATIVE,0.9186707735061646
+8,"Et donc indépendamment du régime légal de l'État, nous, c'est cette façon-là qu'on a d'imposer notre régime de protection à nous.",POSITIVE,0.9103512167930603
+8,"Tranquille, tranquille, c'est latent, c'est latent.",NEGATIVE,0.9896384477615356
+8,"Alors, on n'aura pas d'enjeu, ceci dit, avec L'Anse-Saint-Jean?",NEGATIVE,0.9865915179252625
+8,"Non, ça devrait être assez tranquille.",NEGATIVE,0.906386137008667
+8,"On y avait été, mais je ne pense pas...",NEGATIVE,0.9044675230979919
+8,"«Avant de communiquer à l'extérieur du Québec un renseignement personnel, un organisme doit procéder...» Donc, on a beaucoup vu, puis je pense qu'on a beaucoup bien travaillé sur les renseignements personnels qui sont collectés par les organismes publics, quand c'est par des moyens technologiques, d'autres renseignements qui peuvent être colligés, puis, après ça, on peut faire du profilage, et que ça peut être donné à des sous-traitants et tout ça.",POSITIVE,0.9043896198272705
+8,"Et, à partir de là...",NEGATIVE,0.9039652943611145
+8,"Là, je vous dis ça, mais vite de même, je n'ai pas beaucoup d'exemples.",NEGATIVE,0.9731061458587646
+8,"Qu'est-ce qui s'en vient, là?",NEGATIVE,0.9807292819023132
+8,Elle ne sortira pas.,NEGATIVE,0.9716102480888367
+8,Elle ne sortira pas.,NEGATIVE,0.9716102480888367
+8,"Bien, en fait, on a donné, je pense, une belle définition des renseignements sensibles dans le projet de loi n° 64, tout ce qui vous concerne du point de vue de la biométrie, les empreintes digitales, l'ADN, la reconnaissance faciale, la reconnaissance vocale.",POSITIVE,0.901638925075531
+8,"Puis ça, ça ne sortira pas.",NEGATIVE,0.9878024458885193
+8,"Ça, ça ne sortira pas.",NEGATIVE,0.9820324778556824
+8,"Ça fait que… Ça, c'est exclu, totalement.",NEGATIVE,0.9704779982566833
+8,"Alors, c'est : pas sensible ou peu sensible.",NEGATIVE,0.9569845795631409
+8,C'est-u sérieux?,NEGATIVE,0.9000140428543091
+8,"Excusez, là.",NEGATIVE,0.9546765089035034
+8,Mon hamster ne fonctionnait pas très...,NEGATIVE,0.9139493107795715
+8,"Non, on badine, mais... Ça n'a pas fonctionné.",NEGATIVE,0.997817873954773
+8,"Non, c'est... Bien, il y avait un «stool», là, qui n'a pas embarqué pantoute.",NEGATIVE,0.9394375681877136
+8,"Non, c'est ça.",NEGATIVE,0.9409819841384888
+8,"On a un filet social tellement développé et unique en Amérique du Nord que nous avons accès, ne serait-ce que par le réseau de la santé, à une quantité d'informations qu'on n'a pas aux États-Unis puis qu'on a moins, même, ailleurs au Canada, je vous dirais, probablement, sous certains aspects.",POSITIVE,0.9383467435836792
+8,Le ministre avait dit ça.,NEGATIVE,0.947043240070343
+8,"J'ai parlé aux collègues, il y a quelques jours, de ce que la CNIL faisait, la CNIL, qui est l'équivalent français de la Commission d'accès à l'information, de ce qu'elle faisait avec les renseignements personnels, parce qu'un de ses mandats, c'est vraiment d'avoir cet environnement fermé, cloisonné et non connecté où on peut déverser un certain nombre d'informations, sensibles et moins sensibles, à des fins de recherche, disponibles autant pour des organismes publics que des organismes privés.",POSITIVE,0.9084604978561401
+8,"Moi, je pense qu'on peut parfaitement... Moi, je pense que la donnée, là, puis le député de La Pinière nous a fait une envolée, il y a quelques semaines, à laquelle je souscris entièrement, c'est une ressource collective qui peut être exploitée dépendamment comment on le fait, dépendamment à quelles fins on le fait, dépendamment au bénéfice de qui on le fait.",POSITIVE,0.9859498143196106
+8,"Il y a une façon de le faire pour assurer la protection des renseignements personnels, pour s'assurer qu'il y a des bénéfices et pas de dégâts, il y a une façon d'organiser ça physiquement, mais on n'en est pas là.",NEGATIVE,0.9937875270843506
+8,"On n'en est pas là au Québec, on n'a pas cette vision-là, on n'a pas les institutions mises en place pour gérer ça au moment où on se parle, mais c'est certainement une question qui est pertinente puis pour laquelle un débat public serait très intéressant.",POSITIVE,0.915634274482727
+8,"Mais, encore une fois, le projet de loi n° 64… Il n'y a aucune disposition du projet de loi n° 64 qui a cette finalité-là.",NEGATIVE,0.9939868450164795
+8,"Dans ce qu'on fait, là, aujourd'hui… Je comprends que le projet de loi n° 64, je reprends cette analogie-là, c'est un tamis qui permet de classer puis d'avoir des processus en place pour que les questions, les bonnes questions soient posées, puis on gère la vie des renseignements personnels, mais le projet de loi n° 64 pourrait aussi être un projet de loi à l'intérieur duquel, collectivement, l'Assemblée nationale voterait des dispositions qui encadreraient, justement, toutes ces initiatives- là en disant, par exemple… Puis le ministre pourrait peut-être me dire : Oui, oui, oui parce que ce n'est pas juste une carte routière, le projet de loi n° 64, de ça, il y a des principes… puis il pourra me dire lequel article, mais un principe qui dit que, lorsqu'il y a partage à l'extérieur des murs de l'État québécois, je parle des organisations publiques, des organismes publics, lorsqu'il y a partage d'informations, de renseignements personnels, c'est toujours dans une optique de rechercher les bienfaits pour la communauté, et l'encadrement se fait ainsi, de même… Parce que le ministre pourrait me dire : Bien, la carte routière du régime actuel puis la carte routière du 64… je dirais, le classeur du régime actuel puis le classeur du 64, qui n'est pas péjoratif, mais qui dit : Vous ferez ça, ça, ça, s'il ne contient pas de tels principes, tant au régime actuel que sur le 64, le gouvernement pourrait décider : Bien, nous, on trouve ça «winner», puis on embarque, puis on y va.",POSITIVE,0.9052854180335999
+8,"Moi, ce n'est pas mon intention, puis ce n'est certainement pas l'intention de 64, puis je ne pense pas que 64 doit nous amener là.",NEGATIVE,0.907062292098999
+8,"J'ai l'impression… puis je ne sais pas si le ministre partage cette, je vais le dire de même, inquiétude, c'est peut- être un peu fort, mais j'ai une préoccupation, ça, c'est le mot exact, j'ai une préoccupation, puis je pense que le ministre la partage, puis il pourra me détromper, j'ai une préoccupation qui découle d'une quasi-certitude chez moi, puis probablement chez bien du monde, que notre vie privée, là, avec tous les systèmes informatiques, là, ça va être de moins en moins possible, puis il faut protéger ça.",POSITIVE,0.9145699143409729
+8,Et j'ai l'impression que le 64 est un rendez-vous qu'on a avec l'histoire qu'on ne peut pas manquer.,POSITIVE,0.9748554825782776
+8,"Et il faudrait, je pense, notamment, pour les organismes publics au premier titre, après on verra les privés, mais, pour les organismes publics, qu'il y ait ce principe de clairement dit dans la loi en une seule phrase pourrait faire l'affaire, qu'en tout état de cause, les décisions touchant les renseignements personnels doivent se faire dans une perspective de protection de la vie privée, d'atteindre l'objectif de la relation citoyen- État, mais dans une perspective de protection et dans une perspective d'intérêt pour la collectivité.",POSITIVE,0.9299898743629456
+8,"Non, pas bien, bien.",NEGATIVE,0.9874293208122253
+8,"Parfait, on y va.",POSITIVE,0.9906288981437683
+8,"Et, une fois qu'on a cette phrase clé là, je pense qu'on pourrait le mettre, parce qu'il faut… Oui, je suis pour, M. le Président, la libéralisation, puis c'est des avancées qui vont nous permettre d'être plus performants, notamment, comme État, pour mieux servir le citoyen, mais ça prend des balises de principe aussi, que je mettrais là, que je crois qu'il vaille plus clairement exprimer que de dire : Bien, ça, c'est un renseignement sensible, puis ça, c'est un… hautement sensible.",POSITIVE,0.9712085723876953
+8,"Oui, mais qu'est-ce qu'on en fait?",NEGATIVE,0.9768573045730591
+8,"On a un mandat qui est très, très, très important parce que c'est tout l'équilibre entre une société moderne qui se transforme numériquement, qui est capable de faciliter la vie de ses concitoyens, ce qu'on ne fait pas actuellement, ce qu'on échoue à faire collectivement, mais cette même société moderne là, qui est aux prises avec des comportements pour le moins litigieux dans la collecte et l'utilisation des renseignements personnels des citoyens, qui sert à des fins qui ne sont pas certainement pas au bénéfice des citoyens… Donc, de ramener ça dans le droit chemin, on a aussi cette obligation-là.",POSITIVE,0.9782684445381165
+8,"Donc, trouver l'équilibre entre ces deux obligations-là, très importantes l'une comme l'autre, ce n'est pas simple, mais je pense qu'on a tous la volonté d'y arriver.",POSITIVE,0.980213463306427
+8,"C'est un enjeu important ici parce que le ministre vient amender un article qu'il avait lui-même rédigé, là, en tout cas, que son gouvernement avait rédigé, puis cet article-là affirmait, je pense, au-delà du langage, un principe important, principe selon lequel… Là, on vient, avec le projet de loi n° 64, de plusieurs manières, s'assurer du respect du droit à la vie privée des Québécois et des Québécoises.",POSITIVE,0.9130308628082275
+8,"Puis là le ministre dit : Oui, mais c'est parce que, vu qu'on va avoir une loi vraiment ambitieuse puis vraiment excellente, les autres ne seront pas rendus là, donc il faut comme diminuer les exigences de protection des renseignements personnels des Québécois dès qu'ils sortent du territoire québécois parce que les autres sont moins bons que nous.",POSITIVE,0.977944016456604
+8,"On vient trouver une voie de passage qui qui permet à nos entreprises de continuer à avoir des ententes à l'extérieur du Québec, et le Québec fait beaucoup d'affaires à l'extérieur du Québec, mais sans, justement, avoir à diminuer nos exigences en matière de protection des renseignements personnels.",POSITIVE,0.905698835849762
+8,"Oui, oui, mais c'est parce que le ministre utilise un argument de nature économique en disant : Il y a des entreprises qui auraient des opportunités d'affaires, puis là on va les brimer dans leur capacité de faire des affaires, mais là ce n'est pas de ça dont...",NEGATIVE,0.9597211480140686
+8,"Je veux bien, mais rien ne dit que, dans ces dispositions contractuelles là, les protections vont être équivalentes à ici, sinon le ministre n'amenderait pas le projet de loi.",NEGATIVE,0.9126314520835876
+8,"Si c'était du pareil au même, il n'y aurait pas d'amendement.",NEGATIVE,0.9565134048461914
+8,"Donc, ce bout-là, il est supprimé.",NEGATIVE,0.967048704624176
+8,"Je m'excuse, j'essaie...",NEGATIVE,0.965364933013916
+8,"Je ne comprends pas, là.",NEGATIVE,0.98659747838974
+8,C'est tout.,NEGATIVE,0.9935083389282227
+8,"C'est parce que, si j'ai tort, c'est que je comprends l'article tout croche.",NEGATIVE,0.9365578293800354
+8,"En fait, ce que ça vient faire, c'est deux choses.",NEGATIVE,0.9948896169662476
+8,"Si vous arrivez à la conclusion que le régime, y compris les contrats qui sont proposés, sont inadéquats, vous ne pouvez pas communiquer.",NEGATIVE,0.9314138293266296
+8,"Là, vous rajoutez à ça, vous dites : Non seulement je vais regarder le contrat, mais en plus je vais regarder le régime... Non, non, mais ce n'est pas moi qui le rajoute, c'est déjà écrit.",NEGATIVE,0.9355502128601074
+8,Puis là ça ne dit pas...,NEGATIVE,0.9819736480712891
+8,Puis là oublions le deuxième alinéa.,NEGATIVE,0.9740711450576782
+8,Oublions le deuxième alinéa 30 secondes.,NEGATIVE,0.9546923041343689
+8,"Si vous amendez, si nous amendons le paragraphe 3° en disant : Tenez compte des mesures de protection, dont le renseignement va bénéficier dans les ententes contractuelles, c'est quoi, là?",NEGATIVE,0.9499725103378296
+8,"Sinon, on ne le considérerait même pas.",NEGATIVE,0.9260604977607727
+8,"Si c'était impertinent, ce ne serait pas écrit.",NEGATIVE,0.9575740098953247
+8,"Oui, oui, c'est ça, mais le paragraphe 4°, non, parce que «le régime juridique applicable dans l'État où le renseignement est communiqué»...",NEGATIVE,0.950671911239624
+8,"Tout à fait, tout à fait, tout à fait.",POSITIVE,0.9846226572990417
+8,"C'est ça qu'on est en train de faire avec l'amendement, là.",NEGATIVE,0.9292311072349548
+8,"C'est là-dessus qu'on bloque, là.",NEGATIVE,0.9675698280334473
+8,Le ministre a l'air de...,NEGATIVE,0.9342842102050781
+8,"Quand il me donne des explications, c'est comme s'il dit que c'est un ou l'autre.",NEGATIVE,0.9016215205192566
+8,"Mais c'est parce que, M. le Président, ce que j'essaie d'expliquer à mon collègue, c'est que c'est justement cette notion-là d'équivalence que nous souhaitons retirer du projet de loi pour y aller avec des modèles qu'on mettrait en place, qui vont permettre une... qui vont trouver ce fil conducteur entre notre volonté de protéger les renseignements personnels et le fait que nous savons très bien qu'avec l'adoption du p.l.",POSITIVE,0.9155523180961609
+8,"Alors, la voie de passage que nous avons trouvée pour assurer ce fil conducteur là, de se doter d'une loi dont, oui, effectivement, j'espère, nous serons fiers et que nous adopterons, mais, en même temps, qui ne devient pas une hypothèque pour nos organismes publics et/ou éventuellement, nous en discuterons, nos entreprises de faire affaire ou de traiter, devrais-je dire, de façon plus large avec des entreprises et/ou des entreprises à l'extérieur du Québec... Bien, M. le Président, cette entente-là contractuelle vient faire cette voie de passage là.",POSITIVE,0.9359896779060364
+8,"Alors, oui, je veux regarder c'est quoi, le régime juridique applicable, bien sûr, parce qu'il y a quand même des enjeux juridiques qu'il faut valider, parce qu'un contrat, c'est très certainement contraignant, mais une loi, ce l'est encore plus, donc il faut s'assurer que les contrats seront respectés.",POSITIVE,0.9156143665313721
+8,"Alors, on peut bien le laisser dans le projet de loi, mais on a déjà... on pose une question pour laquelle on connaît déjà la réponse.",NEGATIVE,0.9211804270744324
+8,"Donc, cette partie-là de l'argumentaire du ministre, l'argument où il dit : On ne peut pas parler d'équivalence, l'équivalence n'existe pas, en tout respect, c'est un argument qui m'apparaît faible dans la mesure où ça va changer dans le temps, puis il pourrait y avoir des régimes juridiques équivalents éventuellement.",NEGATIVE,0.9083810448646545
+8,"Bien, non seulement je trouve que l'exemple n'est pas extrême, mais, au contraire, je trouve que c'est un excellent exemple.",POSITIVE,0.9626438021659851
+8,Il m'apparaît que la réponse à ça serait non.,NEGATIVE,0.9746614694595337
+8,"Ce que je perçois dans les propos du ministre, puis en réponse à l'exemple que j'ai donné, c'est : il y a une volonté de sa part, en tout cas c'est ce que je sens, que les législations où on envoie les données aient un régime juridique respectable, sérieux, notamment sur la question de la protection des renseignements personnels.",POSITIVE,0.9014846086502075
+8,"Là, on fait de la rédaction de coin de table, là, on pourrait trouver quelque chose de plus sérieux.",NEGATIVE,0.994515597820282
+8,"Cette notion de souplesse là, elle est commandée par le contexte que la prémisse de base, c'est qu'avec le projet de loi n° 64 nous aurons un des régimes de protection les plus sévères au monde, et très certainement le plus sévère dans les Amériques.",POSITIVE,0.9094895720481873
+8,"Puis là il n'y a plus de finalité à le faire dans ce cas-là parce que, techniquement, mon contrat est déjà fait.",NEGATIVE,0.9883042573928833
+8,"Dans le deuxième alinéa, bien là, c'est carrément la notion d'équivalence, où je ne trouverai pas d'équivalent.",NEGATIVE,0.9292265772819519
+8,"Bien, M. le Président, en fait, l'exemple que le député de Gouin amène, c'est un peu ce qu'on dit, c'est-à-dire que, lorsque le contrat est élaboré, il est la base sur laquelle on va pouvoir s'assurer qu'il y a un régime de protection… en fait, c'est un des éléments, un élément important, mais un des éléments qui va permettre de vérifier que les renseignements ont un régime de protection adéquat.",POSITIVE,0.90237957239151
+8,"Bien, la réponse, c'est non.",NEGATIVE,0.9146134853363037
+8,"Oui, bien, je veux bien, mais là on est à l'intérieur du Québec.",NEGATIVE,0.9697369933128357
+8,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+8,"Donc, on se dit : Je n'ai pas une protection adéquate.",NEGATIVE,0.9025548100471497
+8,"Puis je sais que ce n'est pas le cas, là, mais on s'entend que, si un officier de justice, avec un mandat émis par un juge en bonne et due forme, veut avoir accès à des renseignements personnels pour des fins d'enquête criminelle, bien, je pense qu'on est tous d'accord pour dire qu'on souhaite que cet officier de justice là, qui aura passé par une procédure qui, quand même, s'assure, là, que ce n'est pas fait en cow-boy, là, pour des fins criminelles, puisse faire son enquête.",POSITIVE,0.9027509093284607
+8,Sauf que là on est sur mon sous-amendement qui porte sur ce que doit vérifier l'organisme public.,NEGATIVE,0.9463022351264954
+8,"Si c'est n'importe quoi, ça va entrer dans l'évaluation.",NEGATIVE,0.9564437866210938
+8,"Et je ne parle pas de GNL Québec, parce que ça, ça ne verra jamais le jour.",NEGATIVE,0.9422745108604431
+8,"Excusez-moi, c'est remplacement du remplacement qui est déjà un remplacement...",NEGATIVE,0.9808835983276367
+8,Ça vient écraser le... Votre paragraphe b vient écraser celui qui est là.,NEGATIVE,0.9309516549110413
+8,Je vais vous demander de suspendre un instant.,NEGATIVE,0.9265092015266418
+8,Je vais vous demander de suspendre un instant.,NEGATIVE,0.9265092015266418
+8,"L'idée est de dire : Si «équivalent», c'est trop rigide pour le ministre, moi, «adéquat», ça m'apparaît un peu flou, un peu large.",NEGATIVE,0.9037894606590271
+8,"Je ne cache pas au député de Gouin qu'il y a des vents contraires, et pas exclusivement dans la société civile, là, parce que ça fait du Québec, évidemment, un endroit où, comme je le dis, les contraintes vont être importantes.",POSITIVE,0.9392955303192139
+8,"La situation et la prise de conscience que nous devons faire, c'est que, ce faisant, il y a des avantages pour nos concitoyens, je pense, qui vont bénéficier d'un régime de protection de leurs renseignements personnels qui va être de nature à les sécuriser.",POSITIVE,0.9277018904685974
+8,"Mon appel à la mobilité de la donnée a été entendu par les collègues, je sens de la part des collègues cette conscience-là qu'il faut, en même temps, que ces renseignements-là puissent circuler à l'intérieur de l'appareil public pour qu'on puisse offrir des services de qualité à nos concitoyens.",POSITIVE,0.9798130989074707
+8,"Donc, je pense qu'on est en train de trouver un fil conducteur intéressant entre ces deux obligations-là qui, quelquefois, peuvent sembler s'opposer mais pour lesquelles on trouve un équilibre.",POSITIVE,0.930337131023407
+8,Deux choses sur l'amendement.,NEGATIVE,0.9327229261398315
+8,"Ce qui est souhaitable, je n'ai pas honte de le dire, mais ce qui est loin d'être fait.",NEGATIVE,0.9978129863739014
+8,"On parlait de la Chine tantôt, ne m'apparaît pas être un État qui est sur le bord d'adopter de telles législations, même si ça serait extrêmement souhaitable.",NEGATIVE,0.9370391964912415
+8,"Je peux vous dire qu'il y a énormément de pédagogie à faire un peu partout, parce que cette loi-là fait extrêmement peur, mais moi, je suis convaincu que le Québec doit se doter de ce régime de protection là, j'y crois fortement.",POSITIVE,0.9808998107910156
+8,"Maintenant, comme législateurs, il faut aussi comprendre les impacts, puis je ne veux pas faire de leçon à mon collègue de Gouin, là, loin de moi cette idée, j'espère qu'il ne l'entend pas comme ça, mais il faut comprendre ces craintes-là, il faut comprendre ces hypothèques-là que ça peut apporter.",POSITIVE,0.9245571494102478
+8,"Puis, dans notre désir d'être... je ne dirais pas vertueux parce que le terme est peut-être un peu fort, là, mais d'être très conscients de la valeur des renseignements personnels puis de la protection qu'on doit y accorder, dans cette volonté-là que nous avons comme législateurs, il ne faut pas oublier que le reste du monde n'est peut-être pas à la même page que nous autres.",POSITIVE,0.9820902347564697
+8,"Donc, c'est important, je pense, ces amendements-là sont vraiment importants pour plusieurs tranches de notre société.",POSITIVE,0.9788670539855957
+8,"Moi, je pense que non, mais je ne suis pas fermé à trouver une autre expression, mais c'est sûr que, si on parle des meilleures pratiques, bien là, on parle du RGPD, on parle de ce que l'on fait ici, puis là on revient un peu dans le même moule duquel on essayait de se sortir pour le bénéfice, je le répète, de nos entreprises d'État, de nos organismes publics et de nos entreprises québécoises.",NEGATIVE,0.919280469417572
+8,"Ça m'apparaît très général, très flou.",NEGATIVE,0.9835100769996643
+8,Il ne me semble pas y avoir de référent objectif à ce qui est adéquat ou pas.,NEGATIVE,0.9781006574630737
+8,"On ne sait pas c'est relatif à quoi, adéquat par rapport à quoi.",NEGATIVE,0.9465233683586121
+8,"Puis là le ministre me dit : Bien là, c'est un peu raide, mettons.",NEGATIVE,0.9337143301963806
+8,"Le ministre a raison de dire que ce n'est pas adéquat par rapport aux critères du jour, là.",NEGATIVE,0.9069661498069763
+8,Si ce n'est pas...,NEGATIVE,0.9316866993904114
+8,"Le ministre me dit : Oui, mais là c'est un peu du pareil au même.",NEGATIVE,0.9711664915084839
+8,"On verra si le projet de loi, au moment de son adoption, sera conforme aux meilleures pratiques, c'est ce que je souhaite, mais le ministre me dit : C'est un peu la même chose.",NEGATIVE,0.929262638092041
+8,Suspension pour quelques instants.,NEGATIVE,0.9510846138000488
+8,"À mon grand regret, il a... le député de Gouin interprète bien mes intentions.",NEGATIVE,0.9497931003570557
+8,"Dans le fond, c'est un peu ça.",NEGATIVE,0.9251205921173096
+8,Le ministre est venu amoindrir dans le premier alinéa en disant : Ce n'est pas...,NEGATIVE,0.9075950384140015
+8,"Puis là je veux être sûr que j'ai bien compris ce que le député de Gouin disait, mais si je viens mettre que «la communication peut s'effectuer si l'évaluation démontre que les renseignements bénéficient d'une protection adéquate en conformité avec les principes de protection des renseignements personnels», bien, je vais le laisser...",NEGATIVE,0.9345266222953796
+8,Parce qu'on veut cette souplesse-là.,POSITIVE,0.9214451313018799
+8,"Puis j'ai beaucoup aimé l'exemple que le député de Gouin a utilisé tout à l'heure, en disant, et je pense que c'est vrai : Le Québec va être largement en avant de la parade en matière de protection des renseignements personnels, côte à côte avec certains États européens qui auront appliqué le RGPD.",POSITIVE,0.9573143720626831
+8,"Et donc c'est là où il faut se donner une marge de manoeuvre pour nos entreprises d'État, pour nos organismes publics et pour nos entreprises privées, parce que j'aimais beaucoup l'expression qu'il a utilisée, il disait : Bien, courez jusqu'à nous rattraper ou on ne fera pas affaire avec vous autres.",POSITIVE,0.9388731122016907
+8,"Non, non, non.",NEGATIVE,0.9973886609077454
+8,"Donc, c'est rejeté.",NEGATIVE,0.965418815612793
+8,"Là, il a évolué dans un sens qui ne nous plaît pas.",NEGATIVE,0.9982523322105408
+8,J'aurais probablement eu plus tendance à être d'accord.,NEGATIVE,0.9191371202468872
+8,"Quelquefois, en voulant faire le bien, on fait le contraire.",NEGATIVE,0.9684926867485046
+8,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+8,"Donc, je retire.",NEGATIVE,0.986257791519165
+8,"Bien, tout à fait, M. le Président.",POSITIVE,0.9025261402130127
+8,Il n'y aura pas de débat sur le dommage réel.,NEGATIVE,0.9654346704483032
+8,"C'est l'objectif qu'on veut que tous les organismes honorent, qui est de préserver, dans tous les cycles de la vie des renseignements personnels, la protection de la vie privée.",POSITIVE,0.9570785760879517
+8,Je ne sais pas si le ministre veut réagir à ça.,NEGATIVE,0.9336979985237122
+8,Et il était à quel effet?,NEGATIVE,0.932068407535553
+8,"Drapeau rouge, on ne le fait pas.",NEGATIVE,0.9948081374168396
+8,"Alors donc, s'il n'y a pas d'autre intervention, on passerait à 70...",NEGATIVE,0.9687702655792236
+8,"Donc, ça vient dire, dans le fond, que les amendements enlèvent la pertinence de 70.2.",NEGATIVE,0.9775344133377075
+8,Et donc je comprends que l'utilité de 70.2 est amoindrie.,NEGATIVE,0.9668830633163452
+8,"Absolument, M. le Président.",POSITIVE,0.943800687789917
+8,"Non, pas encore.",NEGATIVE,0.9682660698890686
+8,"C'est bon, excusez-moi.",NEGATIVE,0.9496005773544312
+8,"Dans le fond, l'amendement, ça visait à changer la notion de «protocole de recherche» pour «activités de recherche».",NEGATIVE,0.9527118802070618
+8,Puis «activités de recherche» semblait faire consensus.,NEGATIVE,0.9286420941352844
+8,"Non, c'est à venir.",NEGATIVE,0.9414727687835693
+8,"D'abord, une question plus générale, et on me pardonnera si elle est candide, mais, quand on travaille un projet de loi comme ça, on le modifie au fur et à mesure, donc des fois l'économie générale des dispositions du projet de loi se met à se confondre dans notre tête.",NEGATIVE,0.9026845693588257
+8,"Puis là mettre, mettons, un protocole de recherche de Revenu Québec sur une application de détection de fraude, puis là Revenu Québec dit : Bon, bien, O.K., là, il faut que j'appelle chaque individu dont je vais me servir des informations pour mon protocole de recherche pour demander un consentement express, oubliez ça, impossible.",NEGATIVE,0.9169824719429016
+8,"Tu, sais, les débats éthiques sur l'utilisation des données de santé, c'est des débats qui sont importants, qui font rage... bien, font rage, qui ont cours partout à travers le monde, notamment au Québec.",POSITIVE,0.9844480752944946
+8,Et l'article ne me semble pas distinguer les différents types de recherche.,NEGATIVE,0.9594112038612366
+8,"Tu sais, c'est vraiment une étude dont l'impact est majeur, est important, que...",POSITIVE,0.9300926327705383
+8,Il m'apparaît incontestable que l'avancement de la connaissance et de la science peut bénéficier d'un plus grand partage des données de santé.,POSITIVE,0.938407301902771
+8,Ce n'est pas ce que je fais.,NEGATIVE,0.9864423274993896
+8,"Et je pense qu'on a l'occasion, avec le projet de loi ici, de venir rassurer bien des gens puis de venir faire les distinctions qui s'imposent entre, oui, faire avancer la science, la connaissance en tablant sur les données de santé qu'on a, mais le faire... s'assurer de mettre des balises pour que ce soit dans la poursuite de l'intérêt public et non pas dans la poursuite du profit privé.",POSITIVE,0.9311078786849976
+8,"Le débat que le député de Gouin soulève est un débat qui est extrêmement intéressant, à savoir... puis, à mon avis, qui est beaucoup plus large que les données de santé, parce qu'on pourrait faire le même débat sur les données fiscales.",POSITIVE,0.9799497723579407
+8,Ce n'est pas la finalité du projet de loi n° 64.,NEGATIVE,0.96872878074646
+8,"Ça, je ne souscris pas à ça.",NEGATIVE,0.9962575435638428
+8,"Ce sont toutes des questions qui sont extrêmement pertinentes et qui valent très certainement la peine qu'on ait des discussions dans l'espace public, mais, ceci étant dit, ce n'est pas la finalité du projet de loi n° 64, de tenir ce débat, et ce n'est certainement pas la finalité du projet de loi n° 64, de clore ce débat au bénéfice d'un amendement.",NEGATIVE,0.9698686003684998
+8,"«Et, pour nous, c'est non négociable, la protection des renseignements personnels, et il faut s'assurer de faire en sorte que, dans le cadre des travaux que nous aurons, dans le cadre du projet de loi n° 64, où nous pourrons échanger et nous pourrons entendre le député de Gouin faire les représentations qui s'imposent...",POSITIVE,0.9185790419578552
+8,Je pense que c'est fondamental.,POSITIVE,0.9666281938552856
+8,"Là, c'est quoi, le forum pour parler de ça?",NEGATIVE,0.9947977066040039
+8,Je ne comprends plus.,NEGATIVE,0.9864820241928101
+8,"Or, ce n'est pas de ça dont on discute.",NEGATIVE,0.9689194560050964
+8,"C'est une bonne question, mais ce que moi, je sais, puis l'expérience que j'en ai, c'est que, si cette discussion-là, on veut la faire puis si on veut faire des propositions sur ces discussions-là, j'en suis, mais l'amendement du collègue de Gouin a plutôt tendance à clore le débat qu'à l'alimenter.",NEGATIVE,0.9313256144523621
+8,"Le ministre dit qu'il ne veut pas avoir le débat sur le fond, mais il vient de passer 98 % de sa réponse à parler sur le fond, alors que ma question portait sur la forme.",NEGATIVE,0.9681243896484375
+8,"Là, il nous dit : Non, non, non, ce n'est pas de ça dont il est question.",NEGATIVE,0.9299719333648682
+8,"Donc, la portée de cette loi-là et les contraintes qui s'y appliquent sont beaucoup plus larges, beaucoup plus étendues que la loi actuelle.",POSITIVE,0.9416493773460388
+8,"Et là on vient dire : Sans le consentement des gens, sans le consentement des gens, ça peut être transféré pour des objectifs d'étude, de recherche ou de production de statistiques.",NEGATIVE,0.9199554324150085
+8,"Je ne dis pas que ça en soi, c'est mal.",NEGATIVE,0.9235028028488159
+8,"Je veux bien, je ne suis pas contre ce principe-là, mais il me semble qu'il y a une pertinence à faire une distinction entre des recherches d'intérêt public puis des recherches d'intérêt privé, ce n'est pas impertinent, comme distinction.",NEGATIVE,0.9623682498931885
+8,"Et je pense que ces trois articles-là imposent un nombre de contraintes quand même très importantes et très sérieuses qui font en sorte qu'on est, ne l'oublions pas, dans le cadre où un organisme public va utiliser des renseignements personnels à des fins de recherche ou de production statistique et que c'est clairement l'intention du législateur que ça se fasse au bénéfice de la collectivité.",POSITIVE,0.948081910610199
+8,"Alors, oui, la communication de renseignements personnels est l'objet du projet de loi, mais ce n'est pas ça que je dis.",NEGATIVE,0.9512222409248352
+8,"Si la réponse avait été non, je n'aurais pas déposé d'amendement.",NEGATIVE,0.9324427247047424
+8,"Ça ne marche pas comme ça, là.",NEGATIVE,0.9952925443649292
+8,Ce n'est pas ça.,NEGATIVE,0.9376233816146851
+8,Ça n'a rien à voir.,NEGATIVE,0.9974156618118286
+8,Ça n'a rien à voir.,NEGATIVE,0.9974156618118286
+8,"Il n'y a personne qui dit ça, là.",NEGATIVE,0.9068582057952881
+8,"La seule personne qui fait ces exagérations-là, c'est le ministre, puis ce n'est pas moi.",NEGATIVE,0.9356332421302795
+8,"Moi, j'ai un propos très posé, très modéré, où j'essaie de placer des balises pour que ces choses-là soient dans l'intérêt public.",POSITIVE,0.9013205170631409
+8,Je ne suis jamais rentré dans le registre de n'importe qui va pouvoir faire n'importe quoi.,NEGATIVE,0.9597011804580688
+8,"J'essaie de comprendre l'objectif du député, d'abord, parce que je ne le comprends pas.",NEGATIVE,0.9103788733482361
+8,Mais ça ne répond pas à ma question.,NEGATIVE,0.9739134907722473
+8,"Que ça serve l'intérêt public, c'est impossible?",NEGATIVE,0.9764225482940674
+8,"Moi, je ne suis pas d'accord avec ça.",NEGATIVE,0.9549053907394409
+8,"Mais je ne comprends pas, là.",NEGATIVE,0.9672225713729858
+8,Je dis juste que ça...,NEGATIVE,0.9494307637214661
+8,"Je pense que, quand les gens vont voir un médecin puis qu'ils se confient sur leur santé, là, ils partent avec l'attente d'une énorme confidentialité, puis que, sans leur consentement, sans leur... et ce n'est pas un détail, ça, c'est le coeur de notre débat, que sans leur consentement on transmet ces données-là pour des fins de recherche à des entreprises privées, je pense qu'on vient enfreindre un principe, qu'il y a quelque chose de fondamental dans une société comme la notre.",POSITIVE,0.9303818941116333
+8,Je le pense vraiment.,POSITIVE,0.9607550501823425
+8,"Bien non, là, il y a AstraZeneca.",NEGATIVE,0.9017761945724487
+8,"Non, non, non.",NEGATIVE,0.9973886609077454
+8,"Là, les Québécois ne veulent plus.",NEGATIVE,0.9335774779319763
+8,"non, là, cette règle-là ne s'applique plus, il faut exclure parce que c'est une entreprise privée.",NEGATIVE,0.9115254282951355
+8,"Oui, mais, si ça se fait dans l'intérêt public, si ce n'est pas incompatible avec l'intérêt public, si toutes les règles que nous avons mises en place sont suivies.",POSITIVE,0.9221308827400208
+8,"non, là, il y a la notion de profits d'entreprise privée, ça ne marche plus.",NEGATIVE,0.9964795708656311
+8,"Et c'est là où, le député de Gouin et moi, on ne s'entendra pas.",NEGATIVE,0.9215747117996216
+8,"Bien, je suis désolé, M. le Président, mais là je ne peux pas être d'accord avec ça.",NEGATIVE,0.9683303236961365
+8,"Donc, il n'y a pas...",NEGATIVE,0.9334453344345093
+8,"Donc, l'amendement est rejeté.",NEGATIVE,0.9292745590209961
+8,Est-ce que je ne serais pas mieux à ce moment-là... et 67.2.3.,NEGATIVE,0.937872052192688
+8,...on a encore...,NEGATIVE,0.9077749848365784
+8,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+8,"Non, non, c'est parce que...",NEGATIVE,0.9178717732429504
+8,"Sinon, on peut y aller, on finit 1, on passe à 2 et on passe à 3.",NEGATIVE,0.9230596423149109
+8,"Je vais juste rafraîchir puis, peut-être, vous aiguiller sur la bonne zone.",NEGATIVE,0.905584454536438
+8,"Non, allez...",NEGATIVE,0.9613573551177979
+8,"Puis c'est où, là?",NEGATIVE,0.9623731970787048
+8,"Si on ne sait pas de quoi on parle, on ne peut pas en arriver à une conclusion.",NEGATIVE,0.9271131753921509
+8,Je vais vous le lire.,POSITIVE,0.9020693302154541
+8,Ce n'est pas de mon cru.,NEGATIVE,0.9876108765602112
+8,"J'aurais aimé, mais ça ne l'est pas.",NEGATIVE,0.9987673759460449
+8,"J'y faisais allusion il y a quelques instants, que l'usage des données qui sont transmises par des organismes publics à des fins de recherche, bien, que les objectifs de ces activités de recherche là soient l'intérêt public, ce qui me semble essentiel, parce qu'en effet je ne pense pas que les «big pharma» travaillent pour l'intérêt public, alors qu'une entreprise... alors que, par exemple, des projets de recherche dans nos universités, eux, menés pour des intérêts d'avancement de la connaissance dans ces institutions-là dont c'est l'objectif, ça, ça me semble remplir le critère de l'intérêt public.",POSITIVE,0.9463939666748047
+8,"À cette heure qu'il est présenté par le collègue de LaFontaine, je le relis puis je le trouve moins bon.",NEGATIVE,0.9571625590324402
+8,Ce n'est plus bon.,NEGATIVE,0.9935932755470276
+8,"Parfait, ça va.",POSITIVE,0.9760289788246155
+8,Eu égard à la lourdeur de ce que ça impliquerait?,NEGATIVE,0.9639533162117004
+8,Mais on ne sait pas ce que va en faire la commission.,NEGATIVE,0.9286870360374451
+8,Tout à fait.,POSITIVE,0.9654862284660339
+8,"Dans le fond, ce que je perçois de ça, c'est que la commission va vouloir être avisée puis dire, bon, bien, soit faire des analyses aléatoires, soit se pencher particulièrement sur certains...",NEGATIVE,0.9428178668022156
+8,"Compte tenu de l'heure, la commission ajourne ses travaux sine die.",NEGATIVE,0.9061170816421509

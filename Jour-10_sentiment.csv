@@ -1,0 +1,183 @@
+Jour,Phrase,Position,Score
+10,"Bien, M. le Président, avec un immense plaisir.",POSITIVE,0.951070249080658
+10,"Bon, ça, ce serait dépersonnaliser.",NEGATIVE,0.9389976859092712
+10,"Alors, comme dans la section à l'article 28, il était dans la section que j'appelais, bon, en tout respect, là, rebuts.",NEGATIVE,0.9411637187004089
+10,"Parfait, ça, ça répond au premier volet.",POSITIVE,0.9669163823127747
+10,"Exactement, tout à fait.",POSITIVE,0.9661198258399963
+10,"J'ai fini avec le renseignement, je n'en ai plus besoin, on n'en a plus besoin.",NEGATIVE,0.9851441383361816
+10,"On se débarrasse de ça, on le détruit, il est mort, il n'existe plus, plus d'enjeu.",NEGATIVE,0.9749724268913269
+10,Anonymise pour des fins d'intérêt public...,NEGATIVE,0.9395122528076172
+10,"Alors, M. le Président, si le... ...avec les meilleures pratiques, assure-toi que ce soit... Non, mais ça, on le voit plus loin, mais si le député veut amender l'article dans ce sens-là, moi, je n'ai pas d'enjeu, là.",NEGATIVE,0.9048251509666443
+10,"Ça m'apparaît être une évidence, mais je n'ai pas d'enjeu à le préciser, là.",NEGATIVE,0.9827421307563782
+10,"Ce qui nous amène dans les univers que j'ai expliqués au collègue, à savoir si on est dans un contexte comme à l'ISQ, par exemple, qui permet, effectivement, d'aller chercher un niveau d'anonymisation qui est irréversible, parce qu'il n'y a pas de possibilité d'aller à l'extérieur puis de reconfigurer le renseignement, ou dans un contexte d'utilisation d'un organisme public qui, à ce moment-là, nous amène peut-être un... qui ne nous amène pas au même niveau, mais qui... la loi les oblige quand même à aller aussi loin que possible dans l'anonymisation.",POSITIVE,0.9307748079299927
+10,Sur le fait de l'utilisation?,NEGATIVE,0.9147767424583435
+10,"Bien, il n'y en a pas.",NEGATIVE,0.9334139823913574
+10,"Puisqu'on est tous conscients qu'il y aura toujours des risques faibles, moyens, élevés, dépendamment des circonstances de réanonymisation, ne faudrait-il pas penser à un cadre peut-être moins exigeant que celui pour les renseignements personnels, mais un cadre néanmoins pour qu'il y ait une certaine protection pour ces renseignements-là, même avant qu'ils soient réanonymisés?",POSITIVE,0.9067622423171997
+10,"Alors, d'avoir un cadre réglementaire qui viendrait dire : Bon, bien, voici ce que vous pouvez ou ne pouvez pas faire avec, ça devient à peu près impossible comme exercice.",NEGATIVE,0.9581869840621948
+10,"Et je veux assurer au député de Gouin, là, qu'on a réfléchi à cette question- là de façon assez intense qui nous ramène à dire : Bien, vous savez, c'est un petit peu comme dans bien d'autres situations, notre premier est souvent le meilleur.",POSITIVE,0.9727448225021362
+10,Puis j'en arrive toujours à cette... puis j'en arrive toujours à la conclusion du libellé de l'article 28 actuellement.,NEGATIVE,0.9343439340591431
+10,"Je vais laisser le débat se terminer sur l'amendement parce que, là, techniquement, on est encore sur l'amendement.",NEGATIVE,0.927747368812561
+10,"Je ne crois pas, M. le Président.",NEGATIVE,0.9446887969970703
+10,"Donc, peut-être qu'on pourrait disposer de l'amendement puis, après ça...",NEGATIVE,0.9664251804351807
+10,De toute façon...,NEGATIVE,0.934485673904419
+10,Mais c'est juste pour ce qui s'en vient.,NEGATIVE,0.9473218321800232
+10,Ça serait un nouvel alinéa deux qui dirait...,NEGATIVE,0.945694088935852
+10,"Puis prôner l'irréversibilité, c'est utopique.",NEGATIVE,0.9605312943458557
+10,"Vous et moi, là, on n'est pas équipés pour faire ça, là.",NEGATIVE,0.9528155326843262
+10,"On garde la notion d'irréversibilité parce qu'il des contextes où ça peut s'appliquer, mais c'est pour ça qu'on ajoute aussi la notion de raisonnable, parce que, moi, dans un cas... je travaille dans un contexte qui est le mien, et dans ce contexte-là, moi, je dois amener l'anonymisation aussi loin, ou donc aussi proche de l'irréversibilité qu'il est raisonnable de me le demander.",POSITIVE,0.9282722473144531
+10,On ne va pas le marquer dans la loi.,NEGATIVE,0.9579089879989624
+10,"Alors là, on vient faire écho à la réalité qu'on est conscients, comme législateurs, puis on le met dans la loi que ce n'est pas sûr à 100 %, 100 %, 100 %.",POSITIVE,0.9429014921188354
+10,"C'est juste là, sous cet aspect-là, où j'y vois un atermoiement.",NEGATIVE,0.9513174891471863
+10,"C'est juste le «raisonnable», je le trouve faible en l'instance pour l'organisme public.",NEGATIVE,0.9374610781669617
+10,"Oui, je n'ai pas d'enjeu.",NEGATIVE,0.9846326112747192
+10,Je n'ai pas d'enjeu.,NEGATIVE,0.9963253140449524
+10,"ça fait que le temps de... Bien, là, là, je viens de brûler des airs lousses pas pire, là.",NEGATIVE,0.9860628247261047
+10,"Oui, merci.",POSITIVE,0.9251750111579895
+10,"Ça donnerait quoi, finalement?",NEGATIVE,0.9515753984451294
+10,"Bien, avec le sous-amendement, mais là, on n'a pas encore adopté... l'amendement a été sous-amendé, mais là, on n'a pas adopté l'amendement.",NEGATIVE,0.9299708008766174
+10,"Et compte tenu de l'heure, je suspends les travaux jusqu'à 14 h 30.",NEGATIVE,0.909329891204834
+10,"Simplement saluer, effectivement, la position de compromis que le député de Gouin nous propose et que j'accepte, je ne veux pas parler au nom de mon collègue de Chapleau, mais, de mon côté, j'accepte avec enthousiasme cette proposition.",POSITIVE,0.9138913750648499
+10,"Au-delà de cette période, l'état d'urgence sanitaire doit être renouvelé avec».",POSITIVE,0.9030925631523132
+10,"On connaît le débat actuel, M. le Président, qui est celui de la transparence et de l'application de notre loi, et, malgré la surprise, M. le Président, que vous pouvez y voir, il y a lieu, dans notre société, je pense, de rectifier le tir sur le plan législatif quant à la mise en place de situations dites d'urgence en matière légale.",POSITIVE,0.9167999625205994
+10,"Bien, ça veut dire que le député a 20 minutes pour parler de son amendement, puis voilà.",NEGATIVE,0.9263691306114197
+10,J'ai fait les interventions que j'avais à faire.,NEGATIVE,0.9244540333747864
+10,"Je trouve cet amendement, certes, saugrenu, mais très pertinent, parce que c'est une question qui nous interpelle aussi du côté de Québec solidaire.",POSITIVE,0.9737343788146973
+10,"Écoutez, l'enjeu ici, il est assez clair, c'est un enjeu, d'abord et avant tout, de transparence.",POSITIVE,0.9410127401351929
+10,"Alors, je pense qu'aujourd'hui, il y a un nombre... il y a beaucoup de critiques qui existent et il y a beaucoup d'angles qui sont abordés, et l'angle que l'on aborde aujourd'hui m'apparaît tout à fait pertinent dans les circonstances actuelles.",POSITIVE,0.9723016023635864
+10,"Jusqu'à maintenant, je n'ai pas senti un grand appétit de la part du ministre d'en débattre, alors je ne sais pas si mes derniers commentaires l'ont mis en appétit.",NEGATIVE,0.9284485578536987
+10,"Alors, la question se pose et le ministre peut me répondre actuellement si son appétit a grandi dans les dernières secondes.",NEGATIVE,0.9075291752815247
+10,"Donc, l'amendement est rejeté.",NEGATIVE,0.9292745590209961
+10,"L'objectif ici est de venir retirer complètement... je suis un peu rouillé, là, on retombe dans le projet de loi là où on l'avait laissé il y a deux semaines, là.",NEGATIVE,0.9780136346817017
+10,"Juste peut-être nous expliquer pourquoi exactement, à quel effet... ...un deuxième vice-président.",NEGATIVE,0.9087846875190735
+10,"Donc, l'article 107.1 n'était plus en cohérence avec ce qu'on a fait.",NEGATIVE,0.9141942262649536
+10,"Si je ne me trompe pas, Me Miville-Deschênes, c'est pas mal la façon de faire, mais je vais laisser Me Miville-Deschênes... O.K.",NEGATIVE,0.9694969058036804
+10,"Je n'ai absolument pas d'enjeu, M. le Président.",NEGATIVE,0.9969447255134583
+10,"Un intérim, ça peut être long.",NEGATIVE,0.9676186442375183
+10,Le président est mort.,NEGATIVE,0.9011459350585938
+10,Il n'y a pas de durée?,NEGATIVE,0.9725360870361328
+10,"Oas à ma connaissance, là, je n'en vois pas.",NEGATIVE,0.9725325703620911
+10,"Tu sais, je ne veux pas mettre une provision qui va faire que l'intérim va durer au maximum un mois, là.",NEGATIVE,0.9602426886558533
+10,"Ce n'est pas ça, là.",NEGATIVE,0.967997133731842
+10,Je ne pense pas.,NEGATIVE,0.9064205884933472
+10,"Alors, on suspend.",NEGATIVE,0.9942818880081177
+10,"Parfait, merci beaucoup.",POSITIVE,0.9945659637451172
+10,"L'idée que j'ai défendue puis, j'espère, qui va être partagée par les parlementaires, c'est que la Commission d'accès à l'information, avec ce pouvoir-là de ligne directrice... et c'est pour ça que j'aime beaucoup le «pour faciliter l'application de la loi», c'était l'idée que la Commission d'accès à l'information avait aussi un rôle d'accompagnateur et que la ligne directrice n'avait pas nécessairement pour but d'être punitive, ça pouvait être une mesure de clarification.",POSITIVE,0.9028382897377014
+10,"Et cet article-là, dans le fond, ce qu'on dit...",NEGATIVE,0.9379040002822876
+10,"Puis, ceci étant, là, je ne suis pas hostile, là, si le député de La Pinière pense qu'il faut vraiment donner un exemple, on pourra en jaser, là, ce n'est pas...",NEGATIVE,0.9130091071128845
+10,"Je ne suis pas du tout, du tout fermé à l'idée, là, mais je dis juste que moi, je pense... puis ce que je souhaite, c'est qu'on mette vraiment le focus sur le fait que, oui, la Commission d'accès à l'information a le pouvoir d'émettre des lignes directrices, mais l'objectif est vraiment de faciliter l'application, clarifier ce qui doit être clarifié, préciser ce qui doit être précisé, encadrer ce qui peut être mieux encadré, notamment, notamment, la notion de consentement pour laquelle je suis tout à fait à la même place le député de La Pinière.",POSITIVE,0.9479938745498657
+10,"Ne pas l'utiliser est préjudiciable, en abuser l'est tout autant.",NEGATIVE,0.9577361345291138
+10,"Mon argument de base, il est là, et c'est là qui est le point important pour moi, sachant que naturellement, puis ça, je le dis, là, d'une façon littéraire, naturellement, là, la Commission d'accès à l'information, là, elle est défensive, elle protège l'information, elle est après le consentement.",POSITIVE,0.911658763885498
+10,"Ils sont là pour ça, puis c'est ça qui est leur fonction première, et, je dirais, principale, et, je dirais, majoritaire, je dirais, infiniment majoritaire.",POSITIVE,0.9215081930160522
+10,"Parce que c'est sûr que je ne peux pas arriver, moi, ici, avec un amendement qui itemiserait, listerait, là...",NEGATIVE,0.9260249137878418
+10,"Là, ça devient...",NEGATIVE,0.9788322448730469
+10,"Là, à un moment donné, on n'est pas...",NEGATIVE,0.9251736998558044
+10,"Si le ministre est inconfortable avec ça, je n'en ferai pas un plat.",NEGATIVE,0.9154711961746216
+10,"Moi, si j'écris un amendement, ça va être très simple, là : «notamment en matière de consentement», c'est tout, là.",NEGATIVE,0.9161259531974792
+10,"Puis je vous le dis d'emblée, là, moi, je suis très ouvert à m'associer à ça, là.",POSITIVE,0.9470983147621155
+10,"Alors donc, je propose l'amendement... Excusez- moi, j'ai perdu...",NEGATIVE,0.9395340085029602
+10,C'est-à-dire… Je m'excuse.,NEGATIVE,0.9379759430885315
+10,Ça se discute.,NEGATIVE,0.9598406553268433
+10,"Et c'est une de nos préoccupations, de mes préoccupations, de s'assurer que la CAI ait tous les pouvoirs nécessaires pour faire son travail de chien de garde des données personnelles, chien de garde de la protection des données personnelles des Québécois, des Québécoises.",POSITIVE,0.9645872116088867
+10,"Je serais un menteur de vous dire que j'ai tout ça en tête, là.",NEGATIVE,0.9454876780509949
+10,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+10,"Parce que je sais qu'une des préoccupations du ministre, puis là-dessus on se rejoint lui et moi, là, ça me rejoint, c'est une préoccupation que j'ai aussi, c'est de s'assurer que la CAI est à jour et a le pouvoir et la possibilité d'ouvrir la boîte noire, des fois, dans les organismes publics pour vérifier, technologiquement, si les organismes sont à leur affaire sur le plan des renseignements personnels.",POSITIVE,0.9458858966827393
+10,"Dans le cas d'une technologie qui est déjà conçue, c'est pratiquement impossible, au sens où là on parle de… je ne veux pas rentrer dans les termes trop techniques, mais, une fois… excusez, du code compilé, là, il est trop tard.",NEGATIVE,0.9751707315444946
+10,"Parce que, depuis tantôt, on donnait des… C'est parce que, depuis tantôt, je donnais des exemples seulement dans le public.",NEGATIVE,0.9015880823135376
+10,"Et c'était ça, la recommandation d'Option Consommateurs, de venir préciser ce pouvoir-là pour que ce soit bien clair dans le mandat de la CAI que, sur le plan technologique également, pas juste sur le plan des grands principes, là, mais que, sur le plan technologique, on veut que la CAI ait des dents, ait ce pouvoir d'enquête, d'audit, d'inspection pour aller… Ou, comme je dis souvent, c'est souvent des boîtes noires, là, ce qui se passe à l'intérieur de certaines entreprises sur le plan des renseignements personnels.",POSITIVE,0.9120538234710693
+10,"Bien, en fait, on s'entend parfaitement.",POSITIVE,0.9305123686790466
+10,"Et c'est plus qu'un principe, M. le Président, c'est un des effets de la loi.",POSITIVE,0.9114044904708862
+10,Sur des jouets.,NEGATIVE,0.935165524482727
+10,"Puis ce n'est pas… Mais mineurs, ça rajoute une couche à l'odieux, là.",NEGATIVE,0.9820696115493774
+10,"Mais, en partant, je veux dire, cette façon-là de s'introduire par effraction chez les gens, pour moi, c'est absolument odieux.",NEGATIVE,0.9369854927062988
+10,"Oui, mais là je veux être clair… Ça fait que je veux savoir, tu sais, mettons… puis là je prends cet exemple-là parce qu' il nous fait tous réagir : Ça, c'est-tu le genre de situation où la CAI a les pouvoirs d'aller dans l'entreprise, je vais le dire à ma façon, très familière, tu sais, de rentrer dans la place, de regarder comment ça se passe, d'inspecter?",POSITIVE,0.9553540945053101
+10,"M. le Président, je le confesse, l'idée ne vient pas de moi.",NEGATIVE,0.9021011590957642
+10,"Et évidemment eux ont mis… émis un avis, pardon, je vais finir par le dire, à l'effet qu'un produit comme ça ne pouvait pas être vendu parce que c'était… Bon.",NEGATIVE,0.9044816493988037
+10,"Je veux dire, c'est sûr que, moi, si j'ai la capacité d'aller dans l'espace public puis dire : Tel produit qui est vendu par telle compagnie a une caméra, cette caméra-là peut être activée à distance sans le consentement du propriétaire, elle a pour effet de faire ça, ça, ça, écoutez, comme publicité, il y a mieux, là.",NEGATIVE,0.9139289855957031
+10,Je ne pense pas.,NEGATIVE,0.9064205884933472
+10,Je ne pense pas que le pouvoir pourrait aller jusque là.,NEGATIVE,0.969577968120575
+10,"Dans le fond, elle peut...",NEGATIVE,0.9398331046104431
+10,"Écoutez, la question est excellente, là.",POSITIVE,0.9533131718635559
+10,"Mon souhait, c'est que ça soit vraiment établi clairement que la CAI, dans la nouvelle réalité, celle de la technologie comme on la connaît aujourd'hui, a ce pouvoir d'aller ouvrir la boîte noire de certaines technologies dans le secteur privé, dans le secteur public aussi mais dans le secteur privé également.",POSITIVE,0.9551475048065186
+10,Et il y a deux choses dans l'amendement.,NEGATIVE,0.9524198174476624
+10,"Alors, ça, c'est fondamental.",POSITIVE,0.9260706305503845
+10,"Moi, dans le fond, l'intention qui est derrière mon amendement, c'est de venir dire : Dans un organisme ou une entreprise donnée, telle utilisation de telle technologie, par exemple telle fonction de profilage sur telle application, ne devrait pas fonctionner de cette manière-là, ne devrait pas être activée de cette manière-là.",NEGATIVE,0.9088576436042786
+10,"On trouvera le libellé élégant s'il faut en trouver un, mais est-ce que...",NEGATIVE,0.9621728658676147
+10,Qu'est-ce qui explique cet écart-là selon le ministre?,NEGATIVE,0.901869535446167
+10,"Quand on regarde le bilan, puis je le dis en tout respect pour la CAI, j'ai énormément de respect pour la CAI, j'ai énormément de respect aussi pour ce que l'actuelle présidente a comme vision de la CAI à court, moyen et long terme, je pense que ces visions-là s'arriment, et, si Me Poitras était là, elle serait la première à vous le dire, le volet surveillance de la CAI n'a peut-être pas performé à la hauteur de ce qu'on était en droit de s'attendre.",POSITIVE,0.9235450625419617
+10,"Le volet juridictionnel était excellent, compétent, assidu.",POSITIVE,0.9881173968315125
+10,"Maintenant, oui, la CAI avait le pouvoir, mais, même en allant au bout de l'exercice, quand on arrivait au bout de l'ordonnance, il y avait peu ou pas de conséquence, et ça, ce n'est pas de la faute de la CAI, là.",NEGATIVE,0.9195805788040161
+10,Elle a la capacité de dire : La récréation est terminée.,NEGATIVE,0.9031796455383301
+10,"Maintenant, il n'en tient qu'à elle, il n'en tient qu'à la CAI de bien entendre le message du législateur que nous sommes, de dire : Écoutez, là, le pouvoir, il est là, il est dans la loi, vous l'avez.",POSITIVE,0.9613968729972839
+10,"Maintenant, organisationnellement, on vous donne la capacité d'améliorer significativement ce volet-là qui doit être amélioré, parce que les préoccupations du député de Gouin, là, ils font écho à ce qu'on entend dans la population, là, tout à fait, là.",POSITIVE,0.9138829112052917
+10,"Bon, les sentiers épineux.",NEGATIVE,0.914423942565918
+10,"Écoutez, est-ce que la… Oui, je pense que la CAI a les ressources, je pense… Et la CAI peut compter sur moi et, je suis convaincu, sur l'ensemble des parlementaires pour améliorer sa situation au fil du temps.",POSITIVE,0.9394071698188782
+10,"Mais je peux vous dire qu'elle a tout mon soutien dans cet objectif-là et que, dans le contexte actuel… Puis est-ce que ce contexte-là est appelé à changer?",POSITIVE,0.9616838097572327
+10,"Mais, dans le contexte actuel, la CAI reçoit tout le soutien possible de la part du gouvernement dans la poursuite de cette mission-là à laquelle je crois fondamentalement.",POSITIVE,0.9775071740150452
+10,"Puis, je pense, c'est important d'envoyer le message qu'il n'y aura pas juste un nouveau patron, tu sais, il va y avoir des ressources qui vont suivre.",POSITIVE,0.9451172351837158
+10,"C'est bien beau de donner des missions, mais, si on n'a pas le monde pour les remplir...",NEGATIVE,0.9971559047698975
+10,"Ça fait que ça, il n'y a pas de magie.",NEGATIVE,0.9951712489128113
+10,"S'il y a un message qu'il faut envoyer, c'est qu'avec les renseignements personnels le party, il est fini.",NEGATIVE,0.9325441122055054
+10,On va se donner la meilleure loi possible qui tient compte des réalités de toutes les composantes de notre société.,POSITIVE,0.9131060838699341
+10,"On n'est pas déconnectés de nos citoyens puis on n'est pas dans notre tour d'ivoire à pelleter des nuages, on comprend la réalité des entreprises, la réalité des milieux de recherche, des milieux académiques, de la société civile, des organismes publics, on comprend toutes ces réalités-là.",POSITIVE,0.976293683052063
+10,"Bien, j'invite le ministre à poursuivre cette réflexion-là puis cette conversation-là parce que moi, à la lecture du mémoire de la commission, j'ai trouvé que c'était une manière originale de protéger un certain financement pour la commission, rendre ce financement-là moins dépendant des aléas des exercices budgétaires, là, puis ça m'apparaît intéressant.",POSITIVE,0.9256421327590942
+10,"Voilà, tout ça était un petit aparté.",NEGATIVE,0.9193421006202698
+10,"Parce que je vois qu'on donne… on mentionne clairement la fonction d'enquête, mais c'est comme un peu tout dans cet article-là.",NEGATIVE,0.9475756883621216
+10,"Moi, sérieusement, là, puis je le dis, là, sans flagornerie, M. le député, je pense qu'on a fait un bon boulot, puis on continue à faire un bon boulot, parce qu'il reste encore quelques articles, là, pour amener la CAI là où on pense que la CAI doit être au XXIe siècle dans un univers numérique.",POSITIVE,0.9522152543067932
+10,Je pense qu'on est vraiment en complémentarité de ce qu'il y a déjà comme pouvoirs.,POSITIVE,0.9517723917961121
+10,Ça va être tout pour moi.,NEGATIVE,0.978287398815155
+10,"S'il n'y a pas d'autre intervention, nous allons procéder... … Désolé.",NEGATIVE,0.9753634929656982
+10,"Donc, l'amendement est rejeté.",NEGATIVE,0.9292745590209961
+10,"Bien, pour compléter, la commission… …tu es lousse.",NEGATIVE,0.9161173701286316
+10,"ça, c'était bien important… Bien non, finalement.",NEGATIVE,0.9867444634437561
+10,"Si c'était à refaire, je me serais retenu.",NEGATIVE,0.9919036030769348
+10,"Non, non, c'est bon.",NEGATIVE,0.9756456613540649
+10,"Mais tout ça pour dire que, néanmoins, néanmoins… Comment je pourrais dire ça?",NEGATIVE,0.9151601791381836
+10,"Parce que «poste recommandée», c'est daté, c'est… Alors, est-ce que la concordance a été faite ici?",NEGATIVE,0.9234675168991089
+10,"C'est daté, ça, «poste recommandée», on sort ça, là.",NEGATIVE,0.9748425483703613
+10,"Parfait, loi adoptée.",POSITIVE,0.9563299417495728
+10,"Je fais mes recherches, parfait, parfait, parfait.",POSITIVE,0.9529998898506165
+10,"Puis la loi faisait quoi, 70 articles?",NEGATIVE,0.9380512833595276
+10,"Je vais être bien honnête avec vous, je lisais l'article, là, puis je me disais : Voyons, «par la poste», là, c'est quoi, cette affaire-là?",NEGATIVE,0.9555806517601013
+10,"Puis, pour la commission, là, elle va bien aimer mieux, plutôt que «poste recommandée», «tout mode approprié».",NEGATIVE,0.9010616540908813
+10,"En tout cas, je ferme la parenthèse.",NEGATIVE,0.996177077293396
+10,"Donc, de deux choses.",NEGATIVE,0.9030799865722656
+10,"O.K., parfait.",POSITIVE,0.9079214930534363
+10,Pourquoi formaliser ça aussi pour la personne?,NEGATIVE,0.9766384959220886
+10,"Parfait, il s'engage, il va me communiquer ça.",POSITIVE,0.9000428318977356
+10,"La commission, elle reçoit ça, reçu telle date, puis c'est juste que...",NEGATIVE,0.9299082159996033
+10,...prendrai pas pour moi.,NEGATIVE,0.9006839990615845
+10,"Puis, des fois, on ne sert pas à grand-chose.",NEGATIVE,0.9872515201568604
+10,"Bien là, je vais être honnête, je vais... Parce que c'est des dispositions qu'on retrouve dans certaines autres lois par rapport aux ordonnances de sauvegarde où ce type d'ordonnance là... Parce que je vais être obligé de vous revenir avec une réponse plus complète, malheureusement, là.",NEGATIVE,0.9118104577064514
+10,"On pourrait suspendre, juste pour le...",NEGATIVE,0.9180128574371338
+10,"Oui, merci.",POSITIVE,0.9251750111579895
+10,Ça fait que ça...,NEGATIVE,0.941784679889679
+10,"Dans le fond, l'amendement, c'est d'insérer...",NEGATIVE,0.9483798146247864
+10,"«Lorsque l'enquête porte sur une entente transmise — blablabla — cette dernière peut rendre toute ordonnance contre un organisme partie à cette entente...» Bien, la situation, dans le fond, c'est que c'est l'organisme public qui initie l'entente.",NEGATIVE,0.9126754403114319
+10,Ça fait que l'information n'est pas sortie.,NEGATIVE,0.9187375903129578
+10,C'est correct.,NEGATIVE,0.9439950585365295
+10,"Oui, ça va... Non, non, parce qu'il y a un élément de redondance, là, dans tout ça, là.",NEGATIVE,0.9757260084152222
+10,"C'est parce qu'on adopte un amendement qui remplace l'article, puis finalement il faut adopter les articles pareil.",NEGATIVE,0.9437732696533203
+10,"Non, parce que moi... Oui, oui... Non, non.",NEGATIVE,0.9889636039733887
+10,"Je veux dire... Non, non, mais j'aurais pu le faire là.",NEGATIVE,0.9913914203643799
+10,"Avoue que j'ai juste parlé du premier alinéa, je n'ai pas parlé du deuxième.",NEGATIVE,0.9476000070571899
+10,"«Délai péremptoire», mais quand même ça va être un délai raisonnable.",NEGATIVE,0.9392001628875732
+10,"Ici, je te dirais... je vous dirais, c'est la même chose, même encore moins... Oui, bien, attends, je ne suis pas sûr.",NEGATIVE,0.958062469959259
+10,Je n'ai pas d'enjeu.,NEGATIVE,0.9963253140449524
+10,"Raisonnable... Oui, oui, pas d'enjeu.",NEGATIVE,0.9731341600418091
+10,"Alors, on pourrait déposer le...",NEGATIVE,0.9048405885696411
+10,La journée achève.,NEGATIVE,0.9481134414672852
+10,"Donc, on va suspendre quelques instants.",NEGATIVE,0.900109589099884
+10,Aurions pu nous lire... Pourquoi ici on précise «par la section surveillance de la commission»?,NEGATIVE,0.9431161880493164
+10,Je vais juste...,NEGATIVE,0.9378552436828613
+10,Tout à fait.,POSITIVE,0.9654862284660339
+10,On n'aurait pas voulu...,NEGATIVE,0.9370951652526855
+10,On n'aurait pas aimé mieux...,NEGATIVE,0.9942828416824341
+10,"Je pensais que la commission aurait pu... mais O.K., peut-être ça aurait été trop compliqué pour rien, là.",NEGATIVE,0.9606791138648987
+10,"Dans le fond, la valeur ajoutée de l'amendement, c'est le premier alinéa, là, remplacer «troisième alinéa» par «les troisième et quatrième alinéas», c'est ça?",NEGATIVE,0.9554256796836853
+10,"Le reste, c'est la même chose.",NEGATIVE,0.9989066123962402
+10,"Oui, merci.",POSITIVE,0.9251750111579895
+10,"On ne parle pas de ça, là.",NEGATIVE,0.9556226134300232
+10,"Alors, ça, on l'ajoute et on l'ajoute pour dire quoi?",NEGATIVE,0.9578681588172913
+10,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+10,"C'est le tableau des cancres, là, c'est le bonnet d'âne, là.",NEGATIVE,0.9736822843551636
+10,"Alors, compte tenu de l'heure, la commission ajourne ses travaux, sine die.",NEGATIVE,0.9295839071273804

@@ -1,0 +1,239 @@
+Jour,Phrase,Position,Score
+13,Je vous épargnerai mes talents de chanteur.,NEGATIVE,0.9906903505325317
+13,"Mais juste avant d'aller plus loin, parce que l'article est très, très, très long.",NEGATIVE,0.9799889326095581
+13,Ça fait que je ne sais pas s'il y aurait peut-être une discussion plus générale avant d'aller à l'amendement.,NEGATIVE,0.9033769965171814
+13,"Parce que notamment, là, sur les évaluations des facteurs relatifs à la vie privée, là, on fait un effet miroir par rapport à ce qu'on a vu au privé.",POSITIVE,0.9150925874710083
+13,...complètement largué.,NEGATIVE,0.9910900592803955
+13,"Non, non, mais pourquoi?",NEGATIVE,0.9825090169906616
+13,"Puis tant mieux s'il y a des spécialisations qui se développent et des gens qui sont à la fine pointe, entre autres, on le demande, là : Soyez à la fine pointe.",POSITIVE,0.9064111709594727
+13,"Moi, je n'ai pas d'autre intervention sur l'amendement.",NEGATIVE,0.9253942370414734
+13,C'est beau.,POSITIVE,0.9617891907691956
+13,"Parce que je pense que, pour l'ensemble de l'article, là, on aurait trois jours, techniquement, de possibles si on voulait faire du temps, mais c'est une idée qui, depuis 2012, ne m'est jamais passée par l'esprit.",NEGATIVE,0.9564573168754578
+13,"«Exploite», je ne pense pas que l'actionnaire exploite l'entreprise.",NEGATIVE,0.920443058013916
+13,"Alors, qui on vise ici, qu'on nécessite de nommer ici puis que l'on ne ferait pas suffisamment oeuvre utile avec juste le deuxième alinéa?",NEGATIVE,0.9759977459907532
+13,"Je ne suis pas en train de dire que je propose ça, là...",NEGATIVE,0.9380307197570801
+13,Ce n'est pas tant l'objectif.,NEGATIVE,0.9226381778717041
+13,"Bien, il va falloir démontrer une faute.",NEGATIVE,0.9077575206756592
+13,"Là, on venait changer «membre du personnel» par «toute personne».",NEGATIVE,0.9702774286270142
+13,Puis ça ne change en rien les obligations des entreprises?,NEGATIVE,0.9639453291893005
+13,"Pas du tout, pas du tout.",NEGATIVE,0.9988088607788086
+13,Pas du tout.,NEGATIVE,0.9985800981521606
+13,"Après ça, comment l'entreprise va décider de gérer et d'interagir avec son responsable des renseignements personnels, je ne pense pas qu'on ait une garantie supplémentaire d'efficacité.",NEGATIVE,0.9806194305419922
+13,Tous au même endroit.,NEGATIVE,0.9471683502197266
+13,"Je perçois l'intention, qui m'apparaît être bonne, mais je me demande s'il n'y a pas un enjeu de rédaction.",NEGATIVE,0.9962748289108276
+13,"Le sommaire exécutif fait 18 pages, là.",NEGATIVE,0.9403256773948669
+13,"Et là on fait peut-être un gain de clarté, on fait peut-être un gain de concision, mais là on a une perte de transparence parce que la politique au complet n'est plus disponible, alors qu'il me semble qu'on devrait viser les deux, tu sais.",NEGATIVE,0.9963029623031616
+13,"Alors, c'est pour ça qu'on a choisi… parfait, on a dit : O.K., bon, si vous le dites, mais on veut des informations détaillées, à ce moment-là, parce qu'il faut que les citoyens connaissent la politique de l'entreprise qui les impacte, il faut que ce soit...",POSITIVE,0.924351155757904
+13,"...qu'on n'y distingue plus rien, là.",NEGATIVE,0.9768837094306946
+13,"Ça, j'en suis, là.",NEGATIVE,0.9235461950302124
+13,"Mais, comme je disais, là, tu sais, pour moi, on n'a pas à faire l'un ou l'autre, on pourrait avoir le même gain d'efficience, de clarté, de simplicité, de concision et dire : Bien, vous devez aussi rendre disponible la politique au complet.",POSITIVE,0.9093367457389832
+13,"L'objectif, c'est qu'il y ait une responsabilisation par rapport à l'utilisation de renseignements personnels, dans toutes ses facettes, qu'il y ait… qu'on prenne ça au sérieux puis qu'on n'ait plus l'impression que c'est quelque chose avec lesquels ont peut jouer comme bon nous semble.",POSITIVE,0.9311840534210205
+13,"Parce qu'ici, juste… et en terminant, l'exercice, ici, c'est de regarder quel est en effet, potentiellement, le préjudice pour l'entreprise, par rapport à l'intérêt du citoyen, de la citoyenne, de transparence, puis pour faire ce rapport-là, bien, j'ai besoin de comprendre c'est quoi, le risque pour les entreprises.",POSITIVE,0.9388152360916138
+13,"Le cadre de gouvernance, c'est différent parce que le cadre de gouvernance, c'est de quelle façon, à l'intérieur de l'entreprise, elle va assurer le respect des obligations de la loi, donc de quelle façon qu'elle va s'assurer que... exemple, qui a accès au sein de l'entreprise, qui va avoir accès aux renseignements, de quelle façon on va communiquer pour assurer la sécurité, quelles sont les mesures de sécurité qui vont s'appliquer, quel type de formations qu'on va faire.",POSITIVE,0.9229394793510437
+13,"Moi, ce que j'entends, c'est plus… …je faisais référence non plus, par exemple.",NEGATIVE,0.9312555193901062
+13,"Mais, admettons, le processus de traitement des plaintes, là, ce n'est pas de la sécurité, ça.",NEGATIVE,0.9011831879615784
+13,Ce qui n'est pas souhaitable.,NEGATIVE,0.9941826462745667
+13,"C'est-à-dire des entreprises qui pourraient, pour rassurer les consommateurs, dorer la pilule puis présenter les informations qui sont avantageuses puis qui ne sont peut-être pas fidèles à ce qui se passe.",NEGATIVE,0.9539768099784851
+13,"En tout cas, il est affaibli par l'argument de la sécurité.",NEGATIVE,0.9495939016342163
+13,"Moi, je veux dire, je suis insatisfait, tu me donnes le nom et les coordonnées de ton responsable de la protection des renseignements personnels puis je ne sais pas trop… je veux me plaindre mais je ne sais pas trop comment.",NEGATIVE,0.977405846118927
+13,"Ça fait que, tu sais, ce n'est pas dans l'intérêt de l'entreprise, parce qu'au fond, ce qu'ils gagnent à ne pas écrire les choses, ils vont le perdre en téléphones, échanges de courriels, explications, et autres.",NEGATIVE,0.9679072499275208
+13,Parce que tout ça va se traduire en questions à quelqu'un que je paie à l'heure ou à la semaine puis qui ne fait pas d'autre chose pendant ce temps-là.,NEGATIVE,0.9130796790122986
+13,"Mais il y a aussi la vertu préventive d'être le plus transparent possible, d'entrée de jeu, pour que le consommateur fasse un choix qui est éclairé, là.",POSITIVE,0.9185654520988464
+13,"Sinon, on peut continuer.",NEGATIVE,0.9195765256881714
+13,"Non, je pense qu'on avait fait le tour, en effet.",NEGATIVE,0.9609407186508179
+13,"Comme si, par exemple, Desjardins allait d'une refonte complète de son système AccèsD, bien, on comprend que ça ne peut pas...",NEGATIVE,0.944506824016571
+13,Je voulais juste prendre le temps de lire convenablement.,NEGATIVE,0.9204687476158142
+13,"Bien, c'est de s'assurer que, quand on communique des renseignements, on le fait d'une façon où ça peut être utilisé par le citoyen, donc d'y aller... Justement, on parle de courriel, on va parler de PDF, on va parler de ces formats-là que tout le monde utilise et qui sont facilement accessibles.",POSITIVE,0.918831467628479
+13,"Ça, je comprends, mais on pourrait...",NEGATIVE,0.9038622379302979
+13,"Oui, oui, oui, absolument.",POSITIVE,0.9786028265953064
+13,"Parce qu'on s'entend, là...",POSITIVE,0.9082872867584229
+13,"En fait, à ma connaissance...",NEGATIVE,0.9828459620475769
+13,"Oui, bien, alors, justement, c'est tellement un moment de grâce qu'on va le laisser parler.",POSITIVE,0.9647777080535889
+13,On vous écoute.,POSITIVE,0.9581921100616455
+13,"Parce que vous manquez une belle game, là, on parlait des articles sur le privé.",NEGATIVE,0.9424002170562744
+13,"Blague à part, on ne devrait pas avoir ça?",NEGATIVE,0.918656587600708
+13,"Oui, absolument.",POSITIVE,0.981696367263794
+13,"On essaie d'être créatif, mais parce que...",NEGATIVE,0.9700076580047607
+13,"Alors, c'est dans cet esprit-là, moi, que j'avais dit ça à l'époque, puis je le redis encore aujourd'hui.",POSITIVE,0.9316011071205139
+13,J'ai de la misère à concevoir pourquoi on est frileux.,NEGATIVE,0.9497770071029663
+13,"J'y crois tellement, comme je l'ai dit, qu'on se l'impose à nous- mêmes et on est dans ce processus-là.",POSITIVE,0.9894369840621948
+13,Ça fait que là...,NEGATIVE,0.9247682690620422
+13,"Donc, dans ce contexte-là, ils peuvent le faire, mais entre pouvoir le faire et l'obliger, moi, je pense qu'il y a un pas à franchir que je préfère ne pas franchir.",NEGATIVE,0.9693063497543335
+13,"Si j'impose ça, là, ça va causer plus de tort que de bien pour une P et même une M, dans les PME.",NEGATIVE,0.9878857135772705
+13,"Bon, maintenant, cet argument-là tient beaucoup moins la route, à mon sens, pour les grandes entreprises.",NEGATIVE,0.9440683722496033
+13,"Et là peut- être qu'il y aurait possibilité, je ne sais pas si le ministre serait ouvert à ça, à nuancer ça.",NEGATIVE,0.9191851615905762
+13,"À la limite, on pourrait dire : Le prix va être proportionnel, mais je ne veux pas embarquer dans ce débat-là, parce que je pense que ce n'est pas ça, l'essence du débat.",NEGATIVE,0.9190244674682617
+13,"Donc on met quand même certains paramètres, là, ce n'est pas...",NEGATIVE,0.9654297232627869
+13,"Ce n'est pas un bar ouvert, là.",NEGATIVE,0.9051238298416138
+13,"Bon, je pense qu'on a fait le tour du sujet, là.",NEGATIVE,0.9712817668914795
+13,"Alors, on va en rester là.",NEGATIVE,0.9943464398384094
+13,"Pourquoi est-ce que le ministre a fait le choix de ne pas, ici, inscrire de délai?",NEGATIVE,0.9304763078689575
+13,"Puis je pense qu'un des bons exemples qu'on peut prendre, c'est l'exemple qu'on a vécu récemment où il était impératif de s'assurer que la fuite soit... que la brèche soit colmatée par tous les moyens nécessaires.",POSITIVE,0.9127641916275024
+13,"Suite à quoi, là, il y avait quand même des choses à faire.",NEGATIVE,0.9641521573066711
+13,Puis ce n'est pas...,NEGATIVE,0.911439061164856
+13,"Si vous voulez éviter un préjudice, bien, si vous tardez vous n'évitez pas le préjudice.",NEGATIVE,0.9840021133422852
+13,"Et donc, là, ce à quoi vous vous exposez, c'est que votre laxisme vous met en contradiction avec le fait que vous n'avez pas évité le préjudice.",NEGATIVE,0.9007713794708252
+13,"Vous ne faites rien, et le lendemain il recommence.",NEGATIVE,0.9181070327758789
+13,"Bien là, vous avez eu connaissance d'un incident de confidentialité et vous n'avez pas pris les mesures raisonnables pour diminuer les risques qu'un préjudice soit causé et éviter de nouveaux incidents de même nature.",NEGATIVE,0.946445643901825
+13,Vous ne l'avez pas fait.,NEGATIVE,0.9826349020004272
+13,"Ça ne peut pas aller à la semaine d'après, là.",NEGATIVE,0.9729135036468506
+13,"Non, bien non.",NEGATIVE,0.9956114888191223
+13,"Non, c'est parce que pour... Ça va prendre trois minutes de consentement.",NEGATIVE,0.927569568157196
+13,"Donc, dans un cas où l'entreprise jouerait à l'autruche, je doute qu'un tribunal jugerait que c'est une mesure raisonnable.",NEGATIVE,0.9425912499427795
+13,"Bien, la diligence, il y a deux volets, mais c'est le soin et l'empressement qui sont apportés à l'exécution d'une tâche ou rapidité et efficacité.",POSITIVE,0.9327815771102905
+13,"Prochaine question, un peu plus loin, on dit : «Elle doit également aviser toute personne dont un renseignement personnel est concerné par l'incident, à défaut de quoi la commission peut lui ordonner de le faire.» Et là il n'y a pas de marqueur temporel.",NEGATIVE,0.9474784135818481
+13,Aucun sens.,NEGATIVE,0.9990485310554504
+13,"Bien, en fait, encore une fois, on est dans les mêmes libellés que ce qu'on a fait au public.",NEGATIVE,0.9051440358161926
+13,Et donc ça devient un peu difficile de mettre un marqueur de temps.,NEGATIVE,0.9402055740356445
+13,"Ce n'est quand même pas fou de ma part de constater que, trois lignes plus loin, quand il vient le temps d'informer les individus qui sont les «victimes», entre guillemets, de la situation, là, la notion de diligence disparaît.",NEGATIVE,0.9796909689903259
+13,"Non, non.",NEGATIVE,0.9974422454833984
+13,"Parfait, ordonnance.",POSITIVE,0.9830490350723267
+13,"Non, non, non.",NEGATIVE,0.9973886609077454
+13,"Il y a quand même un minimum de délai pour que la commission s'implique dans le dossier, là, ce n'est pas instantané, là.",NEGATIVE,0.9167830348014832
+13,"Ça envoie un message parce qu'on prend la peine de dire, pour la commission : Faites-le avec diligence, puis là, trois lignes...",NEGATIVE,0.9854106903076172
+13,là ce n'est pas avec diligence.,NEGATIVE,0.9940012097358704
+13,"Et, pour moi, l'élément qui est très fort là-dedans, c'est que, oui, il faut que la Commission d'accès à l'information soit au dossier assez rapidement, très rapidement, d'où la notion de diligence.",POSITIVE,0.9332836270332336
+13,"Et après ça il est important que la commission ait le pouvoir d'imposer le fait que cette divulgation-là se fasse, mais, à partir de là, moi, j'ai...",NEGATIVE,0.9250096082687378
+13,"Réponse : Non, on ne l'a pas fait.",NEGATIVE,0.9529613256454468
+13,"Alors, c'est juste... Ici, il y a une différence entre deux morceaux du même article qui m'apparaît envoyer un mauvais message.",NEGATIVE,0.917986273765564
+13,"Ça fait que, M. le Président, on va suspendre quelques instants.",NEGATIVE,0.9107785224914551
+13,"Je pense que le législateur doit envoyer un signal clair que ce n'est pas acceptable puis qu'on souhaite que les entreprises agissent avec beaucoup plus, justement, de diligence quand vient le temps d'informer les gens, non seulement la commission, c'est vraiment une bonne chose, là, mais également les individus concernés, qu'il y a eu fuite de leurs données personnelles.",POSITIVE,0.9296792149543762
+13,"Et, d'autre part, M. le Président, puis je vais me répéter, mais je pense que ça vaut la peine d'être dit, dans les bonnes pratiques qu'on voit, d'avoir une institution comme la CAI qui est impliquée dans les événements rapidement, c'est dans les bonnes pratiques, d'où l'idée de la diligence dans la divulgation à la CAI.",POSITIVE,0.9503035545349121
+13,"Et ma conviction profonde, c'est que l'article 3.4 va faire en sorte qu'une telle situation... ou aurait fait en sorte qu'une telle situation ne se serait pas produite, tel qu'on l'a connu.",POSITIVE,0.9115326404571533
+13,"Et, dans ce sens-là, c'est important d'avoir un tiers neutre mais qui a à coeur l'intérêt du citoyen puis l'intérêt du respect de la loi, avec les pouvoirs pour la faire respecter, et c'est ce qu'on a avec l'article présentement.",POSITIVE,0.9387791156768799
+13,"Oui, en effet, il y a énormément d'exceptions.",POSITIVE,0.916034996509552
+13,"Non, mais, plus sérieusement, on a des avis différents là-dessus, on ne fera pas du surplace, là, tout l'après-midi à cause de ça.",NEGATIVE,0.9386181831359863
+13,"Parce que, sinon, ça va nous empêcher d'avoir des débats sur le fond, puis on va juste avoir un débat de forme, c'est-à-dire : S'il n'est pas dans le public, on ne le met pas dans le privé, puis ça va juste être une discussion peu intéressante si on se limite à ça.",NEGATIVE,0.974753201007843
+13,Il a tout à fait raison.,POSITIVE,0.9013375639915466
+13,"La démonstration de ça, c'est qu'on l'a fait à l'inverse.",NEGATIVE,0.9757517576217651
+13,"Oui, tout à fait.",POSITIVE,0.9223586916923523
+13,"Donc, l'amendement est rejeté.",NEGATIVE,0.9292745590209961
+13,"Ce que la Ligue des droits et le Barreau disent, grosso modo, c'est la même chose, c'est : Ça peut être long, une enquête.",NEGATIVE,0.9201355576515198
+13,"Ça peut être même très, très, très long, une enquête.",NEGATIVE,0.9525840878486633
+13,"Puis le Barreau faisait le commentaire pour l'article équivalent dans le public, mais le même commentaire me semble valoir pour le privé : «Ce troisième alinéa — blablabla — risque de devenir un prétexte servant à bloquer toute communication aux personnes concernées.",NEGATIVE,0.913970410823822
+13,"Nous craignons qu'il soit invoqué de manière systématique, alors qu'il existe une panoplie de situations où informer les personnes visées n'aura aucun impact sur l'enquête.",NEGATIVE,0.9086577296257019
+13,"En quoi informer une personne que ses renseignements ont été compromis pourrait entraver l'enquête?» Et là je saute un morceau et je continue la citation du Barreau : «Ainsi, cet article pourrait être modifié afin de le limiter aux seuls cas où la divulgation serait préjudiciable à une enquête.» Et là on poursuit : «La CAI pourrait se voir octroyer le pouvoir de déterminer s'il est justifié d'attendre avant de rendre l'incident de confidentialité public durant quelques jours...» J'ai tendance à avoir une oreille attentive pour ces deux groupes qui nous font des recommandations similaires.",NEGATIVE,0.9665544033050537
+13,"Puis, dans ce domaine-là, on peut redouter que ce sera le cas, là, des enquêtes qui ne vont finalement jamais donner de résultat ou en donner très peu.",NEGATIVE,0.9404361844062805
+13,"Bien, en fait, oui, parce que c'est la commission qui a le pouvoir d'ordonner de le faire, donc d'ordonner qu'on fasse la divulgation aux personnes concernées, et donc, à partir de là… et d'où, d'où... puis là je ne veux pas refaire le débat, là, mais d'où l'importance que la Commission d'accès à l'information soit au dossier aussi rapidement que possible, pour qu'elle puisse justement, à la genèse de la situation, faire les évaluations nécessaires.",POSITIVE,0.9424266219139099
+13,"C'est quoi, le processus?",NEGATIVE,0.9138357043266296
+13,"Non, non, pas tant.",NEGATIVE,0.9828040599822998
+13,"Puis ça me… ... Non, non.",NEGATIVE,0.9784653186798096
+13,"... Non, non.",NEGATIVE,0.9967952370643616
+13,"Je vois, je vois bien.",POSITIVE,0.923892617225647
+13,"Bien, en fait, je dirais que c'était légitime de les exprimer, mais elles n'ont pas lieu d'être.",NEGATIVE,0.9978930354118347
+13,"Cela n'ayant pas eu le consentement, c'est une utilisation non autorisée.",NEGATIVE,0.9280107021331787
+13,"Le problème qu'on a dans ce cas- là, il est autre.",NEGATIVE,0.9320357441902161
+13,"C'est ça qui n'a pas d'allure, là.",NEGATIVE,0.997086226940155
+13,"Oui, merci.",POSITIVE,0.9251750111579895
+13,"Parfait, merci.",POSITIVE,0.995118260383606
+13,"En fait, deux choses.",NEGATIVE,0.9607782959938049
+13,Je me ramasse dans le registre public.,NEGATIVE,0.9910258650779724
+13,"J'ai été témoin de la discussion tantôt, puis je n'ai pas allumé tout de suite, puis là je voulais attendre à la fin pour revenir, là.",NEGATIVE,0.9554826021194458
+13,"Il y a tout un marché, là, qui va se développer, là, d'un certain point de vue c'est une bonne chose, de l'expertise sur la question de la cybersécurité, de la cyberdéfense.",POSITIVE,0.9239993095397949
+13,"C'est quoi, nos garanties que ces gens-là soient formés convenablement?",NEGATIVE,0.9674738645553589
+13,"C'est une excellente question, et j'y répondrai au meilleur de mes capacités, parce que je vous dirais que nous sommes, même comme organisation, le gouvernement du Québec, interpelés par cette question-là, je ne vous le cache pas.",POSITIVE,0.9738666415214539
+13,"Oui, tout à fait.",POSITIVE,0.9223586916923523
+13,Parce qu'à mon avis on va tirer à côté de la cible.,NEGATIVE,0.9833610653877258
+13,"Donc, si on se fie à ce critère-là, qu'est-ce qu'il fait là?",NEGATIVE,0.9164628386497498
+13,"que vous devez avoir pour remplir le poste, c'est contre-productif.",NEGATIVE,0.9915997982025146
+13,"Bien, en fait, on le fait, puis on le fait sur comment, quand, qui, pourquoi vous collectez des renseignements personnels, comment les protéger, quels sont... Donc, on met vraiment les obligations autour du renseignement personnel, de sa confidentialité, du respect de la vie privée, des mesures de protection, de quand est-ce qu'on peut le communiquer, quand est-ce qu'on ne peut pas le communiquer.",POSITIVE,0.9643605351448059
+13,"Oui, absolument.",POSITIVE,0.981696367263794
+13,"Je veux dire, c'est une vision que je vous partage, M. le député, mais je pense que moins on intervient dans les moyens, plus on fait confiance aux gens sur le terrain.",POSITIVE,0.9266378879547119
+13,"Puis, aujourd'hui, on pourrait probablement... puis comprenez bien que je ne dis pas qu'il faut faire ça, là, mais on pourrait potentiellement abolir la loi, et oui, je suis enregistré, puis les gens s'attacheraient quand même parce que ça fait maintenant partie des réflexes qu'on a développés, mais, dans ce cas-là, je pense qu'il n'y aurait pas de pertinence d'aller jusque-là.",NEGATIVE,0.945286750793457
+13,"Déposer des amendements dont je suis sûr et certain qu'ils seront battus, ce n'est pas quelque chose que j'aime faire.",NEGATIVE,0.9799802303314209
+13,"Je demeure convaincu que la bonne façon de travailler dans ce type de dossier là, c'est d'être très clair sur l'objectif, puis je pense que nous le sommes, qu'il n'y ait pas d'ambiguïté sur ce à quoi on s'attend en matière de protection des renseignements personnels, que ce soit d'un organisme public ou d'un organisme privé.",POSITIVE,0.9563184976577759
+13,"Puis ça, j'en profite, j'ouvre et je referme la parenthèse, parce que c'est quelque chose que j'ai beaucoup apprécié de Me Poitras, qui a bien indiqué qu'elle avait compris l'intention du législateur sur le fait qu'on souhaitait que la Commission d'accès à l'information travaille plus non seulement en surveillance, mais en prévention et en accompagnement.",POSITIVE,0.9546957612037659
+13,Je ferme la parenthèse.,NEGATIVE,0.9615285992622375
+13,"Et donc, en conséquence, on a des objectifs qui sont clairs, on a un tiers neutre qui a un mandat qui est clair, qui est bien compris par l'organisation en question, qui a les pouvoirs pour assumer ce rôle-là.",POSITIVE,0.9039589762687683
+13,"Je trouve ça dommage, parce que le député de La Pinière ne réagit même pas.",NEGATIVE,0.9686402082443237
+13,C'est plate.,NEGATIVE,0.9988534450531006
+13,"Mais, bref, M. le Président, pour ces raisons-là, je ne peux pas appuyer l'amendement de mon collègue.",NEGATIVE,0.9369873404502869
+13,"Donc, l'amendement est rejeté.",NEGATIVE,0.9292745590209961
+13,"excusez, là, je m'en vais vite un peu.",NEGATIVE,0.9866616129875183
+13,"Excusez-moi, là, mais...",NEGATIVE,0.9582993984222412
+13,"On a l'occasion, ici, là, de venir baliser, dans notre loi québécoise à nous, ce qu'on veut mettre en... ce qu'on veut permettre puis ce qu'on veut interdire comme pratiques, puis on a l'occasion de venir dire, les enfants du Québec, là, comment on les protège.",POSITIVE,0.9350734949111938
+13,"Historiquement, on a fait un choix de société, au Québec, important puis qui nous distingue, puis je pense que ça fait partie de notre modèle de société axé sur la justice sociale, c'est l'interdiction de la publicité pour les enfants.",POSITIVE,0.9686771035194397
+13,Qui suis-je pour dire au parent : Tu n'as pas d'affaire...,NEGATIVE,0.9229636192321777
+13,Et je comprends qu'il y a des situations où c'est incontournable et où ça doit être fait.,POSITIVE,0.9017254114151001
+13,"Honnêtement, je ne peux pas dire que j'ai une opinion arrêtée là- dessus.",NEGATIVE,0.9510738253593445
+13,"La loi 101, c'est un puissant dépouillement de l'autorité parentale, c'est une puissante et forte... un fort empiétement sur le choix fondamental des parents de dire : Moi, mon enfant va aller dans quelle école.",POSITIVE,0.9925528168678284
+13,"Puis ce n'est pas juste sur des enjeux de santé puis de sécurité, c'est souvent dans des enjeux où on juge que, là, le bien commun commande qu'on instaure, comme société, un certain environnement puis qu'on mette certaines balises en disant : Bien, oui, en effet, les parents, ils n'ont pas ce choix-là, tu sais, tout comme les parents n'ont pas le choix d'envoyer leurs enfants à l'école française ou anglaise au Québec.",POSITIVE,0.9559136629104614
+13,L'enfant vieillit.,NEGATIVE,0.9104849100112915
+13,"Ça fait que, moi, je pense qu'il y a là une réflexion importante à avoir.",POSITIVE,0.9056831002235413
+13,"L'argument fondamental que je présente, c'est : Attention ici à la question du consentement parce qu'on est exactement dans le genre de situation où il faut faire une réflexion pour voir qu'est-ce qui devrait l'emporter entre le consentement parental puis d'autres valeurs qu'on pourrait vouloir affirmer collectivement.",POSITIVE,0.9583902955055237
+13,"Je pense qu'on a une petite réflexion à faire là-dessus, puis ça tombe bien parce qu'on travaille dans une commission qui avance bien, où la collaboration est bonne.",POSITIVE,0.9247463345527649
+13,"Donc, là-dessus, je pense qu'on n'aura pas de grands débats, là.",NEGATIVE,0.9339675307273865
+13,"Non, évidemment pas.",NEGATIVE,0.9916743636131287
+13,"Et donc mon dilemme vient de ce que j'ai dit au député de Gouin, auquel je crois aussi, parce que, comme parent, j'ai été confronté très souvent, dans la société, à des situations où on prenait des décisions pour mes enfants et où j'avais l'impression de jouer un rôle secondaire du fait que j'étais un parent et non pas un expert en ci, un expert en ça, et , je le dis candidement, où il s'est avéré que leur mère et moi, on a eu raison, au-delà des expertises, des situations qui amènent beaucoup de frustration au niveau des parents qui sont encore les premiers préoccupés.",POSITIVE,0.957242488861084
+13,"Nonobstant, là, les situations qu'on voit dans l'espace public, moi, je pense que l'immense majorité des parents sont des gens qui sont dédiés à leurs enfants, et qui vont faire tout en leur pouvoir pour le bien-être de leurs enfants, et pour qui le bien- être de leurs enfants est la seule préoccupation qu'ils ont.",POSITIVE,0.9689127206802368
+13,"Puis je parle du droit à décider pour l'enfant parce que je pense que c'est non seulement un droit, mais c'est une obligation, c'est une responsabilité du parent.",POSITIVE,0.9175676703453064
+13,"Puis j'écoute le ministre et puis j'ai de la misère à le suivre, là.",NEGATIVE,0.9829561710357666
+13,"Alors, je cherche un exemple pratique où, dans le contexte amené par le député de Gouin, ça semblerait poser un problème, un malaise, je ne sais pas trop quoi, dans l'esprit du ministre, et je ne le vois pas.",NEGATIVE,0.927120566368103
+13,"Puis la télémédecine, là, de ce type-là, là, pas du type de la téléconsultation, mais le suivi de données cliniques, là, numériques, là, comme la pression artérielle, la glycémie, tout ça, à distance, c'est une grosse, grosse avancée, puis il n'y a personne à qui ça viendrait à l'esprit de dire : Aïe!",POSITIVE,0.9369431734085083
+13,Ça fait que ce n'est pas ça qu'on vise.,NEGATIVE,0.9795981049537659
+13,J'ai de la misère à trouver un exemple.,NEGATIVE,0.9859520196914673
+13,"Je suis vraiment… je trouve ça vraiment plate, parce que c'est une super belle discussion, mais j'ai une petite urgence leader à aller m'occuper au bleu.",NEGATIVE,0.993863582611084
+13,"L'idée, c'est de trouver exactement, comme société, quelles pratiques on juge qui sont possibles, avec le consentement des parents, puis quelles pratiques on juge que, là, même avec le consentement, il y a quelque chose qui nous heurte, puis, comme société, on dit non, puis on trace une ligne.",POSITIVE,0.9377583861351013
+13,Je salue cette ouverture.,POSITIVE,0.9156371355056763
+13,Pourquoi est-ce que c'est là?,NEGATIVE,0.9212554693222046
+13,"Une petite caméra sur le «side», ça ne marche pas.",NEGATIVE,0.998933732509613
+13,Ça deviendrait illicite.,NEGATIVE,0.9574955701828003
+13,"Bien, en fait, on aurait deux raisons de le faire.",NEGATIVE,0.9417737126350403
+13,"Et, d'autre part, effectivement, ce n'est pas un moyen qui est reconnu.",NEGATIVE,0.9230204224586487
+13,N'est-ce pas merveilleux?,POSITIVE,0.98846834897995
+13,Quelle arme!,POSITIVE,0.9460130333900452
+13,Le contraire aurait été encore plus bizarre.,NEGATIVE,0.9510521292686462
+13,J'ai-tu manqué quelque chose?,NEGATIVE,0.9500312805175781
+13,"En fait, l'article se lirait : «La personne qui recueille des renseignements personnels auprès de la personne concernée doit, lors de la collecte, et...» Non.",NEGATIVE,0.9501661062240601
+13,"Il est bon, là, cet article-là, ce n'est pas ça, là, c'est bon, là, c'est bien écrit, ça fait...",POSITIVE,0.9259678721427917
+13,"Mais le fait de toujours relier ça à la personne, moi, là, non- juriste, là, je me dis : O.K., ça, c'est un gars qui a sa petite entreprise, là, puis c'est lui qui fait ça.",NEGATIVE,0.9018291234970093
+13,"Là, je fais un excès de zèle, là, je fais exprès, là.",NEGATIVE,0.9634934067726135
+13,"Je suis encore inconfortable, là.",NEGATIVE,0.9646676182746887
+13,c'est juste une application pour la météo.,NEGATIVE,0.9750617146492004
+13,"Ça fait que c'est un changement de mots, là, «activer» pour «désactiver», mais c'est un changement important, parce qu'on vient vraiment s'assurer de protéger les gens.",POSITIVE,0.9339571595191956
+13,"Puis de manière intéressante, je pense que la réaction de Facebook nous permet de voir à quel point ce n'est pas banal, parce que, si ça réagit comme ça, c'est parce qu'il y a vraiment, là, un frein qui est mis à la captation massive et invasive de données personnelles.",POSITIVE,0.9282154440879822
+13,"Ça peut avoir l'air technique, mais c'est important.",POSITIVE,0.9152300953865051
+13,"Et souvent, le profilage est la première étape pour faire par la suite du ciblage publicitaire.",NEGATIVE,0.9033535718917847
+13,Ce n'est pas mon intention.,NEGATIVE,0.9891332983970642
+13,"Puis je répète, ici, ce que j'ai souvent dit, puis je trouve important de le répéter parce que c'est comme toujours un rappel, là, on n'écrit pas la loi juste pour les cinq prochaines années, on l'écrit pour les 10, 15, 20 prochaines années.",POSITIVE,0.96644127368927
+13,Mais là on est dans un article qui porte sur le profilage commercial.,NEGATIVE,0.9174968004226685
+13,"Et je me demande en vertu de quoi est-ce qu'on pourrait juger que c'est acceptable pour une entreprise de faire du profilage commercial à partir de données biométriques du genre : La personne nous donne des renseignements personnels biométriques, genre la personne est enceinte, et là, en fonction de ça, on profile commercialement.",NEGATIVE,0.9337093234062195
+13,"Là, là-dessus, je ne suivrai pas mon député de Gouin.",NEGATIVE,0.9637266397476196
+13,"Non, là-dessus, je ne peux pas.",NEGATIVE,0.9921504259109497
+13,"Là, je pense qu'on va un peu trop loin parce que la personne est la propriétaire de ses informations.",NEGATIVE,0.9181616902351379
+13,"Ça fait que l'amendement que je vais déposer, je viens de le faire, c'est déjà une version diluée de ce que la CAI proposait, parce que la CAI proposait d'embrasser beaucoup plus large.",NEGATIVE,0.9545572400093079
+13,"Moi, je... Et là on est au-delà de la question du consentement, on est vraiment au-delà de la question du consentement.",POSITIVE,0.9628982543945312
+13,"Ce que le profilage en question fait, c'est dire : Bien, écoutez, faire de la publicité, ça coûte quand même quelque chose.",NEGATIVE,0.9361752867698669
+13,"Bon, peut-être bientôt, mais pas là.",NEGATIVE,0.9814048409461975
+13,"Alors, sur la question de la discrimination, je ne pense pas que je pourrais suivre le raisonnement qui nous a été proposé.",NEGATIVE,0.9858089089393616
+13,"Et, sur la notion d'invasif, là non plus, je ne peux pas aller sur ce terrain-là pour une raison fort simple.",NEGATIVE,0.9733823537826538
+13,"Donc, la notion de consentement, non seulement elle ne peut pas être occultée, M. le Président, mais elle est fondamentale.",POSITIVE,0.9651291370391846
+13,"Maintenant, ce consentement-là, et on y a vu dans les articles précédents, doit être donné de façon libre et éclairée.",POSITIVE,0.9486834406852722
+13,"Ceci étant, là, jamais il ne m'est venu à l'idée de taxer la proposition du collègue de Gouin d'extrême.",NEGATIVE,0.9168926477432251
+13,Pas du tout.,NEGATIVE,0.9985800981521606
+13,"Mais une fois qu'on a dit ça, je ne penche pas...",NEGATIVE,0.9678029417991638
+13,Je ne suis pas d'accord avec ce qui est proposé.,NEGATIVE,0.9615403413772583
+13,"Donc, je peux peut-être me permettre de poursuivre, parce que je ne répéterai pas ce que j'ai déjà dit, mais, dans le fond, l'objectif de mon amendement, c'est venir dire qu'on ne peut pas collecter des renseignements biométriques à des fins de profilage.",NEGATIVE,0.937461793422699
+13,"...honnête avec vous, M. le député, là, je n'en ai aucune espèce d'idée, pour être très honnête.",NEGATIVE,0.9072462320327759
+13,C'est plus ça qui est la question.,NEGATIVE,0.902599573135376
+13,"Il y a des bribes qui nous parviennent parce qu'il y a des lanceurs d'alerte, parce qu'il y a des ex qui ont quitté ces boîtes-là qui, aujourd'hui, nous disent : Ça fait partie des choses qu'on regarde.",POSITIVE,0.9394500851631165
+13,"Je fais juste... Oui, parce que là où j'ai arrêté mon curseur pour un certain temps, ça peut être capté, là, mais le mouvement de la souris, je ne suis pas sûr qu'il y a un mouvement particulier d'un individu à l'autre, là.",NEGATIVE,0.9169430136680603
+13,"voilà, on a là un coureur d'expérience, on va lui présenter des publicités pour lui faire acheter tel type de produit.",NEGATIVE,0.9329746961593628
+13,"Surtout que l'appareil, là, le Alexa en question, il est tout le temps allumé.",NEGATIVE,0.9299603700637817
+13,"Bien, en fait, je trouve que l'exemple est intéressant parce que je suis moi-même propriétaire d'Alexa, absolument, et la situation est loin d'être aussi compliquée que mon collègue de Gouin le décrit.",POSITIVE,0.9314262270927429
+13,"Donc, là- dessus, je pense qu'on a fait un bon boulot, là, sans vouloir faire de l'autocongratulation, mais, s'il est adopté, le projet de loi n° 64 va venir resserrer cette notion-là, va venir s'assurer que le consentement, il est libre, il est éclairé et que les finalités pour lesquelles il est demandé sont très claires, d'une part.",POSITIVE,0.9545291066169739
+13,"Dans la mesure où Éric Caire y consent, et y consent de façon libre et éclairée, et qu'il sait exactement à quoi il consent, bien, ma réponse à ça, c'est oui.",POSITIVE,0.9273869395256042
+13,"Je veux dire, cette décision- là, elle m'impacte, moi.",POSITIVE,0.9502778649330139
+13,"Alors, est-ce que moi, j'y vois un préjudice ou... Non, dans la façon... puis je le répète, là, dans la mesure où les choses sont faites de façon libre, éclairée et que les finalités sont claires.",POSITIVE,0.9604848027229309
+13,"Non, c'est ça, parce que je l'ai dit, là, recevoir une infolettre parce qu'on est un amateur de plongée, parce qu'on est allé acheter quelque chose dans un magasin de plongée, ce n'est pas du profilage à partir de renseignements biométriques, c'est du profilage à partir de... profilage commercial classique.",NEGATIVE,0.9423580765724182
+13,Mon amendement ne vise pas ça.,NEGATIVE,0.9075015187263489
+13,"On n'est pas dans une société libertarienne où le consentement individuel prime sur tout le reste, on est déjà dans une société de droit où on fait ces équilibres-là constamment puis où on décide, à plusieurs moments, que le consentement individuel passe en deuxième par rapport à d'autres impératifs.",POSITIVE,0.9201574325561523
+13,"Et là on est dans une situation comme celle-là où, comme société, il faut se demander quel cadre législatif on veut mettre en place pour protéger les individus de puissances sociales et économiques qui sont en train d'acquérir un pouvoir qui est incommensurable par rapport aux connaissances que les individus ont.",POSITIVE,0.9169803857803345
+13,"Sinon, on parle de consentement franchement qui est théorique puis qui est abstrait.",NEGATIVE,0.9418928623199463
+13,"Puis ce n'est pas une question de ne pas respecter l'intelligence des gens, là, parce que même moi, je suis très conscient de mes limites puis je sais bien que mon consentement, que vaut-il par rapport à des puissances sociales comme Google, Facebook, Amazon?",POSITIVE,0.9295763969421387
+13,"Donc, je pense qu'on ne peut pas se limiter à la question du consentement, notamment à cause de l'asymétrie d'information, qui m'apparaît ici, là, énorme, quand on parle d'entreprises comme celles-là, énorme.",POSITIVE,0.9329075813293457
+13,"J'écoute l'échange, qui est un échange très intéressant, je pense que le député de Gouin pose une question très intéressante.",POSITIVE,0.979168176651001
+13,"Là, je fais vraiment exprès, là... ... Oui.",NEGATIVE,0.9221731424331665
+13,"On peut analyser la façon dont je m'adresse... Et il y a des applications d'intelligence artificielle, on va analyser et progresser dans la façon dont on interagit aussi avec moi, essentiellement.",POSITIVE,0.9229317903518677
+13,Parce que pas développée.,NEGATIVE,0.9968364238739014
+13,"Sur ce, compte tenu de l'heure, la commission ajourne ses travaux sine die.",NEGATIVE,0.9241671562194824

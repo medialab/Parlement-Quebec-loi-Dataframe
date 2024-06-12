@@ -1,0 +1,261 @@
+Jour,Phrase,Position,Score
+5,... Pardon?,NEGATIVE,0.9406732320785522
+5,"L'amendement que j'ai déposé la semaine dernière et dont on discute aujourd'hui a été rédigé dans le même esprit, c'est-à-dire comment, comme législateurs, mettre sur pied une définition des données sensibles qui nous permette... bien, qui dure dans le temps et qui protège les citoyens et citoyennes.",POSITIVE,0.9101007580757141
+5,"Par contre, il m'apparaît important de ne pas laisser complètement à la discrétion des tribunaux ce genre d'élément là parce que c'est des éléments de définition de base de notre régime juridique de protection des renseignements personnels, parce que ce n'est... bien, parce que je pense que c'est le rôle, dans une société démocratique, des élus et du législateur que de mettre les bases de ce genre de concept là que les tribunaux auront, par la suite, le loisir d'interpréter.",POSITIVE,0.9022913575172424
+5,"Dernier commentaire pour bien l'expliquer, puis je le répète parce qu'on l'a dit seulement la semaine dernière, et le temps a passé, la liste que je propose, la liste, on pourrait dire, de types de données ou de types de renseignements personnels que je propose, elle n'est pas tirée de mon chapeau.",NEGATIVE,0.9239750504493713
+5,"Parce qu'en ce moment la définition est pour le moins générale, voire imprécise.",NEGATIVE,0.9288247227668762
+5,"Parce qu'il faut bien comprendre, M. le Président, que l'objectif n'est pas de lutter contre la discrimination à cet article-ci mais bien d'établir un régime de protection qui est cohérent avec la valeur de l'information.",POSITIVE,0.9130280017852783
+5,"Dans ce cas-ci, ça ne fonctionne pas.",NEGATIVE,0.9978259205818176
+5,"Et là on se ramasse avec... Des fois, on va se ramasser avec l'inverse de ce qu'on veut.",NEGATIVE,0.9888612627983093
+5,"Et je rappelle à mon collègue qu'il y a aussi une volonté... et je sais que, là-dessus, on est à la même enseigne, une volonté de transparence, une volonté d'être capable de donner accès à l'information.",POSITIVE,0.9320254921913147
+5,Et ça va être utilisé pour faire du profilage en matière de publicité.,NEGATIVE,0.9455568790435791
+5,"En tout cas, bref, mais tout ça pour dire qu'arrivé à la caisse pour payer un article la personne à la caisse demande l'adresse de courriel.",NEGATIVE,0.9139377474784851
+5,"Je dis non, bien non, bien non, pourquoi?",NEGATIVE,0.9729365110397339
+5,"O.K., alors je vous donne mon consentement si vous envoyez ça exclusivement pour la facturation.",NEGATIVE,0.9116553664207458
+5,"Puis je comprends l'objectif du député de Gouin, je partage son objectif, je pense que nous nous attaquons à cette situation-là avec ce qui a été fait puis avec d'autres articles aussi, qui sont à venir, M. le Président, là, il y aura d'autres articles sur le consentement puis d'autres...",POSITIVE,0.9258156418800354
+5,Ça ne fait pas de ce renseignement-là un renseignement sensible par sa nature.,NEGATIVE,0.957054853439331
+5,"Et c'est la raison pour laquelle la définition que nous mettons dans le dernier alinéa de l'article est une définition qui peut sembler large mais qui, dans le contexte de ce qu'on est en train d'établir dans le corpus législatif, donc en reprenant cette idée-là de degré d'attente raisonnable en matière de vie privée, va donner finalement une définition à travers les lignes directrices, la jurisprudence, va donner une... va circonscrire les renseignements qui devraient être sensibles aux renseignements qui, de par leur nature, sont sensibles.",POSITIVE,0.9546565413475037
+5,"Et donc, quand on parle d'un renseignement sensible, c'est un renseignement dont la communication, dont l'utilisation, dont la façon de le stocker informatiquement va amener des mesures de protection supplémentaires.",POSITIVE,0.9106629490852356
+5,Et le fait de communiquer... le simple fait de communiquer ces renseignements-là peut causer un préjudice grave.,NEGATIVE,0.9168084263801575
+5,"Mais les renseignements sensibles, de par leur nature, s'ils sont communiqués, là il y a une attente, c'est ce qu'on appelle une attente raisonnable à la vie privée.",POSITIVE,0.9014370441436768
+5,C'est une discussion très importante.,POSITIVE,0.9780192375183105
+5,"En soi, non.",NEGATIVE,0.991418719291687
+5,"En soi, non.",NEGATIVE,0.991418719291687
+5,"Le fait qu'on tente d'obtenir ma date d'anniversaire, je ne sais pas pour quelle raison on pourrait faire ça, là, que ce soit diffusé, est-ce qu'il y a un préjudice pour moi?",NEGATIVE,0.9260895252227783
+5,Je dis non.,NEGATIVE,0.9953479170799255
+5,Pas nécessairement.,NEGATIVE,0.9039064645767212
+5,"ça, c'est moins...",NEGATIVE,0.9392960667610168
+5,"Puis des renseignements sensibles, on en met une couche de plus.",NEGATIVE,0.9766609072685242
+5,On en met une couche de plus.,NEGATIVE,0.9856225848197937
+5,"Alors, la mobilité de l'information demeure quand même quelque chose d'important, et c'est pour ça qu'on amène la notion de renseignements sensibles versus renseignements personnels, versus tous les autres renseignements qu'il peut y avoir.",POSITIVE,0.9426358938217163
+5,Je pense que non.,NEGATIVE,0.9717312455177307
+5,"là, on a un problème, là.",NEGATIVE,0.9333084225654602
+5,"Je fais quoi avec ça, là?",NEGATIVE,0.9956658482551575
+5,Comment je gère ça?,NEGATIVE,0.9366080164909363
+5,"Je sais qu'on est capable d'avoir une conversation sérieuse là- dessus, ça fait que restons sur des exemples... Parce que, sinon, je veux dire, c'est vrai que moi, je peux... Quiconque peut diffuser n'importe quel renseignement volontairement sur à peu près n'importe quoi.",NEGATIVE,0.9203142523765564
+5,Ça fait que... Bon.,NEGATIVE,0.9072002172470093
+5,"L'argument que je présente, c'est l'effet potentiellement discriminatoire.",NEGATIVE,0.9312147498130798
+5,Ce n'est pas quelque chose...,NEGATIVE,0.9880355000495911
+5,Je lui dis juste qu'on met deux choses dans le même plat qui n'ont pas d'affaire dans le même plat.,NEGATIVE,0.9820771217346191
+5,c'est bon.,POSITIVE,0.9369375705718994
+5,"Bref, la discussion... puis effectivement c'est une discussion importante, et on est au coeur de ce qu'on veut protéger.",POSITIVE,0.9243762493133545
+5,"J'aimerais dire oui, mais ça revient à : Est-ce que ça suscite un haut degré d'attente raisonnable?",NEGATIVE,0.9509610533714294
+5,"Par contre, dans certains cas, il y aura une attente raisonnable.",NEGATIVE,0.9052150845527649
+5,Puis on est allé chercher deux choses.,NEGATIVE,0.9762687683105469
+5,"C'est comme si on avait un outil de guerre dans les années 60, rayon laser, mais là on ne savait pas comment ça marchait, puis tout ça.",NEGATIVE,0.9053034782409668
+5,Comment ça il n'y a pas de viande?,NEGATIVE,0.9151006937026978
+5,"Si je mets ma date de naissance sur mon Facebook, je n'ai plus d'expectative, là.",NEGATIVE,0.9290398359298706
+5,Puis on aurait pu le mettre.,NEGATIVE,0.9469707608222961
+5,"Ça se pourrait-tu qu'on essaie de trop, trop bien faire?",NEGATIVE,0.9714090824127197
+5,"Donc, éventuellement... puis mon collègue de LaFontaine est plus expérimenté que moi en droit, mais je pense que ça ne sera pas possible.",NEGATIVE,0.9786394834518433
+5,"Il y aura toujours des zones d'ombre dans les lois, puis je pense que le législateur doit être suffisamment clair dans son intention pour que les tribunaux et ceux qui ont interprété les lois puissent le faire en respectant l'esprit de ce qu'on veut faire.",POSITIVE,0.9115767478942871
+5,"À cause du «notamment», les pommes, les oranges, je n'arrive pas avec la viande.",NEGATIVE,0.9531005620956421
+5,"Rouler à 95 sur la 20 quand il fait mauvais, là, c'est fou comme braque.",NEGATIVE,0.9648059010505676
+5,C'est beau.,POSITIVE,0.9617891907691956
+5,Hautement sensible.,POSITIVE,0.9911634922027588
+5,Ce n'est pas ça.,NEGATIVE,0.9376233816146851
+5,"Donc, l'inclure dans la loi, pour moi, viendrait... Ça serait redondant, dans le sens où il y a déjà une loi qui leur donne, à la CAI... qui donne déjà des pouvoirs très, très élaborés.",NEGATIVE,0.9137048125267029
+5,Ça non plus... qui disent ça.,NEGATIVE,0.9262294173240662
+5,"Non, mais je trouve...",NEGATIVE,0.9251692891120911
+5,J'aurais dû l'utiliser moi-même.,NEGATIVE,0.9632433652877808
+5,"Il m'apparaît que ces données-là, à leur face même, quel que soit le contexte, sont... puis quelle que soit leur utilisation, puis le ministre semblait le dire, lui aussi, tantôt, elles sont, par leur nature même, des données sensibles, je ne... Et c'est vrai aujourd'hui.",POSITIVE,0.9104611873626709
+5,"Et ça envoie le message aux organismes publics, dans le cas qui nous occupe, que, ça, il faut redoubler de prudence parce que c'est des données qui, fondamentalement, sont sensibles.",POSITIVE,0.9144273400306702
+5,Je ne sais pas ce que le ministre pense de ça.,NEGATIVE,0.9221128225326538
+5,"Alors, on suspend.",NEGATIVE,0.9942818880081177
+5,Vous n'avez pas la cause?,NEGATIVE,0.946246325969696
+5,"Puis, vous savez, M. le Président, que nous ne sommes pas, dans les oppositions, avares d'innovation, alors on est heureux de pouvoir inaugurer une lancée où on va pouvoir innover, là, «going forward».",POSITIVE,0.9573328495025635
+5,"Mais c'est vraiment le lien avec la sphère d'intimité, je dirais, là.",POSITIVE,0.9468480348587036
+5,"Là, je ne veux pas refaire le débat, là, je ne veux pas refaire le, disons, 45 minutes, une heure que vous avez fait, là.",NEGATIVE,0.9723402857780457
+5,"C'est vraiment aussi peu qu'autant... parce que plus vague que ça, là, c'est impossible, là.",NEGATIVE,0.9807689189910889
+5,"Ça veut dire que moi, là, je pourrais... Est-ce que je pourrais, par exemple, devant la cour, dire à la cour : Oui, oui, une minute, là, ça, ce renseignement-là, là, pour moi, là, c'est très intime, là, c'est ma fibre, là, là?",POSITIVE,0.9407247304916382
+5,"Je vais prendre un exemple grossier, là.",NEGATIVE,0.9572041630744934
+5,"Bon, là, je prends un exemple trivial, là.",NEGATIVE,0.9481553435325623
+5,"Bien, c'est intrinsèque à cette définition-là et aussi, effectivement, à l'analyse de la Cour suprême de prendre en considération le point de vue de la personne.",POSITIVE,0.9109988808631897
+5,"C'est quoi, cette notion-là?",NEGATIVE,0.9616341590881348
+5,"Donc, elle reconnaît, comme on le propose dans le projet de loi, que cette approche-là, cette définition-là, qui découle de la charte canadienne, est tout aussi, là, pertinente, dans le contexte de la loi sur l'accès, pour déterminer la sensibilité d'un renseignement et la nécessité d'avoir un consentement exprès.",POSITIVE,0.9289307594299316
+5,Depuis plus de 300 ans.,POSITIVE,0.9120382070541382
+5,"Moi, j'ai l'impression qu'on fait ça.",NEGATIVE,0.9570620656013489
+5,"Ne prenons-nous pas un risque législatif inutile en introduisant un mot de conception, disons… pas vague, là, mais, disons, insuffisamment bien cerné?",NEGATIVE,0.9601795673370361
+5,"J'étais là, là.",POSITIVE,0.9694215059280396
+5,Bon… Voilà.,NEGATIVE,0.946962833404541
+5,"Je vais me contenter de l'aspect juridique, je pense.",NEGATIVE,0.9908656477928162
+5,"Parce que, quand c'est blindé, là, normalement, là, un juriste va pouvoir disserter pendant une heure sur la chose.",NEGATIVE,0.9260683655738831
+5,"Si c'est potentiellement oui, je pense que c'est un mot de trop.",NEGATIVE,0.9839649200439453
+5,"Les autres mots dans l'amendement, ils sont… Plus clair que ça, là, c'est assez difficile.",NEGATIVE,0.9093281626701355
+5,La partie «intime» me pose problème.,NEGATIVE,0.9625443816184998
+5,"Ça a été réglé avec le temps, ça a pris des années, O.K.?",NEGATIVE,0.9651116728782654
+5,"Je l'ai entendu, là, je l'ai entendu même de médecins : Moi, j'ai fait une dépression majeure, là, puis je ne veux pas que ça circule d'un pavillon à l'autre, parce que c'est ma donnée.",POSITIVE,0.9066089391708374
+5,"À partir du moment où on met un mot qui est ouvert à interprétation, quelqu'un peut se lever, et moi, je l'ai vécu, je ne peux pas vous prendre d'exemples dans d'autres domaines, mais je pourrais en imaginer qui vont se lever puis dire : O.K., là, ça, cette donnée-là, là, elle est intime, et mes attentes sont telles que je ne veux pas que ça circule.",POSITIVE,0.9555683732032776
+5,"Et là je vais plus loin, O.K.?",NEGATIVE,0.9126879572868347
+5,"Cette information-là, elle est très importante pour lui, elle est plus qu'intime, elle est ultra-intime et donc elle ne circulera pas.",POSITIVE,0.9571436643600464
+5,Ça a été long et pénible.,NEGATIVE,0.9987009763717651
+5,"Je peux continuer comme ça pendant une demi-heure, si vous voulez, là.",NEGATIVE,0.9148669242858887
+5,"Bien, cela dit, pour information, il vous reste un peu moins de 10 minutes.",NEGATIVE,0.9218340516090393
+5,"Maintenant, là, je vous avoue que je ne sais pas trop comment traiter ça, là.",NEGATIVE,0.9796620607376099
+5,Pas nécessairement.,NEGATIVE,0.9039064645767212
+5,Juste pour compléter.,NEGATIVE,0.9065060019493103
+5,"Là, au moment où on se... Non, c'est parce que j'en ai peut-être raté un bout.",NEGATIVE,0.9372888803482056
+5,"Là, l'énumération n'est plus là, hein, c'est ça?",NEGATIVE,0.901695728302002
+5,"Non, on a...",NEGATIVE,0.969894289970398
+5,"Bien oui, sauf que, là, on refait les débats, là.",NEGATIVE,0.966697096824646
+5,"C'est un peu plate, là.",NEGATIVE,0.9972780346870422
+5,"Non, non, non, tu vas comprendre.",NEGATIVE,0.9699649214744568
+5,C'est tout.,NEGATIVE,0.9935083389282227
+5,"Et là l'amendement, tel que libellé, viendrait empêcher ça, ce qu'on ne souhaite pas, ni le député de René-Lévesque ni moi.",NEGATIVE,0.9088858962059021
+5,"Là, je prends l'exemple le plus patent, là, bon.",NEGATIVE,0.9381816983222961
+5,"À moins d'une disposition spécifique, on ne peut pas faire ça, on ne peut pas faire ça.",NEGATIVE,0.9553161263465881
+5,"Bon, ça, le choix des phrases, le choix des mots, on pourra avoir des discussions, mais...",NEGATIVE,0.9827677607536316
+5,"Non, non, c'est ça.",NEGATIVE,0.9856599569320679
+5,"C'est, justement, la nuance, la subtile nuance que j'amène.",POSITIVE,0.9379162788391113
+5,"Je prends toujours mon exemple, la RAMQ qui décide de prendre une liste des usagers de la RAMQ puis de vendre ça à une entreprise de télémarketing, ça ne se peut pas, ça ne se peut pas.",NEGATIVE,0.9530389904975891
+5,"Ce que l'amendement va faire, puis là je me répète, mais je veux juste être sûr que c'est bien clair, c'est, justement, de faire en sorte que, là, dans le cadre d'une entente contractuelle qui va se faire notamment au bénéfice d'une entreprise de l'État, donc au bénéfice de la collectivité, là, cet amendement-là pourrait avoir pour effet de rendre ça pas possible.",NEGATIVE,0.9183459281921387
+5,J'ai toujours refusé ça.,NEGATIVE,0.9398269653320312
+5,Tout à fait.,POSITIVE,0.9654862284660339
+5,Tout à fait.,POSITIVE,0.9654862284660339
+5,"C'est quoi, la façon de le faire?",NEGATIVE,0.983059823513031
+5,Ça reste là.,NEGATIVE,0.9936457872390747
+5,Et pourquoi l'industrie pharmaceutique veut faire ça?,NEGATIVE,0.9441683292388916
+5,"Ça, là, pour l'industrie pharmaceutique, là, ce n'est pas du bonbon, c'est Noël.",NEGATIVE,0.9219489693641663
+5,"Et le débat là-dessus, là, a été mal fait, c'est plate, là, mais c'est comme ça, mais il est possible, là...",NEGATIVE,0.9045301675796509
+5,Très utile.,POSITIVE,0.9891364574432373
+5,"Une fois, deux fois.",NEGATIVE,0.944383442401886
+5,"Oui, parfait.",POSITIVE,0.9659690856933594
+5,"Dans la suspension, on verra, là, c'est juste pour faciliter les travaux, là.",NEGATIVE,0.9411229491233826
+5,Tout à fait.,POSITIVE,0.9654862284660339
+5,"Je ne présume pas de la mauvaise foi du gouvernement, mais je n'ai pas de certitude tant qu'à cette réelle solution potentielle de voir le jour.",NEGATIVE,0.9671930074691772
+5,"Puis ça, pour les victimes de violences sexuelles, tu sais, c'est une règle de base, là, mais pour donner confiance à ces personnes, et ce sont, en grande majorité, des femmes, dans le processus, cette lettre et ce mémoire... parce qu'ils ont également déposé un mémoire, là, le collectif Québec, sur le projet de loi n° 64, le collectif Québec, contre les violences sexuelles, dans leur mémoire, ils nous le disent également, là, pour que les victimes aient confiance dans le processus, c'est ici qu'il faut intervenir dans la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels.",POSITIVE,0.9642349481582642
+5,"Alors, je suspends les travaux quelques instants.",NEGATIVE,0.9066603183746338
+5,On m'a...,NEGATIVE,0.9214500784873962
+5,"Donc, ça vient renforcer le fait que ce que le député de Gouin dit, la réponse à cette question-là, c'est oui, compte tenu que cette communication-là, elle va être mise dans la loi que nous amenderons ensemble, loi dont le nom m'échappe moi aussi et dont vous m'excuserez de ne pas avoir le libellé exact, mais cette loi particulière, appelons-la la loi particulière, donc la communication de la sanction à la victime, nous allons le prévoir dans la loi particulière.",POSITIVE,0.9140055775642395
+5,Tout à fait.,POSITIVE,0.9654862284660339
+5,Les deux premiers… Il n'y a pas d'enjeu.,NEGATIVE,0.998026430606842
+5,…il n'y a rien à l'horizon...de problème?,NEGATIVE,0.977105975151062
+5,"Non, non, non.",NEGATIVE,0.9973886609077454
+5,"Ça a été demandé, voulu, et je pense qu'on peut tous s'en satisfaire lorsque ça sera adopté.",POSITIVE,0.904845654964447
+5,"Mais je veux rassurer les collègues, je veux rassurer les organismes, l'intention, elle est ferme, puis je comprends le petit bémol, mais… pas d'enjeu.",NEGATIVE,0.9421293139457703
+5,"Après autant de bonnes suggestions… Entre leaders, on a quand même développé certaines affinités.",NEGATIVE,0.9161949157714844
+5,"On a la chance de régler une problématique qui avait de fâcheuses implications sur la vie des victimes, bien, on va prendre le temps de faire ça adéquatement, et correctement, et de façon collégiale.",POSITIVE,0.91862553358078
+5,"Parfait, M. le Président.",POSITIVE,0.9640169143676758
+5,"On m'informe… 180 minutes, excluant, bien sûr, amendements et sous-amendements.",NEGATIVE,0.9740471243858337
+5,"Bien, dans l'opérationnalité des choses, là, je suis un peu embêté, là.",NEGATIVE,0.9225228428840637
+5,"C'est quoi, la trace pour démontrer que le comité l'a approuvé.",NEGATIVE,0.9629913568496704
+5,"Oui, pour dire : Aïe!",NEGATIVE,0.9404270052909851
+5,"Ça n'a même pas été... Parce que, si ça n'a pas été approuvé, il est dans le trouble.",NEGATIVE,0.9551401138305664
+5,"Oui, tout à fait.",POSITIVE,0.9223586916923523
+5,J'imagine que ça pourrait être minimalement ça.,NEGATIVE,0.9287348389625549
+5,"Là, on est dans la même...",NEGATIVE,0.9796305894851685
+5,"Tout à fait, absolument.",POSITIVE,0.996393620967865
+5,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+5,"Oui, absolument.",POSITIVE,0.981696367263794
+5,"Non, ce n'est pas dans le processus.",NEGATIVE,0.9560199975967407
+5,"Oui, puis j'adore le...",POSITIVE,0.9159181118011475
+5,"Ce n'est pas bon, ça.",NEGATIVE,0.9980113506317139
+5,Ça va coûter cher.,NEGATIVE,0.9130051136016846
+5,Ils n'ont pas assez d'argent.,NEGATIVE,0.9454412460327148
+5,"Mettez plus d'argent, plus de monde, c'est épouvantable.",NEGATIVE,0.9305163621902466
+5,"Plein de pouvoirs, pas de moyen de les utiliser.",NEGATIVE,0.9156128764152527
+5,Puis jamais le ministre n'y donnera suite.,NEGATIVE,0.9285480380058289
+5,Il est complètement dans le noir à cet égard.,NEGATIVE,0.9531167149543762
+5,"Non, non, mais donnez-moi 30 secondes.",NEGATIVE,0.9575088024139404
+5,Je ne veux pas qu'on fasse...,NEGATIVE,0.9710993766784668
+5,"Là, quand on tombe à 63.4, c'est...",NEGATIVE,0.9586068987846375
+5,je n'avais pas catché ça.,NEGATIVE,0.90842604637146
+5,"Je vous dirais presque malheureusement, mais oui, ça se peut.",NEGATIVE,0.9401692152023315
+5,"Mais là on est à l'interne, là.",NEGATIVE,0.9025106430053711
+5,"Intime, intime.",POSITIVE,0.9586581587791443
+5,"Ce qui n'est pas beaucoup plus rassurant, ceci étant.",NEGATIVE,0.9855114221572876
+5,"Le troisième alinéa, un, deux, trois, moi, c'est...",NEGATIVE,0.9187564253807068
+5,"Donc, parfait.",POSITIVE,0.9319860339164734
+5,Le relire?,POSITIVE,0.908818781375885
+5,"Oui, M. le Président, avec plaisir.",POSITIVE,0.9149742126464844
+5,"Mais, sinon, dans les mises à jour, dans l'entretien de système, dans ce qui est le cycle de vie normal d'un système, ce n'est pas nécessaire et ça devient excessif.",NEGATIVE,0.9848105311393738
+5,"Il nous dit, dans sa version amendée... et là, on est sur l'amendement, hein?",NEGATIVE,0.929324209690094
+5,"Donc, je pense que d'avoir un effet rétro serait excessif, déraisonnable, contre- productif.",NEGATIVE,0.9843107461929321
+5,"Et, même au niveau de la sécurité, là, des systèmes, là, c'est plus largement que ça, là, puis il y a différentes notions aussi qu'on va amener ici, pour lesquelles les technologies qui sont en place ne seraient probablement même pas compatibles quand on parle d'avoir une sécurité à la vie privée par défaut.",POSITIVE,0.9061254858970642
+5,"Donc, on va, à chaque nouvelle initiative, disons ça comme ça, faire cette évaluation-là, puis je pense qu'on a tous comme objectif que, ce faisant, progressivement, on renforce la protection des renseignements personnels puis de la vie privée des Québécois et des Québécoises.",POSITIVE,0.9364570379257202
+5,"Oui, tout à fait.",POSITIVE,0.9223586916923523
+5,"C'est là où je vous dis : Faire des évaluations pour les systèmes qui sont en place, qu'on connaît, donc qu'on connaît les forces, les faiblesses, les tenants, les aboutissants, c'est là où je vous dis : L'effort et les ressources que ça demanderait, ce n'est pas justifié.",NEGATIVE,0.9115731716156006
+5,"Parce que ces connaissances-là, de par l'utilisation du système, normalement, vous les avez, vous les connaissez, vous avez les impacts, les forces, les faiblesses, vous les connaissez, du système.",POSITIVE,0.9202080368995667
+5,ça part.,NEGATIVE,0.9466699361801147
+5,"C'est juste des dossiers d'enquête puis des fiches signalétiques, pas grave.",NEGATIVE,0.9935761094093323
+5,"Moi, je referme la parenthèse.",NEGATIVE,0.9848286509513855
+5,"Alors, ça a fait du bien.",POSITIVE,0.9681985974311829
+5,"J'en aurais pris plus, mais ce n'est pas grave.",NEGATIVE,0.9067907333374023
+5,"Alors, ceci étant dit... Ça s'en vient.",NEGATIVE,0.9378136396408081
+5,Il dit : Ça s'en vient.,NEGATIVE,0.9108403921127319
+5,"Nous, on a quoi?",NEGATIVE,0.9370759129524231
+5,"Parfait, on a ça, ça, ça, savez-vous que c'est hautement sensible?",POSITIVE,0.949309229850769
+5,La liste est longue.,NEGATIVE,0.966460108757019
+5,Mais là c'est le cas.,NEGATIVE,0.970937967300415
+5,"Quand on dit : «...une évaluation des facteurs relatifs à la vie privée», si ça tient la route, ça peut ne pas scléroser l'organisme pendant six mois, là.",NEGATIVE,0.9392405152320862
+5,"Je ne veux même pas lui dire : Fais ci, fais ça, fais ci, fais ça, ça me prend au moins un rapport de 150 pages.",NEGATIVE,0.9583785533905029
+5,Bien non.,NEGATIVE,0.9813978672027588
+5,Je n'y dirais même pas : Va te chercher une évaluation des facteurs.,NEGATIVE,0.9719275832176208
+5,"Donc, sur la conformité, puis pas juste des systèmes d'information, de tous ses processus, il va devoir s'assurer que la loi est respectée.",POSITIVE,0.9319261312484741
+5,"Puis c'est pour ça qu'on parle, quand on parle d'acquisitions, quand on parle de développement, quand on parle de refonte, là, ils amènent... là, il y a des éléments de risque qui sont nouveaux, qui sont inhérents à la nouveauté de ce qu'on est en train de faire et qui méritent qu'on fasse une évaluation pour s'assurer qu'on a pris compte de ça.",POSITIVE,0.9375127553939819
+5,...je ne comprends pas la question du tout.,NEGATIVE,0.9935986995697021
+5,"On ne sent pas, là, qu'on pose un geste pour protéger.",NEGATIVE,0.9434974193572998
+5,"Qu'est-ce qu'on fait, là, exactement?",NEGATIVE,0.9677301049232483
+5,Puis je suis sûr que ce n'est pas ça.,NEGATIVE,0.9174201488494873
+5,À la suite de ça...,NEGATIVE,0.9677503108978271
+5,"Alors, ce qu'on va faire, ce qu'on veut faire, ce qu'on doit... Parce que, sur site, on les connaît, les enjeux.",POSITIVE,0.9133437871932983
+5,"On connaît les enjeux de sécurité, le mode de stockage, les protections, les accès, les permissions, comment on gère tout ça, à qui, selon quel régime, qui a l'autorité de faire ça, les niveaux d'accès d'administrateur à utilisateur, etc.",POSITIVE,0.9266418814659119
+5,attends un peu.,NEGATIVE,0.9100791215896606
+5,"Ça marche comment, cette patente-là?",NEGATIVE,0.9797242879867554
+5,"Ma donnée, elle s'en va où, elle voyage comment, elle est accessible à qui, elle est gardée par qui, elle est protégée comment?",POSITIVE,0.9186684489250183
+5,"Mais aller chercher des réponses qu'on a déjà et utiliser des ressources humaines, financières et matérielles pour ça, c'est là où je dis au collègue : Bien non, on ne peut pas aller là.",NEGATIVE,0.9423659443855286
+5,"Ce n'est pas une bonne idée, parce qu'on a les réponses à ces questions-là.",NEGATIVE,0.9871949553489685
+5,"Puis, là-dessus, je salue l'intervention du député de La Pinière, très sincèrement, parce qu'effectivement ces questions-là qu'on se pose sont relatives à la protection qu'on va offrir à nos renseignements personnels en regard de ce qui est dans l'explication de 63.5.",POSITIVE,0.9230996370315552
+5,"Mais, dans le cas d'un système que j'ai déjà ou pour lequel je fais une évolution normale du système, c'est là où trop, comme c'est... trop, c'est comme pas assez.",NEGATIVE,0.9857782125473022
+5,C'est non.,NEGATIVE,0.9810507893562317
+5,"Oui, parce que... Non parce que, si ça coûte de l'argent, c'est non.",NEGATIVE,0.9007461071014404
+5,"Non, non, non.",NEGATIVE,0.9973886609077454
+5,"Puis, je ne le dirai pas non plus.",NEGATIVE,0.9908479452133179
+5,"Oui, tout à fait.",POSITIVE,0.9223586916923523
+5,"Bon, c'est tout.",NEGATIVE,0.9767381548881531
+5,"Donc, l'argument de dire : On connaît les systèmes parce que, par la pratique, on les utilise, donc on sait déjà tout ce qu'il y a à savoir sur leurs forces et leurs faiblesses, donc c'est superflu de faire une évaluation des facteurs à la vie privée... des facteurs relatifs à la vie privée, il ne me convainc pas pleinement.",NEGATIVE,0.9597967267036438
+5,"Et surtout, je pense qu'on peut faire l'hypothèse que, ce faisant, on va découvrir des choses que peut-être on ne savait pas sur les systèmes existants puisque, si on savait déjà tout ce qu'il y a à savoir, il n'y aurait jamais de fuite, il n'y aurait jamais de problème.",POSITIVE,0.9408333897590637
+5,"Ce qu'on va faire, à ce moment-là, et ce qu'on fait, on va se doter d'outils qui, eux aussi, deviennent de plus en plus performants, on va faire des balayages, donc on va essayer de détecter, effectivement, ces vulnérabilités-là, technologiques, par des balayages, on va faire des tests d'intrusion, on va faire des simulations d'attaques pour voir comment le système réagit.",POSITIVE,0.915957510471344
+5,"Quand on fait une évaluation des facteurs relatifs à la vie privée, comme on le dit, c'est vraiment au moment où comment le système... comment on procède avec le système pour la collecte, comment le système va travailler pour le stockage, comment le système va travailler pour la communication, donc dans ce qu'il fait.",POSITIVE,0.9260507225990295
+5,Tout à fait.,POSITIVE,0.9654862284660339
+5,"Donc, c'est peut-être les deux exemples que je donnerais : des autorisations d'accès qui n'ont pas lieu d'être, du stockage qui se fait pendant trop longtemps.",NEGATIVE,0.9877983927726746
+5,"Non, mais... Ça m'apparaîtrait vraiment téméraire même de faire une hypothèse comme celle-là.",NEGATIVE,0.9736417531967163
+5,"Ça va monopoliser du matériel, ça va, donc, monopoliser des ressources financières.",NEGATIVE,0.9087748527526855
+5,"Puis, si la CAI vient dire : Aïe!",NEGATIVE,0.9262608289718628
+5,"Le ministre pourrait dire : Non, je vais voter contre, puis tout ça.",NEGATIVE,0.9123914241790771
+5,Ça fait qu'on est loin de cela.,NEGATIVE,0.9842929244041443
+5,C'est ma contribution à la planète.,POSITIVE,0.915982723236084
+5,"Je ne suis pas à l'aise, M. le Président.",NEGATIVE,0.9770188927650452
+5,"On ne va pas améliorer la situation en faisant ça, on va juste leur mettre plus sur les épaules pour pas plus de résultats dans le sens de ce qu'on veut.",NEGATIVE,0.9918654561042786
+5,"Puis c'est justement parce qu'on s'est rendu compte que c'était exagéré, là, qu'on faisait des évaluations à tout vent, là, pour n'importe quoi.",NEGATIVE,0.9235913753509521
+5,"Ou on a juste pelleté un fardeau de plus dans notre administration, dans nos organismes publics?",NEGATIVE,0.9622572064399719
+5,On leur a-tu pelleté un fardeau de plus pour pas plus de résultats?,NEGATIVE,0.9960150122642517
+5,"En fait, moi, je pense, trop.",NEGATIVE,0.9157865047454834
+5,"Là, on veut ramener ça un peu en se disant : Bon, bien, O.K., là, acquisition, développement, refonte.",NEGATIVE,0.9512740969657898
+5,"Là, je pense qu'on en fait trop, là.",NEGATIVE,0.9935708045959473
+5,Je pense qu'on en fait trop.,NEGATIVE,0.988118588924408
+5,"Je fais quoi, comme évaluation?",NEGATIVE,0.9815654158592224
+5,Je me base sur quoi?,NEGATIVE,0.931842029094696
+5,Puis là on va bâtir... Six mois?,NEGATIVE,0.9066158533096313
+5,"Juste le questionnaire, ça va être ça, six mois, là.",NEGATIVE,0.9612598419189453
+5,"Juste le formulaire d'évaluation, ça va être ça, six mois, là.",NEGATIVE,0.9668111801147461
+5,"Ça me prend quoi, comme compétences?",NEGATIVE,0.967563271522522
+5,"Qui sera responsable de ça, de cette évaluation-là, que c'est conforme, pas conforme?",NEGATIVE,0.9078302979469299
+5,"Non, non, je...",NEGATIVE,0.9650059938430786
+5,"C'est aussi bébête que ça, moi, mon raisonnement.",NEGATIVE,0.934377133846283
+5,Qu'est- ce qu'on fait là?,NEGATIVE,0.9923627376556396
+5,"Puis je sais que je suis tannant avec ça, là, mais, pour moi, elle est fondamentale.",POSITIVE,0.9413981437683105
+5,"Ça, c'est un des articles fondateurs de la loi, la loi va être accotée là-dessus, sur ces principes-là.",POSITIVE,0.9194366335868835
+5,"Le premier dirigeant, il est responsable de faire appliquer la loi, il est responsable qu'on respecte la loi, et donc dans toutes ses facettes.",POSITIVE,0.9081501364707947
+5,"Parce que là on parle des systèmes d'information, mais l'ensemble de ces processus, ce n'est pas juste des processus d'information.",POSITIVE,0.9220671057701111
+5,"Puis on a même eu un débat extrêmement pertinent sur l'imputabilité, on s'est assuré, à micro ouvert, que tout le monde comprenait que c'est lui qui est imputable.",POSITIVE,0.9024574160575867
+5,"J'essayais de vendre ma salade au ministre en disant : Non, c'est juste la conformité, puis ça peut être «light», puis ça peut être... mais là il ne l'achète pas, ma salade.",NEGATIVE,0.9492468237876892
+5,"Moi, je ne peux pas croire ça.",NEGATIVE,0.9515478610992432
+5,"Puis j'avais peut-être ce fol espoir, mais je ne peux pas croire ça, que ça ne se fera pas, que ça ne sera même pas demandé, puis je leur demanderais.",NEGATIVE,0.9120240211486816
+5,"Puis là, là, je n'ai plus de salade à vendre.",NEGATIVE,0.9887909889221191
+5,"Là, j'en rajoute une couche, de toute façon il n'ajoutera pas mon amendement.",NEGATIVE,0.9846580028533936
+5,"C'est... Oui, oui, on va suspendre quelques instants.",NEGATIVE,0.9033366441726685
+5,Ça peut être un an.,NEGATIVE,0.9104563593864441
+5,"Mais, moi, par rapport à ce qu'on fait là, c'est... l'important, c'est qu'il fasse l'évaluation, qu'il trouve une façon de le faire, parce que c'est ça qui nous amène, autour de la table, à dire : Bien, il faut resserrer collectivement la protection des renseignements personnels.",POSITIVE,0.9465828537940979
+5,"Donc, l'amendement est rejeté.",NEGATIVE,0.9292745590209961
+5,"Sur ces mots, compte tenu de l'heure, la commission ajourne ses travaux sine die.",NEGATIVE,0.906954288482666

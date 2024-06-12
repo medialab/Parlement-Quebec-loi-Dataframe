@@ -1,0 +1,193 @@
+Jour,Phrase,Position,Score
+15,"…de vous écouter, mais je n'ai pas réussi.",NEGATIVE,0.9886716604232788
+15,...je n'ai pas... Sur 12 de 102.,NEGATIVE,0.9043724536895752
+15,"Bien, c'est parce que la divulgation des «principaux facteurs et paramètres ayant mené à la décision», ça va jusqu'où pour le ministre?",NEGATIVE,0.939868688583374
+15,"Bien là, à ce moment-là, ça devient problématique.",NEGATIVE,0.9033786654472351
+15,"Non, parce que...",NEGATIVE,0.9518736004829407
+15,Puis c'est correct.,NEGATIVE,0.9331516623497009
+15,"On s'entend, là, moi, j'ai mon ordinateur devant moi, si je vais sur mon téléphone, si je vais dans l'onglet Paramètres, ça ne me donne aucune information sur la mécanique développée sous-jacente par la compagnie.",NEGATIVE,0.9366836547851562
+15,"…et ainsi de suite, là.",NEGATIVE,0.939825177192688
+15,Tout à fait.,POSITIVE,0.9654862284660339
+15,Tout à fait.,POSITIVE,0.9654862284660339
+15,C'est très clair.,POSITIVE,0.9688781499862671
+15,"Le deuxième, ça m'apparaît être autre chose.",NEGATIVE,0.982650101184845
+15,Ça fait que... juste pour bien cerner l'objectif du deuxième paragraphe.,NEGATIVE,0.9150376915931702
+15,"Mais votre question était excellente, M. le député de Gouin.",POSITIVE,0.9576058387756348
+15,"Ou, sur un chantier… Bien là, sur un chantier, là, je m'aventure un peu trop… Mais tout ça pour dire que c'est… ça ne sera pas dans tous les cas que la géolocalisation va être considérée comme un renseignement sensible.",NEGATIVE,0.9007176756858826
+15,"Oui, mais, si on est dans une situation où on est… si on est dans une situation normale et non pas une situation d'exception, c'est un consentement qui est standard, c'est-à-dire manifeste, libre, éclairé et donné à des fins spécifiques.",POSITIVE,0.9324166774749756
+15,Excusez… (panne de son) …le matériel de l'Assemblée nationale.,NEGATIVE,0.9431089758872986
+15,"C'est après, pour la communiquer à un tiers...",NEGATIVE,0.9352415800094604
+15,...pour la communication.,NEGATIVE,0.9331737756729126
+15,Puis là je regarde Me Deschênes à chaque fois pour dire : Je pense que je ne dis pas trop de niaiseries.,NEGATIVE,0.9053612351417542
+15,"Mais donc, au niveau de la collecte, il n'y a pas de...",NEGATIVE,0.9536965489387512
+15,"Je partage... Oui, parfait, ça répond à ma question pour ce qui est de ça.",POSITIVE,0.9831386804580688
+15,"Et donc, désolé, là, si on revient à 13, à 13, c'est pour le...",NEGATIVE,0.970343291759491
+15,"Oui, tout à fait.",POSITIVE,0.9223586916923523
+15,"Puis, le lendemain, il y a d'autres choses qui s'en vient, bon, pour toutes sortes de bonnes raisons, mais moi, je vous ai demandé le consentement pour la fin de dire : Tu t'en vas faire ce travail-là pour des raisons de sécurité, je ne t'ai pas dit qu'après ça, ah!",NEGATIVE,0.9051325917243958
+15,"Non, non.",NEGATIVE,0.9974422454833984
+15,"Puis, si l'application vise à...",NEGATIVE,0.9119879007339478
+15,"À mon sens, ce n'est pas une finalité, puis je vous dis, compatible, mais cette notion-là ne rentre même pas en ligne de compte parce que c'est une donnée sensible pour laquelle j'ai besoin d'un consentement.",NEGATIVE,0.9018824696540833
+15,"Donc, non, non.",NEGATIVE,0.9978068470954895
+15,"Ça, ça n'a rien à voir, là.",NEGATIVE,0.9965798258781433
+15,Puis tu n'es pas allé au rendez-vous médical.,NEGATIVE,0.9398927092552185
+15,"Non, c'est ça, non.",NEGATIVE,0.9878546595573425
+15,"Parce que le quart de travail était terminé, le consentement était expiré.",NEGATIVE,0.9638760089874268
+15,Parce que la raison que j'ai invoquée pour ça est une raison qui était... dont la finalité s'est terminée au moment où vous êtes sorti du lieu d'emploi.,NEGATIVE,0.9656148552894592
+15,"Cette finalité-là s'est terminée, puis le consentement, il était donné pour ça mais pas pour... Donc, le consentement est comme expiré au moment où le quart de travail finit.",NEGATIVE,0.9270583391189575
+15,"Parce que ce n'est pas ça, la fin qui a été demandée.",NEGATIVE,0.9336780309677124
+15,Le patron peut toujours appeler un employé pour lui demander : Aïe!,NEGATIVE,0.946123480796814
+15,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+15,"Oui, tout à fait.",POSITIVE,0.9223586916923523
+15,"Non, mais c'est parce que je ne referai pas le débat, là.",NEGATIVE,0.9201648235321045
+15,Très bien.,POSITIVE,0.9973982572555542
+15,"Alors, évidemment, je pourrais, mais je vais passer.",NEGATIVE,0.9871046543121338
+15,"M. le député de La Pinière, allez-y, allez-y.",POSITIVE,0.9098197221755981
+15,"Il n'en reste pas moins qu'à un moment donné dans la version initiale, c'était «équivalente», et là vous avez choisi de changer ça pour «adéquate»?",NEGATIVE,0.9481052756309509
+15,"Non, en fait, c'est ça, c'est que l'amendement que je propose...",NEGATIVE,0.9195528626441956
+15,Cet amendement enlève ça.,NEGATIVE,0.9140889644622803
+15,"Donc, on ne peut pas...",NEGATIVE,0.9210866689682007
+15,"Excusez-moi, j'étais mêlé comme une poignée de clous, là.",NEGATIVE,0.9678588509559631
+15,"M. le Président, donc, encore une fois, c'est la notion de dossier que nous venons d'éliminer.",NEGATIVE,0.9297674894332886
+15,"Là, ce qu'on fait, c'est retirer les notions de dossier dans l'article 18.1.",NEGATIVE,0.9379887580871582
+15,"Oui, désolé, désolé.",NEGATIVE,0.9428945183753967
+15,(Interruption) Pardon.,NEGATIVE,0.9195466041564941
+15,"Il n'y avait pas de disposition, c'est ça.",NEGATIVE,0.9098188281059265
+15,"Donc, il y avait un vide juridique.",NEGATIVE,0.9540196657180786
+15,"Dans la pratique, là...",NEGATIVE,0.9010643362998962
+15,La loi ne prévoyait rien.,NEGATIVE,0.9330506920814514
+15,"C'est un bel exemple, là, où le français juridique n'est pas le français courant, là.",POSITIVE,0.9123252630233765
+15,"Je ne me souviens pas, puis là c'est par absence, dans mon cas, je ne me souviens pas...",NEGATIVE,0.9662218689918518
+15,"Je comprends, mais, à la collection initiale du renseignement personnel, là...",NEGATIVE,0.9871155023574829
+15,C'est vraiment de la sous-traitance?,NEGATIVE,0.9463083148002625
+15,"Donc, je ne vois pas pour quelle raison il aurait l'autorisation de transférer un renseignement personnel sur sa clientèle.",NEGATIVE,0.9136701226234436
+15,"Parce que là, là, on s'adresse vraiment au cas où j'ai un sous-traitant, ce sous-traitant-là, j'ai besoin de lui... Bon, allons-y, je fais affaire avec un contracteur pour la réalisation d'un chantier x, j'engage des sous-traitants... Même là, je ne vois pas vraiment pourquoi... Non, mon exemple non plus n'est pas tellement meilleur que le vôtre, là, parce que je ne vois pas pourquoi il y aurait communication.",NEGATIVE,0.9346710443496704
+15,Je pense que Me Miville-Deschênes brûle du désir de nous parler.,POSITIVE,0.9032629728317261
+15,"Je comprends l'exemple, mais là on est dans le contrat de services.",NEGATIVE,0.9161635637283325
+15,"Donc, en tout cas, on ne voit pas de problème ou on n'a pas été mis au fait de problèmes par rapport à la durée de conservation, là, des renseignements par le sous- traitant, là.",NEGATIVE,0.9461186528205872
+15,"Je suis d'accord avec ça, là, c'est...",NEGATIVE,0.9513379335403442
+15,"Et, à 14, on vient affirmer... Pardon, à 13, à 13.",NEGATIVE,0.9213501811027527
+15,"Donc, qu'est-ce qu'il reste?",NEGATIVE,0.9297285676002502
+15,"Merci beaucoup, merci beaucoup.",POSITIVE,0.9790270328521729
+15,"Non, mais, comment...",NEGATIVE,0.9610000848770142
+15,...et pour aucune autre finalité.,NEGATIVE,0.9977371692657471
+15,Et pour aucune autre.,NEGATIVE,0.983651340007782
+15,"Non, non, non.",NEGATIVE,0.9973886609077454
+15,"Je veux dire, son apport est extrêmement précieux.",POSITIVE,0.9711296558380127
+15,"Non, non, non.",NEGATIVE,0.9973886609077454
+15,Je ne sais pas si mon explication est claire.,NEGATIVE,0.9472181797027588
+15,"Ça n'a rien à voir, on n'est pas dans la même finalité de services, là.",NEGATIVE,0.9730168581008911
+15,Ça fait que non.,NEGATIVE,0.9821646213531494
+15,"selon moi, c'est un bon achat, c'est un mauvais achat… Qu'est-ce que j'achète.",NEGATIVE,0.9640026092529297
+15,"…ça vaut cher, ça ne vaut pas cher.",NEGATIVE,0.926018476486206
+15,"En fait, ma question, là, elle n'est pas claire.",NEGATIVE,0.9194719195365906
+15,"Au contraire, c'est très bien.",POSITIVE,0.9907714128494263
+15,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+15,"Et, dans le contexte que vous situez très bien, pour lequel… Oui, vous situez très bien le contexte, et ce contexte-là devra s'adapter à ce que la loi va faire.",POSITIVE,0.9662986993789673
+15,"Mais là, quand on est au privé, là, «l'objectif de l'étude, de la recherche ou de la production de statistiques l'emporte, eu égard à l'intérêt public, sur l'impact...», j'ai de la misère à comprendre le sens de cette phrase-là, là.",NEGATIVE,0.9785628914833069
+15,"Non, non.",NEGATIVE,0.9974422454833984
+15,"Non, non.",NEGATIVE,0.9974422454833984
+15,C'est comme si l'intérêt... Non.,NEGATIVE,0.9981593489646912
+15,"Non, non.",NEGATIVE,0.9974422454833984
+15,"Ça devient du profilage d'utilisation de traitements, de médicaments, de «whatever» en santé.",NEGATIVE,0.9157138466835022
+15,"Et ça, ça devient une donnée qui peut être utile tant pour l'État que pour les compagnies pharmaceutiques que pour d'autres personnes qui sont en lien.",POSITIVE,0.9315358400344849
+15,"Comment ça s'inscrit, ça, là-dedans?",NEGATIVE,0.9447895884513855
+15,"Et ça, là, cette compagnie-là qui fait ça, elle est très, très, très connue, puis il y a bien des gens qui trouvent ça utile, mais, en même temps, il y a bien des gens qui trouvent que c'est à la limite de l'intrusion.",NEGATIVE,0.9241066575050354
+15,C'est ça qui est le problème.,NEGATIVE,0.9553634524345398
+15,"Mais ça, ça ne change rien, là.",NEGATIVE,0.9855563044548035
+15,"Puis c'était banal, je ne nommerai personne, c'était vraiment marginal.",NEGATIVE,0.9732146263122559
+15,"Moi, je trouve, là...",NEGATIVE,0.9326120018959045
+15,"Je vais résumer ma pensée, puisqu'on s'interroge trop.",NEGATIVE,0.959571897983551
+15,"Bien, je vous dirais que le «libertaire», ça, je… C'est exagéré, c'est exagéré, c'est exagéré.",NEGATIVE,0.9206586480140686
+15,"Non, ce n'est pas mon intention.",NEGATIVE,0.9770933389663696
+15,"Oui, mais là, là... O.K.",NEGATIVE,0.9928240776062012
+15,Mais ce n'est pas ça que ça dit non plus.,NEGATIVE,0.9638309478759766
+15,"Oui, mais là, là...",NEGATIVE,0.9332441687583923
+15,"Oui, oui, absolument, absolument.",POSITIVE,0.978861927986145
+15,"Ça, là, c'est un mauvais exemple parce que ça, ça serait dans un monde plus académique.",NEGATIVE,0.9548017978668213
+15,"Moi, je trouve... Moi, c'est ça qui me fatigue, c'est parce que ça dit : «eu égard à l'intérêt public».",NEGATIVE,0.9942296743392944
+15,"C'est quoi, ça?",NEGATIVE,0.9844344258308411
+15,"Et, rendus à 60 millions de dollars de dépenses, tous les participants se sont fait mettre dans un amphithéâtre en Californie pour se faire dire : On remercie les Canadiens, vous avez très bien fait les protocoles.",NEGATIVE,0.9153911471366882
+15,"FDA, protocole non suivi, 60 millions aux poubelles.",NEGATIVE,0.9736376404762268
+15,La compagnie n'était pas heureuse.,NEGATIVE,0.9294497966766357
+15,"Nous autres, on se pétait les bretelles.",NEGATIVE,0.9495286345481873
+15,"Exactement, oui, tout à fait.",POSITIVE,0.9627565145492554
+15,"Moi, j'accroche à ça, cette affaire-là, là.",POSITIVE,0.9433152079582214
+15,"«3° l'objectif de l'étude, de la recherche ou de la production de statistiques l'emporte sur l'impact de la communication et de l'utilisation des renseignements... l'emporte, eu égard à l'intérêt public, sur l'impact de la communication, de l'utilisation de renseignements sur la vie privée des personnes concernées», «l'emporte, eu égard à l'intérêt public», c'est ça qui ne marche pas.",NEGATIVE,0.9953269958496094
+15,"Alors, cette phrase-là, pour moi, n'est pas bonne.",NEGATIVE,0.9863249659538269
+15,"«4° les renseignements personnels...» Mais on peut-tu... Non, mais non...",NEGATIVE,0.9132369160652161
+15,Je vais juste finir.,NEGATIVE,0.9831910729408264
+15,"Est-ce qu'on va trop loin moralement, cliniquement, peu importe?",NEGATIVE,0.9144555330276489
+15,Bien non.,NEGATIVE,0.9813978672027588
+15,"Puis une de ces conditions- là... Donc, on en a quatre sur lesquelles on s'entend, il n'y a pas d'enjeu...",NEGATIVE,0.9803741574287415
+15,Je ne peux pas faire autrement...,NEGATIVE,0.9879106283187866
+15,"La réponse, c'est non.",NEGATIVE,0.9265337586402893
+15,"Bien là, si on n'est pas d'accord là-dessus, ça veut dire qu'on parle maintenant de la même chose.",NEGATIVE,0.901008129119873
+15,"C'est un article... Non, non, juste une seconde, là, pour l'archive, là.",NEGATIVE,0.9137418270111084
+15,"Pas au récepteur, là.",NEGATIVE,0.9017200469970703
+15,Sans consentement.,NEGATIVE,0.9624210596084595
+15,Ça ne peut pas être «eu égard à l'intérêt public».,NEGATIVE,0.9198817610740662
+15,"Donc, on n'a pas d'affaire à mettre ça.",NEGATIVE,0.9804487824440002
+15,"Vous y aviez droit, vous n'êtes pas le sous le coup... Public.",NEGATIVE,0.991211473941803
+15,"C'est parce que, moi, ce que je ne comprends pas dans l'argument du député de La Pinière, c'est d'en arriver à la conclusion que toutes les recherches vont devoir être d'intérêt public.",NEGATIVE,0.9012249112129211
+15,"Pourquoi vous sentez le besoin d'écrire ça, de faire cet amendement-là?",NEGATIVE,0.9807713627815247
+15,"Vous auriez pu laisser ça comme ça, on n'aurait pas cette conversation-là, mais là vous avez choisi d'amener ça, «eu égard à l'intérêt public».",NEGATIVE,0.9711536765098572
+15,"Non, ce n'est pas vrai.",NEGATIVE,0.9101705551147461
+15,"Bien, justement.",POSITIVE,0.9050831198692322
+15,Vous n'avez pas suivi?,NEGATIVE,0.9723638296127319
+15,"J'ai suivi, là, mais on...",NEGATIVE,0.9637258648872375
+15,Comment dire?,NEGATIVE,0.9091182947158813
+15,Vous auriez été mieux...,NEGATIVE,0.9988335967063904
+15,"Vous avez fait un amendement qui a fait dring, dring dans ma tête, et là on s'ostine, mais c'est ça que vous faites pareil.",NEGATIVE,0.9417172074317932
+15,"Non, non, pas du tout, parce que ça serait «si», à ce moment-là.",NEGATIVE,0.9401618242263794
+15,"Non, non, non.",NEGATIVE,0.9973886609077454
+15,"Bien là, là-dessus, je vous dirais en plus que… Bien là, on a la connaissance divine du droit, le droit est avec nous.",POSITIVE,0.9020363688468933
+15,"Ça fait que, là, le député de La Pinière, par notre entremise, s'obstine avec le député de LaFontaine.",NEGATIVE,0.9499382972717285
+15,"Parfait, merci.",POSITIVE,0.995118260383606
+15,Ça fait que… Ça fait qu'en plus on s'est obstiné sur un amendement qui était adopté?,NEGATIVE,0.9868229627609253
+15,Et là je vais revenir après.,NEGATIVE,0.9720078706741333
+15,Je pense que nous avons assombri le tableau plus qu'éclairé le tableau.,NEGATIVE,0.9878575801849365
+15,"Donc, il n'y a pas de fins sérieuses et… Pas dans le public.",NEGATIVE,0.9826851487159729
+15,Davantage la limite.,NEGATIVE,0.9231451749801636
+15,"Si elles sont plus claires pour moi, c'est que je continue à discuter là-dessus, c'est que ce n'est pas suffisamment clair.",NEGATIVE,0.921476423740387
+15,"Et là, par souci de miroir, on voudrait permettre de les conserver pour des raisons sérieuses et légitimes.",NEGATIVE,0.9487441778182983
+15,"Bon, on peut débattre longtemps sur ce qui est l'intérêt public, mais c'est un discriminant pareil.",NEGATIVE,0.9923875331878662
+15,"Ce qui, pour moi, n'est pas nécessairement une bonne chose.",NEGATIVE,0.996737539768219
+15,"Longitudinale, c'est ici qu'est l'intérêt, là.",NEGATIVE,0.9491360783576965
+15,"Longitudinale, c'est ici qu'est l'intérêt, là.",NEGATIVE,0.9491360783576965
+15,Cette fin-là n'existe plus.,NEGATIVE,0.9157816171646118
+15,"Cette fin-là, elle est terminée.",NEGATIVE,0.9924693703651428
+15,"Parfois, ils n'ont pas assez de sens.",NEGATIVE,0.9564579725265503
+15,"Le sérieux et le légitime, c'est une autre chose.",NEGATIVE,0.9281874299049377
+15,Le ministre nous dit : La finalité n'est pas la même.,NEGATIVE,0.908147931098938
+15,"O.K., correct, pas de problème avec ça.",NEGATIVE,0.9692506194114685
+15,"Non, ça, c'est sûr.",NEGATIVE,0.9156251549720764
+15,"Si le «légitime» est attaché à «sérieux», bien, le sérieux, là, au recueil de la donnée, ce n'est pas lié à la fidélité, c'est juste sérieux.",POSITIVE,0.9180103540420532
+15,"Si le critère et si le prisme est bon, à l'article 4, pour dire : Voici le contexte dans lequel vous allez recueillir des renseignements personnels, s'il est juridiquement viable, à ce moment-là, qu'est-ce qui fait qu'il perd de sa légitimité, rendu à l'article 22... 23?",NEGATIVE,0.9178464412689209
+15,"Bien, je ne comprends pas, là.",NEGATIVE,0.9406581521034241
+15,Ce n'est pas ça je dis.,NEGATIVE,0.936363160610199
+15,"De toute façon, on ne peut pas le payer à ne rien faire, là.",NEGATIVE,0.9888691902160645
+15,"Donc, souvent, là, ça va être une question de savoir s'il y a un véritable intérêt commercial en arrière de cette collecte-là, là.",NEGATIVE,0.9440834522247314
+15,"C'était une collecte massive, là, d'images, sans aucun consentement.",NEGATIVE,0.927056610584259
+15,"C'est un exemple, là, c'est… Le problème, c'est que ça ne peut se débattre que par de la jurisprudence.",NEGATIVE,0.9425192475318909
+15,"Mais, dans la vraie vie, c'est oui, parce que, dans l'événement en question, peut-être qu'à ce moment-là il y avait telle possibilité thérapeutique ou diagnostic qui n'existait pas, mais à long terme ça apparaît, et là le risque de l'individu pourrait changer en fonction de l'évolution de la science médicale.",POSITIVE,0.9706390500068665
+15,"Alors, pour l'événement, c'est fait, c'est clos, c'est terminé, merci, bonsoir.",NEGATIVE,0.9884185194969177
+15,"Moi, je dis que c'est vague, tout simplement, là.",NEGATIVE,0.9834643006324768
+15,"C'est elle qui les a collectés, là, c'est dans ses opérations, c'est dans son ADN, là.",POSITIVE,0.9345176815986633
+15,"Vous avez suivi une ligne qui part de «collection de renseignements personnels pour une finalité», qui se termine par une destruction.",NEGATIVE,0.9503685832023621
+15,"Puis, comme on n'est plus à l'école secondaire, on n'applaudira pas.",NEGATIVE,0.9901420474052429
+15,Je n'ai jamais applaudi.,NEGATIVE,0.9953619837760925
+15,"Et le test, par lequel je l'ai fait passer, n'existe plus.",NEGATIVE,0.9580690264701843
+15,"Il l'est assez pour la collecte, mais il ne l'est pas assez pour l'anonymisation.",NEGATIVE,0.9864600896835327
+15,"C'est là où je dis : Bien, je ne comprends pas.",NEGATIVE,0.915931761264801
+15,On détruit.,NEGATIVE,0.9459576606750488
+15,Sans référence à quelque… À l'algorithme qui le traite.,NEGATIVE,0.915860116481781
+15,"Non, non, non.",NEGATIVE,0.9973886609077454
+15,"Il me semble ici qu'il pourrait manquer quelque chose, là.",NEGATIVE,0.9642796516418457
+15,"On dit, puis c'est une très bonne chose, que le citoyen peut demander à quelqu'un, une entreprise… Qu'est-ce que tu sais sur moi?",POSITIVE,0.9147928357124329
+15,"On le modifie par l'article 117 du projet de loi, mais c'est une modification de concordance, ça ne change pas… Puis ça fait quoi?",NEGATIVE,0.9463322758674622
+15,"Bien, l'article 33 prévoit que des frais raisonnables peuvent être exigés du requérant pour la… Mais on ne statue pas sur ce qui est un frais raisonnable?",NEGATIVE,0.9820858240127563
+15,"Bon… Donc, sur les frais comme tels, on n'est pas là.",NEGATIVE,0.9742732644081116
+15,"Oui, absolument.",POSITIVE,0.981696367263794
+15,"...ça ne m'a rien coûté, là.",NEGATIVE,0.9254874587059021
+15,C'est vraiment juste pour la copie puis la livraison.,NEGATIVE,0.985850989818573
+15,"Oui, oui, tout à fait.",POSITIVE,0.9180862307548523

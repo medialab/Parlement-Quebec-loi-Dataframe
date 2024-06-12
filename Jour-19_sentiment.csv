@@ -1,0 +1,176 @@
+Jour,Phrase,Position,Score
+19,On ne demandera pas de...,NEGATIVE,0.9058082699775696
+19,"mais on a une option de la renouveler telle quelle, correct, bien, on va la renouveler telle quelle, mais on va ajouter ça, ça, ça... Non.",NEGATIVE,0.9888049364089966
+19,Mais on donne un gap de deux ans.,NEGATIVE,0.9735124707221985
+19,On ne l'a pas reçu.,NEGATIVE,0.9278439283370972
+19,"Et, juste pour me rafraîchir... Donc, le fameux article 21 de la loi, qui visait l'article 67, qu'en avons-nous fait?",NEGATIVE,0.9291741251945496
+19,"Parfait, c'est beau.",POSITIVE,0.9907081127166748
+19,"Donc, c'était suspendu.",NEGATIVE,0.9503850936889648
+19,"Il est supprimé, mais il n'est pas plus donné.",NEGATIVE,0.9357674717903137
+19,Je le garde.,POSITIVE,0.9593377113342285
+19,"Et, si on conserve un lien juridique ou un lien contractuel, je le garde, parce qu'éventuellement ça pourra servir à une prestation de services, mais, si on ne conserve pas de lien juridique, de lien contractuel, je le supprime.",NEGATIVE,0.9880995154380798
+19,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+19,"Bien, vite de même, je... Non.",NEGATIVE,0.9948157668113708
+19,On n'a pas d'exemple du tout?,NEGATIVE,0.9757009148597717
+19,"Je ne vois pas, là.",NEGATIVE,0.9865375757217407
+19,"Ceci étant dit, comme je vous dis, puis, bon, je n'ai pas, non, effectivement d'exemple.",NEGATIVE,0.9005740880966187
+19,... Non.,NEGATIVE,0.9925249814987183
+19,"Sur division, donc... Bien, sur division, c'est contre.",NEGATIVE,0.9769814610481262
+19,On a le même résultat.,NEGATIVE,0.9482616782188416
+19,"Donc, M. le Président, c'est exactement un copier-coller de ce qu'on vient de faire.",NEGATIVE,0.99237459897995
+19,"Là, on était à 36.1.",NEGATIVE,0.932830274105072
+19,"Attendez, je vais me démêler.",NEGATIVE,0.941222071647644
+19,C'est quoi l'amendement?,NEGATIVE,0.9493445754051208
+19,"Donc, il ne pouvait pas faire... O.K.",NEGATIVE,0.9376987218856812
+19,C'est correct.,NEGATIVE,0.9439950585365295
+19,"À ce niveau-là, c'est...",NEGATIVE,0.9833807945251465
+19,Mais là on a amendé...,NEGATIVE,0.9155545234680176
+19,Tu ne veux pas aller à la quincaillerie.,NEGATIVE,0.9352701306343079
+19,Tu ne veux pas.,NEGATIVE,0.9074299335479736
+19,Tu ne veux pas.,NEGATIVE,0.9074299335479736
+19,"J'allais dire un mot commençant en g, un deux-par-trois.",NEGATIVE,0.913144052028656
+19,"Qu'est-ce qu'on fait ici, dans le fond?",NEGATIVE,0.9881799221038818
+19,"Puis la Commission d'accès à l'information arrivait là-dedans pour avaliser les protocoles, puis ce n'était pas...",NEGATIVE,0.9042551517486572
+19,"On n'a pas besoin... Non, non.",NEGATIVE,0.97358238697052
+19,...que ce que les articles qu'on propose font.,NEGATIVE,0.9623470306396484
+19,"Juste pour ma gouverne, l'Institut de la statistique du Québec, puis ça mon collègue de La Pinière doit être très au fait de ça, mais moi, je ne le suis pas, elle a accès à quoi comme données, renseignements personnels?",NEGATIVE,0.9728941917419434
+19,"Ça fait que ça, ils répètent ça à chaque année.",NEGATIVE,0.9662110805511475
+19,"C'est correct, là.",NEGATIVE,0.9802826642990112
+19,"Les données des Québécois, Québécoises, ça s'en va où?",NEGATIVE,0.9483004808425903
+19,"Il y a comme des appels d'offres, et ainsi de suite.",NEGATIVE,0.9536706209182739
+19,"Ça s'en va où, l'infonuagique?",NEGATIVE,0.9264305233955383
+19,"Là, c'est juste que je n'ai pas... Vous comprendrez qu'avec les vacances, là, j'ai un décalage de quelques mois.",NEGATIVE,0.9425286650657654
+19,Mais qu'est-ce qui est en cours?,NEGATIVE,0.9287070631980896
+19,"Aux dernières nouvelles, on était à peu près à 20 % des contrats, des ententes qui étaient signés, là, mais, comme je vous dis, là, je n'ai pas de... je n'ai pas de mise à jour, là.",NEGATIVE,0.9397626519203186
+19,Est-ce qu'il y a un... Ou c'est-tu zéro?,NEGATIVE,0.9472190737724304
+19,"Ou ce n'est pas commencé, ou il y a un... ça a commencé?",NEGATIVE,0.9201109409332275
+19,"Mais dans l'exécution, bien là... Pas encore.",NEGATIVE,0.9910865426063538
+19,"C'est ce qui va de la donnée... de la donnée ouverte, là, qu'on va mettre sur donneesquebec.ca, donc accessible, libre de droits, tout le monde y a accès, à de la donnée qui a peut-être un niveau de sensibilité un peu plus grand, mais pour laquelle il y a des prérequis pour les entreprises à se qualifier sur leur capacité à assurer la sécurité de l'information.",POSITIVE,0.9644376039505005
+19,Ça me fait plaisir.,POSITIVE,0.9539878368377686
+19,"Alors, je ne sais pas si vous voulez continuer dans cet ordre-là.",NEGATIVE,0.9595626592636108
+19,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+19,"C'est lequel article, là, qu'on... O.K.",NEGATIVE,0.9146078824996948
+19,"J'avais demandé aux collègues de suspendre l'article pour avoir une réflexion parce que, dans sa forme actuelle, là, je trouvais que l'article faisait le travail, mais on allait jusqu'à l'interdiction.",NEGATIVE,0.9571623206138611
+19,"Je ne vois pas vraiment de précédent non plus, alors...",NEGATIVE,0.990227222442627
+19,Puis là on parle de recueillir des renseignements sur… Bon.,NEGATIVE,0.9307319521903992
+19,"En fait, l'argument initial, c'était de dire : Mais là, si je fais du profilage chez les jeunes, puis là je veux avoir des publicités ciblées chez les jeunes, puis… On n'est pas là.",NEGATIVE,0.9353833794593811
+19,"Ça, pour moi, c'est excessif, compte tenu des circonstances puis compte tenu de l'environnement.",NEGATIVE,0.9503154158592224
+19,"Alors, moi, je trouvais ça... je trouvais ça excessif.",NEGATIVE,0.9718194007873535
+19,"Puis, je vous dirais, après réflexion, je continue à trouver ça excessif.",NEGATIVE,0.9151047468185425
+19,J'étais là.,POSITIVE,0.9532026052474976
+19,"Suspendu, là, mais... Oui, c'est correct.",NEGATIVE,0.9168556928634644
+19,"C'est quoi, les faits nouveaux?",NEGATIVE,0.9089249968528748
+19,"En fait, non.",NEGATIVE,0.9936527013778687
+19,"Et, après réflexion, j'en arrive à la conclusion que je ne suis pas favorable à l'interdiction.",NEGATIVE,0.9200234413146973
+19,Je ne veux pas mettre des mots dans la bouche...,NEGATIVE,0.9276652932167053
+19,"Ça, j'en suis profondément convaincu.",POSITIVE,0.9235440492630005
+19,"Ça, j'en suis profondément convaincu.",POSITIVE,0.9235440492630005
+19,"Ça, n'existe pas, là, c'est impossible.",NEGATIVE,0.9750847220420837
+19,C'était beau.,POSITIVE,0.9632052779197693
+19,"On ne les prendrait pas, là.",NEGATIVE,0.9241243004798889
+19,"Moi, je dis non, je dis non.",NEGATIVE,0.9836038947105408
+19,"Ce que je dis, c'est que, pour moi, la grande majorité des parents, l'immense majorité des parents, sont aptes à assumer ces responsabilités-là, le font d'abord avec amour pour leurs enfants, ce qui est, pour moi, la condition de base qui doit se retrouver, ensuite en ayant à coeur l'intérêt de leurs enfants au détriment de leurs propres intérêts.",POSITIVE,0.9763328433036804
+19,"Et, pour moi, il ne fait aucun doute qu'un parent, dans l'immense majorité des cas, va prendre une décision pour son enfant qui est dans l'intérêt de l'enfant.",POSITIVE,0.949647843837738
+19,"Sauf que, là, on va interdire ça parce qu'il y a une couple de zozos qui ont été des zozos?",NEGATIVE,0.901239275932312
+19,"Je m'excuse, M. le... Juste de même, pour conclure, je vais arrêter après ça.",NEGATIVE,0.9647753834724426
+19,"Puis là, si on les informe, bien là, écoutez l'échange qu'on a eu, là, puis vous allez voir exactement les questions qu'on s'est posées, là, je comprends qu'ils vont nous répondre, on va revenir ici puis on va l'adopter ou non.",POSITIVE,0.935375452041626
+19,"Non, non, M. le Président, là, on fait des parallèles qui n'existent... que je n'ai pas fait, là.",NEGATIVE,0.9195801615715027
+19,Mais là on parle de permettre à une entreprise de recueillir des renseignements personnels.,NEGATIVE,0.9457192420959473
+19,"Je comprends que c'est important, je comprends qu'il faut... je n'irai pas en contradiction du discours que je tiens depuis le début, c'est important, mais ça se fait si et seulement si le parent est d'accord.",POSITIVE,0.9538005590438843
+19,"Je pense que c'est une bonne idée de demander les recommandations de la CAI, ça, c'est une bonne idée, sauf que dire, donc : On leur demande une recommandation, mais on statue avant d'avoir leur recommandation, ça m'apparaît une mauvaise façon de procéder, parce qu'on prend le risque de prendre une décision... en fait, on fait le choix, on ne prend pas le risque, on fait le choix de prendre une décision qui n'est pas éclairée.",NEGATIVE,0.9541073441505432
+19,"D'abord, si on retire l'article, on laisse l'article qui existe déjà dans l'état actuel, ce qui va être incohérent avec ce qu'on a fait.",NEGATIVE,0.9658149480819702
+19,"Ni même la notion d'interdiction, même sans ou avec le consentement des parents, n'existe pas dans la loi.",NEGATIVE,0.9037590026855469
+19,"Donc, on garde un vide.",NEGATIVE,0.9803729057312012
+19,"Donc, si on garde l'état de la loi actuelle, non seulement on est incohérent parce qu'il y a la notion de dossier qu'on a évacuée partout, mais en plus c'est que, là, il n'y a pas d'interdiction du tout, là, c'est... il n'y a même plus besoin du consentement des parents pour les recueillir, on peut le faire tant qu'on veut, comme on veut, si on veut.",NEGATIVE,0.9337601661682129
+19,"Moi, je ne suis pas là, je vous le dis, je ne suis pas là.",NEGATIVE,0.91322261095047
+19,"Par rapport au reste, le problème que je vois...",NEGATIVE,0.9968817234039307
+19,"Je comprends votre argument, on fait un pas en avant, c'est pire comme c'est là.",NEGATIVE,0.9940542578697205
+19,"Sauf que le problème, c'est que disons qu'on prend... on fait le choix de faire une décision pas éclairée, ce qui serait le cas, et que, là, la commission dise : C'était une décision pas éclairée, il faudrait faire autre chose, allez-vous vraiment déposer, a posteriori, après tout ça, un projet de loi modifiant uniquement cet article-là?",NEGATIVE,0.9042719602584839
+19,"Je comprends qu'on ne va pas aussi loin sur différents sujets que souhaité, mais je pense que tout le monde s'entend pour dire qu'on fait un bond en avant qui est très, très, très important.",POSITIVE,0.977451741695404
+19,"Et donc il y aura cette incohérence, bon, d'une part.",NEGATIVE,0.9020306468009949
+19,"D'autre part, comme dans d'autres articles, puis j'ai eu cette discussion-là, on a eu quelques discussions avec le député de Gouin, je comprends qu'on ne va pas aussi loin qu'il le souhaiterait ou que vous le souhaitez, M. le député de Jean-Lesage, mais il faut quand même admettre qu'entre la situation actuelle puis ce qui est proposé par 96 il y a un progrès très significatif, parce qu'il y a quand même la notion d'interdiction, et nous l'amenons, nous l'introduisons.",POSITIVE,0.93880695104599
+19,"Juste pour rectifier, je ne prétends pas que c'est une mauvaise décision, juste que c'est une décision qui n'est pas éclairée.",NEGATIVE,0.9608557820320129
+19,"Maintenant, ici, moi, j'ai une conviction profonde, M. le député.",POSITIVE,0.9152762293815613
+19,"Je sais que vous êtes vous-même père de famille, je suis convaincu que vous comme moi, on est dédiés au bien-être de nos enfants, puis j'ai plutôt tendance à dire : Je pense que vous êtes la meilleure personne pour prendre les décisions les plus éclairées pour le bénéfice de vos enfants.",POSITIVE,0.9130136966705322
+19,"Ceci étant dit, l'article améliore la loi, parce qu'il y a un vide.",NEGATIVE,0.9058427810668945
+19,"Actuellement, il y a un vide que nous comblons en disant : Vous ne pouvez pas le faire, à moins que les parents soient d'accord.",NEGATIVE,0.9200446009635925
+19,"Je le souhaite, parce que c'est une loi qui est extrêmement importante, quasi constitutionnelle.",POSITIVE,0.9840077757835388
+19,"En fait... suspendu, M. le Président.",NEGATIVE,0.9242972135543823
+19,on ne l'avait pas adopté.,NEGATIVE,0.9441773891448975
+19,On n'avait pas commencé à débattre.,NEGATIVE,0.9138786196708679
+19,"Non, on ne l'avait pas commencé.",NEGATIVE,0.9673386812210083
+19,"«Une personne qui exploite une entreprise et qui recueille des renseignements personnels en offrant au public un produit ou un service technologique...» C'est quoi, ça, un produit ou un service technologique?",NEGATIVE,0.9067993760108948
+19,"Bien, c'est un site Web, c'est une application quelconque, là, GPS ou une application de quel est le meilleur restaurant à Québec.",NEGATIVE,0.9409748315811157
+19,"Ce qu'on ne lit jamais, là, qui fait trois pages de long.",NEGATIVE,0.962830662727356
+19,"Personnellement, je n'accède pas à ces sites-là, personnellement.",NEGATIVE,0.9774919152259827
+19,"Personnellement, je pense que non.",NEGATIVE,0.9973077774047852
+19,"Bien, en fait, non, dans la mesure où on ne parle pas ici de service essentiel.",NEGATIVE,0.9198368787765503
+19,"Moi, je pense que non, je pense que ce n'est pas nécessaire, parce qu'on n'est pas dans une notion de service essentiel.",NEGATIVE,0.9217026829719543
+19,"Évidemment, si c'était une organisation gouvernementale, j'aurais plus de misère avec ça, évidemment, là, mais une entreprise qui offre un service, à la limite, se prive d'une clientèle.",NEGATIVE,0.9436997175216675
+19,"Donc, moi, je pense que l'entreprise est aussi pénalisée, sinon plus, que la personne qui n'aura pas accès au site en question.",NEGATIVE,0.935206949710846
+19,"C'est-tu une raison, disons, technique ou c'est une raison… Je ne sais pas.",NEGATIVE,0.9102346897125244
+19,"Moi, au moment où on se parle, ça doit faire au moins quatre mois qu'avec les TI de l'Assemblée nationale j'essaie d'enlever une application qui est sûrement rentrée par une affaire comme ça, pas capable.",NEGATIVE,0.9514411091804504
+19,"Personne n'est capable, personne, personne, personne.",NEGATIVE,0.9583628177642822
+19,Ça me tombe sur les nerfs.,NEGATIVE,0.927715003490448
+19,Pas nécessairement.,NEGATIVE,0.9039064645767212
+19,Pour un cookie...,NEGATIVE,0.938230574131012
+19,"Mais normalement lui, il arrête ça là.",NEGATIVE,0.9554669260978699
+19,"Parce que ce qui se passe, c'est que c'est le site qui produit le fichier.",NEGATIVE,0.9470692276954651
+19,"Bien, pourquoi le ministre... Donc, une fois que le... que vous avez fermé le site, c'est un fichier texte banal.",NEGATIVE,0.967019259929657
+19,"Bien, banal...",NEGATIVE,0.9914467334747314
+19,C'est fini.,NEGATIVE,0.9958292841911316
+19,Ce n'est pas quelque chose qui est...,NEGATIVE,0.9362267851829529
+19,Pas pour nous.,NEGATIVE,0.9984669089317322
+19,"C'est pour ça que normalement, une fois que le fichier est déposé puis que la navigation est terminée, il ne se passe rien, là.",NEGATIVE,0.9316034317016602
+19,"Donc, il n'y a pas de... il n'y a pas un enjeu.",NEGATIVE,0.9205170273780823
+19,"Non, impossible.",NEGATIVE,0.9869165420532227
+19,Les TI sont incapables.,NEGATIVE,0.9757468700408936
+19,"Il est là, là.",POSITIVE,0.9581223130226135
+19,"Je suis très, très à l'aise avec ça, M. le Président.",POSITIVE,0.9289783835411072
+19,"Personne n'a été capable à date, incluant les… Ah!",NEGATIVE,0.9199512600898743
+19,"Oui, bien, avec plaisir.",POSITIVE,0.9702222943305969
+19,"Alors… ...c'était pour vous distraire que j'ai fait ça, là, parce que je sais que c'est long pour vous des fois, là.",NEGATIVE,0.9164353013038635
+19,Mauvais exemple.,NEGATIVE,0.9989566802978516
+19,Quels genres de sites ne recommandez-vous pas?,NEGATIVE,0.955187976360321
+19,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+19,"… Non, pas du tout.",NEGATIVE,0.997795820236206
+19,"Je n'ai pas expérimenté, voyons donc.",NEGATIVE,0.9430626034736633
+19,Bien non.,NEGATIVE,0.9813978672027588
+19,"Sur une note plus sérieuse, pardon, c'est… ça sera un amendement trop gros à faire, mais je suis curieux quand même de savoir.",NEGATIVE,0.9325267672538757
+19,"Ça serait difficile, là, de faire une nomenclature exhaustive.",NEGATIVE,0.9197515845298767
+19,Ça devient un peu embêtant.,NEGATIVE,0.9620412588119507
+19,"Puis, dans le fond, un cookie banal, pour reprendre l'expression du député de La Pinière, ça reste un fichier.",NEGATIVE,0.9887667298316956
+19,"Parfait, oui.",POSITIVE,0.9738094806671143
+19,"Oui, non, mais... que je relise tous les articles, 90.1, 90.2, 90.3, na, na, na.",NEGATIVE,0.9483366012573242
+19,Il était long.,NEGATIVE,0.9812058210372925
+19,Il était long.,NEGATIVE,0.9812058210372925
+19,"Non, non.",NEGATIVE,0.9974422454833984
+19,"Non, non.",NEGATIVE,0.9974422454833984
+19,"Non, non.",NEGATIVE,0.9974422454833984
+19,Je suis là.,POSITIVE,0.9637784361839294
+19,"Il n'est évidemment pas question que les SAP deviennent une punition, puis encore moins que ça mette en péril l'entreprise, l'idée n'est pas là.",NEGATIVE,0.9589654803276062
+19,On serait rendu où?,NEGATIVE,0.9897994995117188
+19,"Oui, mais là...",NEGATIVE,0.9453589916229248
+19,"Non, ils n'ont pas été...",NEGATIVE,0.9428487420082092
+19,"Donc... Parce que là c'est intéressant parce que les collègues, ici, autour de la table, on est législateurs, et ce que l'on va dire dans le micro va lier nos chefs, alors, dans l'interprétation.",POSITIVE,0.9382944703102112
+19,"Finalement, on n'en a pas trouvé un ou une.",NEGATIVE,0.9461731314659119
+19,"Après 18 mois, on fait juste le reconduire.",NEGATIVE,0.9540667533874512
+19,"Non, non, il faut qu'ils aient trouvé.",NEGATIVE,0.9022389054298401
+19,"Mais, même là, là, on serait rendu... Ça serait un échec collectif, là, après un an et demi, là.",NEGATIVE,0.9976862668991089
+19,Autre chose.,NEGATIVE,0.9647751450538635
+19,"Non, non, non!",NEGATIVE,0.9940641522407532
+19,Tout à fait.,POSITIVE,0.9654862284660339
+19,J'en ai entendu juste une.,NEGATIVE,0.9633873701095581
+19,"Non, non.",NEGATIVE,0.9974422454833984
+19,"Donc, non.",NEGATIVE,0.9962363839149475
+19,Tout à fait.,POSITIVE,0.9654862284660339
+19,J'ai pris cette excellente habitude.,POSITIVE,0.9871606826782227
+19,"Puis, des fois, on zappe, ça va vite, là.",NEGATIVE,0.9597650766372681
+19,"On a fait quoi, avec 96?",NEGATIVE,0.9763523936271667
+19,Ça... Excusez-moi.,NEGATIVE,0.959868311882019
+19,"Juste peut-être un petit correctif, parce qu'il y a...",NEGATIVE,0.9765796065330505
+19,Qui n'a pas été présenté.,NEGATIVE,0.9315820932388306
+19,Qui n'a pas été présenté.,NEGATIVE,0.9315820932388306
+19,C'est beau.,POSITIVE,0.9617891907691956
+19,Mais tout ça concerne les partis politiques.,NEGATIVE,0.925682783126831
+19,C'est correct.,NEGATIVE,0.9439950585365295

@@ -1,0 +1,218 @@
+Jour,Phrase,Position,Score
+6,Je pense qu'on était rendus là.,NEGATIVE,0.9251939058303833
+6,"Il me semble que j'avais à peine eu le temps, même, de poser la question, puis la séance s'était interrompue.",NEGATIVE,0.9298884272575378
+6,"C'est le plexiglas, le son ne se rend pas.",NEGATIVE,0.9605273604393005
+6,"Ça a parti raide, un peu.",NEGATIVE,0.9568191766738892
+6,"J'ai dit... Non, mais ceci étant, elle est excellente.",POSITIVE,0.9392731189727783
+6,"Je suis d'accord, elle est excellente.",POSITIVE,0.9217996001243591
+6,Elle est excellente.,POSITIVE,0.9899786710739136
+6,"C'est une excellente question, M. le député.",POSITIVE,0.940096914768219
+6,"Les évaluations qui ont été faites, si ma mémoire est bonne, seraient de 11 000 $ environ pour la mise en place de tout ça dans une organisation.",NEGATIVE,0.9308732748031616
+6,Mais là c'est pour ça que je suis un peu...,NEGATIVE,0.9384511113166809
+6,J'y vais sur la pointe... Ça me semble peu.,NEGATIVE,0.9554396271705627
+6,"Ça me semble peu, 11 000 $, pour...",NEGATIVE,0.9075645208358765
+6,"11 000 $, j'en prends deux.",NEGATIVE,0.9341187477111816
+6,"Il faudrait trouver une voie de passage, quelque chose pour qu'ils y jettent un oeil, sans que ce soit...",NEGATIVE,0.9815399050712585
+6,Puis j'avais même... Excusez- moi.,NEGATIVE,0.9655723571777344
+6,Pour faire quoi?,NEGATIVE,0.9864214658737183
+6,Pour en arriver à quoi?,NEGATIVE,0.9932308197021484
+6,"L'idée d'une évaluation des facteurs relatifs à la vie privée, c'est de voir, dans les processus, dans la façon de faire, dans ce qui est planifié, dans ce qui est prévu, dans ce que sont les résultats attendus d'un système, quels sont les facteurs qui pourraient représenter un risque ou une faille pour la vie privée.",POSITIVE,0.9337835311889648
+6,"Alors, on parle de millions de dollars pour un exercice qui ne va pas produire d'effet positif.",NEGATIVE,0.998665452003479
+6,"Parce que les futurs systèmes, c'est des questions pour lesquelles on doit trouver ces réponses-là, et non pas par la pratique du terrain, mais il faut que ces évaluations se fassent justement avant qu'on les déploie.",POSITIVE,0.9400861859321594
+6,"Donc, on va engager des ressources matérielles, financières et humaines à faire quelque chose qui n'a pas d'utilité.",NEGATIVE,0.9977758526802063
+6,C'est correct.,NEGATIVE,0.9439950585365295
+6,Je retombe dans l'article 8 et 8.1.,NEGATIVE,0.9860873818397522
+6,Elle le constitue puis elle n'y siège pas.,NEGATIVE,0.9447354078292847
+6,Ça fait qu'on va suspendre quelques instants.,NEGATIVE,0.9498932361602783
+6,"Bien, il y a la carte, mais il y a l'application.",NEGATIVE,0.9032830595970154
+6,"Moi, je ne l'utilise jamais.",NEGATIVE,0.9977935552597046
+6,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+6,"Oui, je l'active, ou non, je ne veux pas l'activer, je vais me passer du service.",NEGATIVE,0.9253117442131042
+6,"Moi non plus, je ne bois pas de vin.",NEGATIVE,0.9232742786407471
+6,Bon bonhomme.,POSITIVE,0.9620782136917114
+6,"C'est quoi, le terme?",NEGATIVE,0.9649196267127991
+6,"Mais on va voir ça ailleurs, ceci étant.",NEGATIVE,0.9254394769668579
+6,On va voir ça ailleurs.,NEGATIVE,0.9445765614509583
+6,"Là, je ne les ai pas tous par coeur en tête.",NEGATIVE,0.9178897142410278
+6,"C'est quoi, un cookie?",NEGATIVE,0.9046258330345154
+6,"Dans le fond, on pourrait... Francisé, c'est-tu un mouchard?",NEGATIVE,0.9348734021186829
+6,"Donc, ça, ça veut dire que ça... ce que j'ai fait pendant le deux minutes, trois minutes sur le site, c'est enregistré.",NEGATIVE,0.9592752456665039
+6,"Non, non.",NEGATIVE,0.9974422454833984
+6,C'est vraiment comme votre...,NEGATIVE,0.9097837209701538
+6,"Puis, quand vous y retournez, il s'en rappelle, c'est sa mémoire.",POSITIVE,0.9057720899581909
+6,"Ce que vous pouvez faire très simplement, c'est... vous les supprimez.",NEGATIVE,0.9013862013816833
+6,Je ne vois pas d'amendement en ce sens-là.,NEGATIVE,0.9760145545005798
+6,"L'article 18, écoutez, on aura des explications rendu à l'article 18, mais à ma connaissance on a déposé...",NEGATIVE,0.9661623239517212
+6,"Puis je suis désolé, j'ai lu la mauvaise version de l'article, j'ai vendu le punch, j'ai lu l'amendement que je voulais déposer à l'article plutôt que l'article.",NEGATIVE,0.9280500411987305
+6,"Voilà, c'est ça, c'était déjà le cas pour le privé.",NEGATIVE,0.9081753492355347
+6,On fait juste mettre...,NEGATIVE,0.9513890147209167
+6,Je pensais que vous me donneriez la parole juste à la fin.,NEGATIVE,0.9038571715354919
+6,"Allez-y, allez-y.",POSITIVE,0.9329802393913269
+6,Pourquoi ce... parce que préjudice sérieux égale communiquer.,NEGATIVE,0.9651950597763062
+6,"Moi, je télécharge, sur un site, une information par erreur.",NEGATIVE,0.9405084252357483
+6,Puis le collègue vous dit : Aïe!,NEGATIVE,0.9100926518440247
+6,ce n'était pas la bonne adresse.,NEGATIVE,0.9425432085990906
+6,"O.K., excuse.",NEGATIVE,0.936421275138855
+6,"O.K., c'est correct, là.",NEGATIVE,0.9092008471488953
+6,"C'est une erreur bébête, mais sans plus.",NEGATIVE,0.9868887662887573
+6,"Je vais attendre juste un préjudice sérieux, là, tu sais, 1 000 $, 10 000 $, non, non.",NEGATIVE,0.9709060788154602
+6,"Le «sérieux», je le déplacerais.",NEGATIVE,0.9783397912979126
+6,"Il est arrivé ça, parfait, on en prend bonne note, bon citoyen.",POSITIVE,0.9003713726997375
+6,"Mais, s'il n'y a pas de risque sérieux qu'il y ait un préjudice, oublie ça.",NEGATIVE,0.9900132417678833
+6,J'en ajoute une autre.,NEGATIVE,0.9613921642303467
+6,"Puisque l'article 63.7, à sa fin, là, ajoute une exception, en disant qu'il y ait préjudice ou préjudice sérieux, il y a une exception à la responsabilité de divulguer l'incident, et cette exception-là, c'est «tant que cela serait susceptible d'entraver une enquête faite par une personne ou par un organisme qui, en vertu de la loi, est chargé de prévenir, détecter ou réprimer le crime ou les infractions aux lois.» Malheureusement, les enquêtes pour fuites de données, ça peut être très long.",NEGATIVE,0.9369730353355408
+6,"Pas toujours, tu sais, des fois, c'est banal, mais ça peut bouleverser une vie, le fait d'être victime d'une fuite de données.",POSITIVE,0.9210561513900757
+6,"Oui, mais je ne la partage pas.",NEGATIVE,0.9463282227516174
+6,"Donc, non, ça ne m'inquiète pas parce que je pense que cette disposition-là de la loi, ce pouvoir-là de la Commission d'accès à l'information, qui doit être avisée avec diligence... donc ça, c'est des mots qui sont très forts, et donc qui a ce pouvoir-là d'audit, qui a ce pouvoir-là de faire les enquêtes en question, donc à qui on ne pourra pas cacher le fait qu'on se traîne les pieds, si tant est que cette situation-là prévaut, elle aura le pouvoir d'ordonner à l'organisme : Non, tu dois faire ça, c'est une obligation légale, et tu le fais, point à la ligne.",POSITIVE,0.942376971244812
+6,"Puis c'est ce qu'on veut éviter, puis je caricature mais pas tant que ça, là.",NEGATIVE,0.9198328852653503
+6,"Le troisième alinéa, qui dit : «Malgré le deuxième alinéa, une personne dont un renseignement personnel est concerné par l'incident n'a pas à être avisée», bla, bla, bla...",NEGATIVE,0.9646093845367432
+6,"Mais on l'a vécu avec un incident que nous avons tous en tête, qui a impliqué à peu près tous les Québécois, là, où la police a fait enquête, mais où la CAI est aussi intervenue, là.",POSITIVE,0.9122110605239868
+6,"La CAI faisait son travail, nonobstant tout ça.",NEGATIVE,0.9401092529296875
+6,"Là, on pourrait mettre du béton armé à ça.",NEGATIVE,0.9611762166023254
+6,On laisse le recours possible.,NEGATIVE,0.9137653708457947
+6,"J'aimerais savoir... parce que, là, j'imagine, la réflexion sur le sérieux... à moins que, sans qu'on suspende...",NEGATIVE,0.907477855682373
+6,"À la fin du deuxième alinéa, dernière phrase : «Dans ce dernier cas, le responsable de la protection des renseignements...» Alors : «Il peut également aviser toute personne ou tout organisme susceptible de diminuer ce risque, en ne lui communiquant que les renseignements personnels nécessaires à cette fin sans le consentement de la personne concernée.» Ça, on comprend ça.",NEGATIVE,0.9221612811088562
+6,Ça aurait pu être chose que...,NEGATIVE,0.9402438998222351
+6,"Parce qu'enregistrer, que ce soit dit, là, justement, ce n'est pas faire... comme quand on écoutait la radio, quand on était jeunes, puis on... Aïe!",NEGATIVE,0.9707602262496948
+6,"bien là, ça entrave, ça entrave, ça entrave, puis toujours des enfarges.",NEGATIVE,0.9319916367530823
+6,"On va juste suspendre, peut-être, une petite minute.",NEGATIVE,0.9581493139266968
+6,"Je suis peut-être optimiste, là, de penser que je vais avoir un avis en une minute, mais bon.",NEGATIVE,0.9797515273094177
+6,"Par contre, je ne peux pas me réconcilier avec l'idée qu'il y a des incidents où il y aura un risque sérieux de préjudice et qu'on ne va pas en informer le citoyen.",NEGATIVE,0.9477195739746094
+6,C'est juste ça avec lequel je ne suis pas capable de me réconcilier.,NEGATIVE,0.9977032542228699
+6,Juste ne pas finir l'article avant que je revienne.,NEGATIVE,0.9570896029472351
+6,"Je pense qu'un renseignement personnel, pour un citoyen, que ce soit... qu'il y ait une fuite auprès d'un organisme public ou qu'il y ait une fuite auprès d'un organisme privé, une entreprise privée, je pense qu'il doit en être informé, le citoyen doit en être informé aujourd'hui.",POSITIVE,0.9575732350349426
+6,"Et j'ai mis la main, durant l'heure et demie qu'on a pour manger, avec un caucus à travers ça, puis sur le coin de la table, un sandwich, puis on va se brosser les dents après, puis on court ici, puis on arrive en retard... j'ai un article écrit par Élise Poisson : , octobre 2006.",NEGATIVE,0.9395663142204285
+6,"Non, non.",NEGATIVE,0.9974422454833984
+6,"Pour ce qui est de nos organismes publics, même chose.",NEGATIVE,0.9762547016143799
+6,"Honnêtement, là, si l'incident présente un risque.... j'enlèverais «sérieux», présente un risque qu'un préjudice soit causé, l'organisme doit, avec diligence, aviser la commission puis doit aviser la personne... qu'un risque soit causé, il doit en aviser la commission et la personne.",NEGATIVE,0.9219912886619568
+6,"Bon, bien, ce n'est pas hautement sensible, ce n'est pas excessivement préjudiciable... le préjudice serait limité.",NEGATIVE,0.9302637577056885
+6,"Non, non.",NEGATIVE,0.9974422454833984
+6,"Merci beaucoup, maître.",POSITIVE,0.9606286287307739
+6,"Oui, merci beaucoup.",POSITIVE,0.925868570804596
+6,"Puis mon point s'exprime peut-être mieux en matière privé-privé, mais c'est copié- collé ici.",NEGATIVE,0.992377519607544
+6,"Mais sérieux, que veut dire sérieux?",NEGATIVE,0.9484534859657288
+6,"Elle doit patcher puis elle doit faire ci, elle doit faire ça, mais l'individu l'autre bout, là, il n'est pas mis dans le coup.",NEGATIVE,0.969782829284668
+6,"Ici, préjudices puis dommages, c'est du un pour un, c'est la même affaire.",NEGATIVE,0.9871496558189392
+6,Et là on vient diminuer le régime de protection du Code civil et l'interprétation que les tribunaux en ont donnée.,NEGATIVE,0.9897552132606506
+6,"En matière contractuelle, c'est 1458 du Code civil et c'est ce que l'exécution que les parties en font, une personne raisonnable, c'est l'étalon de mesure.",POSITIVE,0.9151445031166077
+6,"Ça, c'est la faute qui explique pourquoi l'information a été éventée.",NEGATIVE,0.9775800108909607
+6,"Je veux dire, je me lève le matin puis je suis à risque qu'il arrive de quoi.",NEGATIVE,0.907066285610199
+6,"Donc, l'amendement est rejeté.",NEGATIVE,0.9292745590209961
+6,On couvre tout?,NEGATIVE,0.9715781807899475
+6,"Parce que, là, on est limitatifs.",NEGATIVE,0.9687145948410034
+6,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+6,"Là, je suis sûr à 100 %, là.",POSITIVE,0.9059059023857117
+6,"100 %, là.",POSITIVE,0.9922393560409546
+6,"Là, on est...",NEGATIVE,0.9473581314086914
+6,"C'est quoi, la deuxième étape?",NEGATIVE,0.9676260948181152
+6,Je vais laisser...,NEGATIVE,0.9392927885055542
+6,Je ne pense pas.,NEGATIVE,0.9064205884933472
+6,"tout à fait, tout à fait, tout à fait.",POSITIVE,0.9812185168266296
+6,"Bien, en fait, je vais dire à mon collègue : Je ne pense pas.",NEGATIVE,0.9274682402610779
+6,"Après ça, là, quand il sera le temps de constater les dégâts puis de...",NEGATIVE,0.913025975227356
+6,"Et, quand tout ça est sous contrôle, quand on a contrôlé la situation, qu'on s'est assuré qu'il n'y avait pas ou peu de danger, bien oui, à ce moment-là, quand il sera le temps d'évaluer le risque de ce qui s'est passé, là... parce que c'est...",POSITIVE,0.9215636849403381
+6,"Puis il y a eu une grande discussion, par ailleurs, entre le collègue de LaFontaine et le ministre sur cette question-là, là, tu sais, pour évaluer son niveau de responsabilité puis de redevabilité dans ces situations-là.",POSITIVE,0.9092328548431396
+6,"On pensait que c'était un petit peu plus de clients, puis c'est quoi, quelques semaines plus tard, voire quelques mois plus tard que, finalement, c'était tout le monde, bon.",NEGATIVE,0.9237133860588074
+6,"Prenez les mesures immédiates pour contrer le préjudice, pour s'assurer qu'il y en ait le moins possible, mais tout de suite après, là, on est dans : O.K.",NEGATIVE,0.998267412185669
+6,"Ça peut prendre... Ça peut être long, là.",NEGATIVE,0.9629213809967041
+6,"Pendant ce temps-là, on est encore en train d'éteindre l'incendie.",NEGATIVE,0.9211886525154114
+6,"Cette situation-là, où il y aurait un incident de confidentialité et où la personne... où le responsable de la protection des renseignements personnels ne serait pas impliqué, ça ne peut pas arriver, là.",NEGATIVE,0.9059128165245056
+6,Ça ne peut pas arriver parce que... Pourquoi le ministre... Pourquoi une telle certitude?,NEGATIVE,0.9314321875572205
+6,"Le responsable de la protection des renseignements personnels doit être consulté, mais, pendant ce temps-là, ça ne veut pas dire que j'ai réglé mon problème de rançongiciel.",NEGATIVE,0.9230161309242249
+6,"Donc, je m'excuse de la confusion, mais c'est sûr qu'on... Pendant qu'on répare... Non, non, pas de problème.",NEGATIVE,0.915536642074585
+6,"Je pensais plus à un incident très, très restreint...",NEGATIVE,0.948250949382782
+6,Tout à fait.,POSITIVE,0.9654862284660339
+6,"Ce n'est pas prévu, non.",NEGATIVE,0.9177258610725403
+6,Je ne croirais pas.,NEGATIVE,0.969928503036499
+6,"Qu'ils aient résulté de préjudices ou préjudices sérieux, c'est tous les incidents qui vont être dans le registre?",NEGATIVE,0.9210994839668274
+6,Ce n'est pas nécessaire.,NEGATIVE,0.9872655868530273
+6,"Non, mais on n'est pas à un zéro...",NEGATIVE,0.9426239132881165
+6,Et encore moins à ses juristes.,NEGATIVE,0.9761655926704407
+6,"300, 3 000, c'est un zéro ça, là, là.",NEGATIVE,0.9966974258422852
+6,"Encore une fois, là, ça ne sort pas non plus de mon chapeau.",NEGATIVE,0.998511016368866
+6,"Bon, en effet, ça peut quand même être un exercice qui peut être chronophage, là.",NEGATIVE,0.9382314085960388
+6,"Puis je peux vous dire qu'on a eu quelques discussions avec Me Poitras sur différentes dispositions du projet de loi n° 64, et, à aucun moment, elle n'a manifesté un intérêt qui allait dans ce sens-là.",NEGATIVE,0.9191153049468994
+6,Je ne veux pas...,NEGATIVE,0.9798004031181335
+6,"bien là, ça, c'est une autre histoire.",NEGATIVE,0.9260569214820862
+6,"C'est-à-dire, le consentement, c'est une chose, mais que l'organisme public le recueille, c'est surtout là, l'écueil, là.",NEGATIVE,0.9734054803848267
+6,"«Un organisme public peut toutefois recueillir un renseignement personnel si cela est nécessaire à l'exercice des attributions ou à la mise en oeuvre d'un programme de l'organisme public avec lequel il collabore pour la prestation de services ou pour la réalisation d'une mission commune.» Et là, après ça, on dit, bon, bien : «La collecte visée au deuxième alinéa doit être précédée d'une évaluation des facteurs...» Donc, je ne sais pas, là.",NEGATIVE,0.9195346236228943
+6,"Là, vous me voyez... Ça aurait été un bel argument que j'aurais pu vous servir pour le passé, pour l'évaluation, l'article et...",NEGATIVE,0.9923809170722961
+6,"Mais malheureusement, on avait tout prévu.",NEGATIVE,0.9939489364624023
+6,"Donc, dans les deux ans, si elle n'était pas renouvelée, par fiction, on va dire : Il faut que vous la renouveliez même si c'était prévu, puis là on va...",NEGATIVE,0.9251818656921387
+6,"Alors là, il y a deux choses.",NEGATIVE,0.9653548002243042
+6,"Ça a tout été déposé, ça, M. le Président.",NEGATIVE,0.9267826080322266
+6,"Quelle efficacité, M. le ministre.",POSITIVE,0.929053008556366
+6,Quelle efficacité!,POSITIVE,0.9821620583534241
+6,On faisait de ça hier.,NEGATIVE,0.9640174508094788
+6,"Puis c'est ce que la loi dit, là, de collecter ces informations-là et d'avoir cette capacité-là qui est individualisée à chaque organisme.",POSITIVE,0.9083318114280701
+6,Puis vous avez un plan pour...,NEGATIVE,0.9103713035583496
+6,"Absolument, que je vais vous déposer dans les prochains jours.",POSITIVE,0.9405066967010498
+6,Je brûle de vous le communiquer.,POSITIVE,0.931894838809967
+6,"Oui, oui, absolument.",POSITIVE,0.9784038066864014
+6,"Ça, c'est rendu au privé, je pense.",NEGATIVE,0.9278562068939209
+6,"Puis, dans le contexte à jour, dans le contexte de ce qu'on va ajouter... parce que c'est intéressant, ce qu'on fait là, on fait des liens, 113, puis je veux dire, on travaille, là, même si on dit : Aïe!",POSITIVE,0.9264196157455444
+6,On n'est pas sur l'article.,NEGATIVE,0.9544522166252136
+6,"J'ai une liste de 35 000 courriels puis j'ai 28 000 retours qui sont «undelivered», ça ne va pas bien.",NEGATIVE,0.9903908967971802
+6,Ça ne va pas bien.,NEGATIVE,0.9833784103393555
+6,De qui c'est fait.,NEGATIVE,0.936439573764801
+6,"Non, je ne l'utilise pas.",NEGATIVE,0.9904170036315918
+6,"Témoignage... Pas crédible, le témoin.",NEGATIVE,0.9909372925758362
+6,Pas nécessairement.,NEGATIVE,0.9039064645767212
+6,"Je ne veux dire en bloc, là, parce que je n'aime pas l'expression, mais il ne faut pas non plus...",NEGATIVE,0.9447565674781799
+6,Comment je dirais ça?,NEGATIVE,0.9479891657829285
+6,C'est rarement une bonne nouvelle.,NEGATIVE,0.9156951308250427
+6,"Non, non, c'était... «de la durée de conservation de ces renseignements», je me demande, est-ce que ça, ça tient la route?",NEGATIVE,0.9788409471511841
+6,"Donc, ce fichier-là n'a plus d'utilité, je dois le supprimer.",NEGATIVE,0.9832747578620911
+6,Tout à fait.,POSITIVE,0.9654862284660339
+6,Je ne peux pas établir un cycle de vie précis pour cette information-là.,NEGATIVE,0.9427168965339661
+6,"Puis je le cherchais, je m'excuse, c'est parce que je scrollais puis...",NEGATIVE,0.9191664457321167
+6,"Dans le fond, dans les six premiers paragraphes, ça, c'est... on est obligé de donner lors de la collecte et aussi sur demande.",NEGATIVE,0.9084305763244629
+6,Tout à fait.,POSITIVE,0.9654862284660339
+6,"J'essaie juste de suivre la cascade des références, là.",NEGATIVE,0.9400690197944641
+6,"Puis c'est quoi, l'impact?",NEGATIVE,0.9149685502052307
+6,"Là, l'article vient plutôt dire qu'il faut informer des moyens pour les désactiver.",NEGATIVE,0.9482376575469971
+6,En quoi...,NEGATIVE,0.9439371228218079
+6,"Oui, oui, oui.",POSITIVE,0.9149108529090881
+6,Tout à fait.,POSITIVE,0.9654862284660339
+6,"Et donc pourquoi, dans ce cas-là, ça ne vaut pas le principe de confidentialité par défaut?",NEGATIVE,0.904907763004303
+6,"Là, je suis... «En plus des informations devant»... relisez l'article, vous allez voir.",NEGATIVE,0.9396711587905884
+6,"Là, on est dans une collecte qui pourrait se faire à votre insu.",NEGATIVE,0.9056512117385864
+6,"Mais le concept de confidentialité par défaut, c'est le contraire.",NEGATIVE,0.9395771622657776
+6,"Non, mais je ne dis pas...",NEGATIVE,0.9516040086746216
+6,"La seule chose que moi, je voulais faire, ce n'était pas de dire : C'est une mauvaise idée, ne faisons pas ça.",NEGATIVE,0.9353983998298645
+6,"Il faudrait se donner le défi d'en trouver un autre pour notre prochaine séance de commission, mais... parce qu'on pourrait créer des imbroglios.",NEGATIVE,0.9244129061698914
+6,"à quoi, là?",NEGATIVE,0.9952801465988159
+6,"Parfait, c'est un pas dans la bonne direction.",POSITIVE,0.9916123151779175
+6,"Alors, «des moyens offerts pour activer», on pourrait peut-être terminer notre cheminement en enlevant «le cas échéant».",NEGATIVE,0.9231175184249878
+6,"Puis là, si l'application ne le permet pas, bien, on fait quoi?",NEGATIVE,0.9575358629226685
+6,"Quelle surveillance va être faite pour que de bonne foi, tout le monde est présumé de bonne foi, ça soit technologiquement possible de demander pour activer les fonctions mais que l'organisme dit : Ah!",NEGATIVE,0.9304380416870117
+6,"Non, mais sérieusement, parce que, «le cas échéant, de l'activer», ça, ça veut dire que moi, comme organisme, là, c'est désactivé.",NEGATIVE,0.9078933596611023
+6,"Donc, mon intérêt de recueillir cette information-là par un moyen technologique, je ne l'ai pas, à moins que vous alliez l'activer.",NEGATIVE,0.9910565614700317
+6,"Non, non, non, je comprends.",NEGATIVE,0.976233184337616
+6,C'est parce que l'application ne peut pas...,NEGATIVE,0.9672672748565674
+6,Il n'y a pas...,NEGATIVE,0.9517214298248291
+6,Ce paramètre-là n'existe pas.,NEGATIVE,0.9273949265480042
+6,Et pas à l'utilisation.,NEGATIVE,0.9768643975257874
+6,"Donc, pour des fins autres que pour servir le citoyen qui nous a donné, on veut utiliser ça pour faire des... tester des affaires puis atteindre d'autres objectifs que de servir le citoyen.",NEGATIVE,0.920814573764801
+6,"Non, non, non, parce que moi, je vous ai informé de ça, là.",NEGATIVE,0.9699244499206543
+6,"Bien, vous me posez trois, quatre questions avant, là : O.K., tu vas faire quoi avec ça, là?",NEGATIVE,0.952356219291687
+6,"Là, ça va être en temps réel, si vous cochez «activer», puis ça va être extraordinaire, mais il y a des enjeux, évidemment, de vie privée là-dedans aussi, là.",POSITIVE,0.9261506795883179
+6,"Ça pourrait même être du profilage, pas pantoute pour dire : Aïe!",NEGATIVE,0.9316269755363464
+6,"C'est que, dans le fond, tout le reste, oui, on peut, mais, tu sais, c'est...",NEGATIVE,0.9735928177833557
+6,on n'interviendra...,NEGATIVE,0.9868385195732117
+6,"Je ne sais pas qu'est-ce que tu vas faire avec ça, là, ça fait que je ne l'active pas.",NEGATIVE,0.9706115126609802
+6,"L'impact de ça, M. le député, c'est une médiocre qualité de service à nos concitoyens, médiocre, et le mot... je pèse mes mots.",NEGATIVE,0.997977077960968
+6,"L'impact de ça, c'est une offre de services anémique.",NEGATIVE,0.9902375340461731
+6,"Pourquoi je suis obligé de... Pourquoi, moi, je suis obligé de jouer à l'intermédiaire entre deux entités du ministère de l'Éducation pour fournir une information au ministère de l'Éducation qui est produite par le ministère de l'Éducation?",NEGATIVE,0.9039453268051147
+6,"C'est d'une inefficacité honteuse, honteuse.",NEGATIVE,0.9991629123687744
+6,"On pollue l'existence de nos concitoyens, alors qu'on a juré de les servir.",NEGATIVE,0.9234199523925781
+6,"Or, les organismes publics en question vont vous dire : M. le député, je voudrais bien faire ce que vous me demandez, je n'ai pas le droit.",NEGATIVE,0.9269521236419678
+6,"Est-ce qu'il ne serait pas temps d'aborder la loi dans une perspective où nous avons une obligation, oui, de protéger les renseignements personnels qui nous sont confiés, clairement, mais où nous avons aussi une obligation de donner des services à la population, de faciliter la vie de nos concitoyens, de rendre le service aussi convivial, et disponible, et simple à utiliser que possible, et jamais le contraire?",POSITIVE,0.9732964038848877
+6,"Ça, c'est son rôle et elle le joue très bien, à mon avis.",POSITIVE,0.9732498526573181
+6,"Maintenant, pour aller plus précisément à la question du collègue, ce que j'en pense, je ne suis pas d'accord.",NEGATIVE,0.9140952229499817
+6,"Donc, avoir une vision rigide, une vision en tunnel parce que ce sont des renseignements sensibles, c'est de dire qu'il ne peut pas y avoir une utilisation... Bien non, là, je vais trop loin.",NEGATIVE,0.9706152081489563
+6,"Bien, j'apprécie le plaidoyer du ministre, c'est juste que ce n'est pas l'objet ni de l'article ni de l'amendement que je dépose, c'est-à-dire que la...",NEGATIVE,0.9686763286590576
+6,"120, c'est moins.",NEGATIVE,0.9587875604629517
+6,"120, c'est moins.",NEGATIVE,0.9587875604629517
+6,C'est beau.,POSITIVE,0.9617891907691956
+6,"Compte tenu de l'heure, la commission ajourne ses travaux sine die.",NEGATIVE,0.9061170816421509
